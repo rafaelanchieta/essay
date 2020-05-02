@@ -19,6 +19,37 @@ def get_content_page(url: str) -> bytes:
     return requests.get(url.strip()).content
 
 
+def get_xml_files(directory: str):
+    logger.info('Extracting essays !!!')
+    dirs = os.listdir(directory)
+    for d in tqdm(dirs):
+        xmls = os.listdir(directory+d+'/')
+        for xml in xmls:
+            if xml == 'xml':
+                files = os.listdir(directory+d+'/'+xml+'/')
+                for file in files:
+                    if not file.startswith('.') and not file.endswith('.conll'):
+                        extract_essays(directory+d+'/'+xml+'/'+file)
+
+
+def extract_essays(xml_file: str):
+    wrong_regex = r'<wrong>(.+)</wrong>'
+    with open(xml_file, 'r') as f:
+        soup = BeautifulSoup(f.read(), 'xml')
+        with open('uol_educaocao_1/'+xml_file.split('/')[3].split('.')[0]+'.txt', 'w') as out:
+            score = soup.find('finalgrade').text
+            out.write('# score: ' + score + '\n')
+            title = soup.find('title').text
+            out.write(title + '\n')
+            body = soup.find('body')
+            for essay in body.contents:
+                match_wrong = re.match(wrong_regex, str(essay).strip())
+                if match_wrong:
+                    out.write(match_wrong.group(1))
+                elif not str(essay).strip().startswith('<correct>') and str(essay) != '\n':
+                    out.write(str(essay).strip())
+
+
 def extract_essays_from_educao_uol(directory: str):
     logger.info('Extracting essays from educacao uol')
     files = os.listdir(directory)
@@ -153,4 +184,5 @@ if __name__ == '__main__':
     # extract_essays_from_vestibular_uol('vestibular_uol_links/')
     # check_consistency('vestibular_uol_links/', 'vestibular_uol/')
     # create_files('vestibular_uol/')
-    pre_processing('vestibular_uol_old_1/')
+    # pre_processing('vestibular_uol_old_1/')
+    get_xml_files('data/')
