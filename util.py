@@ -22,21 +22,28 @@ def get_content_page(url: str) -> bytes:
 def get_xml_files(directory: str):
     logger.info('Extracting essays !!!')
     dirs = os.listdir(directory)
+    cont = 1
     for d in tqdm(dirs):
-        xmls = os.listdir(directory+d+'/')
-        for xml in xmls:
-            if xml == 'xml':
-                files = os.listdir(directory+d+'/'+xml+'/')
-                for file in files:
-                    if not file.startswith('.') and not file.endswith('.conll'):
-                        extract_essays(directory+d+'/'+xml+'/'+file)
+        if os.path.isdir(os.path.join(directory, d)):
+            sub = os.path.join(directory, d)
+            xmls = os.listdir(sub)
+            for xml in xmls:
+                if xml == 'xml':
+                    sub1 = os.path.join(sub, xml)
+                    files = os.listdir(sub1)
+                    for file in files:
+                        if not file.startswith('.') and not file.endswith('.conll'):
+                            extract_essays(os.path.join(sub1, file), cont)
+                            cont += 1
+                            # extract_essays(directory+d+'/'+xml+'/'+file)
 
 
-def extract_essays(xml_file: str):
+def extract_essays(xml_file: str, cont: int):
     wrong_regex = r'<wrong>(.+)</wrong>'
     with open(xml_file, 'r') as f:
         soup = BeautifulSoup(f.read(), 'xml')
-        with open('uol_educaocao_1/'+xml_file.split('/')[3].split('.')[0]+'.txt', 'w') as out:
+        file = xml_file.split('/')[3].split('.')[0]
+        with open('uol_educaocao_1/' + str(cont) + '-' + file + '.txt', 'w') as out:
             score = soup.find('finalgrade').text
             out.write('# score: ' + score + '\n')
             title = soup.find('title').text
