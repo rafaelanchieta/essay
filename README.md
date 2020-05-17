@@ -10,4 +10,4 @@ These essays were graded by humans professionals following the criteria of the E
 ## Usage
 
 - To get your started, we provide interactive Jupyter notebooks in the `demo` folder, or directly in this 
-[link](https://github.com/rafaelanchieta/essay-br/tree/master/reader_corpus.ipynb). 
+[link](https://github.com/rafaelanchieta/essay/blob/master/demo/reader_corpus.ipynb). 
