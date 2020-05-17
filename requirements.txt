@@ -1,6 +1,4 @@
-tqdm
-beautifulsoup4
-requests
 pandas
 nltk
 numpy
+scikit-learn

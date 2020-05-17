@@ -3,47 +3,49 @@ import os
 import re
 import pandas as pd
 
+import numpy as np
+
 
 class Essay:
     """
-    Read and normalize the Essay-BR corpus
+    Read and normalize all the essays from the Essay-BR corpus
     """
 
     def __init__(self):
-        self.root = 'essay-br'
-        self.essay = self._get_essay()
-
-    def get_scores(self) -> pd:
-        return self.essay['score']
+        self.root = 'essay-br/all_essays/'
 
     def get_essay(self) -> pd:
-        return self.essay
+        return self._get_essay()
 
     def _get_essay(self) -> pd:
         """
         Read files of the corpus and return a DataFrame
-        :return: DataFrame with score, title, and essay itself
+        :return: DataFrame with prompt, score, title, essay itself, and competencies
 
         Example:
             >>> self.get_essay()
-                score   title               essay
-            0   500     title of the essay  content of the essay
+                prompt      score   title   essay           competence
+            0   violency    440     title   [paragraphs]    [80, 200, 120, 40]
             .   .       .                   .
         """
         essays = []
+
         for file in os.listdir(self.root):
             with open(os.path.join(self.root, file)) as f:
                 content = {}
-                aux = []
-                for i, line in enumerate(f):
-                    if line.startswith('# score'):
-                        score = line.split(':')[1].strip()
-                        content['score'] = normalize_score(format_score(score))
-                    elif i == 1:
-                        content['title'] = re.sub(r'\[(.+)\]', '', line.strip())
-                    else:
-                        aux.append(line.strip())
-                content['essay'] = ''.join(aux)
+                paragraph, competencies = [], []
+                for line in f.readlines():
+                    if line.startswith('# prompt'):
+                        content['prompt'] = line.split(':')[1].strip()
+                    elif line.startswith('# title'):
+                        content['title'] = re.sub(r'\[(.+)\]', '', line.split(':')[1].strip())
+                    elif line.startswith('# C'):
+                        competencies.append(normalize_score(format_score(line.split(':')[1].strip())))
+                    elif not line.startswith('#'):
+                        paragraph.append(line.strip())
+                content['essay'] = paragraph
+                content['competence'] = competencies
+                content['score'] = int(np.sum(competencies))
                 essays.append(content)
         return pd.DataFrame(essays)
 
@@ -64,14 +66,19 @@ def normalize_score(score: int) -> int:
         >>> normalize_score(70)
         100
     """
+    scores = [0, 40, 80, 120, 160, 200]
     value = score % 100
-    if value != 50 and value != 0:
-        if 40 <= value <= 60 or 20 <= value < 40:
-            score = score + 50 - value
-        elif value > 60:
-            score = score + (100 - value)
-        elif value < 20:
+    if score not in scores:
+        if score < 20:
             score = score - value
+        elif 20 <= score < 50:
+            score = score + 40 - value
+        elif 50 <= score < 100:
+            score = score + 80 - value
+        elif 100 <= score < 150:
+            score = score + 20 - value
+        elif 150 <= score < 200:
+            score = score + 60 - value
     return score
 
 
@@ -95,4 +102,5 @@ def format_score(score: str) -> int:
 
 
 if __name__ == '__main__':
-    print(Essay().get_essay())
+    e = Essay()
+    print(e.get_essay())
