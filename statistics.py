@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from nltk import tokenize
 
-from buil_dataset import Corpus
+from build_dataset import Corpus
 from essay import Essay
 
 
@@ -80,7 +80,7 @@ class Statistic:
 if __name__ == '__main__':
     essay = Essay().get_essay()
     train, dev, test = Corpus().read_corpus()
-    statistic = Statistic(train)
+    statistic = Statistic(test)
     # print(statistic.statistics_score())
     # statistic.competence_score()
-    # statistic.statistics_essays()
+    print(statistic.statistics_essays())
