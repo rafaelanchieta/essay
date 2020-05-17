@@ -2,3 +2,5 @@ pandas
 nltk
 numpy
 scikit-learn
+seaborn
+matplotlib

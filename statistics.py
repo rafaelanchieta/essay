@@ -2,6 +2,8 @@ from collections import Counter
 
 import numpy as np
 import pandas as pd
+import seaborn as sns
+from matplotlib import pyplot as plt
 from nltk import tokenize
 
 from build_dataset import Corpus
@@ -76,11 +78,26 @@ class Statistic:
         """
         return self.essay['score'].value_counts(sort=False)
 
+    def plot_score(self, top: int):
+        """
+        Plot the top X scores of the corpus
+        :param top: number of scores to be ploted
+        :return:
+        """
+        total_scores = self.essay['score'].value_counts()
+        top_scores = total_scores[:top, ]
+        plot = sns.barplot(top_scores.index, top_scores.values)
+        for p in plot.patches:
+            plot.annotate(format(p.get_height(), '.2f'), (p.get_x() + p.get_width() / 2., p.get_height()), ha='center',
+                          va='center', xytext=(0, 10), textcoords='offset points')
+        plt.show()
+
 
 if __name__ == '__main__':
     essay = Essay().get_essay()
     train, dev, test = Corpus().read_corpus()
-    statistic = Statistic(test)
+    statistic = Statistic(train)
     # print(statistic.statistics_score())
     # statistic.competence_score()
-    print(statistic.statistics_essays())
+    # print(statistic.statistics_essays())
+    statistic.plot_score()
