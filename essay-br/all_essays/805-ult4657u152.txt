@@ -1,0 +1,11 @@
+# prompt: leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro
+# score: 6,0
+# title: A segurança para a vida
+O código de trânsito no Brasil não é devidamente respeitado. Basta fazer uma viagem para ver várias imprudências nas estradas, e ver ainda, estradas esburacadas que não permitem uma segurança para o motorista e seus passageiros. O problema é ainda maior quando a estrada está em perfeitas condições, os motoristas não respeitam a sinalização e querem correr cada vez mais, fazendo ultrapassagens perigosas e colocando em risco a vida de todos que passam naquela estrada. Em feriados o número de acidentes cresce alarmante,pois, a combinação estrada e bebida nunca podem dar certo. Campanhas para alertar a população já foram feitas e até hoje não obtiveram grandes resultados, o número de acidentes é cada vez maior. Uma solução seria um maior rigor nas leis de trânsito, e o aumento nas multas, porque quando dói no bolso o brasileiro tenta mudar. Algumas medidas já foram tomadas, como a proibição da venda de bebidas alcoólicas nas estradas federais para evitar que os motoristas viagem embriagados, já que uma latinha de cerveja pode mudar suas percepções e seus reflexos. Esse ato agora é considerado um crime.
+          O excesso de velocidade é tão perigoso quanto à bebida, é importante que os motoristas respeitem as placas que sinalizam a velocidade permitida para aquele trecho da estrada. Não adianta desrespeitar as leis de trânsito agora e sofrer um acidente na próxima curva.Mas as pessoas acham bonito correr, sentir a adrenalina, disputar rachas, mas não gostam quando ficam meses em um hospital para tratamento ou ficam paraplégicos devido a acidentes.
+            O rigor nas leis é a solução para a população de um país que se acostumou a dar sempre um "jeitinho" em tudo. A população deve tomar consciência da gravidade desse problema que pode acontecer com qualquer um, pois você pode dirigir prudentemente e ser atingido por um carro com uma pessoa alcoolizada no volante. Tem que haver uma cooperação de todos para que a segurança prevaleça.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

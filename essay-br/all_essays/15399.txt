@@ -1,0 +1,11 @@
+# prompt: Gravidez precoce: um problema?
+# score: 220
+# tittle: A ADOLESCÊNCIA E A GRAVIDEZ.
+Gravidez precoce, um problema? Na maioria das vezes a resposta é sim.  A gravidez caminha lado a lado na adolescência, não por falta de informações, que nos   rodeia no século XXI  e sim por falta de prevenção, e de certa forma, diga-se de passagem, falta de preocupação. 
+Os riscos de um sexo sem prevenção,  vão além de uma gravidez indesejada, estão expostos à inúmeras doenças sexualmente transmissíveis . A gravidez precoce têm  tem sido vista com mais frequência . Oferecendo riscos para a própria saúde, lembramos   quê; na grande maioria das vezes o corpo ainda não está bem estruturado para receber outro ser, podendo acarretar os riscos de hipertensão e até a pré diabetes. 
+Quanto mais nós, jovens, nos manifestarmos, passarmos informações e abrindo os olhos dos colegas ao lado, teremos jovens preparados. Para quem sabe, um dia, estruturado e formado, possa gerar outra vida.
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 0

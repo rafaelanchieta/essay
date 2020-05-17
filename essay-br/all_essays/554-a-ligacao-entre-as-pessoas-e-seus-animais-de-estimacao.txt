@@ -1,0 +1,12 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 6,0
+# title: A ligação entre as pessoas e seus animais de estimação
+Nos últimos anos, a ligação entre pessoas e seus animais de estimação está se tornando cada vez mais desequilibrada. Há pessoas que tratam seus animais como membros da família, com todos os cuidadosnecessários que um animal precisa, porém algumas exageram. Pintam os pelos e as unhas de seus bichos, constroem quarto só para eles, fazendo com que os bichos venham a serdependentede seus donos edesenvolverproblemas de comportamento, como fobias, agressividade e timidez.
+          Os animais não precisam de luxo, sapatos, roupas, joias e quartodecorado,[decorado;] eles precisam de amor, carinho, afeto, água e comida. Há pessoas que maltratam seus animais jogando no rio, na rua e até mesmo espancando.
+            Vimos o caso da enfermeira que matou um cão da raça yorkshire na frente da filha de apenas três anos. Esperamos que a justiça possa resolver esse caso com seriedade e dar a elapenamerecida.
+              Devemos estar cientes ao comprar ou adotar um animal de estimaçãotemosque tratá-los da melhor forma possível, pois são seres vivos como nós e merecem todo respeito, porém nada de exageros e atitudes fúteis.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

@@ -1,0 +1,12 @@
+# prompt: Artes e educação física
+# score: 5,0
+# title: Elas fazem a diferença
+ A retirada das matérias de educação física e artes como obrigatória  no ensino médio, como proposto pelo governo vêm  causando debates na sociedade. Será se esse acontecimento causaria um problema na educação brasileira?
+ A formação de um cidadão se dá por meio de experiências durante a aprendizagem. A educação física e a  artes exemplifica  bem esta essa situação. Essa  por meio da socialização,  saber lidar com a vitoria  e a derrota, a ser persistente, entre outros fatores. Esta por meio da incentivação a  imaginação, um olhar mais complexo e crítico do mundo em sua volta.
+ Também é importante ressaltar que o esporte ajuda a manter uma vida saudável, ajudando a prevenir doenças como obesidade, diabetes e problemas cardíacos, etc. Um problema que atinge grande parte da população brasileira atualmente. o  estudo da artes libera uma maior inspiração para criar pensamentos, o que ajuda o estudante se tornar mais inteligente em diversas matérias.
+ Fica claro que as disciplinas de educação física e artes ainda devem continuar obrigatórias pois são essenciais na formação do aluno. A conscientização da família sobre os benefícios que elas podem trazer são de extrema relevância, porque estariam  ajudando a apoiar essas disciplinas.
+# C1: 1,0
+# C3: 1,0
+# C5: 1,0
+# C7: 1,0
+# C9: 1,0

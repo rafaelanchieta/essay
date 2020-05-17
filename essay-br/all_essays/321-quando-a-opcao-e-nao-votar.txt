@@ -1,0 +1,11 @@
+# prompt: o-voto-nulo-e-um-ato-politico-valido
+# score: 8,5
+# title: Quando a opção é não votar
+Ao adotar a urna eletrônica como instrumento eleitoral na década de 90, o governo brasileiro disponibilizou a opção do voto nulo, entendendo que esta seria também uma forma legítima de participação política. Contudo, ainda se discute se o voto nulo representa mesmo uma forma de participação na democracia. Votar nulo significa, na prática, abster-se do direito de escolher um representante político em uma eleição. Sendo assim, muitos defendem que esse não é um ato político válido, uma vez que isso significaria deixar que os demais escolhessem um candidato; por outro lado, há quem diga que não escolher um candidato constitui uma forma legítima e até decorosa de protesto, em contraste com o que acontece nas manifestações no Brasil.Estassão as principais ideias colocadas em debate acerca do voto nulo, mas existe ainda uma terceira ideia não muito discutida, porém válida.
+         Durante a campanha eleitoral é possível que o cidadão não encontre um candidato que possarepresenta-lodignamente (principalmente se a eleição determinará a ocupação de apenas um cargo), tendo que se submeter à prática de escolher o “menos pior”. Apesar de parecer uma situação bastante incomum (principalmente no Brasil, onde se fala de pluralidade política), deve-se considerar que a maioria dos partidos brasileiros – senão todos – pertencem a espectros políticos semelhantes, sendo estes situados entre a esquerda e o centro.
+         Sob essa ótica , o voto nulo é uma forma de o cidadão declarar que não há candidato apto a representá-lo na esfera de administração pública, constituindo assim, um ato político válido.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,0

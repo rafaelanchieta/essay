@@ -1,0 +1,14 @@
+# prompt: A influência dos meios de comunicação na sociedade brasileira
+# score: 370
+# tittle: sociedade e imprensa
+Os veiculos de comunicação fazem parte do cotidiano dos brasileiros, no qual, o qual são essenciais para conduzir informação de qualidade, além disso, transmitir os fatos importantes que acontecem no país. Em 1939, no governo de Getúlio Vargas, foi criado o dip  , no qual que,  foi responsável por veicular as principais notícias e aproximar o governo do povo. Porém, serviu como meio de influência politica, a fim de conquistar mais simpatizantes na ditadura varguista. Atualmente, com a democracia, é perceptível a liberdade em vários meios de comunicação em trazer a informação real e desfazer bolhas ideológicas, no qual a sociedade está inserida. 
+
+Em primeira instância , vale ressaltar,  a importância dos meios de comunicação na sociedade em combater as fakes news , onde  vem ganhando destaque, principalmente nas redes sociais, onde há o maior número de mensagens compartilhadas, a fim de conseguir chegar a mais cidadãos. Segundo dados do laboratório de cibersegurança da empresa psafe, cerca de 4,4 milhões de casos de notícias falsas sendo compartilhadas, nas eleições de 2018 . É notório que,  essas esssas mensagens são difundidas por questões ideológicas, ou por situações sociais, onde envolvem problemas de saúde pública. A imprensa é de extrema importância para desmentir essas informações errôneas. 
+Ademais, convém lembrar que,  todos os meios têm o direito da à liberdade de expressão garantido na Constituição, no qual, presente no artigo 5, onde nenhuma lei possa contér a liberdade jornalística em nenhum veiculo de comunicação social, assim libertando de uma censura. são importantes para mover a população ao senso crítico, tomando por si, suas impressões e sua posição ideologica. 
+
+Contúdo Contudo, os meios de comunicação são essenciais para transmitir uma notícia excepcional a todos, para garantir esse direito e combater as notícias falsas,  é nescessário que,  o ministério da ciencia ,tecnologia, inovações e comunicações , juntamente com os principais meios de comunicação brasileiro, criar ações em fóruns, instituições sociais e propagandas televisivas, sobre os maleficios das noticias falsas, a fim de proteger e garantir o bem estar social. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

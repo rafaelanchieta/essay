@@ -1,0 +1,11 @@
+# prompt: Gravidez precoce: um problema?
+# score: 270
+# tittle: Gravidez na adolescência
+A taxa de fertilidade entre jovens continua crescendo a cada ano ,sempre afetando principalmente aqueles com a falta de acesso a informação e aos mais vulneráveis. Mais da metade dessa população em seu ensino médio,  possui uma vida sexualmente ativa,o que entra em outra questão,a educação sexual nas escolas . Visto que,  esse assunto se tornou um tabu na sociedade, as mídias sociais vêm trazendo novas formas de conscientização, já que esse tema tem sido pouco discutido entre pais e os jovens. 
+A série "Sex education"  da Netflix, aborda todos esses fatores , principalmente a gravidez precoce.A personagem "Maeve" encara essa realidade de forma transparente,obtendo como caminho o aborto. 
+É necessário, além das mídias, a ampliação de recursos para os mais escassos de informação,como palestras,depoimentos e a inclusão da matéria '  educação sexual',  como parte da grade escolar.  
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 50

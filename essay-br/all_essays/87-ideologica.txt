@@ -1,0 +1,15 @@
+# prompt: racismo-como-virar-de-vez-essa-triste-pagina-da-historia
+# score: 5,0
+# title: Herança ideológica
+Em uma situação hipotética, colocamos uma vara ao meio de dois extremos, onde o lado esquerdo representa pessoas com pelebranca, e nolado direito, pessoas com a pele negra. Na história, a proposta democrática que engloba direitos iguais érecente, edurante séculos,
+         a vara era voltada para a cor branca .Com isso, como algo curvado tanto tempo pode ficar
+         ao meio sem pender para o lado esquerdo? A escravidão do afrodescendente envolve muitos fatores como lucro, a comodidade , a crença de que o negro não é um ser humano, pois tinham culturas distintas, e durante muito tempo, o abuso físico, e psicológico e comum. Quando houve a abolição da escravidão no Brasil, os locais de trabalho dos negros foram ocupados por estrangeiros, como italianos. Uma alternativa do Estado para o branqueamento dapopulação, eum pesar para os afrodescendentes, que agora eram livres, mas sem emprego, moradia, estudo, etc.
+         Hoje continua essa situação de branqueamento : em ações policiais, nos quesitos para emprego queexigeboa aparência,
+         ao similar cor da pele á criminalidade , ou atémesmo, emcampos de futebol, como ocorreu recentementeondetorcedor
+         adversário do Brasil lançou uma banana paraojogador, chamando-o indiretamente de macaco.
+         Nesse sentido, o preconceito atual é herdado e ensinado desde criança que há uma cor e isso faz diferença. No entanto, se colocarmos direitos diferenciados para o negro como o sistema de cotas para universidades, por exemplo, é uma alternativa de endireitar essa vara. Deixar dessa forma durante algum tempo talvez iguale a curvatura. Só assim, ela realmente ficará ao meio , e perderá a herança ideológica .
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

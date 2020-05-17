@@ -1,0 +1,13 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 8,5
+# title: A palavra chave [palavra-chave] é respeito
+Na sociedade atual é comum o convívio com animais domesticáveis. Gatos e cachorros são os mais presentes nos lares, sendo, portanto, osmaioressujeitos à ação dos seres humanos, ou melhor, de seus donos.
+        Essas ações podem ser violentas, ameaçando a vidadestesbichos de estimação. Foi o que aconteceu recentemente com um filhote de cachorro da raça yorkshire. A dona, uma enfermeira do estado de Goiás, espancou o animal até queo mesmo viesse a falecer. Toda a cena foi acompanhadapela filhade apenas três anos,daenfermeira.Estecaso teve grande repercussão na mídia e nas redes sociais, demonstrando que um ato de crueldade contra um animal é altamenterepreendidonas sociedades humanas.
+          Por outro lado, existem aqueles que tratam seus companheiros de quatro patas como parte da família, chegando a exagerar em alguns aspectos, como no caso da italiana que deixou uma fortuna para seu gato. Tal atitude não é compatível com os padrões de bom sensoempiricamente existentenas pessoas, uma vez que
+            um gato, por ser um animal irracional, não teriaoporquêteruma conta bancária milionária,apenasuma casa e uma boa família.
+            Por tudo isso, conclui-se que primeiramente deve haver respeito do limite que determina o convívio entre homem e animal. Dessa forma, atrocidades como o espancamento de um filhote de cachorro até a morte, com a justificativa de estresse emocional causada pelomesmo,não seráviável. Assim como a não humanização do bicho de estimação é imprescindível para um relacionamento saudáveldo mesmocom seu dono.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,0
+# C3: 2,0
+# C4: 2,0

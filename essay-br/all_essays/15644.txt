@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 650
+# tittle: A ciência e suas evidências genéticas
+Na contemporaneidade, em razão das grandes mudanças no ambiente, tem-se observado a alta incidência de doenças reemergentes no mundo . Nesse contexto a ciência é de grande importância  tendo em vista os fatores genéticos dos vírus  causadores de doenças e medidas de prevenção e proteção existentes, como a vacinação. 
+ A priori, podemos  destacar o papel da ciência nos estudos que investigam mudanças genéticas nos vírus que desencadeiam processos de mutação  tornando-os mais resistentes ou aumentando  seu processo de virulência . Ainda no ano de 2015 a ciência já alertava, por meio de publicação em revistas científicas, mudanças no vírus da Síndrome Respiratória Aguda Grave Associado ao coronavírus . Tais evidências demonstram que a ciências pode combater uma pandemia antes mesmo do surgimento de uma crise epidêmica , bastando-se  portanto, o devido investimento e valorização das pesquisas nesse eixo para a prevenção dessas doenças. 
+ Além disso, a ciência,também por meio de investigações genéticas, contribui para a produção de vacinas, as quais são medidas de prevenção e proteção eficazes em combater doenças provocadas por vírus. Por meio dessas,  os indivíduos produzem o que se chama de resistência imunológica que aumenta a velocidade de resposta à infecção mediante à produção de anticorpos, diminuindo , assim, a capacidade de virulência e as taxas de infecção e mortalidade do agravo. No entanto, esse é um processo que demanda tempo, com testes minuciosos e equipamentos adequados, sendo uma estratégia de longo prazo. 
+Em vista do apresentado, revela-se a importância da ciência no combate às pandemias, sendo ela a responsável em proporcionar proteção eficiente à sociedade frente ao coronavírus.  Diante disso, cabe ao poder público, por meio de incentivos financeiros às Fundações de Amparo à Pesquisa , garantir o pleno desenvolvimento e valorização da ciência, uma vez que a ciência se faz com a sociedade e para sociedade.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: [Redação sem título]
+“O importante não é viver, mas viver bem”. Segundo Platão, a qualidade de vida tem tamanha importância  de modo que ultrapassa a da própria existência . Entretanto, no Brasil, essa não é uma realidade para milhões de famílias que vivem em condições de pobreza. Com isso, ao invés de agir para tentar aproximar a realidade descrita por Platão da vivenciada por estes indivíduos, a desigualdade social causada pela falta de terras cultiváveis e pela falta de empregos acabam contribuindo com a situação atual.
+
+Primeiramente, é preciso olhar para as inúmeras famílias espalhadas pelo Brasil que dependem do trabalho rural para prover seu sustento ou complementar sua renda . Famílias que não têm acesso a terras ou a terras produtivas , nem a direitos básicos como educação e saúde de qualidade. Muitas dependem de programas de complementação de renda  como o Bolsa Família  e mesmo assim não conseguem romper o ciclo de pobreza, pois não têm condições materiais de fazê-lo. Não conseguem competir com a produção agrícola das indústrias. Além disso, problemas como secas assolam diversas regiões do país, como vários estados do Nordeste. 
+Ademais, nos espaços urbanos também ocorrem mecanismos de perpetuação da pobreza, uma vez que os empregos são escassos e, muitas vezes, em condições de precariedade. Famílias saem do interior para as cidades em busca de renda e não encontram sustento, o que as empurra para a informalidade e a mendicância . Para as famílias pobres,  o acesso à educação também é deficiente, gerando uma mão de obra pouco qualificada e com possibilidades restritas. Portanto, fica evidente que a fome não é uma questão de falta de produção de comida, mas de problemas graves e estruturais de acesso a alimentos saudáveis. 
+
+Diante disso, Mandela  nos  alerta que "lutar contra a pobreza não é um assunto de caridade, mas de justiça". Para combater a fome no Brasil,  é preciso de políticas públicas que promovam a geração de renda nas famílias. Isso pode ser atingido realizando a reforma agrária, redistribuindo terras e priorizando a agricultura familiar. Além disso, isenções fiscais podem ser criadas para microempreendedores e para fomentar indústrias em áreas estratégicas. Só assim os indivíduos não apenas viverão, mas viverão bem. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

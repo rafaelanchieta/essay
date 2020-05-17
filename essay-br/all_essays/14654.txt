@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: A situção caótica dos presídios
+Parafraseando o artigo 5º da Declaração Universal dos Direitos do Homem Humanos, a tortura e desumanidade são intoleráveis, portanto, atingem a integridade física e mental do indivíduo. Entretanto, no que tange as condições do sistema carcerário no Brasil, percebe-se não somente a violação aos Direitos Humanos, como também as constantes rivalidades entre facções criminosas  devido a busca por "autoridade" nos presídios ou pelo comando no tráfico, que acarretam muitas vezes em massacres. Logo, é relevante analisar as causas e consequências desse problema. 
+
+Primeiramente, cabe pontuar que,  a superlotação das celas, a falta de projetos educacionais e as punições brandas são algumas das causas que geram o cenário caótico das unidades prisionais do país. Isso ocorre porque o próprio Estado torna-se ineficaz ao internalizar métodos para combater o crime organizado, muito menos melhorar as condições insalubres ao qual  as quais os presos são submetidos  tais como alimentação e higiene. Sendo assim, além da negligência, há também a falta de rigorosidade na legislação brasileira, uma vez que a justiça diminui a sentença ou concede liberdade provisória, mostrando a ineficiência na aplicação das punições, deixando a sociedade cada vez mais indignada e ameaçada. 
+Além disso, o investimento em cursos profissionalizantes à para presidiários podem ajudar não somente na qualificação do indivíduo, como também no processo de reintegração social, pois teriam uma nova chance para seguir uma vida digna e honesta, sem voltar para a marginalidade, mas,  existem questões burocráticas que dificultam para essas mudanças  como por exemplo,  o envio de verbas para promover os projetos. Dessa forma, deve-se-à compreender que todos podem mudar e ser bons cidadãos, desde que cumpram as condutas corretas. 
+
+Portanto, o artigo 5º mencionado inicialmente,  mostra que não é através da intolerância que o Brasil ganhará progressos, e sim,  estabelecendo pequenas atitudes que corroboram para diminuir a violência dentro dos presídios. O Estado precisa buscar soluções cabíveis, tanto para reforçar a segurança nas cadeias, quanto na educação profissional, através de palestras feitas por psicólogos e reforço nas leis, evitando impunidades. Somente assim,  será notável e  ao mesmo tempo, teremos  o respeito e dignidade de todos. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

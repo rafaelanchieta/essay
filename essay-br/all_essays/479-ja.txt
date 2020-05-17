@@ -1,0 +1,10 @@
+# prompt: a-sociedade-esta-perdendo-a-batalha-contra-o-crime
+# score: 3,5
+# title: Mudança já
+Atualmente, a sociedade brasileiraestá sofrente em meio aoalto nível deviolência, denorte a sul do país, são registrados aumentos na taxa dehomicídios, ondeSão Paulo assume o primeiro lugar entre as cidade mais violentas do país. Tudo se deveásações articuladas da facção criminosa PCC, que é responsável por 70% da violência no estado. Taís ações envolvem sequestros, assaltos e atualmente sucessivos ataques contra policiaismilitares, onde noventa e oitovidas já foram perdidas.
+         Entretanto, o governo se mobiliza paraporfimnessaonda deviolência, ondea sociedade érefém do medo.A repreensão das autoridadestende aser maisenergética, ondeseconcentraránas causas e não nas consequênciasque a criminalidade traz.Além do confronto direto do governo contra o crime, também se deve focar nas bases essenciais da vida humana como: educação e apoioácultura. Essa será uma forma sociológica que atinge o cerne da criminalidade.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,0
+# C3: 1,0
+# C4: 1,0

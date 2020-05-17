@@ -1,0 +1,17 @@
+# prompt: toque-de-recolher-protege-juventude-e-sociedade
+# score: 5.0
+# title: Uma medida questionável
+Viver em democracia é também oferecer às pessoas oportunidade de elas entenderem o peso dos seus atos. Baseado nesteconceito foi implantado em diversos municípios brasileiros o toque de recolher menores. Porém,
+        estamedida está
+        contemporâneamente, passível adiversas análises e questionamentos.Fernandinópolis, primeiro município paulista a adotar essa lei, apregoa com louvor a redução dos crimes após tal medida preventiva. Só para se ter uma ideiaentre 2005 e 2008 o registro de delitos cometidos caiu 29% e as reclamações no conselho tutelar reduziram consideravelmente.
+          Mas é importante ressaltar que pouco resolverá várias estipulações e regimentos de horários, leis, idade;sendoque grande parte dos direitos estabelecidos à sociedade são muitas das vezes condicionados como educação, saúde e outros. E talvez,o problema crítico da violência, não precisamentese resolva por criações de leise sim pela melhoria das condições sociais.
+            O fato de um adolescente estar na rua anoite não significa queele, esteja, necessariamente, sob risco ou que vá infringir a lei,ou seja, para que a liberdade de alguém seja privada, é preciso que haja uma infração
+              e istoocasiona uma certa revolta em algumas pessoas, que consequentemente se
+              sentem como cobaiasde uma lei adversa que origina uma preconceito inconstitucional.
+              Assim, considerando tais aspectos, não é difícil compreender queo toque de recolher, nãoseria a cura,
+                maisum bom remédio para a diminuição da violência juvenil.
+# C0: 1.0
+# C1: 1.0
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

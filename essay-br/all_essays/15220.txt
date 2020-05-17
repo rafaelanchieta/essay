@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 450
+# tittle: [Redação sem título]
+Promulgada pela ONU  em 1948, a Declaração Universal dos Direitos Humanos garante a todos os indivíduos o direito a educação, saúde, lazer e o bem-estar social. Conquanto, a falta de democratização do acesso ao cinema no Brasil  impossibilita que parte dessa população desfrute desse preceito na prática. Nessa perspectiva, esses desafios  devem ser superados para que uma sociedade integrada seja alcançada. 
+
+Em primeira análise, a educação é o principal fator de desenvolvimento de um país. Hodiernamente , ocupando a nona posição na economia mundial  seja racional acreditar que o Brasil possui um sistema público de ensino eficiente . Contudo, a realidade é justamente o oposto e o resultado desse contraste é, claramente, refletido no baixo índice de pessoas privilegiadas com o acesso ao cinema, relatado na última pesquisa realizada pelo portal de notícias "R7"  que evidência evidencia o Brasil em 60º posição entre os países na relação de habitantes por sala. 
+Em segunda análise, a falta de atenção governamental e do Ministério da Educação dada a esses entraves como impulsionadora desse problema . Ademais, de acordo com Zygmunt Bauman, a falta de solidez nas relações sociais, políticas e econômicas é característica da "Modernidade líquida" vivida no século XXI. Diante de tal contexto, é impossível ter progresso e mudança enquanto existir políticas ineficazes. 
+
+Infere-se, portanto,  que ainda há entraves para garantir a solidificação de políticas que visem a construção de um mundo melhor . Dessa forma, é essencial a atuação do Ministério da Educação para promover a proteção desse público mais afetado por meio de informativos, mídias e propagandas sobre a implicação que isso pode causar em suas vidas, para garantir a democratização do acesso ao cinema no país. A partir dessas ações, espera-se promover uma melhora das condições educacionais e assegurar os direitos básicos e o seu bem-estar social proposto pela ONU. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

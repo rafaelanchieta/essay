@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 550
+# tittle: A ciência aliada com a Saúde
+Uma boa saúde é essencial para a qualidade de vida das pessoas. Com o avanço da ciência também se aumentou o tempo de vida da população, reflexo da aliança entre a ciência e a saúde. 
+Com o avanço da tecnologia,  novas ferramentas surgiriam  para auxiliar em diversas áreas, inclusive na saúde. Assim também como novas doenças surgiram, desafiando   o mesmo . Com isso, governos vem  vêm desenvolvendo métodos para combater esses males que atormentam as pessoas. 
+Com isso, a ciência se torna fundamental para encarar esse problema. Várias Universidades no mundo todo, por exemplo, vem desenvolvendo pesquisas para combater os vírus, contribuindo  para a conservação da saúde das pessoas. Recentemente, pesquisadores da USP  em parceria com a Universidade de Oxford sequenciaram o genoma da covid-19 em 48h, fundamental para achar a cura da doença. 
+Fica claro e perceptível que a ciência  é fundamental para ajudar na conservação da saúde das pessoas,  Com isso, é possível concluir que é necessário os investimentos para a manutenção  dessa ferramenta que se tornou tão importante. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 50

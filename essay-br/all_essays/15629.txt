@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 700
+# tittle: A ciência é importante no combate das epidemias?
+A partir da Revolução Técno-Científico-Informacional passou a existir novas tecnologias , como instrumentos de pesquisa que proporcionaram o avanço científico. Dessa maneira, novos métodos foram implantados, como o sequenciamento de vírus, a fim de desenvolver vacinas para ajudar a população. De certo que, agora, está ocorrendo uma pandemia chamada coronavírus, entretanto, com a evolução da ciência na contemporaneidade há um maior preparo em lidar com essa situação .
+ Em primeiro lugar, a ciência é necessária, pois faz análises, pesquisas e traz uma solução, a partir de experimentos, por exemplo, na Segunda Guerra Mundial, onde   Hitler, o líder nazista, fez diversas experimentações com Judeus acabou descobrindo muito sobre a humanidade , como a temperatura corporal. Além disso, há o período renascentista que também ocorre revelações sobre a raça humana, porque, nesse momento, houve muita pesquisa sobre órgãos humanos e outras partes internas. Em suma, a ciência revela muito sobre os Homos Sapiens  e graças a isto puderam combater muitas pandemias em tempos passados. 
+É importante ressaltar que a raça humana já enfrentou diversas pandemias, como peste negra, varíola, gripe suína, entre outras. Dessa forma, com o COVID-19, o mundo está mais preparado, como prova disso temos  o sequenciamento do vírus  em apenas 48 horas ocorrido no Brasil. De fato, com a evolução científica temos  muitos meios de combater essa doença, através de medicamentos, como o coquetel para HIV  usado em Wuhan  que conseguiu “curar” alguns idosos, no entanto é necessário que a população faça sua parte se higienizando , possuindo  contato reduzido com pessoas, entre outros modos.
+Em síntese, a ciência é sim importante para combater pandemias como o coronavírus. Sem dúvida, cabe ao Ministério da Saúde investir na medicina , pois o Brasil apenas importa medicamentos , já que não é possível fazê-lo no país por falta de infraestrutura , assim, com o investimento conseguirá exportar melhorando  sua economia e ajudando  o povo. Ademais, a população deve conscientizar-se fazendo  a sua parte, a fim de não aumentar a contaminação.
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 100

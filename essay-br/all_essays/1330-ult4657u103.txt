@@ -1,0 +1,12 @@
+# prompt: por-que-as-pessoas-mentem-pela-internet
+# score: 4,0
+# title: Personalidade na Internet
+O séculos XXI está sendo o século do amor via internet, amor sem contato físico, será que esse amor se finda ao desconectar a internet?. As pessoas mentem sobre si mesmas, através de sites de relacionamento, até roubam identidades.
+        Estamosem pleno séculos XXI, as pessoas estão se relacionando mais pela internetdo que pessoalmente. Através de sites de relacionamento, se conhecem, trocam informações de suas vidas, e posteriormente começam a namorar pela internet, dizem se apaixonar, trocam juras de amor, fidelidade é o que prometem uns aos outros. Éum relacionamento sem contato físico, visualmente um namoro as "escuras". Alguns se encontram pessoalmente, masa maioria apenas se comunicampela internet. Seja esse amor verdadeiro ou não, é a realidade do século, se ele acaba ao desconectar da internet, isso depende da personalidade de cada um.
+          As pessoas ao preencherem seus perfis em sites de relacionamento mentem, criam um perfil totalmente diferente da realidade. Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas. Criam novas personalidades para impressionarem seus contatos virtuais,pois quem age dessa forma, implica em interpretarmos que esta pessoa não está satisfeita com sua aparência física. Também a casos em que usam fotos, e perfis falsos, para se passarem por famosos.
+            O relacionamento virtual está presente em nossas vidas, eacabamos ficando dependenteda internet. Devemos ter uma vida mais ativa, ou seja, uma vida que possamos ter um maior contato pessoalmente, e amarmos de verdade, e termos assim um relacionamento com calor humano. Não devemos mentir em nossos perfis, somos o que somos, a soma da mistura de raças, cada um tem sua beleza natural e ela será valorizada por uma outra pessoa. A mentira não nos leva a nada. É a verdadeira personalidade que nos faz crescer perante uma sociedade justa e digna de respeito.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

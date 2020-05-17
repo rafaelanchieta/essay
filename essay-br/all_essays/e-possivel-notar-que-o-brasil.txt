@@ -1,0 +1,12 @@
+# prompt: Patrimônio histórico e cultural brasileiro: um caso de descaso
+# score: 100
+# title: É possível notar que o Brasil
+É possível notar que o Brasil é um país com uma pluralidade cultural  destaque no cenário internacional. Entretanto, os habitantes nativos não dão o devido valor a tudo o que foi construído ao longo do desenvolvimento do país, e  que hoje é considerado patrimônio histórico  cultural brasileiro.
+No ano de 2018, um fato que impactou o Brasil foi o incêndio no museu histórico na cidade de  Rio de Janeiro, grande  parte da história do país desde o período colonial, objetos e acervos foram destruídos pelas chamas. Mas, é válido destacar que  mesmo com esse caos o patrimônio deve ficar marcado na memória da população pois é isso que enriquece a identidade desse país de riquezas.
+Outro ponto de grande relevância e que deve ser lembrado são as igrejas de Minas Gerais, igrejas com vários séculos de construção  mas que embelezam as cidades históricas como Ouro Preto, e  que possuem artes esculpidas ou pintadas por artistas destaques em movimentos literários como Aleijadinho no Barroco e outros.
+Portanto, a fim de valorizarmos ainda mais o patrimônio histórico, devemos denunciar qualquer caso de vandalismo contra a riqueza do país. E as três esferas do poder devem unir-se afim  de proteger todas as edificações com grande reconhecimento internacional. 
+# C0: 50
+# C1: 50
+# C2: 0
+# C3: 0
+# C4: 0

@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: FOME, REFLEXO DA CONCENTRAÇÃO DE RENDA
+A fome não é novidade em nosso  país, na verdade ela sempre aqui se fez presente, sendo reflexo da desigualdade ocasionada pela concentração de renda  ,  que permanece desde a colonização do país, impedindo os descendentes dos mais pobres de progredir. 
+
+Em um lugar que antes ás as pessoas eram presas com correntes, hoje seus sucessores são presos por algo que não os prende a perna mas os impede de caminhar , a corrente da atualidade é a desigualdade,  que faz crianças morrerem de fome, sem acesso ao mínimo. 
+Dados do relatório de segurança alimentar e nutrição da ONU  de 2018 mostra que no Brasil 5,2 milhões de pessoas passam fome, em contra partida contrapartida, segundo o IBGE  os 10% mais ricos concentram 43,1 % de toda a renda nacional, é notória a causa da miséria e a concentração de renda. 
+
+Diante dos fatos é preciso de uma reforma tribuaria tributária que garanta impostos sobre grandes heranças e maiores contribuições dos mais ricos nas demais tributações, dessa maneira o Governo federal arrecadará mais dinheiro para investir em políticas públicas de combate a escassez, revertendo pouco a pouco a realidade brasileira. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

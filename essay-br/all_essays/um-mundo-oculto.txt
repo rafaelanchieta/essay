@@ -1,0 +1,13 @@
+# prompt: Criptomoeda: tecnologia e revolução econômica
+# score: 440
+# title: Um mundo oculto
+Nosso mundo hoje está muito tecnológico, mas há muitas falhas, dados de pessoais podem ser vasculhados por especialista da tecnologia do mundo do crime, até dinheiro no caso das Criptomoedas (moeda universal), que podem causar furtos virtuais, vícios muito grandes e um mundo sem leis.
+Segundo dados da Folha de São Paulo, mais de R$ 6,35 milhões foram furtados por grupos de hackers em 2018, deixando várias empresas e pessoas em crises financeiras, pelo mundo todo, pois a Criptomoeda é uma moeda universal, ou seja, válida no mundo todo.
+Hoje em nosso mundo capitalista, as pessoas ficam em torno do dinheiro, em uma ambição enorme, dependendo do caso o indivíduo comete crimes, deixando crises por onde cometem esse caso de furtos de dinheiro.
+Neste mundo anônimo, muitos crimes são cometidos, mas os criminosos apagam dados, localidade e como fez esse delito sem deixar pistas de quem cometeu esses graves crimes.
+Diante de tais problemas, as possíveis soluções é : fortalecer sistemas de seguranças para evitar essas invasões e o governo investir na investigações destes crimes, contratando mais equipes de especialistas para evitar esses roubos e punições drásticas para quem cometer esses delitos.
+# C0: 80
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 120

@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: Problema evidente
+Analfabetismo funcional hoje no Brasil é um problema comum, pois afeta o aluno e a educação por falta de conhecimentos, interesse e desenvolvimentos de atividades. 
+Certamente,  o índice de analfabetismo vem aumentado cada vez mais em todo o país, pois envolvi  envolve a capacidade de ler e escrever, mas não a de interpretar . As principais causas inclui  inclue a falta de motivações e também o acompanhamento dos pais em relação as crianças e jovens nos estudos, falta de estrutura das escolas, laboratórios e bibliotecas atualizadas   e profissionais formados nas áreas correspondentes na educação  e também novas disciplinas  tais como dança e teatro. 
+Além disso, a falta de transportes devido as unidades escolares ser  serem de em difícil acesso , citando também o avanço tecnológico que afeta o desempenho escolar , pessoas sabem ler mas possui erro ortográfico e o novo método de redes sociais e aplicativos que usam para gravar áudios e vídeos para facilitar a escrita, deixando o habito de ler e escrever de lado. Tendo como consequência oportunidades de empregos, serviços pesados e principalmente o preconceito. 
+Desta forma, a importância de ler jornais, revistas, livros e ter acesso a informações fundamentais de conteúdos mais complexos para treinar a interpretação,   estudar em grupo para colocar em prática diferentes opiniões e técnicas de interpretação textual, atenção, aumento a  frequência da leitura e escrita, interesse do aluno em sala e a construção de mais escolas adequadas para o bom aprendizado dos alunos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

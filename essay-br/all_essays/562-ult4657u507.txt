@@ -1,0 +1,17 @@
+# prompt: toque-de-recolher-protege-juventude-e-sociedade
+# score: 3.0
+# title: Toque de Recolher: Um passo a menor índice de criminalidade.
+Legalizar o toque de recolher significa que nenhum menor de 18 anos poderá freqüentarlugares como bailes, lanchonetesentre outros, após um certo horário.
+        O que vem acontecendo é que muitas pessoas vemaprontando os crimes durante a noite,ondetudo ficamais fácil de não serem descobertos. Eles saem
+          anoiteondeconseguem com maior facilidade drogas, outros traficam, depois voltam para suas casas como se nada estivesse acontecendo,
+          deixandoos pais preocupados. Outros deixam de
+          freqüentara escola por passar a noite inteira em claro.
+          Séculos atrás era bem mais comum os filhos serem mais obedientes aosseus pais, a maioria cumpria o horário estabelecidopelos paisà saírem e voltarempara suas casas. Já na sociedade atual a desobediência aumentou,
+            ohorário estabelecido
+            pra eles estarem chegando à suas casas, eles estão saindo, e muitas vezes para o crime.
+            E com isso vemprejudicando a simesmos. Há que se entender que não se proibiu saire simo horário de voltar.O toque de recolher tem como proteger a sociedade, já que a criminalidade está cada vez aumentando mais.
+# C0: 0.5
+# C1: 0.5
+# C2: 0.5
+# C3: 1.0
+# C4: 0.5

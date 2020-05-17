@@ -1,0 +1,12 @@
+# prompt: a-sociedade-esta-perdendo-a-batalha-contra-o-crime
+# score: 7,0
+# title: População brasileira: reféns do tráfico e do crime
+Podemos analisar que as dimensões que a violência tem tomado são alarmantes para a segurança da sociedade. A população está perdendo a batalha para o crime organizado. Homicídios, tráficos de drogas e armas, assaltos a residência, assaltos à mão armada, entre outras problemáticas anteriormente vistas apenas nas grandes metrópoles, atualmente,tematingido
+         cidades do interior. Ter o domínio de uma certa área ou cidade é uma formadostraficantes e milicianos alimentarem essa violência.
+         Em geral, o principal gerador de violência é o tráfico de drogas. Este acarreta diversos crimes, que vão desde tráfico de armas até pequenos furtos de usuários de drogas que o fazem para obterem recursos para alimentar ovicio.Por outro lado, os esforços da polícia, comUPP’sa exemplo do Rio de Janeiro,temse mostrado eficientes no combate a “pequenos” traficantes e dependentes químicos. No entanto, há ainda traficantes com alto patrimônio que migram para outras regiões menos policiadas. Temos o exemplo também da Baixada Fluminense (perifeira do Rio de Janeiro) que teve um aumento considerável de crimes após a ocupação na capital.
+         Em suma, não há dúvidas que as cidades, principalmente capitais, do Brasil estão ficando mais violentas, com maiornúmerosde crimes. E a melhor forma de evitar isso é com intenso policiamento, combate ao tráfico e rigidez no cumprimento das lei.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

@@ -1,0 +1,12 @@
+# prompt: o-que-e-ser-homem-nos-dias-de-hoje
+# score: 5,5
+# title: O ser humano atual
+Com o decorrer dos anos, muitas coisas aconteceram, mudaram, e entre essas mudanças, a mulher obteve muitas conquistas e também começou a executar um novo papel na sociedade . Porém, isso não aconteceu com os homens. Eles ainda brigam por determinadas questões, carregam o orgulho dentro de si, ou seja, aparentam ter o mesmo comportamento do homem de séculos passados. Não é difícil encontrar notícias sobre brigas em boates, em escolas, praças ou em outro lugar. O instinto animal presente no homem do tempo dascavernas,parece não ter desaparecido com o passar do tempo. Essa característicapresente na maioria deles, permanece com o objetivo de defender suas mulheres,
+          acertar desavenças com alguma pessoa, entre outros fatores. Sendo assim, o número de violência desse gênero só aumenta. Com esse tipo de comportamento, a maior parte doshomens,acham que essa é a melhor atitude a ser tomada diante de um acontecimento que vai contra a sua forma de pensar.
+            Confrontos, brigas por causa de mulheres, territórios ou qualquer outro fator, estão presentes em nosso cotidiano . Ou seja, enquanto as mulheres transformaram-se ao longo da história, os homens continuam os mesmos. Não há uma diferença significativa entre o homem da década de 10 com o homem do século 21 . Além disso, existe o orgulho, um sentimento que a maioria dos homens carregam. Ainda hános dias de hoje, o preconceito relacionadoasensibilidade do homem, como o simples ato de chorar. Muitosveêmesse tipo de coisa com o pensamento de fraquezado mesmo. Muitosdelesquetemesse tipo deatitude,são rejeitados por amigos.
+              Sendo assim, o homem permanece com o seu instinto de brigar com outros por causa de diversos motivos, o que poderia ser resolvido na base de uma conversa. Lógico, não generalizando a idéia deque, são todos os homens que praticaesse tipo de ato, porém, os que não brigam, não são orgulhosos, fazem parte da minoria nos dias atuais.
+# C0: 1,5
+# C1: 1,5
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

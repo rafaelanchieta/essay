@@ -1,0 +1,12 @@
+# prompt: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet
+# score: 3,0
+# title: Vincos torpes: "Bullying"
+No decorrer dos tempos, assistimos a diversas modificações, sejam de cunho tecnológico, científico, econômico. A sociedade modificou-se e, com ela,as formas interpessoais de relacionamento, em especial,a juventude estudantil. Notoriamente caracterizada pela rebeldia, sendo esta responsável atualmente pela crescente de danos psicológicosconhecido ("Bullying")e ganha força aliadaa internet ("CyberBullying").
+        O"Bullying" representauma forma de violência praticada por um ou mais estudantes, a fim de machucar, tiranizar, ou até mesmo roubar outro estudante. Este, ao sofrer passivamente com a agressão,potencializa o desenvolver de doenças psicosomáticas (geralmente mais propenso à depressão).Características típicas nessa faixa etária, associa-sequantoaformação individual .Extraporlar-sequanto ao modo de se impor, evidencia uma tentativa deauto-afirmaçãoperante aos outros , que de certa forma são mais frágeis que os "valentões" e acabam sendo impelidos ao sofrimento. "A escola que afirma não ter"Bullying"ou não sabe o que é ou está negando suaexistência", talfrase proferida por Lauro .M.Monteiro, médico, expressa uma forma de combate a esse problema, pois ao capacitar professores a fim de reconhecer o assunto e contatar psicólogas eficazesao ministrara situação,"Bullying" seria minimizado,além do mais,palestras em escolas poderiam divulgar e esclarecer dúvidas pertinentes
+              à doença . Diante aos fatos mencionados, fica evidente de que o típico comportamento juvenil de agressividade transformou-se ao longo dos anos e tambémintencificou-secom a prática do"Bullying",causando
+                vincos torpes àqueles quesofreram; Faz-se necessárioa disponibilização de professores, psicólogas,em especial, nas escolas para quefocos desse problema sejam inativados.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

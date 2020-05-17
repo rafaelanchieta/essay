@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 320
+# tittle: -
+A partir de conceitos mostrados em relação ao cinema no Brasil e sua democratização, dois fatores são importantes.   O primeiro é a cultura que o mesmo   traz em sua análise histórica; o segundo determina-se pelo acesso ainda restrito a diversos grupos na sociedade. 
+
+Na referência sobre o cinema a partir de sua criação com os Lumière, e a produção de primeiros filmes curtos  a exemplo do almoço do bebê, é visto que na sua aceitação e distribuição foram rentáveis principalmente na Europa com filmes mudos de Chaplin.  Após sua chegada e trajetória no Brasil, durante o regime militar, a atenção se voltou para os filmes de pornô-chanchadas, pois seu orçamento era barato e acessível ao público diverso. 
+
+Em relação ao seu acesso nas mais variadas classes na sociedade, sua democratização ainda não está perto de se resolver,   visto que a cultura cinematográfica é inacessível a muitos, pois a maioria das salas de cinema, principalmente nas regiões norte e nordeste  são mais restritas à shoppings centers, onde  em muitos casos se esbarra com o preconceito invisível de classe social, além dos preços de ingresso serem altos. 
+Ao observar-se sobre o conceito de democratização e seu acesso no país , ainda demonstra falhas, privando determinadas classes a verem filmes  principalmente os de lançamentos, pois ainda demoram a chegar em rede nacional, além de pouco incentivo à filmes nacionais quando são lançados. Precisa-se de uma política de governo que divulgue os filmes, principalmente brasileiros, barateando o ingresso as salas, como também sua divulgação de locais e datas em veículos de comunicação como o rádio, televisão e internet, pois assim garantirá uma democratização a todos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

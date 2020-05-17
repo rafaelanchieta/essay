@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 800
+# title: Ordem e progresso?
+Métodos de ensino militar não são compatíveis com o século XXI, e o  bom desempenho de colégios que seguem essa ideia de organização se deve a pré seleção  de alunos. Isso se evidencia não só pelas exigências do mercado de trabalho como também pelo sucesso em exames de colégios não militarizados.Em tempos de capitalismo informacional, exige-se  funcionários flexíveis, criativos e capazes de encontrar soluções inteligentes para os problemas. A disciplina rígida no aprendizado dificulta a aquisição dessas habilidades na medida em que tem por lema "aprender e não questionar". Assim  como diz a segunda lei da termodinâmica, nem sempre a ordem leva ao progresso, mas sim a harmonia.Vale ainda ressaltar que, comete-se  um erro ao relacionar o alto grau de disciplina com o bom rendimento dos estudantes. Na maioria dos colégios militares o ingresso é realizado mediante um rígido processo seletivo e, portanto, já espera-se que essas instituições obtenham melhor desempenho em provas. Além disso, as escolas técnicas de São paulo  (as etecs ), que também pre selecionam  os alunos, obtiveram desempenho no ENEM 2014 igual ou até mesmo superior aos colégios militares, mesmo sem adotar um modelo de disciplina pesado.Desse modo, é preciso que pais e professores informem-se sobre todas as incógnitas do processo de aprendizagem para que não cometam erros na hora de selecionarem  o modelo de ensino mais compatível com as aptidões dos discentes. 
+# C0: 200
+# C1: 200
+# C2: 150
+# C3: 150
+# C4: 100

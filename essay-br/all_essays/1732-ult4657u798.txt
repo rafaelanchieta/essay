@@ -1,0 +1,11 @@
+# prompt: votar-em-palhaco-e-uma-forma-valida-de-protestar
+# score: 7,5
+# title: Protesto ou descaso?
+Formar uma nação desenvolvida, que ofereça condições de uma vida digna para a populaçãoleva certo tempo, no entanto os anosse passame aspectos que deveriam melhorar só pioram. Criminalidade, desigualdade social, fome, corrupção só aumentam a cada dia, sempre foi assim, e de certo modo o povo se acostumou com isso, perdeu as esperanças e se acomodou.
+        Na questão dapoliticao Brasil realmente está umapalhaçada, édifícil escolher um candidato quese pareçaeficiente, que demonstre conseguir fazer diferença. É um pior que ooutro, atualmente politico e ladrão é considerada a mesma coisa, é claroque existem os honestos que buscam o melhor para seu povo, mas como diferenciar o certo doerrado, mentire enganar qualquer um consegue. Entãoporquenão colocar um palhaço no comando,poismuitos dizem fazer algoserioe só fazempalhaçada.O povo brasileiro é um povo guerreiro, nossos pais eavosconseguiram as eleições diretas, lutaram contra a ditadura militar, conquistaram nossa democracia, para agora nossa atual população não querer lutar para conseguir melhores condições. O grande número de votos conseguidos por alguns personagens hilários demonstra a grande insatisfação do povo com apoliticae com os rumos que o Brasil vai tomar.
+            É fato que nossa nação tem conquistado certas melhorias, mas é um passo adiante e dois, três para trás. A maioria das pessoas gosta de reclamar dos que estão no poder, mas se esquecem de quem os colocou lá. Não adianta apenas reclamar é preciso tomar alguma atitude, mas uma atitude eficiente, e não algo que possa parecer engraçado, mas que traga consequências futuras. É gostoso rir e contar piada, mas certos assuntos precisam e devem ser tratados muito seriamente. Sendo assim se você quer mudar algo, faça alguma coisa, mas faça com competência, não se deixeser alienado, seja decisivo em suas escolhas e coloque muita força de vontade em seus ideais. Para fazer a diferença é preciso primeiro mudar a si mesmo, depois influenciar aqueles ao seu redor, desse modoaos poucos construiremos um mundo melhor para todos.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

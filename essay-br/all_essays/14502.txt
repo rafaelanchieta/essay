@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: Salve o índio
+A máxima do Filósofo Blase Pascal "é justo que o que é justo seja seguido e é necessário que o que é forte seja seguido" tem sido ignorada por nossas  autoridades federais, quando no quinto maior país do mundo, com mais de 7 milhões de quilômetros quadrados, o índio tem perdido seu espaço. Índio é ser humano, índio também é cidadão e  como tal,  tem seus direitos garantidos pela carta magna do Brasil. 
+
+Esse ano de 2019  o índio começou perdendo seu espaço na política quando pelo decreto do então presidente Jair Messias Bolsonaro, pela MP 87  foram transferidas as atribuições da Funai para um conjunto de ministérios do meio ambiente . Fica evidente o descaso com esse grupo social que deveria ter máxima atenção em respeito a sua história e simbologia para o povo Brasileiro . O índio é um pesonagem imortalizado nas obras de tantos escritores brasileiros como  por exemplo  o grande Gonçalves Dias em I-Juca pirama. As páginas do livro revelam justamente um povo guerreiro e corajoso que não desiste de sua luta. 
+
+
+
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 0

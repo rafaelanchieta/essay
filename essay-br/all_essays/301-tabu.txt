@@ -1,0 +1,12 @@
+# prompt: o-supremo-tribunal-federal-fez-bem-em-legalizar-o-aborto-de-anencefalos
+# score: 7,5
+# title: Aborto: tabu
+Ao permitir a livre escolha do aborto de anencéfalos, o Supremo TribunalFederal,gerou, mais uma vez, uma polêmica. Como todaquestão controvérsia, a sociedade se divide dentre as opiniões que variam entre a legalização (que ocorreu) e a proibição, que é defendida vigorosamente por integrantes da
+         CNBB , por exemplo. Colocar vidas em jogo não é tarefa fácil. O STF agiu para que fosse possível uma melhor qualidade de vida, e menor sofrimento para o feto anencéfalo e para a gestante. Num país cuja incidência de anencefalia é a quarta do mundo, decidiu-se algo necessário e contra conceitos e doutrinas empregados há centenas de anos. Algo delicado de se discutir, porém imprescindível. A livre escolha de dar continuidade à gestação cabe agora às famílias, que dentre suas crenças,decidiráo que acreditam ser o melhor para eles.
+         Só que a incerteza é um grande problema. A dúvida se a criança sobreviverá, ou quão limitada ficará; isso torna essa questão ainda mais complicada. Em um pensamento pessimista, "quem não irá morrer"?. Isso só mostra a friezaquealgumas pessoas encaram a vida. Não é possível comparar doenças comuns à ausência de cérebro!
+         É sabido que essa discussão não acabará tão cedo. O que o STF decidiu, inteligentemente, foi a opção do aborto de anencéfalos, para aqueles que o quiserem; e não o aborto de qualquer feto, porque este é um assunto muito mais polêmico. Nada melhor que, como cidadãos,tenhamoso livre-arbítrio.
+# C0: 2,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 2,0

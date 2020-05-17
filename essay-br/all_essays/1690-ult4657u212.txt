@@ -1,0 +1,9 @@
+# prompt: gravidez-fora-de-hora-adolescencia-em-crise
+# score: 2,0
+# title: Gravidez prematura!
+A gravidez na adolescência é apenas mais uma conseqüência. Fala-se sob sexo muito cedo, quiçá por precaução; quando os pais não falam, a mídia televisiva, a sociedade, os sites de relacionamentos, ou seja, sexo é assunto banal para a sociedade moderna. Como se não bastasse todo esse bombardeio áudio visual, trata-se de uma geração prematura.Vai se esperar o quê de uma geração-aglotóxico, sem falar nos "homens-bombas". Não os de lá (mulçumanos extremistas); uma geração que nasceu e cresceu se alimentando com drogas: frangos abatidos aos 25; marrecos com 49, alface 15 dias; bovinos seis meses; e outros alimentos envenenados.Digamos que não sofressem desses males, pensemos no ciclo natural: "crescei e multiplicai-vos". Não faz muito tempo que adolescente pari era normal, não era normal elas parirem sem os famosos patriarcas ao lado. Acredita-se que como conseqüência desta ausência houve um desamparo sócio-familiar e moral. Daí vê-se um aumento desordenado e indiscriminado de infanticídio. O "mãe, tô grávida" é apenas o desfecho dos nossos atos inconseqüentes. Quando ela ocorre, a gravidez prematura, não cabe mais se perguntar onde foi que errei?Mas sim, procurar, de alguma maneira, passar apoio psicológico uma vez que aquela "merda" ou ato impensado não se transforme em tragédia. Apenas apoio psicológico, pois, segundo consta, quem pari uma, pari duas ou três vezes.Cabe a família mostrar que aquela prática prematura - sexo e gestação foi um erro do adolescente e cabe a eles responder por tal. Nada de festas, estudar, amigos e outras atividades; que criem seus filhos. É claro que com a supervisão dos adultos. Salve as exceções,mas pariu, bateu embale.
+# C0: 0,5
+# C1: 0,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

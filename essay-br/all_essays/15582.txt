@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 650
+# tittle: O fortalecimento da educação brasileira
+A reflexão acerca do analfabetismo funcional no Brasil é assunto relevante para ser discutido no cenário atual . Levando-se em consideração esse contexto , algumas observações podem ser realizadas no que tange às medidas a serem tomadas para que ocorra a diminuição no índice do qual reflete a educação no país. 
+ Inicialmente, é importante destacar que os números do analfabetismo brasileiro sofreram uma queda percentual nos últimos anos, conforme dados disponibilizados  pelo portal governamental do Ministério da Educação , todavia é necessária uma redução significativa desses dados . Medidas conjuntas entre governo federal e governos estaduais são de grande valia para aprimoramento desse processo. Cabe destacar que a maior parcela que compõe essa estatística é da população menos abastada, devido a problemas como  por exemplo  a falta de incentivo ao estudo, e, por muitas vezes de o jovem ter que trabalhar para ajudar no sustento de sua família. 
+O problema do analfabetismo ainda persiste no país, pois não é só uma questão de oferta de ensino por parte do Estado, mas também de encontrar formas de a escola atrair os adolescentes, especialmente para o oferecimento de cursos técnicos que venham a prepará-los para o mercado de trabalho , de modo a ampliar as perspectivas profissionais desses jovens . Ademais, providências como oferecimento de dispositivos tecnológicos na aprendizagem, boa alimentação e transporte gratuito no período escolar são medidas que visam a fortalecer a implementação de políticas educacionais ao processo de alfabetização. 
+A partir das observações realizadas, entende-se, então, que o analfabetismo pode vir a ser reduzido gradativamente com a implementação de tais medidas. Por conseguinte, a sociedade justa é aquela que defende a dignidade da pessoa humana e a prosperidade de seus cidadãos para a formação de uma nação desenvolvida. 
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 150
+# C4: 150

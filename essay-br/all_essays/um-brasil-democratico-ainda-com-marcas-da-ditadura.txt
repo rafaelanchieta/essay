@@ -1,0 +1,11 @@
+# prompt: Escola no Brasil: com partido ou sem partido?
+# score: 600
+# title: Um Brasil democrático ainda com marcas da ditadura
+Hoje, mais do que nunca, podemos dizer que o Brasil está dividido. É comum  em todos os países democráticos, eleitores que têm posições divergentes, mas o que se vê no Brasil são grupos com determinada ideologia em "pé de guerra", defendendo o que pensam ser "o melhor para o Brasil". O fracasso de um é comemorado pelo outro. Sair vestido de vermelho é um chamado à guerra e o que salva o verde e amarelo é a nossa bandeira, caso contrário, seria perigoso usar tais cores. Deixamos de valorizar a essência para valorizar a ideologia: se é convergente somos amigos, se divergente, inimigos.
+Isso, claro, chega às escolas e o que fazer? Os professores - e tal profissional deve ser muito respeitado - não podem se calarem  enquanto o Brasil porta afora está a beira de uma guerra civil.  Não é só nos jornais que podemos ter informações do nosso país, hoje, o Brasil inteiro discute sobre política : em praças, restaurantes, bibliotecas e escolas! O professor não está na escola apenas para ler um livro de Geografia - sem desprezo a disciplina, o  professor deve e, sem duvidas , pode desenvolver um senso crítico em seu aluno. Obviamente  os pais vão se queixar se a opinião do educador for diferente  e sairão pedindo leis que blindem a ideologia de seus filhos, porém, o que se faz em casa? Os pais que acusam professores de fazerem uma "lavagem cerebral" na cabeça dos jovens não o fazem dentro de casa? Sim. O que ocorre dentro das escolas não é pior do que acontece dentro de casa: pais com determinada ideologia política impõe  ao seus filhos que sigam a mesma ideia. Para  exemplo, se um pai petista tivesse como professor de seu filho o Suplicy, acharia essa lei um absurdo.
+Portanto, esse PL só irá jogar sal em uma ferida que está tentando cicatrizar: a divisão do Brasil.  Com respeito ao Senador  Malta, o Congresso deveria se preocupar em unificar o povo brasileiro e não o contrário. Os professores já são desprezados pelo salário, se ficarem impedidos de opinar  o Brasil deixa de ser do povo. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

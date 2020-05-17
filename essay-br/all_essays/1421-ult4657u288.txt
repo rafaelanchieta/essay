@@ -1,0 +1,10 @@
+# prompt: cotas-nas-universidades-voce-e-a-favor-ou-contra
+# score: 4.0
+# title: Tampando o sol com a peneira
+O Brasil é o país com o maior número de negros fora do continenteAfricano. É inaceitável queum país com quase metade de sua população negra, somente 2% esteja nas universidades.A política de cotas no Brasil é uma maneira de introduzir os negros nas universidades. Um pouco polêmica, porém em curto prazo, eficaz.Pois se hoje com elas, têm-se apenas 2% deles nas universidades, imaginem antes do ano de 2001 que essa política ainda não tinha sido adotada, como estaria.O que não pode acontecer é o Brasil ficar parado, achando que com isso está mudando a desigualdade social e já está bom. Não! Não está nada bom e precisa-se melhorar muito.Existe uma grande desigualdade social em nosso país, que somente com políticas populistas de bolsas famílias, bolsas disso e daquilo, não resolverão nada. Muitos brasileiros ficam satisfeitos com o "pão e circo" que o governo oferece e não se preocupam em conseguir algo mais, ter uma formação e mudar de camada social.
+            O Brasil deve investirabsurdamenteem educação, porque somente com ela o país poderá avançar para outros patamares de desenvolvimento, pois a educação é a base para tudo. Somente assim, o país não precisará de cotas para negros e todos poderão concorrer às universidades por méritos próprios, sem que haja preconceitos e fraudes sobre as cotas. Porém, enquanto a educação brasileira continua a calamidade que está, as cotas estão vindo bem a calhar para diminuir um pouco da grande desigualdade social a qual o país se encontra.
+# C0: 1.0
+# C1: 1.0
+# C2: 0.5
+# C3: 0.5
+# C4: 1.0

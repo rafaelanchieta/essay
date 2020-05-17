@@ -1,0 +1,13 @@
+# prompt: como-se-tornar-um-consumidor-consciente-isso-e-possivel
+# score: 7,0
+# title: Sociedade do consumo
+Oconsumismo,um mal que assombra a sociedade. Cada vez mais as pessoas sofrem a influência de propagandas que de certa formaàsinduzem a comprar um determinado produto. Atualmente com o aumento de cartões de crédito e contas consignadas é ainda mais difícil resistir à tentação de comprar.
+         Os bancos oferecem hoje uma gama de oportunidades e facilidades para que clientes ainda muito jovens possam ter cartões de crédito, abrir contas e até mesmo conseguir um empréstimo. Essa facilidade, porém, pode ser prejudicial, jáqueemgeralindivíduos que optam por esses meios de obtenção decrédito,não possuem uma saúde financeira boa, aumentando assim o número de dívidas.
+         As empresas investem de forma maçante na divulgação de seus produtos e serviços. O marketing e a propaganda dessas indústrias visam incentivar o consumo, de formaàgerar a exclusão social, pois se um indivíduousadeterminado produto, significa que eletemum status social mais elevado.
+         Consumir com consciência é cada vez mais difícil.Precisa-se de terum bom conhecimento de suas condições financeiras esobre o que é realmente necessário.Essa é a única forma de se manter menos susceptívelàdívidas numerosas, que põem em risco sua situação financeira.
+         O consumo associado às facilidades de obtenção de crédito faz com que as pessoas tornem-se cada vez mais adeptas do consumismo e mais endividadas. A linha que separa o querer e o precisar vai ficando ainda mais tênue, sendo difícil a sua distinção, onde ter um produto ou usufruir de um serviço passa a ser uma mera necessidade para satisfazer sua imagem e status social.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,0
+# C4: 1,5

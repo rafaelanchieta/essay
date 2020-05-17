@@ -1,0 +1,12 @@
+# prompt: norma-culta-x-variantes-linguisticas-qual-deve-ser-a-posicao-da-escola
+# score: 8,0
+# title: Uma língua, muitas variações
+A questão linguística tem ganhado espaço no cotidiano dos brasileiros, desde o Novo Acordo Ortográfico, em que a língua portuguesa foi novamente reavivada e, em partes, reformulada para a melhor relação entre seus falantes que estão em partes distintas do globo terrestre. Recentemente houve uma intensa polêmica em torno da publicação de um livro usado em escolas públicas brasileiras por alunos do ensino fundamental, que defendia os erros gramaticais da linguagem informal cotidiana, encorajando o aluno apratica-la.
+         Sem dúvidasestadiscussão é completamente válida e essencial para a formação de indivíduos conscientes das diversas variedades linguísticas existentes em sua cultura, que certamente não devem ser ignoradas ou simplesmente tachadas como chulas, mas sim compreendidas como parte da identidade e do cerne de seu povo.
+         O papel da escola é fundamental paraconstruirao longo do histórico curricular doalunonão só essa consciência como também apresentar a norma culta como principal meio de expressão, para que esse jovem se torne um adulto completo e preparado para lidar com a diversidade da vida sem preconceitos, porém consciente da importância da expressão clara e concisa de sua própria língua.
+         É certo que a escola deve auxiliar de forma pacífica e paciente seus alunos na construção de uma base sólida, tanto para o mercado de trabalho quanto para lidar com o mundo , e para isso é importantíssimo o incentivo, através dos próprios professores, inspetores e afins do uso correto da língua, pois apesar de nos comunicarmos habitualmente de maneira informal, o mercado de trabalho e a própria diversidade entre as pessoas exige o uso de uma língua que se adeque e agrade a todos os seus falantes.
+# C0: 2,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

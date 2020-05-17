@@ -1,0 +1,12 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 350
+# tittle: Democratização do acesso ao cinema no Brasil
+Promulgado pela onu ONU , em 1948, a declaração universal dos direitos humanos garante a todos os indivíduos o direito ao lazer e ao bem-estar social. Conquanto, a democratização do acesso ao cinema no Brasil impossibilita que essa parcela  da população desfrute desse direito universal na prática.Nessa perspectiva, esses desafios  devem ser superados de imediato para que a sociedade integrada seja alcançada e matenha a qualidade de vida.
+A educação é o fator primordial  para um desenvolvimento de um país. Atualmente, ocupando a nona posição na economia mundial, seria racional acreditar que o país possui um sistema público de ensino eficiente. Diante tal contexto,  o número de pessoas que tem acesso ao cinema é muito reduzido seja por dois fatores: Classe social e Condição financeira . 
+Vale ressaltar, ainda, o difícil acesso como o impulsionador do problema. Segundo,  Zygmunt Baumam, sociológo polonês, a falta de solidez nas relações sociais,políticas e econômicas é característica da modernidade líquida vivída no século XXI. Diante o exposto, o avanço  da tecnologia vem permitindo o aumento de assinaturas de assinaturas digitais, e isso traz mais conforto sem precisar sair de casa e uma diminuição de gastos. 
+É evidente, portanto, que ainda há entraves para garantir uma solidificação de políticas que visem a construção de um mundo melhor. Destarte, o Governo  juntamente com o Ministério da Cultura e o Ministério da Educação, intervir de medidas que falicite o acesso dos indivíduos ao cinema,por meio de  projetos , com todas as organizações sociais , afim a fim de gerar oportunidade para que todos tenham acesso ao cinema no Brasil. Dessa forma, o país poderá obter avanços relacionados à democratização do acesso ao cinema. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,13 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 370
+# tittle: A Revolta da Vacina retorna
+A Revolta da Vacina foi algo  que marcou muito o passado, afinal, médicos queriam injetar o líquido nas pessoas sem explicar do que se tratava, e infelizmente é um tema que volta a ser ativo, já que a sociedade se esqueceu que a vacinação salva vidas. 
+O reaparecimento do "sarampo", por exemplo, surpreendeu a todos, já que até então a população brasileira acreditava ser uma doença totalmente erradicada, e justamente por tal  deixaram de vacinar as crianças, afinal, os mais adultos foram vacinados com a "tríplice" ainda bem novos. 
+Os pais e responsáveis sentem-se maléficos ao verem as crianças chorarem durante a vacinação, e esse é um fator que aumenta as doenças num geral, pois não levam os menores aos postos, assim se esquecendo que mais doloroso que as lágrimas de medo das crianças , são as de dor ao adquirirem uma doença por falta de vacina.
+Adultos usam a falta de tempo como desculpa para a não prevenção, mas deveriam visualizar que a doença ocupará mais da sua vida do que uma simples ida ao local de vacinação . 
+Assim, cabe ao governo fazer mais campanhas nas escolas e veículos de comunicação sobre os riscos da não prevenção, para assim as pessoas se conscientizarem e evitarem a contaminação e proliferação de doenças. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

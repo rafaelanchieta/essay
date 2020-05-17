@@ -1,0 +1,10 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 2,5
+# title: Heróis do nosso dia-a-dia
+Atualmente temos como nossos herois os EUA. Creio que pelo fato de eles terem uma grande influência no mundo. Eles se botam como os mocinhos, a salvação do mundo!
+         De acordo com a mídia, vemos vários filmes, desenhos (como o do capitão américa) que sempre botam os americanos como heróis.Porém , é percepitivel que o nosso mundo, está do jeito que está.Já foi provado, que eles são uns dos maiores causadores do aquecimento global .  E como um herói pode querer acabar com mundo, ainda mais pensando em que se diminuir a liberação de gás carbônico , terá uma diminuiçâo em sua renda social e econômica. Porque herói mesmo quer salvar não destruir , assim pensando mais nos outros que em si próprio. Depois do atentado do dia 11 de setembro , que foi a destruição das torrer gêmeas. Podemos perceber que de acordo com as hipóteses de que o Bin Ladden não existi e que não deve passar de uma grande invenção dos americanos, para posarem novamente como os inocentes , os verdadeiros injustiçados. Podemos concluir, que não existem heróis , e os EUA na minha opinião está longe de ser um. O Único verdadeiro herói que pode nos salvar é a nossa fé que podemos enfrentar o mundo, com honestidade, otimismo, com bom senso, ou seja com os principais valores que melhoram o nosso mundo
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

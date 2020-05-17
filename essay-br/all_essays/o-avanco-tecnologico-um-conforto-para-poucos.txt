@@ -1,0 +1,12 @@
+# prompt: Ciência, tecnologia e superação dos limites humanos
+# score: 440
+# title: O avanço tecnológico, um conforto para poucos
+O avanço da tecnologia propiciou muitos benefícios à população, seja na indústria, comércio ou na saúde. Porém, muitos países estão muito distantes de atingir tal desenvolvimento.
+Enquanto em países desenvolvidos a população tem acesso à modernidade e desfrutam do conforto que ela oferece, grande parte da população mundial sofre com a falta de serviços básicos, como a falta de água potável, saneamento, serviços de saúde pública e até uma simples vacina, que pode causar um problema ainda maior devido a proliferação de doenças.
+A desigualdade que vem desde os primórdios prejudica e muitas vezes massacra a camada pobre da sociedade, é um desafio difícil de vencer. Diante de tantas diferenças que existem atualmente, muitos seres humanos menos favorecidos estão sendo eliminados nas filas de espera por tratamento médico ou no caminho do trabalho devido à violência das ruas.
+A busca por novas tecnologias é benéfica, pois não se pode negar que muito tem contribuído com a humanidade, porém exige alto investimento que é pago por todos e se torna privilégio de poucos.
+# C0: 120
+# C1: 0
+# C2: 120
+# C3: 120
+# C4: 80

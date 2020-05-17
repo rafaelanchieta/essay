@@ -1,0 +1,11 @@
+# prompt: qual-e-o-limite-entre-o-trote-e-o-crime
+# score: 6,5
+# title: As universidades, os universitários e o trote
+O trote é, muitas vezes, uma prática perigosa ehumilhanteque já se tornou comum em todo início de ano letivo. Muitos se aproveitam dessa liberdade para ferir moral e fisicamente os outros e, por sua vez, essas pessoas se sentemobrigadaa aceitar isso caladas. Além disso, as universidades pouco discutem sobre o assunto.
+         Estudantes mais antigos não são donos das universidades e não merecem mais respeito ou proteção do que os que estão ingressando no ensino superior. Muitos atos praticados pelos veteranos ferem até mesmo a integridade dos calouros. Os trotes são considerados tão normais que as pessoas vão participar preparadas para serem machucadas, pois acreditam que é praticamente obrigatório esse ritual. Com isso, já iniciam o ano letivo sendo impostamente inferiores aos alunos mais antigos, e seguem assim, até que chegue a sua hora de ser o agressor, o que também carregam como obrigação. Por se tratar de uma questão tão grave, já que a maioria das pessoas nãoprestamatenção em tal prática, as próprias instituições de ensino deveriam intervir e fiscalizar os eventos, para que seja entendido que tamanha falta de respeito não deveria ser tolerada.
+         Tendo em vista os fatos apresentados, conclui-se que os universitários e futuros universitários têm essas práticas como costume e é necessário conscientizá-los de que nãodeve ser encarado destaforma. O trote deveria der uma brincadeira de boas vindas, e não uma violência gratuita.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

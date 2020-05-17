@@ -1,0 +1,13 @@
+# prompt: qual-e-o-limite-entre-o-trote-e-o-crime
+# score: 5,0
+# title: Comemoração sim, violência não
+O trote é um ritual de passagem praticadodês da idade média. O mesmotem como função promover a integração dos calouros com os veteranos.Porémum ato que era para ser festivo,se tornauma ação de violação dos direitos humanos contra os calouros,no qualgera humilhações, traumas e até mortes
+         A humilhação é uma das piorescausasque o trote pode gerar. Segundo relatos de uma acadêmica da PUC (pontifícia universidade católica) de Campinas, além de os meninos serem obrigados ainsinuaremsexo oral com bananas, também eram obrigados a nadar em uma piscina cheia de fezes e urina.É significativo queapós os atos, não só estescalouroscomo também todos que sofrem esse tipo violação, se sentirão envergonhados e carregarão traumas para seu futuro.
+         Além disso, depois de tanta humilhação, deboche da parte de alguns veteranos e vergonha, alguns jovens se isolam. Têm seu psicológico afetado por traumas e entram em depressão devidooestresse causado pelas práticas,inibindoa produção do hormônioserotoninaresponsável pela sensação de felicidade
+         . Há casosque se sentem tão rebaixados quepode os levaremao suicídio.
+         Portanto, o trote é uma forma festiva quando é praticado de formasolidaria, o quenão pode haver é a obrigação para que os calouros obedeçam os veteranos e nem a violação dos direitos humanos,sendo o último, crime. Caso aindacontinueas práticas criminosas, é preciso criar uma lei nacional de proibiçãode toda prática relacionadas a trotee que haja punições severas casoviolem a lei.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

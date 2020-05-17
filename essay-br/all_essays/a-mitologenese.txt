@@ -1,0 +1,12 @@
+# prompt: Ciência, tecnologia e superação dos limites humanos
+# score: 760
+# title: A Mitologênese
+Na antiguidade, a atribuição de super-poderes à seres mitológicos foi de suma importância para a manutenção de uma ordem em um contexto religioso, haja vista que o receio desses seres influenciava o comportamento dos indivíduos. Sob tal ótica, é fato que no imaginário humano, a ânsia da possibilidade de adquirir habilidades anormais persiste desde os povos antigos. Não obstante, na contemporaneidade, com o avanço científico, a capacidade de alterar genes e permitir tais habilidades se tornou realidade, assim, de que modo a superação dos limites humanos afetaria a sociedade?
+A priori, deve-se pontuar que, apesar da tecnologia ser vista como progressiva e benéfica, uma vez que seu uso está sujeito aos valores de uma sociedade, os efeitos podem ocasionar diversos malefícios. Em um episódio da série Black Mirror, o exército de um estado é submetido aos efeitos de um chip implantado nos indivíduos em que, ao distorcer a visão destes , facilitava a execução de um genocídio. Analogamente, partindo do pressuposto de que a imposição de poder já é recorrente na sociedade, seja pelo capital ou por força bélica, a ausência de limites para a biotecnologia seria capaz de agravar conflitos e ocasionar atrocidades.
+Em segundo plano, vale ressaltar que a transcendência dos limites humanos intensificaria a desigualdade social. No Manifesto Comunista, Marx e Engels explicitam, através de uma análise histórica, a presença da luta de classes nos diversos períodos, em que a dinâmica de um grupo dominar outro sempre foi vigente. Desta forma, além de já haver uma diferença entre os grupos sociais, a obtenção de atributos para uma parte da sociedade, ou somente para indivíduos com poder aquisitivo, seria determinante para a segregação entre humanos.
+Em suma, depreende-se que a superação dos limites humanos, por meio das novas tecnologias, afetaria negativamente a sociedade em diversos âmbitos, permitindo a inferiorização de grupos sociais e destilação de violência. Assim, o Ministério da Educação deve incluir no material didático de filosofia atividades de discussão e reflexão acerca da tecnologia e seus limites, visando estimular o senso crítico dos discentes no que tange os efeitos sociais da biotecnologia. Destarte, estas tecnologias tenderão a ser limitadas, e a superação dos limites humanos se manterão, somente, na mitologia e no imaginário humano.
+# C0: 160
+# C1: 160
+# C2: 160
+# C3: 160
+# C4: 120

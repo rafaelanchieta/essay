@@ -1,0 +1,12 @@
+# prompt: O que é mais importante para vencer na vida?
+# score: 380
+# title: Nem tudo é dinheiro
+Hoje em dia, vencer na vida é algo que muitos cidadãos desejam para si. O ato de, procurar um bom emprego, ter uma boa casa, dar a sua família conforto e bem estar  faz com que pessoas trabalhem e estudem muito, sonhando em um dia, poder ter e dar a toda sua família conforto e segurança.
+Talvez, ter dinheiro não seja o principal para conseguir vencer na vida, para alguns, a saúde, a união familiar, a religiosidade traz crescimento e felicidade pessoal. Ademais, acredita-se que ter a família sempre unida também é algo que soma na felicidade.
+De certo , vencer na vida é algo que depende só de si mesmo, dos caminhos que se escolhe, das pessoas com quem se convive, isso sim fara você vencer na vida, pois tudo o que você faz, fara  com amor, colocando Deus e sua família em primeiro lugar. Com isso, as conquistas virão normalmente, a pessoa vive mais motivada a buscar e vencer porém sem colocar os bens materiais em primeiro lugar.
+Sendo assim, sabe-se que nem tudo é dinheiro, o mais importante é viver tranquilo e feliz consigo mesmo.
+# C0: 120
+# C1: 20
+# C2: 80
+# C3: 80
+# C4: 80

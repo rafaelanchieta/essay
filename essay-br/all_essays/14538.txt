@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: [Redação sem título]
+O filme de animação “Pocahontas”, da Walt Disney, retrata a vinda de estrangeiros para o continente americano no século XVI . Saindo da ficção, essa situação não tem sido diferente em nossa  sociedade hodierna , com uma exceção;  os colonos são, agora, naturais do próprio país colonizado. Além disso, vê-se a falta de direitos e o não cumprimento das leis defensoras desses indivíduos, como as demarcações de terras. Dessa forma, é essencial que esses povos sejam valorizados para o bom funcionamento social.
+
+Nessa conjuntura, sob a perspectiva filosófica de São Tomás de Aquino, todos os indivíduos de uma sociedade democrática possuem a mesma importância, além dos mesmos direitos e deveres. Entretanto, os direitos das comunidades indígenas não têm sido garantidos , embora formalizados, não são efetivados. Ademais, a rica cultura indígena é considerada patrimônio cultural imaterial, portanto, é imprescindível o abandono da perspectiva que entendia os índios como categoria social transitória, fadada ao desaparecimento. Ainda, é inegável o sofrimento dos indígenas para que suas ideologias perdurem, já que constantemente eles precisam conviver com outras culturas. 
+
+Outrossim, de acordo com a Constituição Cidadã de 1988, os direitos que os indígenas possuem sobre as terras que ocupam são de natureza originária, ou seja, anterior ao Estado. Por isso, é de extrema importância que a comunidade valorize esses povos, pois os mesmos  contribuem para o equilíbrio ecológico do país, visto que sua cultura trás  traz como princípio a preservação do meio ambiente. Sendo assim, importantes para o retardamento do assolamento da natureza. 
+Destarte, é mister que medidas sejam tomadas para solucionar esse impasse. Logo, o Ministério Público, em parceria com o Poder Executivo, deve fazer valer as leis já existentes que preservam os direitos territoriais indígenas. Também, o Poder Legislativo deve formular leis de repreensão para os indivíduos que deturpam a isonomia conquistada por essa comunidade. Para mais, é vital que as ONGs , juntamente com a Fundação Nacional do Índio , promovam a mobilização social, por meio de palestras que mostrem as dificuldades da perpetuação dessa cultura para as próximas gerações sofridas por esse povo. Desse modo, com a diversidade de culturas, faz-se uma sociedade completa. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

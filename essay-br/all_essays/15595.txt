@@ -1,0 +1,10 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 300
+# tittle: coronavírus: a importância da ciência para a sociedade
+No incio de 2020 o mundo foi surpreendido por uma pandemia que desafiou a todos .  Do rico ao pobre. Sem fazer acepção de classe ou idade. Um vírus desconhecido pela medicina,que em 24 horas levou países ao caos . Profissionais de saúde tem  têm arriscado sua vida pra  para salvar outras vidas, para descobrir a cura mostrando  mais uma vez a importância da ciência para a sociedade, em um momento de luto e esperança . Deu o nome de  corona vírus coronavírus para a pandemia que tem mudado a vida de muita gente nesses últimos meses. 
+Desde a descoberta dessa pandemia,  pessoas estão sendo orientadas para que fiquem dentro de suas casas com todo cuidado pra não serem contaminadas .Nesse tempo difícil é preciso ter união e reciprocidade .A ciência trabalha todos os dias para vencer essa guerra que o mundo se encontra. é É preciso que a população não messa  meça esforços para seguir com cautela as ordens do governo e da secretaria de saúde  pois é um dever da sociedade evitar sair às ruas nesse período de quarentena. Cabe também as autoridades que busque soluções para os moradores de ruas, com lar,alimento e produtos de higiene . É preciso também ajuda,  para as famílias carentes que hoje estão sem oportunidade de ter uma condição melhor . Nessa pandemia que todos estamos  enfrentando unidos somos mais forte!  nós acreditamos que dias melhores virão. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

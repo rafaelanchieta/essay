@@ -1,0 +1,12 @@
+# prompt: a-aids-nao-e-mais-a-mesma-por-que-diminuiu-o-medo-da-doenca
+# score: 3,0
+# title: Aids atualmente
+Aopassar dos anos, as discussões sobre a aidsveemperdendo destaque,que podesertantopelautilização de drogas que prolongam a vida dos doentes, quantopelodistanciamento da juventude atualapreocupaçãodeprevenção. Como entender este comportamento?
+         Apesar dos estudos avançados que a medicina apresentaatualmente avacina até hoje não existe. Já os remédios ajudam a fazer da aids uma doença controlável, embora ainda grave.
+         Esta éageração mais bem informada dos que as outras e mesmo assimignoramo preservativo, por nãoteremmedo da aids e porconfiaremno parceiro.
+         Só usam a camisinha nas primeiras relações e, assim que ganham a confiança do parceiro, abandonam. Dados mostram que milhares de brasileiros são infectados, porém grande parte não tem ciência disto. Atualmente existe cura e remédios para todo tipo de doença mas não vale botar a vida em risco sem seprevinir. Uma vidasaudavele bem cuidada vale mais a pena.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

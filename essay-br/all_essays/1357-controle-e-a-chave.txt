@@ -1,0 +1,12 @@
+# prompt: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool
+# score: 3,5
+# title: Controle é a chave
+A bebida alcoólica não deve ser levada em posições positivas na sociedade . Afinal, gerar violências, acidentes, problemas familiares e levaradependência
+         não devem ser considerados algo realmente bom para serem glorificados como vem sendo feito. Pode-se ver nos telejornais o que acontece quando uma pessoa bebe e vai dirigir .Raramente essa situaçãoacaba bem. Issoquandonão gera violência nas ruas, nas casas, nos bares e até mesmo em estádios de futebol. A bebida leva a acidentes nas rodovias, estradas e até mesmo em pequenos bairros. É só olhar os jornais, TVs e sites de noticias em cada feriado ou tempo de férias. Juntamente com os problemas familiares, como aquela discussão no vizinho e que, infelizmente, pode até mesmo na própria casa, de pais que saem para beber e voltam para casa agressivos e gravemente alterados. Isso interfere na convivência familiar e social,por queconsumir sem limites bebida alcoólica leva a umvicio,certa dependência, e é difícil sair dela semum devidoesforço e vontade.
+         O certo mesmo é prestar a atenção nas iniciativas para que essa situação que já virou rotina na sociedade mude. Portanto, é preciso parar de se glorificar a bebida. Fazer apologia a ela. É preciso por mais rigidez na venda de bebidas em lugares públicos, como: estádios, shows, onde se pode beber e gerar certa confusão e violência. É preciso mais rigidez nas estradas para evitar tantos acidentes e mortes. E principalmente, é preciso mais cuidado com os jovens que muitas vezes , bancam os “espertos” para comprar bebida e muitas vezes nem se dão conta que ficam viciados nela. Controle, é a palavra chave. É só a partir dele que essa situação social vai se reverter. Umultimoponto que também resolveria isso é realmente focar na cabeça das pessoas, que apesar da bebida
+         muitas vezes gerar diversão, ela também gera dor,mal, perdas, lágrimas e principalmente, uma sociedade descontrolada e infelizmente pior do que ela já vem se tornando. Uma sociedade mais individualista, por semprepensarem"eu bebo, e nunca dá em nada", e mais agressiva por causa disso.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

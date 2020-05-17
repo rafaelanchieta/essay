@@ -1,0 +1,12 @@
+# prompt: Os ursos polares da Rússia e um dilema ecológico
+# score: 380
+# title: O dilema ecológico
+Atualmente com o aquecimento global aumentado , o ambiente mudou, assim como os animais também, isto não só afeta os animais, natureza, como também nos afeta de uma forma significativa.
+Quando usufruirmos da natureza, estamos tirando algo que tem que se repor, normalmente este material como madeira, por exemplo, vai ser reposto, a árvore cresce, mas não está sendo assim, não desfrutamos, mas abusamos, sem repor e até mesmo algumas empresas sem fiscalização fazem isso de forma totalmente ilegal.
+A educação básica sobre reciclagem, sustentabilidade e afins é necessária, a culpa não é só de quem abusa ilegalmente da estrutura das florestas, entre outros locais. Cidadãos são responsáveis pela saúde do planeta, jogar lixo onde tem que ser jogado deveria ser uma atividade universal. Muitos estão inconscientes sobre o estado atual do planeta e a alienação muda o comportamento de moradores fazendo agravar a situação com ações não saudáveis para à Terra.
+Tendo em vista os aspectos observados, deveríamos ter mais fiscais ambientais, fiscalização em empresas que liberam em grandes quantidades de CO2, campanhas para educação de jovens em relação a sustentabilidade e reciclagem. Pois só quando todo mundo se der conta do que podem perder, talvez seja tarde demais.
+# C0: 120
+# C1: 20
+# C2: 80
+# C3: 80
+# C4: 80

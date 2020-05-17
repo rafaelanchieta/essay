@@ -1,0 +1,13 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 800
+# title: O homem é o cabeça da casa
+É possível afirmar que a cultura do estupro no Brasil não terá afim  enquanto houver  tradição da suposta superioridade do homem sobre a mulher  criada através da religião, da arte e da sociedade.
+Relativo  à religião, é possível afirmar que esta  exerce forte influência em diversas.  Dentro do  cristianismo, religião que até hoje possui muitos adeptos declarados em nosso país, por exemplo, há diversas doutrinas  que apresentam caráter machista. Entre os trechos que podem ser citados da Bíblia Sagrada, está aquele em que é afirmado que a mulher deve ser submissa ao homem. Neste  contexto, quando  raramente a vontade feminina é levada em consideração, fica limitada à vontade masculina. 
+No que se refere à arte, usualmente esta  acaba por fazer papel parecido ao  da mídia, cuidando simplesmente de reproduzir essas  ideias aceitas pela maioria  de forma a dar ênfase aos personagens que agradam essa  massa. Percebe-se claramente isto  na música onde  vemos grande quantidade de pessoas fazendo sucesso às custas da denegrição da  imagem da mulher e ainda da representação desta  como objeto sexual. Seguido disto, há a aceitação do público e da divulgação deste tipo de conteúdo. 
+Nesse sentido, a sociedade acaba por reter tudo isso e adaptar à realidade, criando tradições que se concretizam e perpetuam por muito tempo, passando muitas vezes a serem consideradas incontestáveis. A educação é reflexo destes  três itens e sofre as consequências desse aglomerado de costumes que é passado para muitas gerações. A popularização leva então à normalização do problema.
+Considerando, portanto, estes  aspectos, é possível afirmar que a cultura do estupro nunca vai ter fim. Bom seria, se  o país assumisse seu papel como Estado laico e parasse de permitir essa tamanha influência de algo subjetivo  como a religião  em suas tradições e doutrinas, as manifestações culturais de desconstrução da figura feminina fosse sensuradas , nas escolas fosse ensinada  a igualdade e  respeito entre sexos de forma plena. A punição para aqueles que se sentem no direito de invadir um terrritório que não é são  fosse mais severa, indo de anos de reclusão até a castração química. 
+# C0: 100
+# C1: 200
+# C2: 150
+# C3: 200
+# C4: 150

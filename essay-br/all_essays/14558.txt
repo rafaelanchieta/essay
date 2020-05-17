@@ -1,0 +1,16 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 370
+# tittle: Ninguem solta a mão dos índios
+Se nós fomos  parar, para pensar, desde o descobrimento do Brasil os índios estão perdendo seu espaço, é mais uma história que está se destruindo por causa da ganância do povo. 
+
+Segundo a Funai , no Brasil vivem cerca de 800 mil índios, existem 225 povos indígenas, além das referências de 70 tribos que vivem em locais isolados, que ainda não foram contados e um dos maiores povos indígenas do Brasil,  são os guaranis. 
+
+No primeiro dia após seu ato de posse o atual presidente Jair Messias Bolsonaro,  editou a MP 870, cuja medida desmontou a Funai, órgão responsável pela política indígena do Estado brasileiro, transferindo o mesmo , do Ministério da Justiça, para o recém criado Ministério da Mulher, Família Direitos Humanos, comandado pela Ministra Damares. Essa mesma medida entregou para a Secretaria de Assuntos Fundiários do Ministério da Agricultura Pecuária e Abastecimento ,  sob comando da bancada ruralista as atribuições de demarcação de terras indígenas e licenciamento ambiental. Daí seguiu-se uma série de ataques e invasões a terras indígenas. 
+Para proteger e ajudar a sobrevivência dos povos indígenas e suas tradições,  é necessário garantir a segurança deles, no sentido de proteger suas áreas demarcadas e realizar, o mais rápido possível, a demarcação daquelas que necessitam de tal para a manutenção segura de suas práticas. A expectativa é a de que, nos próximos anos, mais terras sejam demarcadas, o que depende não só do poder público, mas também da articulação dos movimentos sociais e, claro, das lideranças indígenas no sentido de lutarem pelo seu território. 
+
+Para solucionar este problema, o povo precisa ir para rua, lutar pela sobrevivência de um povo que a maioria dos brasileiros é descendente, a demarcação de terras não afeta só os índios, afeta parte da história do Brasil, está na hora do povo lutar por algo útil ao invés de bater boca na internet! 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

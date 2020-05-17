@@ -1,0 +1,15 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 550
+# tittle: Um mal comum
+A falta de alimentos é problema que atinge um número elevado de cidadãos em todo o mundo, principalmente no Brasil, as causas dessa falta de alimentos são as mais variadas possíveis . Em algumas regiões,  as causas naturais agravam a situação, mas essencialmente a desigualdade é causada pelo próprio ser humano com sua riqueza desigual. Atualmente, mesmo com os avanços tecnológicos e sociais, milhões de pessoas sofrem com este problema em nosso  país. 
+
+É importante ressaltar os problemas que contribuem com esse mal. Um deles é crescimento econômico,  insuficiente para acabar com a fome no Brasil, isso acontece,  pois a concentração de renda faz com que isso se perpetue a desigualdade social , que muitas vezes tem como conseqüência consequência a fome e a miséria. Além disso, deve-se destacar a instabilidade política, a má administração dos recursos públicos e a injusta estrutura fundiária,  que impossibilitam o acesso dos trabalhadores aos meios de produção e a concentram as terras as mãos de poucos. 
+As causa naturais,  como clima, desastres ambientais, pragas e inundações, são responsáveis por acentuar o problema da fone fome no Brasil, principalmente nas regiões Norte e Nordeste, apesar de não serem tão expressivas quanto a ação humana. Em fortaleza, 204.177 famílias seguem em situação de extrema pobreza, nas famílias extremamente pobres, a renda famílias mensal por pessoa   é de R$ 89,00 reais, em outras 39,728 famílias de fortaleza estão em situação de pobreza, neste caso a renda mensal por pessoa é de R$ 178,00 reais. 
+
+As políticas de promoção da segurança alimentar devem se pensadas como parte de um projeto alternativo de desenvolvimento,  que tenha como eixo central a promoção de um crescente processo de inclusão social. O governo deve repensar em projetos sociais a curto prazo, reformulando antigas iniciativas, como a Fome Zero e o Bolsa Família  e pesar em outras maneiras de distribuição de renda. 
+
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

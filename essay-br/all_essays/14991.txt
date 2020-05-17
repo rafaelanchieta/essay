@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 370
+# tittle: Dea E QUEIMADAS NA AMAZÔNIA, CAUSAS E CONSEQUÊNCIAS
+O desmatamento na região amazônica vem causando muitos problemas ao longo dos anos, e esse desmatamento ocorre devido à várias causas como queimadas para o plantio de soja, para a agropecuária, madeireiras ilegais, construção de estradas, exploração ilegal de minérios etc. 
+
+Tudo isso leva a uma grande degradação desse ecossistema importantíssimo para a nossa  sobrevivência e de outros seres vivos, caso o desmatamento continuar nesse ritimo, em cerca de 40 anos ou menos toda a floresta estará extinta. As consequências que o desmatamento e as queimadas na Amazônia geram as mortes de várias espécies de animais , microorganismos, insetos, degradação do solo  pois ele nunca mais será o mesmo, expulsão dos povos indígenas de suas áreas onde moram, emissão de CO2 na atmosfera que aumenta o aquecimento global, mudanças climáticas que hoje já são sentidas com ondas de calor intensas, chuvas desreguladas, aumento dos níveis do oceano, secas e cheias anormais, furacões, entre outros problemas. 
+A floresta amazônica está sendo devastada e politicas públicas são cruciais em um momento como esse, mas também cada cidadão tem de fazer sua parte, evitar de colocar fogo em áreas de vegetação seca, não comprar em madeireiras ilegais, sempre verificar a origem do produto. 
+
+A floresta regula nossas chuvas, invernos, verões, o tempo seco, o tempo úmido, os ventos, o clima em si, a floresta regula a vida nesse planeta, se ela acabar a vida se extingue, ela não precisa de nós  seres humanos e sim nós precisamos  dela. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

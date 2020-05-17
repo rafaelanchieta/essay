@@ -1,0 +1,12 @@
+# prompt: Perigos do universo digital
+# score: 900
+# title: Ações virtuais, consequências reais
+A internet surgiu em 1992, quando Berners-Lee criou a World Wide Web, possibilitando acesso compartilhado a arquivos de pesquisa acadêmica. Desde então, a quantidade de informação disponibilizada e o acesso aos conteúdos online  cresceram celeremente, com grande impacto  entre a população jovem. O alto nível de liberdade individual, de obtenção e criação de conteúdo virtual demandam autocontrole e discernimento ainda não desenvolvidos em crianças e adolescentes, deixando-os suscetíveis aos malefícios do excesso de exposição.
+O mundo virtual tornou-se o palco principal da vida de muitos jovens que, com sua construção cognitiva, moral e humana ainda incompleta, sofrem para assimilar todo o bombardeamento de informações que recebem e interações a que são expostos. Atitudes equivocadas são esperadas nesta  idade, já que a imaturidade vai de encontro com a  responsabilidade. O excesso de liberdade oferecido pela vida online  e a inconsequência típica desta  fase da vida, faz  dessa geração tanto alvo de violências  como  pedofilia, quanto próprio agente  de violências como  bullying.
+Dada a recente expansão do uso das redes sociais e novas tecnologias de comunicação como  WhatsApp, aliada a  natural resistência humana a aceitar transformações, temos um conhecimento distoante  entre as novas gerações e as mais velhas quanto ao funcionamento e utilização destas  inovações. Confiar aos pais e responsáveis a tarefa de fiscalizar esse uso é incauto, sabida a fácil capacidade de seus protegidos de conseguirem burlar estas  tentativas.
+Consoante com o exposto acima , verifica-se que autocontrole e vigilância parental não se provam efetivos para evitar o risco aos que os jovens são submetidos através dos novos meios tecnológicos de relacionamento. Dizia Immanuel Kant que "o homem é aquilo que a educação faz dele". Partindo desta ideia, e  da relação indissociável que se criou entre as pessoas com  as mídias virtuais, deve-se usar o próprio meio online  para desenvolvimento de ferramentas educativas e atrativas ao gosto juvenil, que possam prover uma melhor consciência das reais consequências do mundo virtual.
+# C0: 200
+# C1: 200
+# C2: 100
+# C3: 200
+# C4: 200

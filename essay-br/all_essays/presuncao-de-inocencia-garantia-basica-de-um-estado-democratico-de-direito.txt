@@ -1,0 +1,12 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 560
+# title: Presunção de inocência: garantia básica de um Estado democrático de direito
+A jurisdição brasileira é representada por diversas instâncias, ou seja, a utilização de recursos faz com que o processo atinja até a 4° grau, representado pelo Supremo Tribunal Federal. Ocorre que, o mesmo está julgando o mérito de três Ações Diretas de Constitucionalidade, afim de declarar constitucional o Artigo 283 do Código de Processo Penal. O resultado do julgamento será pela permissão, ou não, da prisão em segunda instância.
+A Constituição Federal de 1988 representa o texto de maior hierarquia presente no ordenamento pátrio e, por isso possui certa "rigidez", sofrendo uma série de limitações que impedem a sua modificação, como por exemplo a impossibilidade de suprimir Direitos e Garantias Fundamentais de seu texto. Em seu Artigo 5º, a Constituição traz um rol de garantias e dentre elas está a presunção de inocência, ou seja, a garantia de que ninguém será considerado culpado, sem sentença penal condenatória transitada em julgado. Em complementação, o Código de Processo Penal, com intuito de viabilizar o direito constitucionalmente previsto, expressou em seu Artigo 283 que, a prisão deve ser realizada em decorrência de sentença condenatória transitada em julgado, salvo as exceções da prisão temporária e preventiva.
+O respeito às garantias constitucionalmente previstas constitui princípio básico de um Estado Democrático de Direito e tem como consequência a segurança jurídica. A implementação de Pena Privativa de Liberdade em indivíduos que ainda não foram considerados culpados, uma vez que a culpa só ocorre no transito em julgado, representa grave risco à a toda definição de Estado que foi construída. Sabe-se, ainda, que a Constituição Federal foi criada no contexto histórico do pós ditadura , e portanto estabelece inúmeras proteções ao indivíduo, estabelecendo expressamente que só há condenação com o trânsito em julgado, ou seja, após a decisão definitiva.
+A possibilidade de prisão em segunda instância, resulta no adiantamento da culpa, de forma à responsabilizar criminalmente um indivíduo que, no ponto de vista legal, ainda é inocente. O STF como guardião da Constituição ao decidir pela inconstitucionalidade da norma constante no Artigo 283 do supramencionado Código, dará margem para uma interpretação normativa na qual excluirá completamente o contexto histórico no qual a Constituição foi criada .
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 80

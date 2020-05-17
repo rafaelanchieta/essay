@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 350
+# tittle: Assegurado seus direitos
+O atual estado em que se encontra o sistema carcerário brasileiro,  está indo cada vez mais de encontro aos direitos humanos. Superlotação e insalubridade são apenas alguns exemplos. Políticas públicas podem ajudar a melhorar essa situação, como a liberação de presos que já estão no final de sua sentença e medidas de ressocialização. 
+
+Cumprido a pena por quase sua totalidade, o preso com bom comportamento poderia ser solto antecipadamente. Essa ação serviria como uma bonificação e incentivo a todos os aquartelados. Atitude essa,  que amenizaria a superlotação, proporcionando um ambiente mais passível de viver por trás das grades, além de estimular os encarcerados a serem mais respeitosos. 
+
+Já dentro dos presídios e penitenciárias pode-se iniciar o processo de ressocialização do preso. Trabalhos manuais artesanais, cursos técnicos e de educação básica, incentivo ao esporte e leitura, e ensino religioso   são alguns exemplos de medidas que podem ser tomadas. A adesão deve ser voluntária, mas pode ser incentivada através do conhecimento dos benefícios. Que podem estar atrelados ao bom comportamento devido a sua participação, a fim de ter a sentença reduzida no final, e possibilitando um retorno a sociedade mais facilitado e com mais oportunidades. 
+Por conseguinte, a liberação antecipada e as medidas de ressocialização para poderão auxiliar na melhora do sistema carcereiro brasileiro  e também contribuirão para que os presos tenham seus direitos humanos cada vez mais assegurados. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

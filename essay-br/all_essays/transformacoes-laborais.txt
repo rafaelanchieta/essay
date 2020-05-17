@@ -1,0 +1,12 @@
+# prompt: Qualificação e o futuro do emprego
+# score: 600
+# title: Transformações laborais
+A noção de emprego, com remuneração e direitos, foi moldada a partir da Revolução Industrial inglesa. Boa parte das mudanças, inerentes a esse período histórico, deveram-se à criação das primeiras máquinas que substituíram milhares de trabalhadores, fazendo-os ficar sem empregos ou a trabalharem de forma insalubre e mal remunerada.
+Atualmente  o mundo passa pela quarta Revolução Industrial, responsável por mudar as relações humanas profundamente, por meio da alta tecnologia. Porém ainda são poucos países que conseguem conciliar as mudanças causadas pela inconstante era cibernética.
+Existem no Brasil, mais de 11 milhões de desempregados, que veem seus postos de emprego serem preenchidos por robôs - mais baratos e eficientes para as empresas. Esse cenário tende a piorar, e em algumas profissões poderão tornar-se obsoletas devido à escassez de demanda por meio das empresas. Em contrapartida atividades voltadas para o desenvolvimento e aperfeiçoamento de softwares, bem como as que exigem o uso da criatividade humana, serão mais requisitadas, tendo em vista que os computadores apenas aprendem soluções, não sendo capazes de criar novas.
+Portanto, cabe ao MEC implementar nas escolas metodologias em que os estudantes ganham cada vez mais conhecimento acerca do funcionamento do mundo tecnológico e laboral. Aperfeiçoando o ensino, tornando-o cada vez mais moderno, instrutivo e instigante aos interessados. Então o Brasil terá profissionais capacitados, preparados desde cedo para os diversos cenários que o futuro possa vir a apresentar.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

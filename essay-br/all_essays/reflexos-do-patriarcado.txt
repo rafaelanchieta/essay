@@ -1,0 +1,11 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 850
+# title: Reflexos do Patriarcado
+O crime de estupro é um crime que apresenta uma característica muito peculiar em relação aos demais: a culpabilização da vítima. Atribui-se a causa ao  comportamento, à roupa usada no momento do ato e aos locais que  costuma frequentar. Tais fatores podem ser facilmente refutados quando se põe em evidência dados disponibilizados pelo IPEA (Instituto de Pesquisa Econômica Aplicada) que demonstram que mais da metade dos casos são cometidos contra meninas menores de treze anos. 
+Um ponto importante a se analisar é que esse ato é o reflexo de uma sociedade machista, produto de um longo processo de socialização entre gerações. Como herança cultural, o meio mais eficaz de se eliminar tal problema é justamente a conscientização da população e a criação de leis que garantam a liberdade sexual e a propriedade sobre o próprio corpo, desde que estes não infiram  na liberdade do próximo, de modo a eliminar essa cultura da educação que as crianças recebem em casa e na escola, tendo em vista que estas são o futuro da nação e carregarão consigo os valores que lhes foram passados.
+Desse modo, o primeiro passo é conscientizar a população para que estas possam passar as informações obtidas também em suas casas. Ainda mais importante, focar o ensino escolar, em especial o fundamental, na formação de caráter dos estudantes, debatendo assuntos como educação sexual, participação do pai na gravidez, identidade de gênero e o papel da denúncia na redução do número de casos. Por último, garantir a penalização dos praticantes de atos libidinosos e de agressão à liberdade pessoal é também fator primordial. Em frente às propostas apresentadas, é interessante ressaltar que a solução é ampla e demanda tempo, mas que não poderia deixar de ser , tendo em vista que não diz respeito somente à vítima e ao agressor, mas à cultura de toda uma sociedade.
+# C0: 150
+# C1: 200
+# C2: 150
+# C3: 150
+# C4: 200

@@ -1,0 +1,13 @@
+# prompt: votar-em-palhaco-e-uma-forma-valida-de-protestar
+# score: 8,0
+# title: Desprezando a democracia
+Em anos de eleição, o sucesso de figuras como o palhaço Tiririca, que concorre a deputado federal por São Paulo e admite não saber as funções desse cargo, mostra o quanto alguns brasileiros e partidoslevama sério seu país. Muitos desses eleitores argumentam que, ao votar no deputado federal em questão, manifestam
+        seu descontentamento com a política e com as outras opções . Ao eleger candidatos sem a mínima condição de exercerem seus cargos, a população enfraquece as instituições públicas e despreza a própria democracia. A imagem do político perdeu gradualmente seuprestigioe o respeito do povo brasileiro. Os sucessivos casos de corrupção, os muitos deputados que nunca foram ao plenário, os favorecimentos a empresas e familiares das figuras públicas são problemas recorrentes nos últimos anos. Além disso, não existem debates realmente sérios nem espaços em que se discutam os projetos dos candidatos, os quais, invariavelmente, adotam o lema "Saúde, emprego, economia forte, educação e transporte para todos" sem revelar como conseguirão cumprir as promessas. Portanto,
+          a forma de apresentar o projeto, ou seja, o marketing da campanha aliado ao carisma do políticomostram-semuito maisdecisivos àescolha da população.
+          O brasileiro, traumatizado com esses casos, afastou-se da política e parece não valorizar o direito de escolher seus representantes no legislativo e no executivo. Com a manutenção da ignorância, o voto de cabresto moderno (mais conhecido como Bolsa Família) e as propagandas sem conteúdo, mas cheias de slogans fáceis de decorar, os políticos claramente visam atingir a parcela menos favorecida e menos escolarizada da população. Tendo em vista que a fórmula para permanecer no poder é manter um curral eleitoral alienado, poucos políticos tentam melhorar a qualidade da educação dos Estados e municípios brasileiros. Dessa forma, a grande massa acaba não se dando conta do poder que possui seu voto eacaba levandona brincadeira sua decisão. Isso diminui o número de profissionais sérios nos estabelecimentos públicos, o que acarreta desmoralização de ambos.
+            Em suma, garantir a eleição de personagens folclóricos apenas aumenta a podridão da política. Como fica realmente difícil escolher um candidato, já que seus projetos são muito mal divulgados;para os descontentes, anular o voto mostra-se uma alternativa muito menos prejudicial ao país.
+# C0: 2,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

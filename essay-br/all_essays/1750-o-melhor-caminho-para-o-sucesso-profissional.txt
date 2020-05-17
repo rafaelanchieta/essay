@@ -1,0 +1,12 @@
+# prompt: qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida
+# score: 9,0
+# title: O melhor caminho para o sucesso profissional
+Desde pequenos aprendemos a ideia de que para se ter um bom futuro é necessário muito estudo. No entanto, exemplos de personalidades queobteramsucesso na vida profissional sem possuírem um diploma de curso superior nos levam a pensar de outra maneira: será mesmo que o estudo é o único caminho para uma carreira bem sucedida?
+        Bill Gates, Steve Jobs, o ex-presidente Lula e a modelo Gisele Bündchen são alguns dos milionários que abandonaram os estudos ou não tiveram oportunidade de estudar e ainda assim atingiram o êxito profissional. Porém, ao levarmos em consideração o tamanho da população mundial, observamos que tais casos são praticamente1 em 1milhão, ou seja, uma minúscula parcela da população
+          atinge tal feito. Em contrapartida, o número de pessoas que atingem esse êxito através da educação formal e realização de um curso superior é absolutamente maior. Logo, a probabilidade de obter uma carreira bem sucedida é indiscutivelmente mais elevada se escolhermos o estudo. Ainda convém lembrar que os melhores empregos e as maiores rendas pertencem aos grupos de maior escolaridade e que possuem mais qualificação. Vestibulares e concursos públicos utilizam como critério de seleção as notas de uma prova, em que são selecionados os candidatos que estudaram mais e consequentementeobterammaiores notas. Oportunidades de empregos e estágios sempre levam em conta o grau de escolaridade do indivíduo e requerem, muitas vezes, a apresentação do histórico escolar. Dessa forma, observamos que quanto mais conhecimento tivermos, maior será nossa chance de conseguirmos as melhores vagas do mercado de trabalho e, portanto,termosuma qualidade de vida elevada.
+            Logo, é importante que continuemos passando para nossos jovens e crianças a concepção de que o estudo é o caminho mais adequado para uma carreira de sucesso, reconhecimento e conforto financeiro. A orientação na escolha da carreira também é importante para que todos cresçam com a consciência de que o trabalho, além de nos dar dinheiro, deve também nos dar satisfação pessoal e realização profissional.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 1,5
+# C4: 2,0

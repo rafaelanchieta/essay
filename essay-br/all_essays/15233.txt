@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 300
+# tittle: [Redação sem título]
+O cinema nada mais e do  que uma atividade de lazer, distração e divertimento para as pessoas, que pode e dever ter um acesso mais amplo para a sociedade em geral. 
+
+Poderia  ser reorganizado de uma forma em que não somente pequenas porcentagens da população tivesse acesso mas mais pelo menos a maioria da população , mas para isso deve-se rever quanto a localidade e o acesso econômico   para que assim possa ter um acesso por uma população variada de baixo, médio e alto nivel. 
+
+Aumentando a diversidade de locais e ajustando economicamente um percentual maior de acessos será alcançado,assim como a satisfação populacional em decorrência dos atos tomados . Por que não investir ja que se trata de um bem para todos, de uma questão social saudável e que tem ganhado grande importância no meio de todos. 
+E uma democratização de valor social e econômico para o país, social pois se trata  de uma atividade benéfica e econômica  pois não é gratuita  mas que traz boas distrações e recordações. cinema nada mais é do que uma atividade de lazer, distração e divertimento para as pessoas, que pode e deve ter um acesso mas amplo para a sociedade em geral. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

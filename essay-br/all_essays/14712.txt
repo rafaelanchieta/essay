@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 500
+# tittle: Justiça para injustiçados
+A Declaração Universal dos Direitos Humanos exemplifica uma série de fatores no que tange a vida, a segurança, a liberdade, a saúde, dentre outras condições referentes ao bem estar de qualquer indivíduo. Contudo, o sistema carcerário brasileiro fere em grande parte os princípios supracitados. A mudança do pensamento social enraizado - de somente condenar criminosos - e a atuação governamental tornam-se  portanto, cruciais neste cenário. 
+
+A priori, um estudo mais aprofundado realizado por áreas da criminologia revela a ineficiência dos discursos punitivos . Reinserir prisioneiros na comunidade - com acompanhamento psicológico - mostra-se eficaz em países como a Noruega, com a taxa de reincidência criminal de 20%. Logo, apesar da massa apoiar determinada visão, é necessário alterar tais padrões  para que de fato,  a problemática seja revertida. 
+Posteriori, o governo mostra-se ausente no que refere-se a situação das prisões pelo país. O jornal "O Globo" revelou que apenas 1% da verba total era investida no setor prisional pelos estados. Tal carência revela o desinteresse das autoridades sobre os detentos. Immanuel Kant defendia o poder da educação na formação humana. Todavia, a ausência de quaisquer políticas educacionais eficazes nos presídios desvirtua-se da afirmação deste e muitos outros filósofos. 
+
+Em vista dos fatos elencados, o Ministério da Educação e Cultura devem incentivar comportamentos adequados dentro e fora do cárcere, através de palestras que visem a alteração dos quadros precários vistos no Brasil. Outrossim, subsídios podem ser efetuados  a fim afim de normalizar tal situação instável e alcançar, de fato, um ambiente mais verossímil aos direitos humanos, previstos por lei. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

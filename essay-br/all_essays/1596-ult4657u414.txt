@@ -1,0 +1,11 @@
+# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
+# score: 5.0
+# title: Aborto: culpa dogoverno!
+O aborto no Brasil não é considerado crime quando a vítima éestrupadaou quando sofre grande risco de perder sua vida. O tema é bastanteabordado e separa várias opiniões, os que se colocam contra e os que são favorável.As versões de quem se coloca contra afirma que contémna barriga da gestante uma vida emesmo que essa vidafora feitade maneira irresponsável tem que ser bem vinda. Mastem quem se coloca a favor, exprimindoque a vida do futuro bebê pode ser tirada antes dos dois meses (feto).Temtambém os mais radicais, que afirmam que a vida pode ser tirada antes mesmo de vir ao mundo real.
+          O tema do aborto sofreu nas últimas décadas uma crescente discussãoàpartir da grande urbanização das cidades. Muitas pessoas sem ter onde morar ocuparam morros e ali nasciam pessoas de baixa renda, e muitas vezes sem informação. Adolescentes cada vez mais novos praticam sexo sem usar métodos contraceptivos, o que aumenta o caso do aborto ilegal,onde a vida da paciente vira também alvo da morte. A maioria desses adolescentes não tem instrução, condição financeira, e nãoestãopreparadospsicológicamentepara criar uma criança. A partir daí começa o problema na vida desses jovens. A mãe muitas vezes pensa em criar essa criança, mas o grande ''vilão'' muitas vezes é o pai, que resolve não assumir, fazendo muitas vezes a cabeça da moça, que aceita abortar.
+            O grande problema no Brasil é falta de atenção do governoàáreas de baixa renda. Há também a falta de fiscalizaçãoperante àclínicas de aborto ilegal. Sou favorável ao aborto nas áreas de baixa renda, sem atenção e investimento dogoverno, onde um filho pode prejudicar a vida desses jovens futuramente.
+# C0: 1.0
+# C1: 1.0
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

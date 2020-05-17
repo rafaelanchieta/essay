@@ -1,0 +1,13 @@
+# prompt: biografias-personagens-e-autores-em-confronto
+# score: 3,0
+# title: Biografia, intimidade exposta.
+No dia 21/11, o Supremo Tribunal Federal (STF) realizou a audiência pública para debater sobre a publicação de biografias não autorizadas. O que está em jogo é a exposição de pessoas famosas (cantores, artistas, autores, políticos, e demais . Essa leva de pessoas tem o “poder” para lutar e buscar seus próprios interesses. O cantor Roberto Carlos teve sua vida biografada, mas não admitiu a venda. Um repórter de um programa da rede Banbeirantes foi tentar entrevistar o cantor Gilberto Gil, ele não quis comentar sobre o assunto. Famílias veem sua intimidade publicada, isso gera problemas com sua imagem, leitores terão acessoasinformações de todo o seu passado. Nesse caso, osescritores, só tem àperder, querendo invadir vidas de pessoas
+         “poderosas” . Assim os biografados se sentem explorados, pois suas vidas estão relatadas em um livro, e pessoas tirando proveito disso tudo sem serem autorizados;Puromercado, fama e dinheiro.
+         Ocódigo civilno artigo 20, diz que “a divulgação de escritos, a transmissão de palavra ou a publicação, a exposição, ou a utilização da imagem de uma pessoa poderão serproibida”.
+         As biografias sem a autorização do biografado jamais devem ser publicadas. Pois as mesmas são de pessoaspublicasconhecidas em todo o mundo, e elas não querem ser
+         reconhecidas através de escândalos e conflitos . Elas querem passar para a mídia tudoàquiloque faz bem para o ego, o que não faz ficaem oculto.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

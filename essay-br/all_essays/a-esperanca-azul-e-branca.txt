@@ -1,0 +1,12 @@
+# prompt: Política X Ciência: a "pílula do câncer"
+# score: 250
+# title: A esperança azul e branca
+Os protestos  no fim de 2015,  mostra  o anseio dos doentes e suas famílias pela a esperança .
+Tal esperança é retirada delas com a notícia de que seu parente têm  câncer, que a quimioterapia não é mais eficaz em seu caso.
+A fosfoetanolamina  usada como último recurso  deve ser seu principal tratamento. Melhor que um abraço apertado, ela trás  conforto com seus resultados positivos  sendo ou não apenas uma "pílula de açúcar".
+A cura do câncer deve ser tratada como uma grande descoberta por cientistas e não criticadas  sobre sua eficácia. Cabe ao governo investir na comprovação desta, acabar com suspeitas, ou desvendar mistérios por trás da droga no menor período de tempo possível, liberar a fabricação e distribuir apenas aos pacientes em estado terminal  pois ainda não se sabe seu efeito a longo prazo. 
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

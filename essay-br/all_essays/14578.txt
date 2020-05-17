@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 370
+# tittle: A importância de preserva uma Identidade
+Antes mesmo da colonização dos europeus os índios já pertenciam ao território brasileiro, após anos de resistência a colonização eles conseguiram dominar novamente as suas terras, mas a urbanização e o desmatamento vem expulsando e proibindo a permanência dos índios nesses lugares,o que vem gerando grande questionamento sobre a proteção desses povos e o desequilíbrio ambiental. 
+
+Apesar de existir leis que protejam os índios e proíbem a invasão dessas terras de nada tem adiantado esses leis  ,pois grande parte de tribos indígenas tem suas terras invadidas para implantação de áreas urbanas e da agricultura, o crescente capitalismo e a usura financeira vêm destruindo não apenas as tribos indígenas  mas a natureza que está entrando em colapso mundial, a morada de milhares de seres vêm sendo destruídas. O Brasil  apesar de ter uma rica vegetação e biodiversidade  tem destruído sua própria identidade, tem destruído sua própria história,sua própria cultura,tem escolhido mal as pessoas responsáveis por órgãos que protegem esse povo. 
+
+A FUNAI  foi criada com o intuito de proteger e assegurar os direitos dos povos indígenas,mas após a criação desse órgão o governo não se desempenhou em criar mais politicas de proteção a esses povos, que tem deixando impune as pessoas que violam os direitos desses povos e contribuindo para a proliferação de descumprimento dessas leis ,que provavelmente contribuindo para diminuição   desses povos já que são tirados de suas terras e são considerados "selvagens" onde alguns tentam seguir a civilização,"é essa tal civilização que destrói as floresta e tiram morada de vários selvagens" o conceito de civilização precisa ser revisto em uma sociedade tão destrutiva de valores. 
+É dever do estado fazer com que as leis que protegem esses povos sejam cumpridas, preenchendo essa falta de justiça ao descumprimento da mesma  ,o governo deve criar leis mais burocráticas a invasão de terras desses povos e punições mais severas, é dever do Estado proteger a identidade de uma nação, de um país. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

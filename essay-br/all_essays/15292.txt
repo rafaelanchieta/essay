@@ -1,0 +1,16 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 400
+# tittle: Policiais que se suicidam - VS
+No que concerne ao suicídio entre policiais – em sua grande maioria militares - é um problema que afeta não só eles e suas famílias, mas toda a sociedade . Dentre outros fatores destaca-se um grave problema de saúde mental entre a tropa e a ineficiência estatal  em preservar a integridade psicológica de seus comandados. 
+
+Certamente, as atividades do serviço policial colocam seus representantes em situações de risco e afetam diretamente nos seus relacionamentos com seus familiares e no trato com a população. São inúmeros casos de confrontos com elementos armados, mortes de companheiros de farda, tentativas de suborno, ameaças de morte e tudo isto junto com seus próprios problemas pessoais. 
+
+De acordo com dados da Secretaria de Segurança Pública do Estado de São Paulo , os suicídios estão aumentando entre policiais. Em novembro de 2017 foram 48 casos contra 73 no mesmo mês em 2018 e 81 em 2019. 
+
+Além disso, o estado tem se mostrado omisso no sentido de implementar políticas de apoio ao policial e sua família, situação esta que só vem a agravar as tensões e deixa nossos  policiais sem condições de executar suas tarefas com tranquilidade e segurança, colocando toda a população em risco  pois vários casos são noticiados todos os dias nos noticiários de policiais que agridem ou matam cidadãos em virtude de seu despreparo psicológico para atuarem na ruas. 
+Dessa forma percebe-se que além do serviço policial causar sérios transtornos aos seus representantes, o estado também não faz sua parte Reelabore essa ideia  deixando-os por conta própria e propensos a atos extremos como o suicídio. São necessárias políticas públicas  que permitam auxílio e, quando for o caso, tratamento médico especializado. Além disso, torna-se indispensável investimentos na formação desses profissionais da segurança, novas tecnologias como ferramenta de melhor desempenho e segurança, e apoio estatal propiciando boas condições de trabalho aos mesmos .
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

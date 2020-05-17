@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 500
+# tittle: [Redação sem título]
+É possível afirmar que as vacinas se mostram cada vez mais imprescindíveis nos últimos anos. Isso se evidencia não só pela diminuição dos gastos com tratamento de doenças imunopreveníveis, mas também pelo reaparecimento de doenças erradicadas causado pela falta de adesão à vacinação.
+
+Em primeira análise, a prevenção se torna benéfica economicamente. Um estudo feito por uma universidade estadunidense  e publicado pela revista acadêmica Health Affairs, baseando-se em projeções ao longo dos anos, explanou que seriam aplicados mais de quinhentos bilhões de dólares em custos associados a doenças evitáveis. Em contrapartida, o investimento na imunização seria de trinta bilhões. Nota-se, a partir dos dados apresentados, o quão viável é gastar com prevenção e o quanto isso deve ser incentivado. 
+
+Ademais, está se presenciando o retorno de enfermidades previamente eliminadas. No contexto brasileiro, dados retirados do Ministério da Saúde apresentaram, no ano passado, um baixo índice de evolução da quantidade de doses de vacinas aplicadas no país. E ainda, os índices de internações por doenças como o sarampo, em decorrência da não adesão à vacina, encontram-se em crescimento, sendo os casos mais numerosos no Amazonas, com mais de quatrocentos infecctados . É inadmissível manter-se inerte diante disso. 
+Sendo assim, é explícito, portanto, o papel da vacina na qualidade de vida populacional. Para o reconhecimento dessa importância deverão unir-se Governo, escola e mídia, com o objetivo de criar campanhas, orientar e dar visibilidade, respectivamente. Só assim a pauta alcançará a majoritária parte da sociedade, combatendo a ignorância. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 50

@@ -1,0 +1,10 @@
+# prompt: o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que
+# score: 2,0
+# title: Futuro branco
+Há muito tempo o jovem brasileiro, tem perdido o interesse pela política apesardovoto serfacultativo antesde alcançar
+        a idade adulta , os adolescentestemoutras prioridades. Entre elas estão a diversão, estudo, trabalho entre outros a política esta muito desgastada Ninguém acredita mais isso atinge todas as faixas de idade e queira ou não acaba refletindo diretamente nos jovens que crescem já ouvindo dizer mal de todos os nossos representantes nocongresso nacionalum escândalo atrás do outro, CPI, nada é aprovado A eterna reforma política que nunca é votada a tendência nos próximos anos é desse quadro só aumentar, nopaiso idoso não tem valor já na política é incrível nada muda desde sempre são os mesmo eles se alternam no poder e não sai docenarionacionalja estao la adécadas e solevando o paisa uma profunda mesmice a mediade idade é de 79 anos é incrível mas é verdade infelizmente não existe muita perspectiva para o futuro. Tentarei não passar esse pessimismo para meu filho que chegou apouco neste mundo Quem sabe ele nãovivera umBrasil maisserioque atecreio eu muitos do que estãoaijá terão falecido porque só destaforma para acontecer algo de novo.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,0
+# C3: 0,5
+# C4: 0,0

@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 400
+# tittle: A biodiversidade brasileira está ameaçada
+A Amazônia é o maior exemplo da diversidade na fauna e flora que se pode encontrar no mundo, tendo o maior território tropical já visto, tem grande valia no ecossistema mundial . Porém, no contexto atual a maior biodiversidade brasileira vive em constante ameaça à sua preservação, tendo em vista o contínuo desmatamento e queimadas excessivas com o fito de aumentar a agricultura e agropecuária nacional. 
+
+Em virtude da ditadura militar, na qual deve as primeiras emigrações para a Amazônia, vários povos indígenas foram expulsos de sua terra para dar lugar à agricultura familiar, posteriormente, levando ao desmatamento por fazendeiros e indústrias. Logo, as consequências desses crimes ambientais podem ser notadas, como a grande perda da biodiversidade e maior emissão de gás carbono na atmosfera, sendo assim um fator agravante para o aquecimento global. 
+
+Convém lembrar que de acordo com o Ipam   em comparação aos últimos três anos,  as queimadas na Amazônia deve  teve um aumento de 60%, sendo notório a negligência a preservação da floresta, essa que é vítima de constante exploração. Vale ressaltar que,  a grande maioria das queimadas são de natureza criminosa, na qual vários fazendeiros fazem ''dia de fogo'' com o objetivo de mostrar eficiência para o presidente do Brasil, sendo esse um exemplo de como o desmatamento tem sido visto pela população nacional.
+Dado ao exposto, o desmatamento  bem como as queimadas  auxiliam no desinteresse à preservação da Floresta Amazônica. Logo, o Ministério do Meio Ambiente deve aumentar suas fiscalizações,  por meio de agentes postos em áreas de maior índice de queimadas. Além disso, pode-se trabalhar na conscientização de empresas e pessoas para a produção e consumo de produtos sustentáveis, por meio de campanhas sociais, com o intuito de que a biodiversidade brasileira seja preservada e como consequência o ecossistema mundial. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

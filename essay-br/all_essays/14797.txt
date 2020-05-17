@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 650
+# tittle: O Brasil está quebrado: culpa do pobre ou do rico?
+Mexer na aposentadoria dos brasileiros não é uma medida atual. Segundo o jornal Nexo, das três reformas do sistema Previdenciário até 2016, duas foram no sentido de cortar benefícios. O quadro em que se encontra a Previdência Social atualmente é preocupante, pois o Brasil está economicamente despreparado para os altos custos da aposentadoria de quem contribui com o INSS . Há muitas discussões sobre uma solução rápida que, dado o exposto, se remete a nova Reforma. Portanto, a dúvida, de que essa ideia pode ser problemática,  não é repensada, já que, com um contexto muito inteligente, o governo bloqueia o verdadeiro problema socioeconômico do país. 
+
+Com a aprovação da Câmara de Deputados, as novas leis da Previdência Social, apesar de amenizar o fator da desigualdade salarial, ainda prejudica a população. Com direito à aposentadoria, baseado também em tempo de contribuição, a idade mínima aumentará gradativamente seis meses a cada ano, a partir de 2019. Dessa forma, levando em consideração a expectativa de vida dos idosos ser de até 76 anos, de acordo com o IBGE , o sistema os acorrentou para viver praticamente escravo da Previdência que, daqui a 20 anos, terá essa idade mínima para se aposentar. 
+Por outro lado, visando o salário já alto de Deputados e Senadores, eles ainda recebem auxílio do CEAP  que beiram o absurdo. Na América Latina, o Brasil é o país que possui parlamentares mais bem pagos do planeta, onde, no ranking elaborado pela revista The Economist, ocupa a quinta colocação. Cortar verbas de pobres, escolas, hospitais e outros serviços públicos está na mira do governo, porém nada se resolve pagando salários de ouro para seus empregados. 
+
+Contudo, para economizar dinheiro através das mãos de quem realmente não precisa, primeiro devemos  retirar gastos supérfluos do próprio Parlamento. Complementar com incentivo a criticidade sobre o tema na mídia, realizando campanhas informativas e fiscalizando fortemente o desvio do dinheiro público. Assim, podemos  reverter facilmente o problema que a Reforma oculta: a exploração do pobre. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 150

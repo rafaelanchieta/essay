@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: Política: a principal causa da fome e desigualdade social no Brasil
+A Declaração Universal de Diretos Humanos determina em seu Artigo 25, entre outros princípios, que toda pessoa “tem direito a um padrão de vida capaz de assegurar a si e a sua família saúde e bem estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis”. No entanto  hodiernamente no Brasil, esses direitos na prática estão bem longe da realidade. 
+
+Além disso  no Artigo 6 da Constituição da República Federativa do Brasil, temos  a lei: “são direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança...”. Mas a realidade contradiz a Constituição, porque temos  tido políticos que não agiram de maneira consciente pelo interesse público, mas sim pelo interesse que manda seu próprio bolso e sua ganância, causando assim um buraco na economia, que acaba pagando o pobre com a fome e a miséria. Este fato pode-se pode comprovar pelas decorrentes prisões de políticos que tem desviado milhões e milhões de dinheiro para seu bolso.  
+
+Ademais a democracia não existe no Brasil. Não carece de grandes pesquisas para comprovar, se vê notoriamente, com a grande e gritante desigualdade social, basta sair na ruas; ir nos hospitais públicos e deparar-se com o cenário horripilante e precário, nada similar a um particular; ir nas escolas públicas e se esbarrar com o nível baixo, desprezível, nada comparável com a escola particular . Isso, porque  sempre tivemos  um governo que favorece a classe alta e menospreza a baixa. O ideal político de todo brasileiro tem que configurar-se com o de Albert Einstein: “o meu ideal político é a democracia, para que todo o homem seja respeitado como indivíduo e nenhum venerado”. 
+Dessa forma, pode-se concluir,  que a principal causa da fome e desigualdade brasileira, nesse interim, são as fraudes políticas, o favorecimento a classe alta,  e,  a falta de uma boa educação, assim como diz o Padre Antônio Vieira: “a boa educação é moeda de ouro. Em toda parte tem valor”. Logo o governo deve investir em uma boa educação, a qual forme pessoas críticas capazes de conhecer e cobrar seus própios direitos. Quanto as fraudes políticas, a lei deve ser mais rígida e readquirir todo dinheiro defraudado. Com uma ótima educação se destruirá o monstro da fome, e da desigualdade social que se alimenta da inoscência do povo. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

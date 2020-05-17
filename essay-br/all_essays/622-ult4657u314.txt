@@ -1,0 +1,11 @@
+# prompt: o-fumo-deve-ser-proibido-em-todos-os-lugares
+# score: 5.5
+# title: Saúde sim, cigarro não
+A dependência do cigarro traz males ao fumante e o agride emocionalmente, ninguém o quer por perto. As drogas causam vários transtornos e o cigarro, apesar de ser lícito, mata! Os fumantes estão por toda parte e, ocasionalmente, prejudicam àqueles que não têm este hábito, além de, muitas vezes, estarem presentes em locais fechados.
+        Pensar que uma droga por ser legal é menos prejudicial é ilusão, milhares de pessoas morrem de conseqüências devastadoras por fumar. O fumo lesa lentamente a saúde, mas apesar disso, a pessoa que o deixa se revigora e em pouco tempo nota melhor disposição para atividades comuns. Há uma grande preocupação com o vício do cigarro, pois não somente quem fuma é prejudicado, também sofrem os chamados fumantes passivos. O fumante é negligente com sua saúde e, infelizmente, egoísta com a dos outros.Enfatiza-se a aprovação de uma lei que proíba o cigarro em locais públicos,mas bastaria que esta se fizesse valer em locais fechados. Uma boa alternativa seria não facilitar, acabando então, com áreas para os fumantes.
+              Afinal, quem não quer viver mais e com qualidade de vida?Hábitos negativos podem ser mudados, principalmente quando não é bem aceito. Portanto, acabar com o cigarro é uma questão de saúde pública.
+# C0: 1.0
+# C1: 1.5
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

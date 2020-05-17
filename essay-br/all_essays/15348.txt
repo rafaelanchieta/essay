@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: O problema de uma gravidez precoce
+Comenta-se com frequência, a respeito da gravidez na adolescência, um caso visto na maior parte da sociedade como um problema de saúde , às vezes acontece por vontade própria, mas na maioria é indesejável. 
+O que parece ser algo frugal acaba se tornando complicado quando acontece de forma não desejável , trazendo consequências para a mãe e a criança, uma vez que a adolescente não está preparada fisicamente ou até mesmo psicologicamente. 
+Seria tão frequente essa situação por falta de informações?  Ainda convém lembrar que nenhum método contraceptivo é 100% eficaz, podendo citar como exemplo o caso que viralizou na internet, do bebê que nasceu com DIU enrolado na cabeça. 
+É assaz  o número de adolescentes que não completaram o ensino médio após uma gestação, dados  afirmam que 35% de mulheres somente no nordeste, sendo assim a gravidez precoce estorva ainda mais a mulher no mercado de trabalho. 
+Faz-se necessário que o governo faça campanhas para a prevenção de gravidez na adolescência, e promover  promova palestras com base em informações para ajudar adolescentes a tomar decisões de forma consciente. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

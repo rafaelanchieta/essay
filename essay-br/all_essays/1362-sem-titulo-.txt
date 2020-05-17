@@ -1,0 +1,10 @@
+# prompt: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool
+# score: 4,5
+# title: (Sem título 020)
+O álcool possui diversos efeitos sobre o organismo humano, psicológica e fisicamente. As diversas substâncias que o compõem são responsáveis por determinadas atitudes que o indivíduo provavelmente não tomaria sóbrio. Visando evitar que tais ações afetem o próximo, a Lei Seca limita o consumo do álcool , não a fim de penalizar o responsável por um possível dano à sociedade, masprevenir que ele aconteça.
+         Discussões entre companheiros nas quais um ou ambos estão alcoolizados que terminam em tragédia. Jovens que sob a influência da tradição arcaica que dita o consumo de álcool prematuro e acaba por torná-los dependentes químicos, destruindo suas vidas e seus corpos aos poucos. Chefes de famílias que, ao se tornarem alcoólatras, levam suas próprias famílias à ruína. Acidentes de trânsito que matam tanto a pessoa embriagada quanto um inocente. A Lei Seca aposta na prevenção para impedir as situações citadas anteriormente, entre outras também favorecidas pelos efeitos do álcool, tende a diminuir as estatísticas de mortes e acidentes no trânsito, e fora dele. Por fim, para ampliar os bons resultados da lei, é aconselhável o aumento da fiscalização já existente nas ruas e avenidas, e também que se leve em conta, além do teste do bafômetro e exame de sangue, análise de um médico e depoimento de guardas de trânsito e policiais rodoviários que tenham interceptado o indivíduo que foi pego dirigindo alcoolizado.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 650
+# tittle: Valorizando e cuidando
+As grandes navegações do século XV trouxeram imensuráveis impactos na América, continente que tinha sido recém-descoberto. Essas mudanças devem-se ao desmatamento e as mortes dos nativos, além da imposição cultural europeia. Além dos índios, a natureza sofreu inúmeras perdas, como as queimadas e o desequilíbrio trófico e ambiental. Não obstante, os direitos indígenas, garantidos na Constituição, e a valorização cultural  são tópicos imprescindíveis na compreensão da história brasileira. 
+
+A priori, os direitos inalienáveis destinados aos indígenas asseguram território exclusivo para a manutenção dos costumes e da sobrevivência do índio. A Constituição Federal de 1988 garantiu áreas indígenas, como o Parque do Xingu. Além disso, o povo nativo é considerado “guardião” da natureza, devido ao cuidado e respeito com o ecossistema, possibilitando a redução das taxas de desmatamento, que estão diretamente ligadas as regiões destinadas aos aborígenes. Todavia, para o líder do povo Yanomami, Davi Kopenawa, as expansões agrícolas e urbanas estão ameaçando a comunidade indígena como um todo. 
+
+Deve-se ressaltar,  a valorização cultural contribuiu diretamente na construção de uma identidade nacional . Analogamente, José de Alencar  na obra "O Guarani", buscou criar uma identidade cultural, valorizando o índio e os seus costumes. A manutenção da cultura indígena está intrinsecamente ligada no ao cotidiano brasileiro, demonstrando o alto nível de integração e de compartilhamento de conhecimento. 
+Assim sendo, a valorização da cultura indígena é importante na manutenção da identidade cultural, como também os direitos assegurados aos aborígenes garantem a preservação da natureza e dos costumes dos nativos. Entretanto, para a efetivação dos direitos inalienáveis, é necessário que o Ministério Público junto com a Funai  e outras instituições garantam a continuidade das áreas indígenas, por meio de fiscalizações, multas e dados sobre as expansões agrícolas e urbanas, para que haja a concreta continuidade do povo indígena, além de sua cultura e costumes para as próximas gerações. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

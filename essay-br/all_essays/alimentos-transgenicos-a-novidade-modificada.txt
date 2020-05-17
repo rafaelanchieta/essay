@@ -1,0 +1,13 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 150
+# title: Alimentos transgênicos: a novidade modificada
+É alarmante que os alimentos transgênicos estão  cada vez mais presentes na vida das pessoas, mas trazem divergências. Dentre tantos fatores, temos: as  informações que não são claras e precisas sobre o uso de ingredientes transgênicos nos produtos e até que ponto pode ser um benefício para os usuários.
+Observa-se que a novidade dos alimentos modificados ainda causa bastante dúvidas, principalmente para as pessoas que estão acostumadas com o trivial. 
+Visto que muitos não sabem como é o processo e os componentes utilizados para esse novo produto, mesmo que os alimentos possuem  as mesmas características, será que são realmente inofensivos, que não causarão malefícios para o organismo de quem os consome? Essa é uma questão que precisa ser discutida e esclarecida. Portanto poderia ser promovendo campanhas e distribuindo informativos mostrando seus prós e contras.
+Além disso, mostrar para as pessoas o quão  esses alimentos os beneficia , pois um alimento que passa por um procedimento que faz com que sua durabilidade é  maior, isso pode ser uma vantagem, mas até que ponto poderá ser bom para o consumo.   Sendo assim, tudo tem de ser analisado, estudado e com uma preocupação principal que é a saúde das pessoas.
+Desse modo, os alimentos modificados geneticamente podem ser uma novidade que veio para ficar, mas que seja feita  todas as análises para que futuramente não prejudique os consumidores. A importância dos cuidados é fundamental para que nesse mundo de correria, de coisas práticas, as pessoas não sejam imprudentes e consumindo alimentos pela facilidade, durabilidade e sim pelo benefício saudável.
+# C0: 50
+# C1: 0
+# C2: 50
+# C3: 0
+# C4: 50

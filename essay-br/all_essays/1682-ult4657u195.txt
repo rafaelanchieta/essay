@@ -1,0 +1,10 @@
+# prompt: fomos-dominados-pelas-maquinas-que-inventamos
+# score: 5,5
+# title: Admirável mundo novo
+Segundo estudos recentes, houve um aumento considerável do número de carros comprados por brasileiros nos últimos anos, assim como o de televisões de tela plana, tocadores de música, celulares multifuncionais e câmeras digitais. A baixa dos preços no mercado provocou a socialização da tecnologia, e com isso a dependência em relação a esta aumentou expressivamente.O ser humano não consegue mais imaginar-se sem esses aparatos tecnológicos. Considera a vida mais prática, mais rápida e apesar do prolongamento da expectativa de vida, a qualidade desta não seguiu as mesmas proporções. Hospitais e escolas ainda perecem devido à sua péssima qualidade, enquanto os cidadãos comemoram a chegada da TV digital ao país.Não se pode negar os avanços que a tecnologia propiciou no campo das pesquisas científicas, entretanto, deve-se reconhecer o quanto esta nos fez reféns e quantas mudanças negativas provocou. Jovens passam noites inteiras em frente a telas de computadores e a maior parte sofre de distúrbios causados por estresse; distúrbios que antes só eram verificados entre adultos.
+            É impossível regredir e tentar viver sem um computador com conexão à Internet, entretanto, devemos nos policiar quanto ao seu uso.Não nascemos grudados a esses aparelhos, portanto podemos e devemos nos desligar deles algumas horas por dia.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

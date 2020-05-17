@@ -1,0 +1,12 @@
+# prompt: Os ursos polares da Rússia e um dilema ecológico
+# score: 680
+# title: A geleira do descaso
+Uma das problemáticas mais sérias do século XXI - e menosprezado nos livros didáticos - se refere às dificuldades que os animais das mais variadas espécies e habitats sofrem constantemente no mundo contemporâneo. Os animais precisam se adaptar perante as consequências das ações humanas, e este último ainda não compreende que um caso como o ocorrido com os ursos polares na Rússia é a reação dos bichos perante a crescente crise de seu habitat.
+Apesar de que a humanidade tenha evoluído para com relação aos métodos industriais e ter deixado de olhar a fauna e a flora assim como os patronos imperialistas olhavam-na no século passado, ainda há o desprezo pela biodiversidade e preservação animal. O fato da comunidade russa sentir-se em um "dilema moral" reforça a ideia de que eles não compreendem o fato dos ursos invadirem cidades, bairros residenciais e até mesmo confrontarem a polícia é o resultado de uma contínua invasão e desapropriação destes animais de seu real habitat.
+O que ocorre é o descaso de políticas públicas em prol da preservação do ambiente Ártico e, por conseguinte, dos ursos polares e demais espécies habitantes . Não só das autoridades russas, visto que o aquecimento global provém do desinteresse de vários países em promover medidas e leis que auxiliem o equilíbrio termológico do planeta.
+Perante isso, a questão principal a ser resolvida é analisar se a Rússia de fato promove a preservação dos quase extintos ursos polares. Com relação às invasões, pode-se muito bem mobilizar profissionais para sedar os animais invasores e levá-los para instalações de preservação. Porém, acima de tudo, é dever das autoridades das grandes nações (em especial os países que mais poluem) analisarem com o auxílio de especialistas a questão da poluição em seus países, para então tomarem ações ecológicas que preservem o ecossistema do planeta, a fauna presente e o equilíbrio da vida.
+# C0: 120
+# C1: 160
+# C2: 120
+# C3: 120
+# C4: 160

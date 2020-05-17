@@ -1,0 +1,12 @@
+# prompt: Direitos em conflito: liberdade de expressão e intimidade
+# score: 500
+# title: Limites entre Direitos
+A liberdade de expressão e o direito a  vida privada tem  gerado um considerável conflito, essa problemática advém  após jornais sofrerem uma censura por postar informações intimas  sobre a vida do presidente da republica  Michel temer e a  primeira-dama Marcela temer .
+Antes de apontar quem estar  certo, é preciso fazer uma breve analise  do conteúdo que foi exposto, haja vista que os fatos eram de cunho pessoal, ou seja, sem importância para a sociedade. É necessário ressaltar que as informações coletadas foram levantadas de forma fraudulenta, por meio da ação de um hacker, e o mesmo  tinha o intuído  de adquirir benefícios através de ameaças à Marcela ou  difamar a figura do Presidente.
+Desse modo, a primeira-dama ágil  corretamente, pois ela goza dos mesmos direitos elencados no artigo 5º da Constituição Federal, portanto Federal. Portanto, a postura tomada, defendendo seus direitos ante os veículos de informações, têm  apoio jurídico, tornando assim a censura legitima .
+Sendo assim, todo conteúdo tendencioso à ferir a celeridade das garantias constitucionais ou a liberdade de terceiros faz-se necessário passar por uma rigorosa analise para evitar decisões conflitantes entre normas fundamentais.  
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

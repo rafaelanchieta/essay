@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: A Prevenção que Caiu no Esquecimento
+As vacinas são o meio  do homem de se proteger de doenças infecciosas e virais, contudo, o véu do esquecimento tem recaído sobre o mesmo  levando-o a deixar de lado o extinto de prevenção. A escolha de não tomar as vacinas pode acarretar serias consequências, podendo levar indivíduos a óbito. 
+
+Segundo dados organizados pela OMS , desde 2014 as vacinas contra sarampo e caxumba, por exemplo, têm caído demasiadamente no Brasil. Se esvaindo de 100% para 84%, o que é inaceitável . A população brasileira está tão acomodada em sua bolha de falsa segurança, que estão optando por não se precaver contra doenças, por assim dizer, fatais.  Estão colocando suas próprias vidas em risco. 
+
+Ano passado, em 2018, até o início deste ano, 2019, o governo brasileiro se mobilizou contra a epidemia do sarampo que havia voltado com tudo, usufruindo de campanhas e movimentos, onde   o intuito era vacinar o máximo de brasileiros possível. Foi disponibilizado vacinas gratuitas nas estações da CPTM do Estado de São Paulo. Porém, nem todos quiseram parar para tomar o antivírus. 
+Portanto, em virtude do que foi mencionado , a prevenção de doenças com o auxílio das vacinas tem sido posicionado o máximo possível na vida dos brasileiros, no entanto, a comodidade e a falta de censo preventivo é o que vem afetado essa área da saúde , fazendo com que os números caiam. A solução para tal problema,  seria um enfoque mais intenso na prevenção. Fazendo mais mobilizações para que assim uma quantidade maior de indivíduos seja atingida. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

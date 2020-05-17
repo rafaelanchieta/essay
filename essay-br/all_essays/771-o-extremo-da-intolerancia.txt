@@ -1,0 +1,12 @@
+# prompt: ha-limites-para-a-liberdade-de-expressao
+# score: 7,5
+# title: O extremo da intolerância
+Muito sediscutea importância e as consequências da liberdade de expressão depois do incidente de 7 de janeiro na Redação do jornal satírico Charlie Hebdo.Mas deve-se levar em conta na discussãotoda a diversidade cultural presente no mundo.
+         A independência de expressividade é uma consequência das revoluções ocorridas no mundo ocidental ao longo da história, portanto convivemos mais com ela do que o mundoislã, daí a revolta dos muçulmanos frenteascharges provocativas. E se tratando do ato terrorista,
+         ambos são extremistas, não só os assassinatos, mas as charges que caricaturam deuses de forma humilhante. Não se pode criticar o fanatismo religioso com argumentos etnocêntricos, afinal, trata-se de um povo que reza todos os dias e crê cegamente em seu Deus. Portanto o livre exercício do direito de opinar, criticar, caricaturar e denunciar exige reflexão, responsabilidade e ética. Dessa forma a publicação de charges extremamente provocativas causa mais indignação do que risos, épreciso levar em conta
+         bom senso e sensatez ao brincar com os costumes alheios, principalmente se tratando de uma cultura em que a religião decide o que é certo ou errado.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 2,0
+# C4: 1,0

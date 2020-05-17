@@ -1,0 +1,12 @@
+# prompt: Universidade em crise: quem paga a conta?
+# score: 520
+# title: Educação gratuita para quem realmente precisa
+No Brasil, a maior parte das famílias são consideradas de baixa renda. Desses são poucos os que têm interesse e condições de ingressarem no ensino superior, enfrentando condições difíceis e seus limites. A capacitada e a força de vontade de um estudante de baixa renda pode ser considerado semelhante ao  de um estudante rico, porém, há discrepâncias relevantes entre eles com relação às técnicas e tecnologias utilizadas que impactam significamente no desempenho.
+O estudante de baixa renda tem que mudar radicalmente o seu modo de vida. Normalmente ele tem que trabalhar e estuda com os meios disponíveis, quando há oportunidades, enfrentando as dificuldades socioeconômicas no ambiente em que vive, muitas das vezes , sem o apoio da família e com insuficiência de tempo para os estudos.
+Enquanto isso, o estudante rico normalmente têm os melhores meios para estudar. Com o apoio da família, ele tem tudo o que precisa para ter o melhor desempenho nos estudos, tendo também uma maior quantidade de tempo livre pois ainda não precisa se preocupar com o trabalho.
+Portanto, tendo em vista as dificuldades econômicas que as universidades estão enfrentando, é necessário também reanalizar as dificuldades de cada grupo social. Por isso é necessário que o ministério da educaçāo reserve as universidades públicas para aqueles que estudaram integralmente em escolas públicas ou não tenham condições de pagar o ensino superior. Pois assim garantiremos que a educação gratuita seja disponibilizada para quem realmente necessita.
+# C0: 80
+# C1: 80
+# C2: 120
+# C3: 120
+# C4: 120

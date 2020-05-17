@@ -1,0 +1,13 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 4,0
+# title: O Brasil e o meio ambiente
+O Brasil deve seguir as orientações dos relatórios climáticos , pois o meio ambiente não está sendo preservado e o clima do planeta esta em transformação, ocasionando catástrofes climáticas. O primeiro aspecto refere-se à destruição da natureza pelo homem, em consequência da poluição causada pelas indústrias, do desmatamento, da construção de edificações onde antes existia uma floresta e grande parte disso é feito para aascençãosocial
+          tanto do indivíduo e da coletividade, quanto do país. O ser humanonesse contexto, pensa primeiro
+          nos lucros no conjunto da sociedade capitalista e em segundo plano lembra-se da natureza,ou o que resta dela. Além disso,por causa dessa aniquilação das matas e animais, o clima do mundo está em profunda e gradativa mutação, levando geleiras a derreter,enchurradasa alagarem cidades,ao aumento da temperatura média do planeta. O homem deve entender que o único prejudicadorepresenta-se por si próprio, porque, com isso, ele perderá a moradia, a saúde e em alguns casos, até a vida.
+            Todavia, pessoas ligadas à economia epolítica defendem o crescimento econômico no Brasil, devido ao fato de nosso país ser uma nação emergente e o desenvolvimento não pode parar por motivos ecológicos, o que para muitosexpressa-seimpossível de ser feito no momento,visto que esse fato
+              afetaria o mercado globalizado de hoje, já que esta seria uma consequência da estagnação econômica dafederação.Mostra-senecessário haver uma ação conjunta do poder público com a sociedade, visando à preservação do meio ambiente, como, por exemplo,porem prática objetivos de leis criadas para esse problema específico.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

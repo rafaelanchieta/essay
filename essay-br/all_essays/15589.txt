@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 600
+# tittle: O panorama que deve ser mudado: ANALFABETISMO
+Apesar da Constituição brasileira assegurar o direito extremo  à educação, nota-se, na atualidade contemporânea , insignificância em relação a esse objetivo, principalmente no que diz respeito ao alfabetismo. Isso, porque  é notório no século xxi, o analfabetismo funcional, problema esse,  que deve ser enfrentado, primordialmente no Brasil, devido a exclusão social, pouco incentivo e acesso a esse recurso. Com isso, faz-se necessário intervenção para garantir acesso pleno à educação para todos. 
+ De início, tendo em vista a realidade supracitada , destaca-se discrepância entre as classes sociais,   que emerge desigualdade no espaço. Nesse viés, enquadra-se o analfabetismo funcional, visto no senso de 2010, que 65 milhões de pessoas não possuem ensino fundamental no Brasil e,  a maior porcentagem dá-se a pessoas negras e pardas . Nessa circunstância, é destacado a exclusão social que emerge segregação na base da pirâmide social. Essa segregação divide-se ao difícil acesso à escola, que preferencialmente dá assistência à elite socioeconômica, haja visto lugares mais pobres são menos beneficiados educacionalmente, como Norte e o Nordeste. 
+Além disso, a extensa precisão do trabalho para a sobrevivência afasta o público da escola e dos livros, predominante a faixa etária a partir de 15 anos. Por fim, a afirmação do filósofo Immanuel Kant: ''É no problema da educação o grande segredo do aperfeiçoamento da humanidade'',  traz referência primeiramente para a educação,  como símbolo de perfeição da própria sociedade. Logo, isso é garantido nos papéis, mas vulnerável na prática. 
+ Diante do exposto, é imperativo a necessidade de atenção para efetivo problema. Dessa forma, cabe ao Ministério da Educação e a Escola ,  promover projetos alfabetizadores baseados na Fundeb , a qual promova palestras de incentivo à escola e alfabetização plena  - a fim de formar profissionais e dá dar atenção àqueles que sofrem discriminação e não conseguem conciliar trabalho-escola . Com essas medidas,  será possível diminuir esse panorama e, assim como descrito na Constituição brasileira  poder-se-á desfrutá-la.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

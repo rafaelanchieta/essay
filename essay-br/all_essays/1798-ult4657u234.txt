@@ -1,0 +1,11 @@
+# prompt: favela-e-cidade-as-distancias-sociais-desapareceram
+# score: 3,0
+# title: A Rapazeada é a penúltima que morre
+Um país democrata é aquele em que "o povo é quem decide". Mas, mais especificamente, são os telespectadores que influenciam a vida do país, mais do que qualquer voto eleitoral. Liberal,econômicae politicamente;assim, o Estado e as empresas que têem um papel muito importante pois, atuam também, em decisões governamentais; e, através da televisão, eles analisam as idéias mais aceitas entre o público para definir suas medidas. Uma das propagandas que conquista essa parcela de cidadãos antenados é ada, carismática, culturada favela.
+        Apesar de fazer parte da História do Brasil, esses aglomerados ainda provocam certa estranheza em outros grupos (sociedade linear), consolidada pela notícias trágicas que são estampadas nos jornais. Assim, quando alguma filantropia, criatividade ou erudição é lançado por partedaspopulaçãomarginalizada ,as outras pessoas se espantam, e logo, atraídas pelo diferente, pelo singular; agregam essas produções e penduram nas paredes, ouvem no rádio ou usam sobre a cabeça.Mas a aproximação entre mundos, nada mais é do que um modo atrasado, e segregador de dizer, são parâmetros de civilidade, assim como o eurocentrismo que define a divisão da História. Enquanto a mídia apresentar as criações da favela como algo exótico, ainda haverá esse abismo social (linear ?).Exemplo dessa discriminação é o pacote turístico realizado por personagens da novela Duas Caras. Excursões eram realizadas na Portelinha (o núcleo na história) , como se fosse a savana africana. Mesmo que fictício, foi uma analogia bem empregada para esclarecer esse enganonomoral brasileiro.
+              Ainda que as pessoa comprem as idéias da Rocinha ou da Heliópolis, elas não enxergarão as dificuldades na vida dessa parte do país. Enquanto cadeiras de sarrafos forem publicadas em revistas famosas, os moradores só terão sarrafos para confeccionar suas criações.A esperança é a última.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

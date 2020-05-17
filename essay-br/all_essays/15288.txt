@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 270
+# tittle: O cinema e a emancipação do ser
+O cinema é algo pouco discutido no campo de democratização. Será que a realmente a uma democracia a esses acessos culturais? Quem os consome? e que público tem acesso? Essa questão nos faz refletir sobre esta situação e pensar em meios de democratizar o acesso de forma que todos os públicos e que todos tenham a oportuni ter esse contato com a arte, cultura e lazer. 
+
+Primeiro devemos  pensar o que o cinema contribui para emancipação do sujeito social vejamos: A arte é um campo bem espesso e permite passar informações e reflexões a partir de experiências sensoriais, visuais, midiáticas e o cinema abrange todas essas áreas . Onde inclui o sujeito em uma percepção de realidade que possibilite a ele um senso crítico de sua realidade com essas experiências. 
+
+Segundamente   podemos refletir sobre o acesso a cultura e lazer, que segundo a legislação e direito de todo cidadão brasileiro, porém não é isso que vemos na prática, há milhares de brasileiro que nunca entraram em sala de cinema, o que quebra essa fala de que todos têm acesso. Sim tem acesso assegurado por leis, maS e os meios para acontecer isto, como é feito esse trabalho ? A uma falha grande no acesso à cultura e lazer de toda sociedade a medida para democratizar de fato o acesso a todos seria um estudo, planejamento das instituições responsáveis, ministério da cultura, e outros responsáveis deste assunto intervir e mudar esta realidade. 
+Assim garantindo acesso a todos de forma que emancipe o sujeito, formandos cidadãos críticos e reflexivos sobre o mundo e realidade que vive . Assegurando acesso ao lazer, cultura e assim democratizar o acesso de forma que contemple e respeite o sujeito em sua formação social, educacional. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 50

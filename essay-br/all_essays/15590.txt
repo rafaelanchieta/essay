@@ -1,0 +1,11 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 500
+# tittle: Rafaela Freitas Caires
+A ciência é a principal responsável pela inovação tecnológica, de modo que ela é responsável pelas mudanças em nossos modos de nos comunicar, como a internet e as redes sociais, é responsável pelo nosso modo de trabalhar, pelo nosso modo de locomover, pela possibilidade de viajar e muitas outras coisas. 
+Além disto a ciência também criou os recursos e os aparelhos que foram usados para estabelecer a cultura de massa, seja com a produção em larga escala de roupas e acessórios  ou com a televisão e o cinema, de modo que o modo como nos apresentamos  no mundo, como vemos a nós mesmos  e como falamos com os outros é totalmente influenciado pela ciência. 
+Deste modo, o mundo científico muda o mundo social, e daqui a algum tempo ele pode mudar novamente, pois a ciência está sempre em evolução e coisas novas são sempre inventadas, de modo que a sociedade do futuro será também influenciada pela ciência, nós só não sabemos ainda o quanto. 
+# C0: 200
+# C1: 100
+# C2: 50
+# C3: 150
+# C4: 0

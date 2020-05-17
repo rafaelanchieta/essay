@@ -1,0 +1,9 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 6,5
+# title: O verdadeiro herói
+A figura do herói está sempre ligada à necessidade que cada pessoa possui de ser ou realizar algo. Na verdade, todo herói surge como uma forma de "esperança" àquilo que achamos impossível de se concretizar em nosso mundo real.  Os super-heróis surgem na sociedade capitalista contemporânea , pois, esta, proporciona condições para sua existência através do alcance das redes de televisão, ou ainda, através da produção em massa de revista em quadrinhos, bem como um mercado consumidor. A inserção cada vez mais notória de indivíduos em instituições burocráticas e o domínio do mercado na vida da sociedade capitalista, propiciaram uma necessidade de sentir algo imaginário, que livrasse ou amenizasse a prisão que tornou-se a vida capitalista, e, conquistasse uma liberdade, ainda que imaginária, para compensar a falta de liberdade real. É bem verdade que, todo herói está ligado à uma ideologia. Sempre quando é necessário levantar a auto-estima de um determinado grupo ou sociedade e não o tem como fazer por meios concretos, usa-se a figura de um "herói" perfeito, onde todos podem projetar suas expectativas. Como por exemplo, o Super-Homem, que simboliza o "homem-livre" norte-americano. Outro exemplo, é o Capitão América que surgiu durante a Segunda Guerra Mundial. Ele foi responsável por inúmeras vitórias, sua personalidade é marcada pelo "espírito de liderança" e "bom senso", é expressão de ideologia norte-americana segundo a qual os Estados Unidos tem o papel de "líder mundial". Contudo, o verdadeiro herói é aquele que mesmo não dotado de "super poderes", consegue ainda, driblar as crises econômicas, financeiras, políticas e sociais de seu país sem perder a esperança. Esse herói sim, deve ser homenageado e aplaudido de pé sempre que entrar em cena.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

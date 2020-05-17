@@ -1,0 +1,12 @@
+# prompt: Cantar ou não cantar o hino nacional? Eis a questão...
+# score: 560
+# title: Cantar o Hino Nacional, demonstração de amor à Pátria
+Estudantes perfilados, mão direita sob o peito esquerdo, eis que bate uma forte emoção e então começam a cantar. - "Ouviram do Ipiranga as margens plácidas..." - O MEC nos últimos dias encaminhou uma carta as escolas da rede pública e privada de todo o Brasil no intuito de resgatar a tradição de cantar o Hino Nacionalpelos estudantes.
+A carta encaminhada pelo MEC, gerou uma série de discussões, no entanto  cantar o Hino Nacional nas escolas seria sim uma forma de resgatar o civismo e o patriotismo dos estudantes, por muito tempo essa prática era hábito no Brasil e foi se perdendo com o passar dos anos.
+Ademais vale ressaltar que países vizinhos ao Brasil cultivam desde cedo o amor e o respeito a pátria. Cantar o Hino Nacional é uma formalidade que deve ser praticada por todas as escolas de maneira a induzir na educação brasileira o amor a pátria.
+Levando em consideração o que foi exposto cantar o Hino Nacional é apenas uma forma de demonstrar patriotismo, seria interessante acrescentarem a grade letiva matérias que induzissem e cativassem a curiosidade dos estudantes pela a pátria amada.
+# C0: 160
+# C1: 120
+# C2: 80
+# C3: 80
+# C4: 120

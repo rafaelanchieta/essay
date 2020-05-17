@@ -1,0 +1,10 @@
+# prompt: por-que-as-pessoas-mentem-pela-internet
+# score: 6,0
+# title: Verdades e Mentiras
+Nenhuma relação é feita só de verdades.Mesmo os relacionamentos entre pais e filhos, amigos, e empregadores e empregados, a mentira é um recurso importante para que as pessoas sejam valorizadas.A internet trouxe uma possibilidade de relacionamento (o virtual) onde a probalidade de se mentir é maximizada e em grande parte intensificada devido à impessoalidade. É desta ampliação que surgem os motivos para a mentira na internet.
+        Mente-se na internet primordialmente para conquistar o outro modificando-se atributos que são vistos como ideias pela sociedade que sempre estabelece um padrão, seja ele de beleza, de comportamento ou sócio-econômico. A moça que está acima do peso, segundo os padrões impostos, diz em uma sala de bate-papo um peso menor - o mais próximo da perfeição - do que realmente tem. O rapaz desempregado diz que está trabalhando para se livrar da imagem que é usualmente associada a alguém sem emprego. Percebe-se nesses exemplos como as mentiras estão intimamente atreladas ao caráter preconceituoso que se dá nas relacioções virtuais. No entando, deve-se salientar que há pessoas que mentêm - principalmente aquelas que nãoalmeijamtransferir o relacionamento do plano virtual para o real - para satisfazer um desejo de se tornar outra pessoa, viver em um mundo paralelo, criar uma outra personalidade.Apesar desta prática não ser tão comum, ela é benéfica quando é utilizada como um meio para sair de um mundo real tão estressante. Seria uma válvula de escape, pois assim como há aqueles que procuram algum esporte ou outra atividade para relaxar não se deve subjulgar quem mantém uma segunda personalidade no mundo virtual.Ninguém oficialmente diz que mente, mas, segundo pesquisas, mentimos dezenas de vezes diariamente. Há mentiras de várias proporções, porém, como na internet há um distaciamento entre aqueles que se comunicam, sempre há a possibilidade de exagerar cada vez mais e definitivamente, há uma relação proporcional entre mentira, prazer e visão de mundo imposta pela sociedade.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 0,5

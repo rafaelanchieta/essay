@@ -1,0 +1,14 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 5,0
+# title: Os jovens e a ausência de causas de mobilização política.
+Ser jovem ébiologicamente instável, socialmente inaceitável e politicamente problemático. A questão biológica é um fato a que todos hoje têm acesso: os adolescentes assumem comportamentos irresponsáveis, porque as estruturas mentais que inibem respostas intempestivas não se estruturaram. Socialmente inaceitável porque não há como lidar com um ser humano que pensa ser onisciente
+        e por fim politicamente problemático. A política é o campo em que é socialmente aceitável que o jovem exponha a sua tão inacreditável onisciência: a política está sempre errada e ?todo mundo sabe disso?. Porestarazão é que os jovens tendemamanifestaçãopolíticao que não significa que não haja motivos pelos quais se lutar. Se não fossem as manifestações populares não teria havido a Revolução Francesa, nem tampouco a queda da ditadura brasileira.
+         
+        
+        As manifestações populares sempre impulsionaram as grandes modificações sociais e ocorreram pelas mãos dos jovens. O problema é que alguns lutam por ideais não necessariamente visandoobemcomunitárioo que pode ser entendido como falta de causa pelas quais lutar. Lutar pelas razões erradas não torna a lutaerradapode torná-la
+          equivocada, mas jamais errada . Lutar pelo que se acredita é um fundamento da liberdade que deve ser defendido de todas as formas. A grandiosa Constituição Brasileira afirma no preâmbulo que o povo brasileiro reunido em Assembléia instituiu o Estado Democrático, destinado a assegurar o exercício daliberdadevalor supremo de uma sociedade. Isso sim é motivo pelo qual se lutar, garantir o direito à luta.
+# C0: 2,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

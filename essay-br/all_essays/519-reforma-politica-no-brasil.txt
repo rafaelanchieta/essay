@@ -1,0 +1,13 @@
+# prompt: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao
+# score: 5,0
+# title: Reforma política no Brasil
+Hoje no Brasil, eleiçõeséum assunto muito delicado para serdiscutido, devidoa vários casos de corrupção, os cidadãos
+        a cada diadeixade dar atenção a uma questão tão importante como essa. Mas
+        agora , um fator que está sendo discutido é a propósito de fazer uma reforma política no pais. Duas propostas estão sendo discutidas: o voto proporcional misto e o voto distrital. O voto proporcional consiste que cada eleitor terá direito a dois votos, o primeiro em um candidato a sua escolha, e o segundo ele vota em uma lisa de candidatos escolhidos pelo partido. Apesar dos defensores dessa proposta dizerem que essa votação é mais justa, o eleitor mesmo escolhendo diretamente o candidato no primeiro voto, ele já não escolheria diretamente seus candidatos, mas sim uma lista escolhida pelos ?chefões? dos partidos. Já o voto distrital, o país deveria ser dividido em 513 distritos (número de cadeiras nacâmara) onde cada partido poderia ter apenas um candidato por distrito, isso acabaria com
+            essa história de ter que escolher entre milhares de candidatos, reduzindo esse número a no máximo 27 candidatos por distrito (número de legendas no país). Enfim, o voto distrital é um jeito mais simples e maisdiretade escolher os candidatos desejados. O Brasil necessita muito dessa reforma para melhorar a política, e, talvez com isso,
+              a decisão a ser tomada seja mais bem pensada pelo eleitor , que passaria a ter um número menor de candidatos para escolher.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

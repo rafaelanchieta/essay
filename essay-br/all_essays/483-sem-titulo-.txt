@@ -1,0 +1,13 @@
+# prompt: a-sociedade-esta-perdendo-a-batalha-contra-o-crime
+# score: 4,5
+# title: (Sem título 030)
+É notável que o Brasil, infelizmente, possuiosistema de segurança públicaé precárioe,por outro lado,as pessoas criam métodos para escapar da violência. Contudo, os brasileiros estão com
+         os valoresinvertidos, ondea sociedade está submersa num mar de sangue.
+         Uma ONG – Organização Não Governamental –Mexicanalevantou uma pesquisa com as 50 cidades mais perigosas domundo, onde14 delas são brasileiras; essa informação ratifica o histórico da insegurança, mas não é novidade para ninguém.
+         Dessa forma , qual seria a melhor maneira de minimizar a criminalidade no Brasil? No Rio de Janeiro, por exemplo, a medida tomada pelo governo foi ocupar as comunidades com policiais para tirar o poder do tráfico e, consequentemente, a criminalidade desapareceria. Porém, esses profissionais têm outro problema para enfrentar: os baixos salários; e, muitos deles, recorrem à corrupção que acarreta em mais problemas para sociedade. Por fim, uma forma imediatista de diminuir a criminalidade no Brasil é ter mais rigor nas leis como: diminuição damaior idadepenal, prisão perpétua e, em alguns casos, a pena de morte.
+         Entretanto, por mais utópico que pareça, a melhoria da educação seria a única capaz de implantar o amor no coração das pessoas , afinal, “Gentileza Gera Gentileza” como dizia o nosso sábio profeta.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

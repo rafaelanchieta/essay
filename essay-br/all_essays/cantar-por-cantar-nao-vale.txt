@@ -1,0 +1,12 @@
+# prompt: Cantar ou não cantar o hino nacional? Eis a questão...
+# score: 640
+# title: Cantar por cantar não vale
+É conhecimento geral que a educação, principalmente a publica , está passando por serias dificuldades a muito tempo. O que tem é fruto de anos de governos descompromissados com a instrução do povo. Quando se imagina não ter mais nada para piorar, surge do ímpeto de gestores ufanistas uma tentativa de solucionar o caos no sistema educacional com uma medida no mínimo inconveniente.
+Coagir o corpo docente para filmar e obrigar as crianças cantarem é algo pouco eficaz no sentido didático e ilegal no ponto de vista jurídico. O sentimento de patriotismo e civismo surge do sentimento de pertencimento que os indivíduos têm pela nação que residem. Esse sentimento é uma reciprocidade de um Estado que o proporciona o mínimo de bem-estar, além de segurança tanto própria como da família. É nascido e construído, como em algumas nações da Europa em que o apreço pelas instituições governamentais beira ao fanatismo. Um exemplo é a Suíça, todas as casas possuem uma arma e os moradores são em potenciais membros das forças armadas. Diferente do Brasil que a palavra serviço público denota, para pessoas, ineficiência, corrupção e injustiça.
+Do ponto de vista jurídico vem o fato mais grave. O ECA (estatuto da criança e do adolescente ) proíbe a veiculação de imagem sem autorização dos responsáveis. Conseguir a autorização de todos os pais não seria tarefa nada fácil. Infringir a lei pelo suposto "amor à pátria" é contraditório demais. O que deve ser priorizado é o aprendizado como um todo. Melhorando índices básicos, com os de português e matemática. Os quais são pífios, conforme estatística  de órgãos do governo.
+Se a educação melhorar, obrigar os alunos será desnecessário, pois na própria escola saberão que o hino, a bandeira e o selo são símbolos solenes. Os quais serão vivenciados por toda a fase adulta. A final de contas serão pessoas bem-sucedidas e instruídas. Cantar por cantar ou por imposição é algo tosco e retrógrado. Uma sinalização sombria sobre o porvir.
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 120
+# C4: 80

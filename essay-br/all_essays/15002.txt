@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 750
+# tittle: [Redação sem título]
+“Inteligência é a habilidade das espécies para viver em harmonia com o meio ambiente.”. Paul Watson, diretor da fundação Greenpeace, alerta para a sabedoria que existe em conviver de forma sustentável com o meio ambiente. No entanto, no Brasil, essa não tem sido a realidade, uma vez que a floresta amazônica é assolada há décadas com o desmatamento e as queimadas, danos que cresceram em velocidade alarmante no ano de 2019. Diante de tal realidade, é preciso analisar o impacto da produção agropecuária e da falta de ação do poder público,  na manutenção dessa problemática.
+
+Em princípio, cabe refletir a respeito da maior causa do desmatamento: o plantio e a criação de gado. Segundo dados da organização Forest Trends, até 90% das áreas exploradas ilegalmente deram lugar à atividades de agropecuária. Sendo assim, a ação de indivíduos que prejudicam a mata nativa ocorre de forma sistemática, com a invasão de terras públicas e exploração da região para atividades econômicas. As queimadas, portanto, estão intrinsecamente ligadas ao desmatamento, uma vez que são realizadas de forma a esvaziar o terreno de toda sua biodiversidade para que seja aplicada a monocultura. 
+
+Por conseguinte, não há como negar que as ações de exploração econômica ilegal são fortalecidas com a ineficiência do poder público em coibi-las. Isso se evidencia com o crescente índice de focos de incêndio - 60% superior aos três anos anteriores, segundo dados do Instituto de Pesquisa Ambiental da Amazônia  -, apesar do índice de chuvas ter sido superior em comparação ao mesmo período. Além disso, no ano de 2019, diversas medidas que prejudicam a mitigação da situação atual foram tomadas pelo Estado, entre elas o corte de 29,6% das verbas destinadas à prevenção e combate a incêndios, bem como outro corte de 10% previsto para 2020. Essa preocupante realidade pode significar não apenas a manutenção das queimadas, como sua intensificação no futuro. 
+É importante, portanto, reafirmar que para preservar a floresta amazônica,  é imperioso ampliar a ação governamental na região, de forma a combater a agropecuária ilegal. Para isso, o Estado deve tomar medidas imediatas como intensificar as brigadas de incêndio e fiscalizações ambientais, prevenindo e reprimindo ações criminosas, para obter resultados no curto prazo. Em complementaridade, cabe à mídia e ongs ONGs conscientizar a população,  para que atuem juntas pressionando o poder público e garantindo a preservação da Amazônia para as gerações futuras. Só assim poderemos  ser verdadeiramente inteligentes,  convivendo em harmonia com o meio ambiente.
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

@@ -1,0 +1,11 @@
+# prompt: cotas-para-universidades-federais-solucao-ou-problema
+# score: 4,0
+# title: A fuga dos problemas
+Cota racial, religiosa e atualmente ?pública?. O Brasil cria meios de segregação a todos aqueles que desejam ingressar em alguma universidade pública. Se constitucionalmente somos todos iguais, não háo porquêincluir estudantes em sistemas de cotas. Opaisusa o artifício para ressarcir os afrodescendentes cujos prejuízos físicos e morais foram causados no passado pela escravidão.
+         Juntamente, com negros e judeus, agora inclui se 50% das vagas para alunos de escolas púbicas. Nunca se debateu tanto sobre esses "favorecimentos" a determinada parcela da população. O Brasil tenta esconder os problemas visíveisna qual sofre aeducação. A melhor maneira de ajudar alunos com condições financeiras desfavoráveis é melhorando a educação de base.
+         Portanto, cabe aos órgãos educacionais planejar, fiscalizar e executar melhores moldes escolares do país,havendoassim, o acessoasmelhores universidades federais por próprio mérito. Sendo assim, será possível aos alunos aprestaçãode um bom vestibular,a nível deestudantes da rede particular.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

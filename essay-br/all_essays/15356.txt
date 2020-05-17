@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 350
+# tittle: Informação é tudo
+Sabe-se que a gravidez na adolescência vem sendo abortado  abordado como um dos principais assuntos sobre adolescentes . Essa pauta era um tabu a tempos atrás, onde  no qual as meninas eram incentivadas a se casar na juventude e vistas apenas como receptoras e nutridoras dos filhos. 
+De acordo com informações dadas , vê-se que uma boa parte dos jovens não tem acesso à informações sobre os métodos contraceptivos e os pais não os ajudam dando abertura sobre os assuntos por ser para eles constrangidos.  
+Com tudo Contudo, as piores possíveis consequências são o abandono dos estudos, o preconceito e julgamento que as meninas sofrem, além de ter dificuldades de arranjar empregos e outro parceiro. 
+Conclui-se   que deve ser quebrado esse tabu e com a conscientização nas escolas e a orientação dos pais , os adolescentes serão prevenidos e atentos sobre o assunto. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 100

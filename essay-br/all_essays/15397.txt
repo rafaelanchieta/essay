@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 300
+# tittle: Educação sexual
+Uma situação que se mostrou alarmante no cenário brasileiro é a gravidez na adolescência . Inúmeras jovens, principalmente em regiões subdesenvolvidas , acabam engravidando antes de atingir a maioridade ou estar preparadas para a maternidade, tanto financeira quanto psicologicamente. 
+Indiscutivelmente , existem divergências exponenciais entre a porcentagem de adolescentes grávidas advindas de famílias abastadas  e as gestantes de situação financeira carente, já que as consequências de uma gravidez são muito melhor discutidas com meninas que tenham condições de ensino e educação com uma qualidade superior. 
+Adjunto disso vem a questão cultural nas regiões emergentes e subdesenvolvidas, onde   ter muitos filhos é motivo de orgulho . Aliás, com a quantidade de informações ao  as qual quais os jovens têm livre acesso, a exposição a conteúdo sexual é facilitada, o que abala a mentalidade naturalmente fragilizada dos mesmos .
+Em contrapartida, se faz faz-se necessário observar a disponibilização de contraceptivos de fácil acesso que existe atualmente e acaba sendo ignorada . Aliado a isto, iniciativas de mídia como mídias voltadas ao público jovem que tratem das consequências e riscos da relação sexual desprotegida são provados cruciais, como é o exemplo da série "Sex Education". 
+Por conseguinte, o quadro observado pode ser revertido com uma significativa dinamização nas campanhas de conscientização ao uso de preservativos, acrecido acrescido de uma considerável visibilidade à educação sexual,  que deveria ser vista como indispensável atualmente. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

@@ -1,0 +1,12 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: O meu,o seu,os nossos direitos de vida!
+Ao Ao analisar o cenário mundial,  percebe-se que,  a economia está sendo muito pautada,principalmente em nosso país,que vem passando por dificuldades nesse setor,com isso o governo projetou uma reforma da previdências,no entanto para o Brasil é prejudicial,já que está em crise fiscal. 
+
+Tendo em vista esses aspectos, não se pode abordar esse assunto sem citar que a reforma previdenciária é maléfica a classe baixa,que terá a sua contribuição as mesmas das de classe alta ,assim aumentando a desigualdade social.Isso poderia trazer um retrocesso para o país ,bem como retrata a economista e professora da UFRJ ,Denise Gentil:"você pode até reduzir o gasto com a previdência,mas não é só para isso que se deve olhar ,vai haver aumento da pobreza ,e pobreza não é um bom negócio",  Como ela menciona a pobreza não é algo bom e a crise econômica não é a única  e com essas transformações a não  provavelmente seria como a Africa Do Sul. 
+Em virtude dos fatos apresentados,a reforma da previdência de intolerância aos pobres,não obstante amparar os gastos do governo até então,a possibilidade de aprovação é baixa,tem que ter mudanças drásticas. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

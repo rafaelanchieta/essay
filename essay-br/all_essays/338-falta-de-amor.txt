@@ -1,0 +1,14 @@
+# prompt: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo
+# score: 4,5
+# title: Falta de Amor
+Sete de abril de2011, umapergunta
+         venhoem nossascabeças,por que tanta maldade?
+         O massacre em Realengo fez o Brasil ?chorar?, sem dúvida esse crime deixou bemclaro a faltade segurançaquesomos submetidos .
+         Tragédias como a deRealengo, jáaconteceram em outros países,ou seja, na Escócia e algumas noEstados Unidos, por exemplo o famoso massacre de Columbine High School, em Littleton, no Colorado. Notemos bem que expressões de violência em escolas não são raras, o grande problema é que antes do acontecimento em Realengo, nóspoderíamos tomaresses outros episódios como exemplo e assegurarmos nossas escolas,
+         mas deixamos pessoas inocentes morrerem para depois tomarmos decisões. É claro que a falta de segurança não é o único problema, também temos o problema do "bullying", a famosa violência que vemmascarradana forma de "brincadeira", elagera não só discriminação, humilhação e quedado altoestima, mas também suicídio etragédias, ela é perigosoe comum e demoramos muito para termos consciência disso, de tal modo
+         que pessoas precisaram morrer para aprendermos. Não temos dúvida que precisamos mudar esse quadro, devemos conscientizar a população para não praticar o "bullying", asautoridades precisam colocar segurança de qualidade nas escolas como sistemas de identificação, roletas e detectores de metais, e também eliminar a facilidade de ter a posse de armar, necessitamos ter acompanhamento especialprapessoas que sofreram "bullying", por outras palavras, precisamos acabar com a violência e proclamar o amor, que é o que falta no mundo.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

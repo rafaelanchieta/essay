@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 700
+# tittle: A crise
+A Declaração Universal Dos Direitos Humanos-promulgada pelas Organização das Nações Unidas em 1948-garante a todo indivíduo o direito à segurança e ao bem-estar. No entanto, a atual situação do sistema carcerário brasileiro, seja pela superlotação, seja pelo domínio dos presídios por facções criminosas, vai em oposição a esses direitos. Logo, urge que medidas sejam impostas para atenuar esse revés.
+
+Em primeira análise, cabe pontuar que a superlotação dos presídios é um dos principais causadores dessa problemática. Conforme dados do Estadão, jornal brasileiro, a população carcerária cresceu, entre 2002-2014, mais de 66% no Brasil. Nessa lógica, é indubitável o papel da superlotação das cadeias brasileiras nessa situação, visto que favorece a ocorrência de brigas, mas também a falta de condições dignas de vida para os detentos, haja vista que as estruturas dos presídios não estão adaptadas para tantos presos. Dessa forma, é necessário que medidas sejam postas em prática para mitigar esse quadro. 
+
+Além disso, é importante destacar o papel do domínio dos presídios por facções criminosas nessa situação. De acordo como  com o O Globo, jornal de alcance nacional, muitos estados, como o Ceará, apresentam seus presídios controlados por facções, por exemplo, o Comando Vermelho. Nessa perspectiva, é inexorável que o controle de presídios é um dos principais causadores da crise no sistema penitenciário, uma vez que as cadeias brasileiras tornaram-se "quartéis do crime", onde as facções controlam o tráfico de drogas, o convívio entre presos e a vida dentro e foram dos presídios. Portanto, ações devem ser realizadas para reverter esse quadro. 
+É evidente, dessa forma, que medidas devem ser colocadas em ação para combater a atual situação carcerária brasileira. Sendo assim, o Exército, em parceria com ONGs , deve combater o domínio dos presídios pelas facções, por meio da transferência de traficantes para presídios de segurança máxima e separação de membros de grupos criminosos, mas também realizar grupos de socialização, por meio de palestras e debates, a fim de combater a superlotação e o uso de presídios como "quartéis do crime". E, dessa forma. os direitos garantidos pelas Nações Unidas sejam postas em prática no Brasil. 
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 100

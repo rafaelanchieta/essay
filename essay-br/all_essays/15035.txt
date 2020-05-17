@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: O último suspiro da Floresta Amazônica
+Atualmente, o aumento do desmatamento aliado com o aumento no número de focos de calor população na Amazônia   está preocupando todos os brasileiros, principalmente devido aos impactos gerados nos ecossistemas como liberação de dióxido de carbono na atmosfera, na morte da fauna e da flora, alterando a alimentação e geração de renda dos povos tradicionais . Além disso, isto representa a perda do potencial para desenvolvimento de medicamentos pela ciência. Além disso, a fumaça é responsável pelo aumento de problemas respiratórios entre jovens e idosos. A prática de queimadas ainda é recorrente, pois a população ainda acredita que as queimadas é a maneira mais rápida para abrir áreas e aumentar a produtividade agrícola. 
+
+Historicamente, o desmatamento é utilizado pelos povos tradicionais para implantação das suas roças. Além disso, em 1970, o Governo Militar incentivou a ocupação da Amazônia, principalmente de sulistas, com o slogan “Ocupar para não entregar”. Nessa época, na abertura de florestas utilizava-se o machado e  posteriormente  esta área era queimada, pois acreditava que esta era a maneira mais rápida de abrir terreno e valorizar a propriedade. No entanto, esses ensinamentos foram passados para as próximas gerações, o que dificulta a redução destas práticas. Algumas creem que a fumaça afeta somente o outro e não a minha família. 
+Em pleno século XXI,  existe o mito de que as cinzas favorecem aumento na produtividade agrícola, então será necessário aplicar menor quantidade de adubo na área. Porém, uma parte dos nutrientes permanece no solo e outra parte é volatilizada para a atmosfera e após três anos, a concentração desses elementos no solo reduz como consequência da colheita das plantas . Por isso, observa-se atualmente,  um aumento na quantidade de áreas pastagens   degradadas e propriedades subutilizadas. 
+
+Diante disso, conclui-se a queimadas e desmatamento é uma prática cultural brasileira . Portanto, recomenda-se que a Empresa Matogrossense de Pesquisa e Extensão Rural - EMPAER, órgão extensionista, elabore cursos práticos relacionados às técnicas existentes para aumentar a produção sem desmatar novas áreas. Além disso, o Instituto Brasileiro de Meio Ambiente e Recursos Naturais Renováveis - IBAMA deverá investir em fiscalização das queimadas no Brasil. Com isso impõe-se a sociedade um ambiente equilibrado e vida saudável  e também o dever preservá-lo para os   presentes e futuras gerações.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

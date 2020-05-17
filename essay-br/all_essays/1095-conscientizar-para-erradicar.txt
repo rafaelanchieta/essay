@@ -1,0 +1,14 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 4,0
+# title: Conscientizar para erradicar
+“A tolerância é a melhor das religiões”. A frase dofilósofoVictor Hugo já deixava nítido o respeito que devemos ter com quaisquerreligião independentede acreditar em uma e criticar a outra. Temos queporem mente que críticas nãoéo mesmo que intolerância.
+         No Brasil, há uma diversidade imensa de religiões, que vai desde a católica, que abrange cerca de 64% da população, até a do candomblé que apresenta 0,3% de seguidores. Essesdados são de acordo com ocenso do IBGE dedois mil e dez (2010).
+         Diante dessespontosé fundamental perceber que a intolerância
+         deve ser tratada como uma regra, que não pode serrompidajá que muitos passam do limite quando o assunto é "aceitar" a religião do próximo. Agredir,descriminaralguém por conta de sua religião é um crime,maspor conta de não ser tão abordado namídiamuitos se calam com receioque aconteça algo.
+         Dessaformaé possível perceber queé necessárioações que possam
+         amenizar este fato. É preciso que o governo juntamentec a mídia, criempropagandas que abordem essetemadeixando bem explícito quealeis que punem esse tipo de crime. Colocar o número de denúncia em locais estratégicoscomo: hospitais, prefeituras, órgãos públicos. Também é uma opção viável.Informar a população é o melhor meio para erradicarestecrime.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

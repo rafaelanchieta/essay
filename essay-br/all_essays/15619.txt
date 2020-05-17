@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 700
+# tittle: coronavirus: a importância da ciência para  a sociedade
+No século XVI, a Europa presenciou uma das maiores pandemias da história, que ficou conhecida como ''Peste Negra"', e dizimou cerca de um terço da população local. No contexto contemporâneo, uma pandemia ainda pode ser considerada uma ameaça para a humanidade,,  visto que os poucos investimentos na ciência pode comprometer a saúde humana ,  e tornar caótico,  o cenário político-econômico mundial. Logo, é necessário resolver essa inercial problemática. 
+ Em primeira análise, vale ressaltar a ilegitimidade dos órgãos governamentais  mediante aos os investimentos na área científica. No poema ''No Meio do Caminho'', de Carlos Drummond de Andrade  são mencionadas repetidamente pedras no decorrer dos versos, as quais podem ser consideradas obstáculos para o avanço da sociedade. De maneira análoga, infelizmente, há o descaso público-administrativo na busca por curas de doenças e de vírus , estes que têm preocupado o sistema público de saúde com um grande número de pessoas infectadas pelo covid-19, no cenário atual. 
+"É no problema da educação que assenta o grande segredo do aperfeiçoamento da humanidade", disse o filósofo Immanuel kant. Sob esta perspectiva, percebe-se que a educação é de fundamental importância para o presente e futuro,por agir como solução mais ágil de problemas, como esse . Ademais, as relações internacionais podem ser afetadas e ocasionar crises financeiras, por abalar o mercado, por falta de mão de obra e/ou recursos. 
+É imprescindível, portanto, que medidas devem  ser tomadas. Sendo assim, os Governos mundiais devem promover iniciativas que financiem as pesquisas e desenvolvam vacinas de forma mais eficaz . Além disso.  o Ministério da Ciência, Tecnologia, Inovações e Comunicações, como um conselho importante na sociedade , deve investir nas instituições de pesquisas, por meio de propostas ao Governo Federal do Brasil , com o objetivo de avanços científicos no território nacional. Dessa forma, espera-se alcançar uma civilização integrada. 
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 100

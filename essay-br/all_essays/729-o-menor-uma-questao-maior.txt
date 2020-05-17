@@ -1,0 +1,13 @@
+# prompt: como-resolver-o-problema-da-criminalidade-infantil-em-nossa-sociedade
+# score: 5,5
+# title: O menor uma questão maior.
+O grande abismo existente na sociedade, aliado adesestruturação familiar e afalta de uma política séria que trate
+        o menor como uma questão maior, tem colocado em chequeas leis existentes
+        para estes . É frequente casosde menores infratores nos noticiários, infelizmente cada vez mais com crimes que assustam até mesmo policiais acostumados com a lida comcriminosos perigosos. Surge então a discursãode que a culpa do ocorrido é da condecendênciada lei para com os menores. Pede-se por tanto amudança da lei da maioridade penal para que possamos colocar mais gente na cadeia, como se com isso fosse solucionado a problemática.
+          Entretanto, na verdade, as causas precípuas estão alicerçadas na família que vive uma crise de valores, na sociedade segregadora e na ausência de educação. Porém isso tudo parece inaudível para alguns políticos que preferem gastar com repressão do que investir em educação, pois esta liberta e transforma indivíduos em cidadãos . Não é necessárioa mudança da lei e sim que se cumpra a existentecomo a que preceitua nossa carta magnade 1988 no seu artigo 6º, dos direitos sócias aeducação, asaúde, a alimentação entre outros que em suma trásdignidade ao homem
+            . É mister romper com a cultura tradicional de combater apenas as consequências, sem atuar na causa, tornar o indivíduo parte da sociedade e não aparte desta.
+# C0: 0,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

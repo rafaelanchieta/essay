@@ -1,0 +1,11 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 350
+# tittle: analfabetismo por conta do governo
+Mesmo que,  o analfabetismo esteja diminuindo  a cada dia que passa, muitas pessoas ainda sofrem com este problema, principalmente pessoas de áreas de extrema carência com pouquíssimos acessos à educação básica. Será que são essas pessoas que não querem o acesso a educação ou o governo que não disponibiliza a devida educação a eles ? 
+De acordo com o portal de informações G1.com, em 2017, apenas o estado do ceará tem 15,2% da população analfabeta, que são 1,34 milhão de de pessoas; a maior parte dessas pessoas tem um curto acesso ao ensino básico escolar.  Mesmo essas pessoas expressando   o desejo de ser alfabetizados, não podem . Por que não há unidades escolares perto de suas casas; o governo acaba se preocupando mais com a crise econômica, política, etc, ao invés de se preocupar com o número de pessoas que não tem alcance a educação básica . Por isso é o governo   que não disponibiliza a devida educação à povos de áreas carentes . Mas mesmo assim, ongs ONGs, muitas das vezes sem o mínimo apoio do governo vai a esses lugares e leva o ensino/alfabetização a essas pessoas . Sem cobrança sem nada em troca, apenas por amor e vontade de ajudar ao próximo. 
+Tendo em vista os aspectos observados, percebesse  percebe-se que: mesmo o governo não enviando unidades escolares a locais carentes, com níveis altos de pessoas analfabetas, ongs  ONGs se disponibilizam/responsabilizam a levar á a alfabetização à essas pessoas, as incentivando   a ter um conhecimento cada vez melhor, e através  por meio disto muitas pessoas acabam não só concluindo o ensino médio  mas também concluindo o ensino superior e tendo uma forma de vida melhor. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 0

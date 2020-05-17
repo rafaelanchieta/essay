@@ -1,0 +1,11 @@
+# prompt: Qualificação e o futuro do emprego
+# score: 480
+# title: Qualificações para o mercado de trabalho
+Anos após anos uma vaga de emprego demandar cada vez mais qualificações do empregado, que na maioria das vezes concluíram o curso superior e são incapazes de trabalha nesse ramo e optam por um emprego informal. Esse fenômeno ocorre porque o mercado de trabalho se modifica constantemente de maneira que algumas profissões são extintas pois são ocupadas por maquinas .
+No filme "Estrelas além do Tempo", de 2016, contar a história de três calculadoras humanas , que eram muito requisitadas por centros de pesquisa antes dos surgimentos das modernas calculadoras eletrônicas e dos computadores. No longa-metragem, vemos a personagem Dorothy Vougham que ao saber que a Nasa tinha comprado um novo computador que fazia 24mil cálculos por segundo, o que colocava seu emprego em risco, Dorothy resolveu aprender a programar esse mesmo computador e ensinar suas companheiras.
+No mercado de trabalho e necessário está sempre se adaptando pois ele e instável fazendo com que algumas profissões sumam enquanto novas apareçam como gestores de mídias sociais .
+# C0: 80
+# C1: 120
+# C2: 120
+# C3: 80
+# C4: 80

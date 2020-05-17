@@ -1,0 +1,10 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 3,0
+# title: Os verdadeirosHeróis
+Crer em heróis é uma necessidade de todos os povos, para dar-lhes esperança e fé. Porém alguns heróis são exagerados e as pessoas podem acabar não acreditando no herói  ou pode cegar o povo de uma realidade em que não existe, dando-lhes uma falsa impressão . Alguns heróis foram criados para seremcomercializados, muitas vezes passando uma impressão errada para a população fazendo as pessoas acreditarem em coisas que antes não acreditavam.Os heróis são,muitas vezes, pessoas inventadas, que não realmente existem. Deveriam serpessoas que realmente existiram, como um símbolo, como é o caso de Tiradentes que foi umapessoaque participou de ummovimento,talvez elenão teverealmentemuita importância nestemovimento,talvez eletenha sido injustiçado, porém hoje ele é visto como um herói nacional que lutou conta tirania que havia na época.
+           Ter heróis em mente da população é ótimo, porém todos deveriam ser como Tiradentes,pessoas que realmente existiram, que sirva de exemplopara o povo e que elerealmenteacredite em seus heróis, e que não passe falsas esperanças.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

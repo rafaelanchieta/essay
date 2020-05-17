@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 600
+# tittle: [Redação sem título]
+O romance "Vidas secas", do escritor brasileiro,  Graciliano Ramos, retrata problemas, como a fome, vividas por uma família de retirantes. Embora o livro seja uma ficção, a fome no Brasil é um enorme problema, uma vez que,  essa atinge grande parcela da população, seja,   pela falta de acesso aos alimentos ou por questões socioeconômicas. Nesse contexto, evidencia-se a necessidade de mobilização das autoridades competentes a fim de reduzir essa problemática. 
+
+Em primeiro plano, a dificuldade do acesso ao alimento é um impulsionador da fome no Brasil. Mesmo o país sendo um grande produtor de alimento  a fome ainda é um problema, visto que,  a concentração de terra, originadas as capitanias hereditárias, apresenta no cenário atual uma questão de desigualdade social. Como resultado disso,  a população em extrema pobreza fica impossibilitada,  de adquirir o básico necessário para alimentação humana, haja vista,  que a utilização das propriedades latifundiárias estão destinadas a produção em grande escala para a comercialização. 
+
+Em segundo plano, a questão socioeconômica impossibilita a retificação da fome no país. O sociólogo Adam Smith,  diz que a pobreza extrema não pode ser admitida, pois isso gera uma carência no mercado consumidor. Nessa analogia, nota-se que a fome no Brasil é uma consequência da baixa renda, pois, no mercado consumidor atual, o dinheiro é o único meio de adquirir algo, apresentando um cenário de fome para aquele que não possui uma renda necessária para compra de comida. 
+Em suma, são necessárias medidas que minimizem a fome no Brasil. Deste modo, cabe ao Ministério do Desenvolvimento Social e Combate à Fome,  proporcionar uma parceria com empresas de grande porte, de maneira que os impostos sejam arrecadados em forma de cestas básicas  a fim de distribuir às famílias carentes. Além disso, cabe ao Poder Legislativo,  ampliar as políticas públicas destinadas a população de baixa renda com o intuito de diminuir a desigualdade social existentes. Só assim,  o país poderá democratizar o alimento, e a fome estará presente apenas na ficção.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

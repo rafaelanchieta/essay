@@ -1,0 +1,11 @@
+# prompt: Gravidez precoce: um problema?
+# score: 300
+# tittle: Gravidez na Adolescência em Evidencia no Brasil
+O grau de Informação para esses adolescentes que tem Gravidez precoce entre 12 a 19 anos é baixo, pois também é questão Cultural e Social. 
+Existem alguns fatores que contribui  contribuem para altas taxas de gravidez na Adolescência. Hoje em dia as famílias estão muitas ocupadas com trabalho e meio social e com meio Tecnológico e acabam perdendo tempo, que poderia ser destinado ao momento familiar e deixando que a Educação dos seus filhos sejam terceirizadas.  Outro fator é a falta de conhecimento da sexualidade desses adolescentes  não serem conscientizados pela família, Dialoga entre os filhos mostrando a responsabilidade e consequências que terão , além disso podem adquirir Doenças Sexualmente Transmissíveis, A qualidade de vida baixa também influencia para o aumento desse Índice, pois muitas delas abandona os estudos, casa dos Pais para se envolver na Prostituição e por serem Adolescentes inexperiente sem Informação adequada acabam ficando gestantes, mudando toda sua rotina, e assim passando até dificuldades financeiramente,, por sua vez muitas delas traz problema emocionais e transtornos psicológicos. 
+Dessa forma o Governo poderia   criar programas de incentivos, e informativos educacionais sobre sexualidade para diminuir esse índice, e não teria tanto impacto na Saúde Pública, e a s famílias dialogar entre os filhos abordando riscos e consequências e responsabilidades, usar a mídia e a tecnologia como principal fonte de conhecimento e Informação não só para os adolescentes mas para toda população conscientizar. 
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

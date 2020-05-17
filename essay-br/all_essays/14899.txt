@@ -1,0 +1,15 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 370
+# tittle: Inanição e outros maus hábitos
+Segundo as teorias de Estratificação social de Karl Marx e Max Weber, a sociedade ao dividir-se em grupos de pessoas com interesse mútuo  sendo elas: castas, classes ou de estamento, inevitavelmente trazem o desnível da igualdade entre os indivíduos. Pode se dizer que essa desigualdade é oriunda apenas do dinheiro que falta no convívio diário do indivíduo, ou aparece também quando o que se tem pra para comer já não alimenta? 
+Crimes conhecidos e bastante usuais nas grandes e pequenas cidades brasileiras são os de furto ou roubo de alimentos que sempre trazem à tona a discussão de conceitos e pautas morais a respeito da linha tênue que configura o crime ou admite a necessidade. 
+
+Como visto no livro '"The Power Of The Habit"'  em que o autor Charles Duhigg discorre em alguns de seus capítulos a respeito de como um único objeto   dito "angular", pode afetar centenas de outros fatores, como: indivíduos, corporações e até grandes redes, e que esses objetos ao serem revertidos e ou alterados,  movem toda uma cadeia de adversidades próximas, mudando todo o corrente cenário por completo. 
+Roubo, furto, saúde prejudicada, cidadãos mais fracos e desinformados. Problemas sociais que poderiam ser amenizados com a distribuição correta de alimentos e administração do dinheiro público, seja baixando as taxas cobradas aos comércios das regiões de maior estatística ou voltado a leva de alimentos as zonas mais críticas, aos territórios de extrema pobreza e as famílias em risco. 
+
+Outrossim, como o psicólogo Abraham Maslow postulava em sua teoria da Pirâmide das necessidades  já no primeiro nível as necessidades fisiológicas  são imprescindíveis para o indivíduo, para que dessa forma,  se sinta seguro e digno. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 50
+# C4: 20

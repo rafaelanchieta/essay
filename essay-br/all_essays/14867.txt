@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: Por uma distribuição melhor
+É de nosso  conhecimento que a fome no Brasil é uma das principais causas de desequilíbrio situacional , dentre os demais podemos  citar fatores que formam essa realidade como o próprio desemprego e a falta de equilíbrio social existente em muitos lugares no país. 
+
+Dentre as causas que levam a essa realidade de muitos passarem fome,  são oriundos diversos problemas como o desemprego  que na maioria dos casos é gerado por falta de incentivos e contratações de setores como os privados, em que empresários usem a mão de obra informal ou contrate bem poucos  , visto que a mesma  ainda é cara aqui no Brasil e os pequenos empresários não têm ainda condições de contratar por estarem começando seus negócios. 
+
+Outro fator que determina para resultados de situação de fome é a falta de política do destino de alimentos, visto que seu desperdício ocorre em muitos lugares como restaurantes, refeitórios de muitas instituições de ensino, e também em centros de distribuição de verduras e frutas, onde no qual neste último o valor nutricional é colocado em segundo plano, pois visa-se o bom aspecto para que seja exportado ou comercializado para os principais supermercados do país, os demais alimentos então são simplesmente descartados no lixo. 
+Com essa analise , é importante vermos  como a fome é o resultado de principais problemas que vão atingindo o Brasil, sendo que muitas famílias não têm como obter meios necessários em adquirir alimentos de qualidade para sua mesa. É preciso que se gere uma política educacional a respeito de como vamos  distribuir melhor nossa  renda oriunda de impostos, como também boas orientações por parte do governo de como instituições, empresas, dentre outros,  vão destinar os alimentos que produzem, sendo assim vai resultar em uma melhora de situação em nosso  quadro social e, portanto, menos desigualdade. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

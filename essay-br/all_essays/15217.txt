@@ -1,0 +1,28 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 240
+# tittle: VACINAÇÃO: É realmente importante para a sociedade?
+VACINAÇÃO: É realmente importante para a sociedade? 
+
+
+
+É notório a importância das vacinas para a sociedade e o tema é traz inúmeras divergências de opiniões entre o governo e os pais. 
+
+Entre tantos motivos relevantes, temos: aspectos favoráveis e
+
+contrários a esse ato por parte da população.
+
+Sabe-se que vários grupos, principalmente profissionais da área da saúde, lutam para que este esse procedimento ocorra da forma mais abrangente possível  tendo como justificativa o alto índice de contaminação no Brasil.
+
+Por outro lado, alguns pais são contra a imunização que, segundo eles, poderia afetar negativamente a população, contaminando em vez de prevenir as doenças.  
+
+Segundo dados levantados por ONG’s ONGs  que acompanham o avanço das doenças contagiosas no Brasil, milhares de pessoas são contaminadas todos os anos no Brasil justamente por falta de vacinação. 
+A vacinação é uma forma de proteger, principalmente as crianças, que são as mais vulneráveis, e pode contribuir para o controle mais efetivo das patologias transmissíveis. 
+
+Por outro lado, sabe-se que é necessário um trabalho enorme de conscientização, pois enfrenta grande resistência de algumas pessoas que não têm conhecimento correto sobre o tema. 
+
+Conclui-se então  que a discussão em torno da vacinação deve se estender por muito tempo até que que se chegue a um consenso e a sociedade consiga compreender a importância do assunto. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 20

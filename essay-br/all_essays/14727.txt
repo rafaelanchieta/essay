@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 500
+# tittle: O preocupante cenário carcerário brasileiro
+O sistema prisional,  é uma questão que vem gerando bastante polêmica e notícias para jornais, imprensa e redes de comunicação, devido aos diversos problemas que acontecem dentro dos presídios brasileiros, tais como: mortes, rebeliões, proliferação do tráfico, condições desumanas, entre outros. Com sua implantação na França, em 1971, o estabelecimento de reclusão em sistema prisional para medidas contra crimes penais ganhou força, sendo assim, adotado em todo mundo. 
+
+O Brasil possui a terceira maior população carcerária do mundo, ficando atrás apenas dos Estados Unidos e da França China, de modo que,  40% dos presos brasileiros são provisórios e aguardam o lento sistema judicial brasileiro , o que leva à superlotação de celas, condições desumanas e deixando cada vez mais de lado a implantação de ressocialização dos mesmos  na sociedade, que segue cada vez mais falha, devido a reincidência dos presos após determinado período. 
+
+Ao contrário do que se pensa, o aumento de encarcerados participantes de facções criminosas que controlam o tráfico e o crime nas ruas de dentro das prisões, é um ponto que vale ser ressaltado. A superlotação segue em alguns presídios como estratégia para domínio e liderança,  devido à falta de funcionários e estrutura adequada do local. O excedente número de presos e violação dos direitos humanos devido condições irregulares do qual se mantém o detento, acabam que, por falta de recursos para atender a demanda inserida, levam em muitos dos casos,  que os presos recorram ao judiciário a serem colocados sob liberdade devido violação de sua integridade humana, o que resulta em uma falha e incompleta medida penal. 
+Dentre inúmeras razões e argumentos sobre o assunto, vale apostar em reforma de presídios, oferecendo espaços para integração educacional, revisões dos códigos penais, criação de medidas alternativas e avaliação da complexidade e grau do crime, incluindo o aumento de audiências de custódia e acelerando os julgamentos dos detentos. Algumas opções como trabalho comunitário, uso de tornozeleiras e medidas mais eficazes para a ressocialização destas pessoas na sociedade, baseada no acompanhamento em longo período para garantia, podem ajudar à combater este cenário que encontra-se precário e preocupante. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,10 @@
+# prompt: o-conflito-entre-geracoes-e-a-convivencia-social
+# score: 3,0
+# title: Antiga Geração: Os Olhos do Mundo.
+As gerações apresentam suas diferenças muito grandes hoje em dia. Os jovens somente andam com jovens, e o restopraeles não tem importância. Se formos comparar antigamente e hoje no caso da convivência, é algoquase queimpossível de se ver. Você observa que não se respeita mais o que é antigo ou os que são antigos, não se busca sabedoria, ou até mesmo a geração antiga é considerada chata, desnecessária, e irrelevante.
+        Na maioria das vezes, observa-se que não se dá valor àqueles que trabalharam duro para fazer ou saber o que se tem hoje. Por issose vê má educação, conflitos entre pais e filhos, e falta de visão do futurona maioria da população atual.O grande defeito doBrasil, ébasicamente estar conformado com tudo. É não ter um governo bom, não ter um bom ensino, não ter justiça de trabalho, e outros itens que fazem, e continuará fazendo, com que oBrasil, não saiadessa posição de subdesenvolvidoque é.A previsão de um país emergente, estácada vez mais longe, damos passos pequenos, e o caminho está aumentando. Mas se por algum milagre,se abrisse os olhos dos brasileiros, veríamos que temos muito mais a valorizar, e que diferente de outros países, temos riquezas grandiosas capazes de revolucionar o que tanto gráficos, e tabelas mostram do nosso país.
+# C0: 0,5
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

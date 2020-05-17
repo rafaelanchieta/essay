@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: Um novo futuro é possível
+Peter Singer,  afirma em seu livro “Libertação Animal” que a única dieta aceitável é a vegetariana  . Pois bem, neste ano de 2019, até o mês de setembro, o Brasil apresentou aumento de 60% nas queimadas, ou seja, focos de calor na Amazônia, comparado ao mesmo período dos últimos três anos. Estas queimadas são decorrentes de locais desmatados, para criação de gado e agricultura. Prática ultrapassada, a qual ameça a preservação da amazônia. Nesse contexto, percebe-se a configuração de um grave problema ambiental de contornos específicos, em virtude de descaso político e falta de conscientização da população. 
+
+Primeiramente, o Brasil possui uma legislação relativamente bem desenvolvida para proteção da Amazônia. Porém, não existe o comprimento efetivo desta. O governo federal alega falta de verba para isto e outros fins. Mas quando foi para renovar os recursos do fundo Amazônia,  preferiu desacorda-se com Alemanha e Noruega, principais investidores do fundo, que auxilia na preservação da floresta. 
+
+Ademais tem a conscientização da população,  que, numa boa parcela, vive em um modelo de consumo que faz obrigatório o consumo diário de carne. Sem se importar se a mesma  é advinda de um pasto desmatado na amazônia. Estas pessoas, no geral, desconhecem, primeiro exemplo exemplo, o fato da Amazônia ser responsável por boa parte das chuvas no sudeste e centro-oeste do Brasil, evitando as terríveis secas. Isto se dá pela evapotranspiração das árvores. Segundo exemplo, que reforça a importância da Amazônia: as queimadas liberam CO2  responsável pelo agravamento do aquecimento global. 
+Portanto, para a preservação da Amazônia urge que o governo federal reveja seus posicionamento e volte a garantir recursos estrangeiros para cuidar da Amazônia, com isto, invista mais em fiscalização ambiental evitando queimadas e desmatamentos. Finalizando, cabe ao ministério da educação, meio ambiente e agricultura realizarem campanhas de conscientização da população, junto às escolas, por meio de palestras de nutricionistas e profissionais afins sobre o impacto da nossa alimentação, principalmente de carne, e hábitos em geral para o meio ambiente, somente assim formaremos  cidadãos capazes de manter o planeta Terra habitável para as próximas gerações. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

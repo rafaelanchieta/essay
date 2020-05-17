@@ -1,0 +1,12 @@
+# prompt: Criptomoeda: tecnologia e revolução econômica
+# score: 480
+# title: Segundo Zygmunt Bauman, sociólogo polonês
+Segundo Zygmunt Bauman, sociólogo polonês, a falta de solidez nas relações sócias , políticas e econômicas é característica da "modernidade líquida" vivida no século XX. Somado a isso, tem-se o cenário desafiador dos riscos gerados pela nova economia virtual. Ocorrendo, devido o despreparo da população e é mantido pela ineficácia estatal.
+Nesse viés, o despreparo populacional vem desde o final do século XX, após a guerra fria , no qual se deu início a Revolução Técnico Cientifica , ou seja, os avanços tecnológicos. Com essa falta de conhecimento , as pessoas se tornam vulneráveis, podendo sofrer não só com roubos de dados mas também com prejuízos econômicos, pelas moedas virtuais, ou criptomoedas, como o Bitcoin. Portanto a escola deve fornecer uma orientação, tanto para os familiares como para os jovens, sobre os riscos causados pelas moedas virtuais.
+Além disso, a incapacidade estatal no ato de coibir os crimes potencializados pelas criptomoedas dificultam ainda mais essa realidade. Todavia, isso é consequência da ausência de aparatos tecnológicos para o combate tanto a pirataria quanto ao tráfico online. Para isso, foi feito o Marco Civil da Internet para que as pessoas possam ter sua privacidade garantida, por meio da proteção contra sites perigosos e assim essas moedas possam ser utilizadas com mais segurança.
+Desse modo, torna-se necessário propostas para melhorar o cenário desafiador dos riscos gerados pela revolução econômica virtual. O Estado - agente responsável pela ordem social -, deve promover o incremento da polícia técnica, por meio e parceria público-privadas com concursos para que a busca dos efetivo crimes virtuais (como a pirataria, roubo de dados e de criptomoedas) seja efetivada com sucesso e passem a não ocorrer mais.
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 120
+# C4: 80

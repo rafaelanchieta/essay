@@ -1,0 +1,14 @@
+# prompt: e-justo-proibir-o-uso-do-celular-na-sala-de-aula
+# score: 7,0
+# title: Proibir ou não?
+Vivemos em um mundo em que os avanços tecnológicos facilitam cada vez mais nossasvidas, hoje-em-dia, por exemplo, inúmeras pessoas têm um aparelho celular.
+        Em meio a tudo isso , são os adolescentesquem mais aproveitamdessas tecnologias. Mas será que eles sabem quando e como usufruir dessas inovações?
+        O uso do aparelho celular nas escolas vem gerando polêmica na sociedade, algumas instituições proíbem, outras não. Não apenas os telefones, o uso do boné, utilizado quase sempre por meninos, é também assuntopra discusão. É muito importante que o estudante saiba que ao adentrar na escola ele deve respeitar as normas, o que nem sempre acontece, pois muitos desrespeitam as regras e acabam se comportando como se estivesse em casa. O uso do aparelho móvel é muito importante, por exemplo, em caso de urgência,ele facilitamuitaacomunicação, por isso,não há problemas, desde que o jovem guarde-o no bolso ou na mochila esó utilize-ose realmente for preciso e com a autorização dos professores. Já o boné é, sem dúvida,
+          uma falta dedesrespeito, noprocesso de comunicação é muito importante a interação entre as pessoas, digamos que olho no olho, e o usodesteacessório, pode atrapalhar muito acomunicação, écomo se o aluno utilizasseóculos escurodentrodesala.
+          Os pais devem conversar com seus filhos e ajudá-los a terem consciência de que tais acessórios devem ser usados de maneira adequada e no local apropriado, as instituições de ensino devem também orientar os alunos, para que eles passem a respeitar as regras existentes e evitar assim transtornos como pornografia em suas variadas formas, a prática de "colar" nas provas, dentre outros . Nesse sentido, torna-se necessário o respeito com as pessoas próximas e com o localque se esteja.
+              Nosso país decontrasteprecisa de nós, cidadãos brasileirospara emergir da situação de terceiro mundo.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

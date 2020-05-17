@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: A gravidez passa o filho não
+Se a sociedade não muda o erro se repete.   É preciso esclarecer a mulher,  que essa parte do ciclo da vida não mudou. E desde que o mundo é mundo está com a mulher o dom da vida. É ela que gesta, pari, amamenta e cria. Logo, deve-se orientar que a responsabilidade maior fica com a genitora e isso ninguém pode mudar. Ela terá que disponibilizar no mínimo dez anos de sua vida para que seu filho conquiste uma independência mínima. Como tomar banho, se arrumar, se alimentar sozinho, arrumar suas coisas, e ter uma rotina. Até que chegue essa fase, ele precisará de ajuda para tudo. Será totalmente dependente do adulto. 
+
+Além da estrutura familiar a criança também precisará da financeira, filho é caro. Existem hoje no mercado todo tipo de anticonceptivos para que não ocorra gravidez precoce. Por que não usar? Já que além de prevenir de uma gestação indesejada também previne de doenças sexualmente transmitidas. Uma AIDS não tem cura! É fácil para o homem, a mulher engravida, ele dá uma pensão mensal e pronto! Quem vai abdicar de seus projetos e sonhos para ser mãe? A menina! Não é justo! Se ela hoje tem o poder por que não usa? 
+
+Todo mundo hoje tem acesso à informação, ninguém é mais inocente. Todos sabem como se faz um bebe e como não faz. Por que insistir no erro? Gravidez precoce é risco de vida para a mãe e o feto. As que desistem da missão recorrem ao aborto clandestino que o risco de morte e lesão é bem maior, além de ser um crime. Segundo o Hospital Maternidade Tsylla Balbino em salvador, de cada dez gestantes atendidas diariamente na Maternidade, três são adolescentes para fazer curetagem de abortos mal sucedidos. E isso quer dizer que uma gravidez precoce, também atinge o Estado e a saúde pública, já que aquela vaga não fica mais disponível para outra gestante enquanto está sendo ocupada por uma situação que poderia ter sido evitada de maneira tranquila.  
+Fica evidente que a gravidez precoce não prejudica só uma mulher, uma família, uma criança. Ela prejudica toda a sociedade, essa situação pode ser evitada, é uma questão de empoderamento da mulher . Aprendendo a usar todas maneiras anticonceptivas em seu favor. É uma mudança de atitude e de conduta. Escolas devem alertar sobre as consequências de uma gravidez precoce.  E sobre a responsabilidade e perda de liberdade que é criar uma criança. A gravidez se pode prevenir, mas jamais remediar . Filho não é doença nem brinquedo. É responsabilidade para a vida inteira! A gravidez passa o filho nunca. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 50

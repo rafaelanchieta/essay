@@ -1,0 +1,10 @@
+# prompt: o-que-e-ser-homem-nos-dias-de-hoje
+# score: 1,5
+# title: Homens, quem são eles?
+Os homensdos dias atuais vem sendo retratado como um ser violento , devidooseu machismo e agressões feitas contra as mulheres. Podemos perceber que eles são capazes de tudo, até mesmo de tirar a vida de alguém. É isso que é realmente serhomem.Sempre quando assistimosalgona televisão ou lemos em um jornal, notamos a fúria de alguns homens, que espancam mulheres até mesmo por motivos imbecis e as tratam como um ser insignificante. Até mesmo no trabalho,os mesmos criticamasmulheres¸ segundoo último relatório da ONU (Organização das Nações Unidas), divulgado em julho de 1999, a participação feminina no trabalho é baixa e a desigualdade entre os sexos existe até mesmo nospaísesdesenvolvidos.
+          No decorrer do tempo, vemos que os homens estão cada vez mais se destruindo, no entanto, é muito triste sabermos que as mulheres estão dando chances para os homens que as agridem e que as assediam. Sabemos que para setornarmosverdadeiros homens,devemoster, principalmente, o amor, o respeito e o caráter. Esperamos que eles possam reverter essa história, afinal, os homens são independentes e aguardamos deles a melhor escolha.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,0

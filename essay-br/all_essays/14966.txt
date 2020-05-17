@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 550
+# tittle: Meio Ambiente: Um direito violado.
+Segundo a Constituição brasileira, todos têm direito ao meio ambiente ecologicamente equilibrado . Entretanto, no Brasil, há falhas no princípio de isomeria  no que tange as medidas para combater os problemas de desmatamento e queimadas na floresta amazônica. Dentre as principais causas pode-se citar: o descaço na fiscalização e punimento por parte do Governo  e a procura pelo lucro por parte das empresas. 
+
+Primeiramente, cabe-se cabe pontuar,  os casos recentes de desmatamentos na região amazônica no país e o desleixo por parte do Governo no que se diz a punição . De acordo com Montesquieu, filósofo francês, “o importante em um país não é a criação de boas leis, mas o cumprimento das leis já existentes”, entretanto, no Brasil isto não acontece, prova disto,  são os inúmeros casos de queimadas criminosas na floresta brasileira. Segundo a reportagem do site G1, do dia dois de setembro de 2019,  o número de focos de queimadas foram 1.514 no bioma Amazônia, de acordo com o sistema de monitoramento de focos ativos do Instituto Nacional de Pesquisas Espaciais, entretanto poucas são as ações por parte do Governo para diminuição destas queimadas. 
+
+Ademais, é necessário também ressaltar a busca dos agropecuários, que desmatam a vegetação para criação de gado, pelo lucro excessivo. Conforme a terceira lei de Newton, toda ação tem uma reação, pode-se ver aplicada está esta lei no que se diz as grandes áreas devastadas para a agropecuária, de acordo com o estudo feito pelo Instituto do Homem e Meio Ambiente da Amazônia, em 2016, a Pecuária é responsável por 65% do desmatamento da Amazônia, e se continuarem a devastação a consequência será os diversos prejuízos como ambientais ao país como a diminuição das chuva, em conformidade com o estudo feiro feito da Universidade de Leeds, na Inglaterra, e do Centro de Ecologia e Hidrologia do Conselho de pesquisa Ambiental Britânico, no ano de 2012, com o desmatamento da floresta Amazônica ocorrerá uma redução das chuvas nos trópicos em regiões próximas à Amazônia, como Paraguai, Argentina, Uruguai e sul do Brasil. Estimativas desse estudo apontam que a destruição da floresta pode reduzir as chuvas na Amazônia em 21%  até 2050, durante o período de seca. 
+Diante do exposto, faz-se necessário a atuação do Ministério Ambiental, por meio do IBAMA, deve  fazer fiscalizações semestrais nas áreas mais desmatadas para que não cresça a destruição na floresta com o auxílio da polícia Federal para que, caso necessário, prenda os devastadores, tendo em vista que o desmatamento ambiental é um crime previsto na Constituição.Com tais implementações este problema poderá se tornar uma mazela passada na história do Brasil. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 550
+# tittle: [Redação sem título]
+O Brasil passa por uma fase previdenciária difícil e com um déficit econômico considerável, visto isso foi criada a PEC  reformista por Paulo Guedes que visa reestabelecer um balanço econômico positivo em comparação ao atual. Se aprovada, a reforma gradativamente irá proporcionar um superávit nos fundos do país, porém, poderá também prejudicar muitas pessoas devido as circunstâncias sociais e financeiras.
+
+Um dos itens previstos na reforma propõe um tempo de contribuição mínimo de vinte anos para a aposentadoria. Atualmente, diversos brasileiros trabalham na informalidade e outros são autônomos. Em alguns casos, quase nunca sobra uma quantia de dinheiro suficiente para a contribuição e aumentar esse tempo pode só dificultar a vida desses cidadãos. 
+
+Outro ponto presente na reforma visa a mudança do sistema previdenciário solidário atual,  por um sistema de capitalização individual  assim como o que foi adotado no Chile durante os anos oitenta. A tentativa chilena acabou não dando muito certo e vinte anos depois,  metade dos idosos do país não conseguiram se aposentar. Essa crise chilena resultou na criação de outra reforma em 2008, mesclando o sistema de capitalização com o solidário. 
+Diante dos fatos, é nítido que a PEC da reforma previdenciária trará grandes benefícios para o país , entretanto não para todos. Para reverter esse quadro seria necessária a mudança, por parte dos parlamentares, de certos itens da proposta , facilitando o acesso à aposentadoria para os que mais precisam. Além disso, a adoção de um sistema conjunto  assim como o adotado pelo Chile em 2008, para evitar que haja desigualdade financeira entre os idosos. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

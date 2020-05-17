@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 300
+# tittle: Gravidez precoce na juventude
+Com a existência de metódos anticoncepcional  a gravidez e doenças sexualmente trasmissivel  pode ser evitada na sociedade, porém com o alto agravo de adolescente entrando na vida sexual logo cedo, o aumento de gravidez precose vem ficando cada vez mais frequente, com isso o aumento de uma gravidez de risco pode ocorrer levando então a morte. 
+Segundo a OMS  meninas com vida sexual ativa tende a engravidar cedo entre seus 13 a 17 anos , com a rejeição de se previnir a facilidade de ter uma gravidez indesejada é comum . No Brasil, costante casos de garotas que tiveram gravidez indesejada na adolescência,   se arrepedem de não ter se previnido o suficiente na juventude. 
+Nos dias atuais, grande parte na população está sendo gerada por adolecentes adolescentes. Em 2019 o número de meninas que vinheram a óbito, por fazerem aborto clandestino foi alto. A relação sexual desprotegida tem consequencia gravissiva na vida de uma mulher. 
+Com a existência de meios anticoncepcional  na atualidade, como ciclo 21, pipula  pilúla do dia seguinte, DIU que é 99,9% eficaz, e o mais conhecido a camisinha . Campanhas de consientização  conscientização voltada a gravidez na adolecencia  adolescência é bastante eficaz para consientiza  conscientizar os jovens a se previnir. Informações sobre a gravidez e meios de previnir-se em escola voltada aos jovens. distribuiçao de preservativos nas ruas. Entre outros. 
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

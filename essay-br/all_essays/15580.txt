@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 600
+# tittle: O analfabetismo funcional
+São considerados analfabetos funcionais pessoas que não conseguem compreender e interpretar textos simples. Essas mesmas pessoas conseguem fazer leitura de textos e reconhecer números, mas não conseguem entender o que estão lendo, de forma a prejudicar o desenvolvimento intelectual e profissional. 
+O analfabetismo funcional é muito comum nos dias de hoje, porém poucas pessoas reconhecem esse fato e encaram ele como um verdadeiro problema . Muitos estudantes do ensino superior são analfabetos funcionais , e na maioria dos casos eles não sabem da existência desse problema. 
+ A desigualdade social é um dos fatores que ajudam no analfabetismo funcional . Muitas vezes o estudante é de uma família mais humilde e acredita que a causa para ele não se desenvolver na escola seja a criação ou o modo de vida que ele tem , fazendo  com que ele se afaste da escola e vá direto trabalhar, de forma a ajudar no sustento da sua família. 
+A percepção dos pais em analisar se o filho tem esse problema é muito importante . Quando diagnosticado  cedo o tratamento acaba sendo mais eficaz, necessitando  de um trabalho em conjunto entre pais e professores, para poder dar todo o apoio e ajuda necessária para esse aluno . Outra forma de ajudar o analfabetismo funcional seria  se tivesse algum apoio no ensino superior, levando  em consideração que muitas vezes a pessoa demora a descobrir que tem esse problema, além do assunto ser abordado com mais frequência nas mídias e redes sociais. 
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 150
+# C4: 100

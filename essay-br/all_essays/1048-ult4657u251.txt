@@ -1,0 +1,12 @@
+# prompt: o-famoso-conflito-de-geracoes-ainda-existe-hoje
+# score: 4,0
+# title: Educando com comunicação
+Há cerca de uma ou duas gerações atrás, um olhar com expressão séria já era suficiente para que um filho emitisse ou deixasse deemitir determinado comportamento. Na atualidade, concomitante com o advento da tecnologia moderna, toda a sociedade e suas formas de interação se transformara, e isso inclui a dinâmica familiar. Há, entretanto, um único epicentro responsável por essas novidades: o aprimoramento da comunicação.
+        Todo desenvolvimento tecnológico, qualquer que seja a área, sempre ocorreu através do melhoramento de uma tecnologia anterior. Ora, a lapiseira só foi inventada após o lápis, e esse após o uso do carvão como giz. O elo entre um degrau e outro está no acessoatecnologia anterior,asidéias anteriores e isso só é possível desde que a comunicação seja eficaz.
+          Nota-se que a humanidade somente acelerou seu desenvolvimento após a invenção da tipografia, quando os conhecimentos elaborados por algunspuderam então seremacessados por vários outros. E foi na proporção que esse acesso se aprimorou que a velocidade do desenvolvimento da sociedade acelerou. O ser humano criou a fotocópia, o telefone, o telex, dentre outros, e finalmente a internet.
+            Um único olhar tornou-se, portanto, comunicação deveras pobre para ser utilizada na educação de um filho. Educar é ensinar a viver em sociedade, é preparar alguém para o mundo. O diálogo se configura como principal ferramenta a ser utilizada pelos pais modernos nessa missão. Algumas vezes a negociação e a abnegação devem existir para que não haja conflito de gerações. Entretanto, os pais são os responsáveis pelos filhos,consequentemente, apesar de precisarem ser bastante flexíveis, devem ponderadamente dar a última palavra,pois pais excessivamente permissivos são tão perniciosos quanto os excessivamente denegatórios.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

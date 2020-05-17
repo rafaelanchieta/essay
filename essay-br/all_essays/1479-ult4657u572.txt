@@ -1,0 +1,16 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 3,0
+# title: Caos moderno:descaso com os idosos
+O Brasil é um país com uma pirâmide etáriaondepredomina a população jovem. No futuro
+        tal pirâmide tendea envelhecer, tendo em vista as melhores condições de saúde pública e uma consequente elevação na expectativa de vida.
+        Num contexto mais amplo , percebe-se que a atual população idosa brasileira tem tido seus direitos violadose/ouoprimidos por uma população que se considera eternamente jovem.
+        Paraamenizar tal violaçãoo Brasil instituiu o Estatuto do Idoso de modo a garantir a execuçãode taisdireitos, como por exemplo, o acesso aos serviços de saúde.Esteestatuto, assim como vários outros,
+          parece que virou um simples bloco de anotações com informações semnenhuma significância.Nesse sentido, os idosos brasileiros estão sofrendo com o descaso de uma geração que os ignora.
+          No país do carnaval, asilos estão surgindo como alternativa para driblar a falta de respeito existente . As delegacias de polícia espalhadas por todo território nacional estão, cada vez mais, registrando casos de agressão contra idosos. Este caos moderno é oriundo da ideia de que o idoso é um ser inútil. Ideia esta que pode estar vinculada, por sua vez, à disseminação de um dos conceitos do capitalismo. Neste conceito algo aparentemente sem função é automaticamente rejeitado, ou seja, práticas antes exclusivamente mercantilistas estão sendo aplicadas na vida da sociedade do século XXI. Na Índia não ocidentalizada (tradicional), por exemplo, o que se vê é o extremo respeito com os mais velhos. Quando há uma morte de um idosonestepaís diz-se que foi perdida uma fonte de sabedoria.Nospaíses ocidentais, em sua maioria,pensa-se que "já não era sem tempo." Esses idosos estereotipados com a inutilidade sofrem (calados!) e carregam consigo o sentimento de rejeição profunda.Estatriste realidade vivida pelos idosos no mundo de hoje
+                é também contrastada com a ficção de Monteiro Lobato. Há nela Dona Benta, uma simpática velhinha, personagem do Sítio dopica-pau amarelo, que tem em sua volta o amor de seus familiares e amigos. Esta relação harmoniosa bem que poderia ser transportada para o mundo real. Porém para quea mesmaocorra só mesmo com
+                muito pó de pirlimpimpim e uma pitada de determinação social . Determinação esta que resultaria na valorização do idoso. A criação de um sistema de saúde exclusivo para eles, por exemplo, poderia ajudar nesse processo e consequentemente resultaria na dissolução dessa segregação pela qual os mesmos passam.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,0

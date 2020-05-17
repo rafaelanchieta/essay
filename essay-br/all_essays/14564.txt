@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: Primeiros Habitantes
+Há 513 anos,  os exploradores portugueses chegaram à costa brasileira, cujos primeiros habitantes foram erroneamente chamados de índios pelos europeus, pois pensaram ter chegado à Índia . De 1500 até os dias atuais a população indígena ainda sofre com a irrelevância de seus direitos como cidadãos brasileiros. Evidencia disso é o difícil acesso à saúde e educação de qualidade  e o não reconhecimento legal das suas terras, por parte de um sistema lento e conflituoso. 
+
+Em primeiro lugar, o processo de demarcação das áreas indígenas é conflituoso e demorado. Grande parte das áreas ocupadas por estes povos é de posse de ricos agricultores e pecuaristas, cujas atividades são altamente rentáveis para o país, dificultando possíveis acordos. Além disso, a delimitação dessas áreas vai de confronto com a influente bancada ruralista defensora da agricultura e pecuária no congresso, em um local onde a presença política indígena é quase nula. Nesse sentido, é necessária maior representatividade e atuação destes indivíduos na política, mas para isso primeiramente é preciso que tenham boa formação educacional  bem como saúde de qualidade. 
+
+Outro fator existente é o difícil o acesso à saúde e educação de qualidade pelos índios. As comunidades são facilmente suscetíveis às doenças através do contato com pessoas de fora  e não tem o acesso a remédios ou a tratamentos médicos. Já os que têm permanência nas cidades e que buscam trabalho nos centros urbanos enfrentam dificuldades para conseguir emprego, por conta da baixa escolaridade, consequência da pouca ou nenhuma formação escolar que possuem, dificultando sua integração na sociedade. Logo, a garantia destes direitos básicos irá contribuir para a valorização e visibilidade da cultura indígena. 
+Portanto, a conquista e o reconhecimento dos direitos indígenas são de suma importância, possibilitando maior representatividade na sociedade e na política. Por isso, a Polícia Federal deve fiscalizar e monitorar as áreas indígenas  evitando conflitos e invasões de agricultores. Também,  cabe ao MEC  realizar cursos profissionalizantes e projetos de alfabetização voltados para a população indígena, melhorando sua inserção no mercado de trabalho e, por fim, programas de ajuda médica realizados pelo Ministério da Saúde, indo às comunidades indígenas para a realização de vacinas e outros tratamentos médicos. Para que assim,  os primeiros habitantes do Brasil existam por mais 513 anos, reconhecidos como cidadãos que devem ter seus direitos valorizados e garantidos. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

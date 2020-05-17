@@ -1,0 +1,15 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 4,5
+# title: País ativo e integrado
+A história do Brasil é marcada pela discrição e mesquinhez quantoaparticipação dos cidadãos na política. Mas evidências históricas mostram que os jovenstem-semostrado, em alguns casos, participativos,
+         como nas Diretas Já, em1983 atéos caras-pintadas, em 1992
+         . O jovem vem se mobilizando, porém com causas singulares e construtivas. Nos últimos meses, foi divulgado um protesto dos estudantes da Universidade de São Paulo, USP, em que eles exigiam a desocupação da Polícia Militar do prédio,depois que a PM apreendeu três universitários fumando droga. A manifestação foi alastrada e transformou-se em uma verdadeira guerra. A Marcha da Maconha também é defendida pelos jovens, os quais vão até ruas lutar pela legalizaçãoda mesma.Influenciadopelas redes sociais, os jovens brasileiros organizaram uma manifestação contra a corrupção nas principais cidades do país. Sob
+         forte luta e vontade, elesreinvidicaramas condições em que o Brasil se encontra
+         , exageros dos governantes com gastos públicos, aumento desenfreado de impostos, uso do dinheiro do povo para fins pessoais, enfim, interesses comuns diante da situação caótica do país. O jovem brasileiro tem se preparado e adquirido conhecimento ao longo do tempo.Desejamobter uma educação e formação acadêmica paraconseguiremum futuro competente. Com isso a vitalidade em lutar pelos seus direitos e por um país mais justo engrandece,
+         quando a oportunidade e a capacidade deles se restringem ao Estado. O futuro do Brasil é espelhado e diretamente ligadoasatitudes dos jovens atualmente, são eles que estarão em um papel de destaque na sociedade controlando o poder e rumo do país.
+         Com alguns lutando pela legalização da droga e outros contra a corrupção, mesmo com objetivos opostos,o Brasil caminha para um lugar ativo e integrado em seus valores sociais. “O que me preocupa não é o grito dos maus.É o silêncio dos bons.”,Martin Luther King.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

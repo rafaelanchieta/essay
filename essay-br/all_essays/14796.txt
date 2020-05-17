@@ -1,0 +1,18 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 450
+# tittle: Não é apenas o sistema previdenciário o problema
+A reforma da previdência deve ser feita para contribuir com o equilíbrio das contas públicas, e assim,  distribuir da melhor maneira possível os recursos, porém a reforma que está em discussão é um verdadeiro ataque aos direitos já conquistados, e coloca a previdência como grande vilã do Estado, o que não é verdade. 
+
+A política no Brasil,  é vista por muitos parlamentares como uma carreira, e não é difícil encontrar políticos que estão há muito tempo pulando de mandato,  a cargos relacionados no cenário nacional. O que assusta é que este sistema político custa em torno de 70 bilhões de reais aos cofres públicos por ano, e em um país no qual o povo é tão descontente por com seus representantes, uma reforma neste cenário seria muito mais atraente aos olhos do povo, e já seria possível economizar um bom dinheiro a partir disto. 
+
+Porém, não é o povo que tem a caneta na mão, e evidentemente é muito mais "fácil" começar os cortes nos direitos dos trabalhadores, os dados acima são referentes apenas aos salários e benefícios dos políticos, mas e o dinheiro destinado aos partidos?  Sim, é o povo também que financia boa parte destes sistemas, que por sua vez, também direcionam verbas públicas gigantescas para a mídia. 
+Isso tudo, e ainda nem foi falado da corrupção. O rombo é bilionário, o MPF recuperou 11,9 bilhões de reais apenas da Lava Jato em 2018, e o dinheiro que não é recuperado? 
+
+A reforma da previdência como está proposta,  tem as suas vantagens, como por exemplo o ajuste nas arrecadações , de forma que aqueles que ganham mais, paguem mais. Por outro lado, não é justo obrigar trabalhadores de certas áreas a contribuir por mais tempo, como os trabalhadores rurais, sendo que a qualidade de vida destas pessoas é demasiada afetada por tal proposta. 
+
+Portanto, a reforma da previdência deve acontecer, a redução da população contribuinte e os rombos nos cofres públicos preocupam, mas a solução não deveria ser tão agressiva ao trabalhador, tendo em vista que a redução em outros setores do governo causariam um prejuízo menor ao povo. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

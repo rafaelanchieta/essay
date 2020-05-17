@@ -1,0 +1,12 @@
+# prompt: justica-x-vinganca-como-nao-confundir-as-duas-coisas
+# score: 4,0
+# title: A justiça é a lei
+No Brasil um homem que comete assassinato será julgado epenealizadode acordo com o previsto nocódigo penal, masestaramos entes queridos da vitima satisfeitos com a pena que será imposta? A vida é o bem maiorque podemos dispor, e para que ela possa ser resguardada com eficiência devemos deixar nossa opiniões de lado e aceitar o que será determinado nos tribunais, pois a justiça é o que a lei determina e não o que pensamentos subjetivos de um individuo ou grupo acham ou deixam de achar.
+        A lei em nosso país não discrimina, éunicapara todos. A vingança é atitude egoísta, pois vai contra aquilo que é igual para todos os cidadãos, é um atodesprezivelque faz cada um ser juiz soberano acima dos outros, tirando osdiretosde igualdade de liberdade e defesa justa que a lei nos proporciona.
+          Avitimade um assassinato não vai estar feliz ou triste depois da morte, para ela não haverá diferença, mas para aqueles que ficam, mesmo que o assassino cumpra a sentença com anos de prisão muito abaixo do esperado, seja por bom comportamento ou seja por fuga, aqueles que confiaram na leiteramsuasconciênciaslimpas, o sangue da vingança não estará em suas mãos.
+            A justiça é o que a lei determina, a vingança é a atitude arbitrária de resolver de acordo nossa vontade, as autoridades competentes devem ser consultadas, a nossa vontade não, e a justiça prevalecerá.
+# C0: 0,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

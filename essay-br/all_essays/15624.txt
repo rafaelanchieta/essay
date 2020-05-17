@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: A ciência brasileira e o coronavírus.
+O novo coronavírus, que surgiu na China no final do ano de 2019  e espalhou-se para todos os continentes, causando  uma pandemia, acabou mostrando  a grande importância da ciência para a sociedade, pois foi nesse momento, como também no surgimento de outros vírus, que os cientistas do mundo todos se engajaram em busca de um tratamento eficaz e de uma vacina para o novo vírus. 
+O Brasil abriga centros de pesquisa renomados, como a Fundação Oswaldo Cruz , o Instituto Adolfo Lutz, entre outros, que em meio a pandemia têm ganhado destaque,  com o genoma do vírus sequenciado em tempo recorde e as pesquisas em busca do tratamento e vacina. 
+É importante citar também os Institutos Federais,  que formam cientistas em todo o Brasil e seus laboratórios que foram utilizados para a fabricação de álcool em gel, produto de grande importância para a higiene e combate a contaminação pelo vírus. 
+Apesar da grande capacidade científica do país, a ciência brasileira ainda é muito desvalorizada perante as autoridades, com poucos recursos sendo repassados pelo Estado , a pesquisa acaba sendo limitada. 
+ Mediante os fatos expostos, é imprescindível que o Ministério da Ciência, Tecnologia, Inovações e Comunicações  reúna esforços com o Ministério da Saúde , ministrado pelo médico Luiz Henrique Mandetta e o Ministério da Economia, para que comecem a ser repassados mais fundos a este setor que é de grande relevância para a saúde de toda a população Brasileira. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 50

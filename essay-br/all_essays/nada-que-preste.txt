@@ -1,0 +1,13 @@
+# prompt: A onda conservadora e o Brasil nos próximos anos
+# score: 360
+# title: Nada que preste
+Na França, em 1789 à 1799 ocorreu a sua revolução. Este evento, trouxe pela primeira vez a nomeação de  direita e esquerda, se referindo  aos girondinos e Jacobinos  respectivamente. Mas como esta  classificação é vista na 
+Para responder essa questão, analisemos nosso histórico de governo petista, no qual muitas pessoas se identificam com ideias de esquerda. Em contrapartida  o candidato Jair Bolsonaro teve maior apoio nas últimas eleições, assim, evidenciamos uma preferência ao  conservadorismo.
+Outro fator que também contribuiu para o resultado foi a identificação duma parcela da população com esses ideais. Ainda vivemos numa sociedade, na  qual muitos acreditam que certos costumes devem ser preservados.
+Contudo, há uma preocupação adicional tangente  aos direitos pessoais; dependendo do contexto, uma doutrina conservadora pode restringi-los. Porém, isso pode ser visto em diversos tipos de governo. 
+Tendo em vista  aspectos observados, concluímos que mudanças ideológicas ocorreram ou expandiram, e  foram impostas, cabe aos cidadãos posicionar seus pensamentos, caso aquelas causem insatisfações.
+# C0: 160
+# C1: 80
+# C2: 20
+# C3: 80
+# C4: 20

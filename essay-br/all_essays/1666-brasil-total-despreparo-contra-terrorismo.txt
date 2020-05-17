@@ -1,0 +1,12 @@
+# prompt: terrorismo-o-brasil-tem-razoes-para-teme-lo
+# score: 3,0
+# title: Brasil: total despreparo contra terrorismo.
+Nesta nossa pátria chamada Brasil,ondepodemos tambémchama-lade “coração de mãe”,ou sejasempre cabe mais um, e sendo assim podemos facilmente acolher um terrorista sem nem mesmo sabere com istonos deixa mais vulnerável a um ataque terrorista.
+         Com a chegada de grandes eventos tais como a Copa das Confederações neste mês de junho 2013, Copa do Mundo em 2014 e as Olimpíadas em2016temos que temer por um ataque,pois, nestasredes terroristas espalhadas pelomundosabem o nosso despreparo relacionadoa oassunto tantotaticamente como judicialmente[tanto em termos militares quanto legais] , até mesmo porque nunca sofremos este tipo de situação.Em nosso cotidiano nos deparamos com vários casos de perigoeminentecomo sequestros, assaltos, tráfico de drogas etc...; mas nada que se compare a uma ação terrorista que não visa valores econômicos mas sim que seus ideais e causas sejam difundidas e defendidas a qualquer custo.A o meu ver nos faltaem muito o preparo para enfrentar o terrorismo,pois, nuncavivenciamose, sendo assim, torna-se difícil combatero que não se tem experiência.
+         Então temos que começar a enviarequipepara treinar em países que sofrem comestetipo de
+         atitude, podendo assim ter um melhor preparo e consequentemente uma melhor instrução para nossos agentes policiais.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

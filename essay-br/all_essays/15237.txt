@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 400
+# tittle: [Redação sem título]
+Ao fazer uma análise do cenário atual no Brasil, percebe-se que o acesso ao cinema é um problema,  enfrentado por boa parte da população, principalmente por aqueles que moram em regiões periféricas ou interioranas. Contudo uma das principais causas é a urbanização acelerada, a falta de investimento e a desigualdade social. 
+
+A princípio  é importante frisar que os grandes centros urbanos,  são áreas privilégiadas  já que são onde  a maioria da população está concentrada. Deste modo o investimento em cinemas nas grandes idades  é maior, pois a renda recebida é mais alta. Vale ressaltar que com o avanço descontrolado da globalização o acesso a essas tecnologias foi facilitado. No entanto o Brasil é marcado pela desigualdade social que afeta diretamente os cidadãos que moram longe das cidades grandes e são privados do acesso a essas tecnologias  e consequentemente aos cinemas. 
+Em contrapartida, com o acesso dificultado, com a falta de informação e com avanço das tecnologias a população prefere assistir filmes na televisão ou na internet.  Entretanto, é importante salientar que todo cidadão deveria  frequentar os cinemas, pois eles são uma forma de enriquecimento cultural e convívio social. 
+
+Logo, com os dados expostos,  percebe-se a necessidade da democratização dos cinemas. Portanto, cabe ao Governo  juntamente das empresas exibidoras, investir na construção de mais cinemas, principalmente em áreas periféricas e em regiões afastadas dos centros urbanos. Cabe a mídia promover propagandas e campanhas enfatizando a importância de visitar cinemas. Deste modo a população não será excluída do meio, e assim,  ser um fator a menos para contribuição da desigualdade social. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

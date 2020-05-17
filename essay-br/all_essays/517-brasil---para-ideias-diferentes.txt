@@ -1,0 +1,17 @@
+# prompt: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao
+# score: 2,0
+# title: Brasil - para ideias diferentes
+Hoje o Brasil tem mais políticos preocupando-se em qual ou quais serão eleitos que esqueceram, ou simplesmente quiseram esquecer, o fundamental propósito de serem eleitos. O histórico político do nosso país nos remeteemconquistas do passado; mas a melhor delas será - o dia em que o brasileiro lembrar o seu papel na vida pública, e lutar por ele.
+         Existe um plano nacâmara, a ser discutido, sobre a
+         mudança das eleições entre: voto distrital e proporcional misto. O voto distrital remeteaescolha de um representante na sua região
+         para tais fins ; assim há uma diminuição donumeroexagerado de candidatos e melhor controle do histórico e ações
+         do(a) referido. Já o proporcional misto - haverá duas eleições: 1° - terá um chapa de cada partido; 2° - terá um representante a sua escolha para ser nomeado. São várias as regiões do interior de vários estados que precisam de ajuda. Como nomear uma chapa em que sabe-se lá quem irá entrar e se eles terão preocupações com sua região,estado.Ou quem irá montar essa chapa?
+         Provavelmente os principais do partido; colocando os "bonzinhos" e mesclando com os figurinistas ou quem sabe atores em papéis de bons samaritanos. Temos sim que escolher pessoas que já conhecemos para o cargo; que já sabemos comoirácuidar e tratar de nossos problemas. E apagar de vez essa
+         salada de frutas sem gosto dos vários partidos que nomeiam qualquer para ter uma cadeira nacâmara e/ou no senado.
+         Para convergência de idéias. Temos que nos focar para melhor e uma solução mais rápida sobre aquilo que nos aflige. Tomando nós a iniciativa deescolhermosquem quisermos; e ousando sempre para a nossa nação, estado, região e milhões de
+         brasileirinhos e brasileirinhas que irão assumir o nosso legado para um Brasil melhor - sem corrupção, descaso público, e indignidade.
+# C0: 0,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

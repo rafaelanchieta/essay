@@ -1,0 +1,11 @@
+# prompt: o-fumo-deve-ser-proibido-em-todos-os-lugares
+# score: 3.5
+# title: Fumar, ou não Fumar? Eis a questão.
+Fumar cigarro era uma raridade no final do século XIX. Mas já em 1930 apraticase propagou em todo o mundo, mostrada com glamour por Hollywood e vista como símbolo de modernidade. Porém ela escondia, atéem tão, sua verdadeira identidade.Era naverdade, nocivaasaúde humana.
+        Depois de conhecer os verdadeiros danos causados pelo cigarro,países desenvolvidos adotam políticas preventivas que alertam sobre o uso desse produto. Contrariando assim os seus produtores, devido o investimento lucrativo que o tabagismo lhes rendia.No Brasil,o Ministério da Saúde, utilizou medidas que restringiam a propaganda enganosa,obrigando todas as embalagens de cigarro, utilizar imagens, que retratam os danos causados pelo tabagismo, na tentativa de reduzir o número de fumantes.Outro agravante é o fumante passivo. No nosso país existem leis que segregam os usuários dosnão fumadores, em alguns locais como: restaurantes, bares,Clubese outros. Mas essa situação pode mudar, poisestá em tramitação na assembléia Legislativa do Estado de São Paulo, um projeto de lei que seaceito, irá entrar em vigor nesse Estado, a proibição do fumo em locais coletivos fechados,sendo eles público ou privado. Causadora de grande polêmica,háque discordem da Lei.Se vigorada, podemos ficar conscientes de que estaremos prestes a uma mudança complicada e tardia, porém certa. Já que a política preventiva nãodera muito certa, sem ser vista uma redução significativa. Há sim uma necessidade de proibir, não está correto que pessoas morram por conseqüência das ações erradas dos outros, sem haver uma conscientizaçãopor esses.
+              Por outro lado, percebe-se que, não se trata só de um problema simples de proibição, pois está se falando de uma questãoviciosa. Entender que o fumante não é só um vilão e passar vê-locomo vítima, do seu vício, lhe oferecendo tratamento como a psicoterapia e terapia de grupo, induzindo-o a prática de exercícios físicos, ajudaria na aceitação da proibição doFumonoPaís.
+# C0: 1.0
+# C1: 1.0
+# C2: 0.5
+# C3: 0.5
+# C4: 0.5

@@ -1,0 +1,12 @@
+# prompt: O direito ao foro privilegiado
+# score: 450
+# title: Proteção contra a lei
+É de conhecimento geral que, o foro privilegiado existe desde 1824 com o objetivo de favorecer políticos e ocupantes de determinados cargos públicos. Porém, não podemos considerar o foro privilegiado como uma forma de proteção para quem ocupa um cargo público, e sim, uma forma de proteger o cargo que é ocupado pela pessoa que tem uma ocupação  penal contra si.
+Verica-se  que o foro privilegiado seria usado em casos de crimes penais comuns, e durante esse processo o réu não deveria ser distânciado  do seu cargo. Mas seria justo alguém que participa da política brasileira que está sendo julgado por algum crime não ser distanciado do seu cargo? Pois, nós cidadãos  comuns, quando cometemos crimes, na maioria das vezes à  justiça vem atona  e pagamos por isso em menos de 30 dias, e alguém que tem o dever de ser honesto, uma figura de segurança e honestidade, está cometendo injustiças e sendo julgado por tribunais superiores como: STF E STJ, que são tribunais lentos, demoram anos para pôr em prática os processos.
+Porém, a teoria do foro privilegiado é positiva. A intenção era impedir acusações motivadas por interesses políticos, ato que acontece com frequência. Mas o que vemos é uma classe política indecente e imoral. Ainda convêm  lembrar o Art.5º da Constituição “Todos são iguais perante a lei”, nenhum cidadão criminoso, muito menos políticos curruptos deveriam  sair impunes  de seus atos criminosos. 
+Em vista dos argumentos apresentados, o foro privilegiado, que privilegia cerda  de 55 mil pessoas, é uma grande proteção contra a lei, incentiva pessoas criminosas a continuarem cometendo seus crimes. Por todos esses aspectos negativos, no Senado ja  foi aprovado  em primeiro turno uma PEC que acaba com o foro privilegiado. Só nos resta esperar uma segunda votação para podermos ter expectativas e sermos considerados iguais perante a lei.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 300
+# tittle: Caminhando forte e seguro do presente para o futuro
+Ninguém nunca saberá tudo. Mas, ter a dignidade de saber que não sabe, é um grande passo para melhorar. É muito fácil todos culparem os professores e a educação brasileira, pelo alto índice de analfabetos funcionais. É sempre mais fácil achar que a culpa é do outro. Ao invés de cumprir com suas responsabilidades, que é, estudar, aprender, evoluir, criticar, questionar, refletir e pensar. Atuar de verdade! Ser um cidadão participativo e não um mero coadjuvante de sua própria história. 
+A desigualdade socioeconómico  socioeconômica e sociocultural é o grande dificultador para que ocorra uma mudança significativa e satisfatória na realidade da educação nacional. Porque isso vai muito além de tudo o que é aplicado em sala de aula. Para que cada um tenha um bom desempenho cultural, eles teriam que ter no mínimo um convívio diário com pessoas esclarecidas,  E não é isso o que acontece. Eles passam em geral quatro horas estudando, e vinte horas passam com suas realidades, não só se aprende em sala de aula, se aprende na praia, no cinema, no teatro, no restaurante, nos museus, na boa música, nas viagens e com os livros. 
+
+A desvantagem dos que não têm grana nem família estruturada e escolarizada é visível e muito grande. O que eles aprendem na escola esquecem no caminho para casa. Às vezes, para os que moram em lugares muito violentos se desviando de uma bala.  É preciso um novo olhar para esses excluídos. Às vezes, a solução do problema não está em um novo caminho, mas em um novo jeito de caminhar!   Em uma nova postura, em um novo reflexo que projete o alunado para a integração total na sociedade e nunca em sua total exclusão. 
+. 
+Para que esse grande problema não mais se perpetue é preciso que os governos, municipais, estaduais e federais queiram assumir suas responsabilidades e seu dever . Um cidadão de bem é mais barato que um preso.  O governo investe uns 15 anos em um estudante, e depois ele entra na sociedade para somar com seu trabalho e servir a nação. Um cidadão de bem preparado para seguir sua vida sem precisar do governo. Quando isso não é feito todos sentem as consequências. Logo, a solução tá na escola, com o apoio dos governos, deve-se fazer um projeto com esporte, lazer e arte em cada escola desse país. A volta das gincanas escolares seria de muita ajuda e transformação para aqueles que não têm o direito nem de assistir um filme em sala de um cinema. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

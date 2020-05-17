@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 350
+# title: Como aplicar uma boa educação?
+Para que se possa aplicar uma educação de qualidade, para que o estudante tenha um bom caminho em direção a um futuro melhor, é fundamental que, desde cedo, o aluno tenha uma vida escolar adequada, sem que haja erros ou exageros aplicados pelos orientadores e/ou professores durante o processo de ensino.A forma autoritária não é considerado  por muitos especialistas como uma maneira certa de educar, pois se a forma verbal de orientar os alunos não for aplicada de maneira correta, pode até mesmo mudar o psicológico do aluno, fazendo ele  tomar atitudes inadequadas para o seu desenvolvimento escolar.Em certos casos, alunos costumam ser tratados pelos professores, devido ao seu comportamento ou  seu desempenho na matéria, com rigidez ou arrogância. Em noticiários, já foram divulgados casos em que , por conta de desentendimentos entre alunos e professores por conta de tratamento escolar, se resultaram  em violência, o que traz cada vez mais uma impressão de má qualidade de  educação aplicada pelo país.Muitos especialistas recomendam que os alunos recebam um tratamento adequado e disciplinar para que possam ter um desenvolvimento social e escolar benigno e consigam encontrar um caminho para o seu futuro. A maneira como os alunos são tratados deve ser discutida pela escola, para que se saiba o que deve mudar e que ações se deve tomar para que se tenha uma boa educaçãoTratar os alunos de forma disciplinada e controlada traz ao aluno uma melhor atuação nas aulas, um melhor desempenho nos exames e um futuro mais bem  promissor. A orientação aos professores sobre o modo de tratar os alunos traz uma melhor avaliação a respeito da educação aplicada nas escolas e um melhor desenvolvimento social.
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: qual-sera-o-legado-da-copa-do-mundo-para-o-brasil
+# score: 4,0
+# title: Copa, legado que inspira atenção
+Ao contrário do que muitos acreditam, acopapode impulsionar a economia de um país através dos turistas. Este ano acopaserá sediadanoBrasil, e faltando apenas cinco meses para a realizaçãodesteevento, as obras nascidades sedese
+         no trânsito estão atrasadas, o que não é um bom legado para o país.Destaforma, o que o mundial trará ao país dependerá
+         do que será encontrado aqui entre junho e julho deste ano, com a cobertura nacional e internacional do evento. Sendo o Brasil reconhecido em alguns lugares do mundo como o país do futebol, esses5meses serão decisivos na impressão queesseexerceráaosoutros.
+         O trânsito caótico e a negligência com transportepúblico, sãorealidades vivenciadas pela população brasileira. E que logo tambémserá sentidapelos torcedores de outrasnações. Quepoderão encontrar dificuldades de locomoção, paracidades sedese pontos turísticos.
+         Tendo em vista que as perspectivas para a deixa dacopanão tem sido boa e as construções nas cidades e nas rota de veículos ainda ainda não foramconcluídas. É precisoque os órgãos e entidadespublicas reforcemos esforços e a
+         fiscalização no trânsito e nas construções voltadas ao evento.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

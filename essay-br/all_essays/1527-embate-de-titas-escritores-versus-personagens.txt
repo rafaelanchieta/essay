@@ -1,0 +1,12 @@
+# prompt: biografias-personagens-e-autores-em-confronto
+# score: 9,0
+# title: Embate de titãs: escritores versus personagens
+As publicações de biografias não autorizadas têm aflorado , nos últimos meses, os debates sobre a necessidade que determinados artistas pregam em censurar tais textos que estariam ferindo o direito à intimidade dos biografados, mas esses ordenamentos contrariam o direito de liberdade e de informação elencado naconstituiçãobrasileira.
+         Artistas integrantes do grupo "Procure Saber" lutam para manter vigente a exigência, constante nocódigo civilbrasileiro, que determina a autorização prévia para comercialização e publicação de biografias, baseados no posicionamento de que dessa forma inibirão o surgimento de biografias sensacionalistas já que nossa legislação não pune de forma rápida tais escritores.
+         O grupo afirma defender a liberdade de expressão, mas esse direito não pode prejudicar o biografado , além de enumerar a necessidade de haver um acordo entre ambas as partes, escritor e personagem, levantando até a possibilidade de divisão dos eventuais lucros obtidos pela publicação por ser figura central na história . Por outro lado, os grupos favoráveisaspublicações de biografias não autorizadasdiscutemque essas medidas privam o direito de liberdade de expressão e de informação podendo delimitar até a veracidade do conteúdo publicado, como bem mostrou o articulista Hélio Schwartzman, ao usar como referência a figura de Hitler, conhecido pela história de terror que cometeu contra judeus em sua época, imaginando como seria caso ele fosse brasileiroe que apublicação de sua biografia devesse passar pelo seu aval. Outro ponto forte no questionamento da exigência de autorização é que a partir disso ocorrerá a monopolização da história,característico emregimes totalitários, onde a personagem será o detentorda obra, ou seja, um retrocesso para o país que em décadas atrás sofreu com a censura e a ditadura.
+         Logo, impedir a publicação dessas obras é uma forma de retirar a liberdade adquirida pela sociedade.Deve-seadotar penalidades mais rígidas para os biógrafos que violarem o direito da personalidade através da imposição de pagamento de indenizações mais pesadas sem privar a expressão e a informação.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 2,0
+# C4: 1,5

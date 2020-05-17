@@ -1,0 +1,12 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 270
+# tittle: A cultura é para todos
+A Constituição Federal assegura assegura a todos os cidadãos acesso a fontes de cultura nacional, garantindo, assim, acesso igualitário ao bem cultural . Contudo, 91% dos municípios brasileiros não possuem salas de cinema e 60% dos jovens nunca foram ao cinema, segundo o IBGE . Porém, sabemos  que o acesso as salas de cinema é limitado por estarem concentradas na maioria das vezes em shoppings centers  consequentemente em cidades grandes, sem contar   que o custo é alto. Nesse sentido, é necessário analisar tal quadro,  intrinsecamente ligado a aspectos governamentais e sociais. 
+
+Marilena Chauí, filósofa brasileira  diz que a democracia deve ser um sistema de direitos iguais para todos, sem ações que prejudiquem um grupo em prol de outro. Partindo dessa verdade, o então direito assegurado pela Constituição é amputado e o abismo entre o cinema como cultura e os cidadãos menos favorecidos torna-se, portanto, maior. Pode-se dizer então que a problemática está diretamente ligada a falta de interesse   por parte da população e o baixo investimento na área cultural do país. 
+Diante dos argumentos supracitados, é dever do Governo definir um valor acessível para a população garantindo transporte gratuito para os moradores de cidades pequenas. É importante um interesse maior por parte da população quanto aos seus direitos no acesso livre em áreas de entretenimento, lazer e cultural. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

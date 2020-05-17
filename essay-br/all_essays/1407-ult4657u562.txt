@@ -1,0 +1,11 @@
+# prompt: selinho-e-inocente-ou-tem-significado-sexual
+# score: 5.0
+# title: "Selinho":Apenas uma demonstração de carinho?
+Em um mundo em constante mudança, algumas atitudes mudaram também seu sentido . É o que acontece com o "selinho", que antes era apenas um sinal de amor entre casais,hoje é considerado como uma simples demonstração de amizade.
+        Com essa banalização do beijo na boca, já não é mais possível saber se as pessoas que estão se beijando são casais, amigos ou pais e filhose com isso pode acontecer alguns julgamentos precipitados ouaté mesmo, não saber se a intenção da pessoa é realmente amizade ou desejo sexual.
+          Sabendo que os casos de pedofilia vêm crescendo a cada dia, as crianças são, sem duvida, as mais prejudicadas com essa mudança, levando em conta sua inocência, podem ser molestadas sem ter a noção de que isso esteja acontecendo , já que o "selinho" se tornou algo tão comum. Existindo muitas outras formas de demonstrar carinho e amizade, deve-se evitar o "selinho" fora da relação entre casais, não dando assim margem a má interpretação e não prejudicando o trabalho da justiça, que não poderá adivinhar com que intenção o beijo está sendo dado.
+# C0: 1.0
+# C1: 0.5
+# C2: 1.0
+# C3: 1.5
+# C4: 1.0

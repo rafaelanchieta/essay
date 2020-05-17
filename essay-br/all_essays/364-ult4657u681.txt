@@ -1,0 +1,13 @@
+# prompt: qual-o-papel-da-imprensa-numa-sociedade-democratica
+# score: 6,0
+# title: [Sem título]
+A imprensa brasileira cumpre seu papel de forma livre e democrática. Fiscaliza com rigor os desmandos do poder em qualquer nível que seja. Possui grandes mentores e boas vozes. Dito isso, temos o dever de criticar sua parcialidade, sua postura grosseira contra críticas e cobranças, o modo como se submete a interesses de uma parcela da sociedade. A imprensa é parcial. Isso é histórico. Durante a ditadura grande parte dela serviu aos propósitos dos generais, praticamente todas apoiaram o golpe. A Globo permaneceu no erro, escreveu nos anos 80 os mais tristes capítulos dessahistória, editoum debate sem o menor dos princípios jornalísticos,manipulovotos, foi autora de uma campanha violenta contra
+          o Brizola e, o pior,ignoroas manifestações pelasdiretas já, movimento glorioso pela volta da democracia plena ao Brasil. A mídia possui uma certa proximidade com as parcelas mais ricas da população.
+          Foi e continua sendo plataforma das ideias desse pequeno grupo, algumas boas, mas de vez em quando conservadoras e antigas. Deveria representar a maior parte da populaçãomesmo que por razões financeiras tenha tendências a representar um grupo bem menor.
+          Atualmente de forma mais inteligente e sutil a imprensa continua adistorcer. Mas houve uma melhora. Hoje em dia ela se mantém muito vigilante contra os atos pouco decorosos de homens públicos.
+            Faz um trabalho honesto, pois denuncia praticamente todos os partidos. Se houve uma cobertura maior de um ou outro fato é porque esses fatos foram mais graves emereciammaior atenção. Ela também não é golpista, embora volta e meia seja acusada disso. Continua atenta contra certas recaídas autoritárias dos governos de plantão . Cria fantasmas e inimigos imaginários, tem posições retrógadas e diversas vezes faz um trabalho ruim em anos de eleição. Mesmo com tudo isso, conseguiu aprender a conviver com a democracia melhor que os governos. E no fiel da balança, cumpre de maneira responsável, por vezes vacilante, a grande tarefa de ser, ao lado do voto livre, o maior pilar da democracia.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 0,5

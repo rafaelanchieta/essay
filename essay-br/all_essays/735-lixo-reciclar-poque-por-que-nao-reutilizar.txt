@@ -1,0 +1,11 @@
+# prompt: lixo-questao-de-cidadania-e-responsabilidade-social
+# score: 4,0
+# title: Lixo, reciclar poque por que não reutilizar?
+O aumento do consumomundial, gerauma grande quantidade de lixo urbano, isso porque cada vez mais as coisas estão se tornando descartáveis. Um dos maiores exemplos é o descarte de aparelhoseletrônicos,peloalto preço do conserto , as pessoas preferem comprar um novo, pela maior praticidade . Isso não ocorre apenas com esse tipo de produto, roupas, calçados, também são exemplos. Um dos desafios que cidadãos e governantes tentam resolver é o local onde esse lixo é depositado. Segundo dados da Abrelpe, um a cada quatro sacos de lixo vai para um localimproprio,
+         sendo resultado muito negativo, o que gera grandes problemas ambientais e sociais. A contaminação do solo, do ar pelo mau cheiro, a desvalorização dos terrenos que cercam o local onde o lixo é jogado inadequadamente, além de ser um atrativo para diversos insetos, pondo em risco a saúde da população no local. Soluções como a criação de mais aterros sanitários e a extinção dos chamados "lixões",depositadosirregulares de lixo, coleta seletiva, campanha de reciclagem, são atitudes cabíveis ao governo, porém a população é a que possui o maior papel para a solução desse problema.
+         O cidadão deve se conscientizar do seu papel na reciclagem, separando o lixo, não jogando na rua, pois é uma das causas de entupimento de bueiros, consumir menos, reaproveitar e reutilizar quando possível, são pequenas práticas para cada um, mas é uma grande atitude para um todo.
+# C0: 0,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

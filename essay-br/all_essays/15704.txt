@@ -1,0 +1,14 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 550
+# tittle: Coronavírus no Brasil
+O que antes era nacional, agora virou preocupação no cenário mundial. O novo coronavírus, conhecido como covid-19, de certa maneira, virou o assunto mais comentado no nosso  território nacional e mundial.  Semelhante a algum tipo de gripe, por conter sintomas semelhantes como coriza, espirro, falta de ar ou tosse. O Ministério da Saúde vem orientando  os brasileiros a se prevenirem com atos de : usar máscara, lavar as mãos frequentemente  ou passar álcool em gel  e evitar lugares de aglomerações. 
+
+ Entretanto, os números de pessoas contaminadas pelo vírus,  se agrava em 24 horas, ou seja, em um dia até mil pessoas podem ter sido afetado afetadas. Os centros de saúde vêm trabalhando  cada dia trabalhando a cada dia tentando  encontrar uma vacina para a doença, mas como se trata de um vírus RNA e não DNA  o processo de desenvolvimento e o prazo,  viram  questões mais delicadas de se resolver, pois é certo de que não é fácil produzir. 
+ Como a pandemia afetou a população inteira, as pessoas tem  têm ficado em casa para evitar a propagação do vírus, pois é uma das situações mais eficazes para combatê-lo, porém o isolamento social foi a medida mais benéfica para todos.  Em Minas Gerais,   foram atualizados 1.139 casos da doença, sendo muitos na região do Vale do Jequitinhonha, para essa região urge-se de equipamentos e de recursos, pois são lugares não muito precavidos. 
+
+Para resolver esse problema,  é preciso todos os brasileiros  combaterem esse enorme problema, seguindo  todas as orientações médicas e necessárias, pois quanto mais aumentar, mais irá demorar acabar e as punições irão aumentar ainda mais . Portanto as ordens são claras, objetivas e necessárias, não irá somente beneficiar os brasileiros, mas também o lugar onde vivem. Com isso a normalidade voltará sendo mais breve. 
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

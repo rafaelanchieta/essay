@@ -1,0 +1,16 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: A fome em meio a fartura
+O Brasil é um dos países que mais exportam alimentos  no mundo, mas ainda sim assim uma boa parte de sua população não se favorece dessa fartura, visto que muitos passam fome, ou sofrem com a subnutrição, diversos são os fatores que causam esse grave problema social, incluindo o desemprego e a má administração pública. 
+
+Com quase 15 milhões de desempregados o Brasil está longe de se afastar dessa recessão econômica que dificulta a autossustentação das famílias. Sem o emprego formal muitas famílias procuram ganhar o seu dinheiro com negócios próprios, ou fazendo 'bicos', situações que não proporcionam estabilidade, e assim no fim do mês fica complicado acertar as contas . O reflexo disso é cortar gastos, reduzir custos, e sem dinheiro para comprar comida, a fome ou mesmo a subnutrição  vitimizam tais famílias. 
+
+Apesar de muito se ouvir falar deste problema no Norte e Nordeste do país, eles não são os únicos, e mesmo no Sul e Sudeste  ainda há quem sofra com a fome, especialmente nas periferias das grandes cidades, locais afastados e que não tem a devida atenção dos governantes ou da mídia. 
+O desemprego não é o único fator que causa dificuldade das famílias em colocarem comida dentro de casa, a ausência de programas sociais, ou a falta de ampliação daqueles já existentes Cite no texto  contribuem para que a fome se agrave no país. Um dos motivos pelos quais esse programas não atingem a sua eficiência máxima é que faltam pesquisas nas cidades referentes a situação das famílias mais carentes, sem conhecer os verdadeiros números causados por esse marco da desigualdade social do país, o governo não é capaz de direcionar os esforços de programas sociais que buscam a distribuição de renda ou mesmo a distribuição de alimentos. 
+
+Portanto, em meio a crise que o Brasil atravessa, para evitar que famílias sofram com a fome, o governo deve realizar pesquisas que identifiquem as famílias mais iminentes a esse quadro, e assim direcionar esforços e recursos para que tenham uma alimentação digna e suficiente. Para garantir que estas pessoas consigam viver a partir de seu trabalho, o governo também deve criar meios de reinserir estes cidadãos no mercado de trabalho através de programas de capacitação. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

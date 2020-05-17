@@ -1,0 +1,10 @@
+# prompt: e-justo-proibir-o-uso-do-celular-na-sala-de-aula
+# score: 1,5
+# title: O celular x[a]educação
+Sabemos que a tecnologia é uma aliada da educação, infelizmente alguns a usam de forma errada, vejamos os exemplos que afloram no Brasil todo, seja em escola administrada pelo governo nas esferas: municipal, estadual e federal bem como nas escolas particulares, estas com "aval" dos próprios pais, que por acharem que estão pagando se acham no direito de apoiar seus filhos quando os mesmos usam o aparelho dentro da sala de aula. Já nas escolas particulares tal fato é corriqueiro, sendo que o professor fica a mercê do aluno com ameaças das mais variadas formas. Já foi o tempo em que os professores eram respeitados pelos alunos, salvo raras exceções onde o regimento interno das escolassão cumpridospelos alunos e demais funcionários da instituiçãoescolar. Poistodostemacesso e conhecimento ao regimento escolar. É preciso dar um basta neste tipo de abuso do celular dentro da sala de aula com orientação e muito diálogo. O mundo atual é movido pelo individualismo e materialismocada um querendo ter um aparelho celular que traga as "facilidades" para elemas esquecendo que existem crianças que não tem um lar, não tem família e nem um alimento. Nós que somos pais vamos junto com os educadores acabar com essedesrepeitona sala de aula. Outro diana sala da faculdadeum professor dando sua aulao celular dele toca e os alunos ficam: hummm é a mulher dele, a namorada etc., etc....
+            Então o que faremos se não cumprem o que está escrito no regimento interno da escola, faculdade etc.Sóatravés da Lei e pagando algum tipo de multaé que se acabará com isso.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,0

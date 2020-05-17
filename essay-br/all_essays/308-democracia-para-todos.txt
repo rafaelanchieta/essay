@@ -1,0 +1,14 @@
+# prompt: o-voto-nulo-e-um-ato-politico-valido
+# score: 5,5
+# title: Democracia para todos
+Com a proximidade de mais uma eleição,muitosse perguntam se o ato de votar nulo tem sua importância ou não. Obviamente que é muito importante, pois uma democracia deve sempre permitir que seu povo useváriaformas de voto, para demonstrar seus interesses e insatisfações.
+         Em primeiro lugar, votar nulo é um meio legal de não querer participar das eleições. Embora muitos tenham lutado, para que todos possam participar e isso signifique uma grande vitória para o povo, muitos nãoteminteresse em fazer parte dessa conquista e também nãoquerter que se justificar, nem pagar multa e nem futuramente ter seu título cancelado. Por isso,usao votocomo forma de abdicação de seu direitoAlém do maisé uma formadentro da leide não concordar com o cenário político atual. Enquanto
+         muitos cometem crimes pensando que é manifestação , o voto nulo se torna um protesto legalizado,ondeo cidadão demonstra a sua insatisfação contra os perfis dos políticos e clama por novas caras e comportamentos dignos de uma pessoa de bem.
+         Alémdissoa opção de anular o voto é a forma mais democrática de saber se a população está satisfeita ou não com o sistema eleitoral.Atravésdessa ferramenta é que
+         descobrimos, os números reais de quanto o povo está de acordo com esse sistema . Pois muitos falam em nome dopovo mas,poucostemde fato o seu apoio.
+         Portanto, dentre as opções de voto na eleição, o voto nulo é muito válido, pois democraticamente permite que quem não queira se envolver, não se envolva e é uma forma de oficializar o descontentamento popular através da cidadania e números oficiais .
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

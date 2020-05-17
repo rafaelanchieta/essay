@@ -1,0 +1,11 @@
+# prompt: A terapia de reversão da orientação sexual
+# score: 4,5
+# title: Injustiça e crueldade
+ Setembro de 2017, autorizada a "terapia de reversão de orientação ". Como todos já esperavam, o resultado foi o desagrado da grande maioria da população, resultando em protesto nas ruas e redes sociais. Evidentemente, há mais fatos negativos que positivos nessa autorização.  A comunidade LGBT seria ainda mais vista como "anormal", como pessoas que precisam de algum tratamento pelo fato da sua orientação .
+ O preconceito aumentaria, sem sombra de dúvidas, mais do que se imagina. Muitas pessoas terão a ideia errada ao pensar no fato que a "cura gay" realmente exista, e pensarão no homossexual como alguém que tenha que ser tratado. Infelizmente algumas dessas pessoas podem vir a ser  alguém bem próximo, como pai e mãe de alguém que tenha sua orientação não aceita pelos mesmos, então tentará "tratar" o homossexual, causando ainda mais desconforto para o próprio, além do mais, sendo alvo de mais preconceitos dentro de casa. 
+ O que a psicologia poderia ajudar, seria proporcionando conforto psicológico e ajudar  com que se aceitem e se sintam confortáveis com sua orientação, e jamais tentar . Jamais tentar curá-las como se estivessem doentes. Como afirma o pai da psicanálise, Sigmund Freud, "É uma grande injustiça e crueldade perseguir a homossexualidade como se fosse um crime", ou até mesmo uma doença.
+# C1: 1,5
+# C3: 1,0
+# C5: 0,5
+# C7: 0,5
+# C9: 1,0

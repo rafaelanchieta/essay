@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: Nossos irmãos.
+Não é de hoje que povos índigenas sofrem total descaso em abrangentes âmbitos. A falta de respeito e atendimento minímo para tais se faz cada vez mais preocupante, visando que se trata tanto de uma conservação histórica, quanto social. 
+
+A exploração de suas terras continua sendo o maior causador da dimuição das tribos, pois apenas 13% da população brasileira são indígenas, na sua maioria residentes na Amazônia. Invasões em suas propriedades, tristemente, são corriqueiras, ocasionando assim a mudança desses povos para a cidade grande, afim a fim de uma vida mais digna acerca de seus direitos. 
+
+Outrossim, escolaridade e saúde também são áreas negligenciadas, aonde, as quais muitas vezes,  o preconceito ou a falta de infraestrutura para se levar tais atendimentos se faz quase que por completo. Afirmando a falta de consideração com essas pessoas, que, de certa forma, habitam esse solo mais tempo do que os famigerados "homens brancos". 
+Com isso, se faz de extrema importância a intervenção da ONU ,  para maiores áreas de preservação desses povos e suas moradias tanto na natureza, como também na civilização. Ajuda governamental se faz útil tanto quanto, promovendo maiores campanhas sobre a interação indígena na sociedade, sobretudo, campanhas em escolas sobre a cultura e respeito necessário com eles . Afinal, Pitágoras uma vez citou  "educai as crianças para não ter que punir os adultos.". 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

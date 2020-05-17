@@ -1,0 +1,12 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 480
+# title: Impunidade ou penalidade?
+O Supremo Tribunal Federal discute nesse mês sobre a prisão em 2º instância, questionando se o réu deve ou não ficar preso após a decisão do juiz, validada pelo colegiado de desembargadores do Tribunal de Justiça. É fato, que o réu deve ser mantido preso após condenação em 2º instância, visto que o aguardo em liberdade após o trânsito em julgado reforça a impunidade da justiça brasileira, bem como desvalida a decisão tomada pelo juiz e pelo colegiado de desembargadores do TJ, acumulando processos no STF.
+Em primeira análise, cabe ressaltar que se o réu aguarda o julgamento em liberdade, após encerrado todos os recursos, há reforço da impunidade no Brasil. Para Luiza Frischeisen, do Ministério Público Federal tal decisão incentiva à impunidade, visto que há diversos meios para recorrer de acordo com a lei penal. Dessa forma, entende-se a importância de prender os réus em segunda instância, a fim de não estimular a prática de crimes, bem como sua impunidade.
+Além disso, cabe frisar também que o aguardo a liberdade em trânsito em julgado, desvalida a decisão tomada pelo juiz e pelo colegiado de desembargadores do TJ, acumulando processos no STF. De acordo com a Folha de S. Paulo, os acordos internacionais sobre os direitos fundamentais apontam que as decisões da 1ª e 2ª instância bastam para garantir o direito do réu em recorrer. Assim, verifica-se que a liberdade em trânsito julgado incha a maquina pública, causando maior lentidão nos processos, podendo esses serem prescritos. 
+Levando-se os aspectos apresentados acima, é importante ressaltar que o réu deve ser mantido preso em 2ª instância, uma vez que o aguardo em liberdade após o trânsito em julgado reforça a impunidade da justiça brasileira, bem como desvalida a decisão tomada pelo juiz e pelo colegiado de desembargadores do TJ. Portanto, é necessário que o Ministério Público em parceria com os tribunais de justiça reflitam e pensem a respeito das consequências da soltura dos criminosos em 2º instância no nosso país. 
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 120
+# C4: 80

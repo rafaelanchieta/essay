@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 7,0
+# title: A natureza e o homem
+O mundo é repleto de diversas paisagens que possuem uma vasta biodiversidade e ainda oferecem ao homem a chance de contemplá-las. Chance que por muito tempo vem sendo desperdiçada, devido ao estresse do dia-a dia e a falta de tempo ou interesse na preservação da natureza.  A constante busca pelo crescimento e progresso do homem levou a uma situação que, infelizmente, é irreversível, marcada pelo derretimento de geleiras, aumento de furacões, secas, enchentes, entre outros fenômenos catastróficos. Recentemente, cientistas publicaram o mais importante relatório sobre o aquecimento global, no qual é previsto que o mundo pode estar se aproximando de um fim, idéia que há pouco tempo não era cogitada pela maioria.  Observando esses fatos, pode-se ver que todas as atitudes do homem têm uma consequência, mesmo que ocorra ao longo prazo. Medidas já estão sendo tomadas, como o Protocolo de kyoto que pretende diminuir a emissão de gases prejudiciais à atmosfera. Isso mostra uma maior conscientização do homem, mesmo que os danos causados sejam irreparáveis.  Portanto pode-se dizer que a ação humana foi a grande responsável por essa situação, porém não é mais necessário apontar culpados. O que resta ao homem é fazer tudo o que estiver ao seu alcance para preservar a natureza e assim dar oportunidade à futuras gerações de usufruir dela.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

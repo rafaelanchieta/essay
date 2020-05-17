@@ -1,0 +1,13 @@
+# prompt: ha-limites-para-a-liberdade-de-expressao
+# score: 3,0
+# title: Com Responsabilidade Defenda Seus Direitos
+No dia 7 de janeiro deste ano na Redação do jornal "Charlie Hebdo", em Paris, aconteceu uma tragédia que chocou o mundo e mostrou que a Liberdade de expressão precisa ter limites. Ojornalque costumava publicar conteúdos sobre o islamismo e seus símbolos, sofreu um grande ataqueonde morreu12 pessoas e foram feridas 11. Não que eleprovoudo seu “próprio veneno”, porém
+         nem tudo que pensamos deve ser dito . Ter esse direito não significa que você está livre para fazer o que quer, mas ter a responsabilidade para que seus conceitos e suas opiniões nãofiraa integridade de outras pessoas.
+         A Liberdade de Expressão vai além de poder dizer o que se pensa, é escutar aquilo que não deseja, entender que não há apenas a sua concepção, e que a "Liberdade de Expressão" é exatamenteisso,um conjunto de opiniões diferentes que podem fazer o bem. Malala Yousafzai é o exemplo de liberdade de expressão empessoa, sedestaca entre as mulheres e luta pela educação das meninas e adolescentes no Paquistão, um país dominado pelos talibãs, que são contrários à educação das
+         mulheres. não tem essa mesma "liberdade"que de muitos tem, tambémao contrário demuitosela sabe como usar
+         o que lhe foi dado e usa para o bem.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

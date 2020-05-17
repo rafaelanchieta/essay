@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 550
+# tittle: As vacinas em mãos de quem?
+O papel da vacinação é imprescindível, afinal ela é um estímulo para o corpo humano produzir e desenvolver a imunidade para a proteção de doenças . Porém, é uma realidade que parte da população brasileira não tem estado com seus cartões de vacina em dia , permitindo assim que surtos de doenças anteriormente erradicadas venham surgir , a exemplo do sarampo, e que o poder público tem se mostrado negligente com a saúde em todas as regiões brasileiras. 
+
+O poder estatal por falta de políticas públicas agride a Legislação, dessa forma, a negligência estatal representa uma das causas da problemática, afinal, a saúde pública tem sido abandonada em todo o país, a falta de frequência em campanhas de vacinação, até mesmo a falta de estoque de vacinas é o reflexo disso. Por causa de todas essas coisas,  o movimento anti vacina  antivacina tem crescido e se instalado por todo o país, convencendo famílias a deixarem principalmente as crianças sem a proteção necessária que as vacinas oferecem, deixando seus corpos de “portas abertas” para doenças graves, como atualmente é o caso do sarampo, onde  inúmeras crianças morreram no Brasil em decorrência desta doença. 
+Portanto, é de responsabilidade do poder público a conscientização da importância das vacinas, a realização do controle do estoque destas nos postos de saúde, aumentar a frequência das campanhas de vacina, e também a criação de políticas para coibir os grupos anti vacina, a elaboração de estratégias para a redução de fake news , em virtude do problema à sociedade que isso vem trazendo. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

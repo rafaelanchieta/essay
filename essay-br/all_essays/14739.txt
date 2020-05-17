@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 450
+# tittle: Reformar ou não reformar? Eis a questão.
+A discussão sobre a Reforma do Sistema Previdenciário Brasileiro não é novidade para a sociedade. Assunto complexo e polêmico, que morde  um valor considerável da economia nacional. Caso não seja feito nada a respeito, uma parcela ainda maior da produção do Brasil,  será para arcar com a Previdência Social, um caminho que talvez não tenha volta. 
+
+Diante disso, faz-se necessário a mudança das regras. O atual governo de Jair Bolsonaro lançou a PEC  da Reforma da Previdência, que altera vários pontos relevantes, um deles é a forma de calcular a aposentadoria. A mesma  hoje,  é calculada sobre a média de oitenta por cento dos maiores salários. A Emenda propõe que o cálculo seja feito sobre todas as contribuições,  desde o início da carreira do contribuinte. 
+Outra proposição seria,  aumentar a idade mínima da aposentadoria rural, para 60 anos, tanto homens, quanto mulheres. Atualmente, os trabalhadores rurais têm seu direito garantido ao aposento a partir de 60 anos,  para homens e 55 anos para mulheres. Também é proposto,  aumentar a idade mínima de contribuição rural,  de 15 anos para 20 anos, 
+
+Portanto, o intuito é diminuir o gasto com a Previdência, pois a cada ano,  a população fica mais senil e  em contrapartida, há menos jovens e adultos para contribuir com o INSS . Este rombo exponencial,  que assola a economia pode gerar um colapso sem precedentes, que danifique a Nação e não haja solução. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

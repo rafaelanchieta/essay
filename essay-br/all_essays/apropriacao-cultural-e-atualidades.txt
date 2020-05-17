@@ -1,0 +1,12 @@
+# prompt: Carnaval e apropriação cultural
+# score: 440
+# title: Apropriação cultural e atualidades
+É de fundamental importância a valorização da cultura para a formação da identidade de uma região. Mas, comenta-se com frequência, a respeito da apropriação cultural - julgada inadequada- causada pela falta de conhecimento geral e influência midiática ou da moda.
+Ao se examinarem alguns aspectos atuais evidência se essa aculturação, por exemplo, o uso de turbantes por mulheres brancas, item pertencente a cultura negra. Muitas dessas mulheres fazem uso desse adereço pela sua estética e não pela história que o mesmo representa.
+Outro fator existente é a influência que a moda e a mídia exercem sobre a sociedade, ditam comportamentos, ações e até ideologias. Muitas vezes os indivíduos nem percebem essa influência, levando os mesmos a aderirem características de outras culturas.
+Levando-se em consideração esses aspectos, conclui-se que a sociedade deve semear o conhecimento sobre sua própria cultura, através do ensino de artes nas escolas, apresentando danças, músicas, personalidades e obras de todas as regiões do país. O governo também pode atuar nesse tema em incentivos como com a democratização do acesso a museus, teatros, cinemas, etc. Torna-se perceptível para a população a cultura a que estão inseridos e saberão reconhecer a apropriação cultural e elimina-la quando necessário, valorizando assim, sua cultura e identidade própria.
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 80

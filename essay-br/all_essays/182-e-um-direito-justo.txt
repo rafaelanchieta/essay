@@ -1,0 +1,15 @@
+# prompt: a-sociedade-brasileira-e-os-conflitos-no-transito
+# score: 2,0
+# title: É um direito justo.
+Hoje, em todo país, os acidentes de trânsito estão se tornando maiscomumdo se pensa,seja ele simples ou complexo. Mas o que se sabeque os resultados são destrutivos, e por conta deles alguém sempresaíraprejudicado,que vaide um simples arranhão ou até um grande trauma.
+        Tudo isto é causados por motoristas experientes ou não. Todos os diasas pessoas saide casa para trabalhar ou dar um simples passeio no parque na esquina
+          em qualquer lugar estão eles sujeitos a sofrer alguma violência no trânsito. Mas o que ninguém pode prever é o que issopodemacontecer com a pessoa
+          . Por isso muitas pessoas procuram ter pelo menos um seguro de vida para ter alguma garantia no futuro. No Brasil a frota de veículos cresceu muitos nos últimos anos, por isso andar nas ruasficacada vez mais difícil e as
+            principais vias e calçadas estão sempre lotadas de carros e o pedestre tendo que circular pelas ruas correndo risco de ser atropelados a qualquer momento . Em nosso país os donos de veículos sãoabrigados apagarum seguro que lhesdãodireitoácircular,
+            todavia este mesmo só poderá dar direito ao proprietárioáreceber o benefício no caso de ele e outras pessoas se envolver em acidente de carros. Portanto é um direito justo as vítimasreceber, mas é injusto quandoávítima ou os familiares nãosabedesse direito, pode ser que em muitas das vezes eles nunca venham a saber, o que é pior toda essa indenização pode ficar retida por falta de informação do próprio dono do veiculo, esse dinheiro pode chegar na hora certa parareparaos danos causados pelo acidentes.
+            Os acidentesacontecertodos os dias e com maisfreqüêncianos feriados, talvezpelaexcesso de velocidade ou por consumo de drogas e bebidasalcoólica. Ou seja nunca se sabe quando se vaiprecisar, fazeruso o desse direito nestas horasaindenizações podem amenizar os traumas provocados pelos acidentes.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

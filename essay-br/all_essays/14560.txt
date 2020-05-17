@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 320
+# tittle: [Redação sem título]
+Data-se a descoberta do Brasil em 1500, quando Pedro Álvares Cabral chegou na região Norte do país . Mas o que muitos não levam em consideração é o fato de que desde muito tempo antes as terras brasileiras já eram habitadas por pessoas um tanto quanto diferentes daqueles ''colonizadores'' que chegavam... 
+
+Essas pessoas receberam, e recebem até hoje, a denominação de ''índios'', o que acaba sendo muito abrangente e faz com que as diferentes tribos percam sua singularidade. Cada uma possui características e costumes próprios, o que faz com que elas se tornam únicas e ricas em diversidades. Atualmente há cerca de 215 grupos indígenas distintos, e no começo esse numero era muito maior . Infelizmente, doenças trazidas da Europa e das quais os indígenas não tinham conhecimentos, como gripe, dizimaram boa parte de sua população. Outro fator que levou muitos à morte foi os confrontos com os brancos devido a disputas por terras. 
+
+Atualmente  há um processo para que determinado território passe a ser de propriedade dos índios, que consiste em: estudos da área realizados pela Funai ; acontece uma delimitação que chega ao Ministério da Justiça via Diário Oficial; após ser autorizada ocorre a demarcação e a terra passa a ser de uso somente dos indígenas; verifica-se a existência de benfeitorias por parte de antigos donos para possível ressarcimento financeiro; a presidência realiza a homologação; ocupantes não indígenas são retirados com eventuais indenizações; a regularização e demarcação oficial em cartório acontece; e finalmente a Funai pode interditar a área para que seus habitantes permaneçam seguros e isolados. 
+É de suma importância que esse processo seja agilizado o máximo possível, já que é um trâmite que muitas vezes arrasta-se por anos, e enquanto isso, a fauna e flora são atacadas por exploradores. É dever do Poder Público implantar leis mais rígidas de proteção a essas reservas e fiscalizar seu cumprimento para que mais nenhuma cultura se perca. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

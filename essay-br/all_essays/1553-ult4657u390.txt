@@ -1,0 +1,12 @@
+# prompt: o-que-voce-acha-do-novo-acordo-ortografico
+# score: 7.0
+# title: Reforma ortográfica:é preciso mudar diante das mudanças.
+O ano dedois mil e novetrouxe para os brasileiros uma tarefa a ser cumprida:Decorare dominar as novas regras da ortografia. Esse novo sistema de escrita tem como objetivo unificar os países que falam português e defender a essência do idioma. São modificações básicas que com um pouco de esforçofaráparte do cotidiano rapidamente, porém, o que se tem notado é que mais difícil que estudar os novos modos de escrita é convencer grande parte dos brasileiros a perceberem a importância dessa mudança na grafia.
+        Os professores, escritores, doutores, estudantes e outros profissionais que necessitam da norma culta da língua já começaram seus estudos e métodos de como gravar as novas regras que contém muitas exceções, mas a maioria dos cidadãos ainda não buscou as informações necessárias que levam a ortografia correta. Isso atrasa o planona qualaté o ano dedois mil e dozetodos teriam que ter domínio sobre a recente norma culta implantada.
+          O ideal é que se comece uma grande campanha de conscientização da mudança em todo o Brasil, que as escolas de alfabetização (tanto infantil quanto de suplência) comecem a criar métodos didáticos.É também interessante criar matérias nos jornais e até charges que chamam a atenção do leitor, falando sobre o assunto até que todo o país se interesse pela reforma ortográfica.
+            A mudança gramatical, além da unificação dospaisesquefalam línguaportuguesa, pode trazer um outro beneficio muito importante: uma admiração maior da parte dos brasileiros para com a língua falada, afinal, apesar de não ser um idioma originário dopaís oportuguês é parte fundamental na história da cultura brasileira.
+# C0: 1.5
+# C1: 1.5
+# C2: 1.0
+# C3: 1.5
+# C4: 1.5

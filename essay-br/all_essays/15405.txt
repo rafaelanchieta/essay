@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: Planeje seu futuro
+Com o movimento de liberação sexual intensificado a partir da década de 60,  o início das relações sexuais tornou-se cada vez mais adiantado. No entanto, o debate sobre a sexualidade dentro das famílias e das escolas não acompanhou as mudanças. Com isso, surge a questão da gravidez precoce que persiste intrínseca à realidade brasileira seja pela indiferença dos jovens, pela inércia das famílias  como também pela desigualdade social. 
+Em primeira análise, vê-se que atualmente existe diversas informações no cotidiano referente a gravidez na adolescência, porém a mente dos jovens é fortemente influenciada pelo individualismo, moderando a real seriedade do tema . Ressaltando,  que os meios de comunicação seriam os responsáveis por colocar as crianças em contato com conteúdos relacionados à sexualidade prematuramente, filmes e séries com classificação indicativa restrita intensificam o caso quando não administrados pelos pais , que por sua vez,  faltam com o diálogo referente à sexualidade e formas de prevenção da gravidez, assim como,  as doenças sexualmente transmissíveis .
+Faz-se mister , ainda  salientar que a gravidez na adolescência é indesejada , sendo enfocada como um "problema" um função das consequências para o desenvolvimento infantil . De acordo com,  o Instituto Brasileiro de Geografia e Estatística  a taxa de natalidade entre adolescentes é mais existente entre jovens pobres e com menor escolaridade, mostrando a particularidade da desigualdade social presente no Brasil . A adolescente gestante retarda ou desiste de estudar para se dedicar a maternidade arrependendo-se da decisão a longo prazo quando precisar do ensino básico para ingressar no mercado formal de trabalho. 
+Logo  medidas estratégicas são necessárias para alterar esse cenário. Para que isso ocorra é indispensável uma união entre MEC  e escolas com estratégias para expandir a comunicação entre os pais e adolescentes por meio de palestras. Assim como,  amplificar os atendimentos em locais de baixa renda  aumentando as vagas para assistentes sociais nesses lugares, e acrescentar mais propagandas nas redes de comunicação  enfatizando a gravidade de uma gravidez precoce  destacando o papel dos pais na questão. Dessa maneira o Brasil poderia superar o problema. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

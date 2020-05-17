@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 600
+# tittle: [Redação sem título]
+O artigo 5º, da Constituição Federal de 1989, defende o direito pleno de qualquer cidadão. No entanto, percebe-se uma lacuna na garantia desse direito na questão da desigualdade alimentar, o que, além de grave, torna-se um problema inconstitucional. Com efeito, evidencia-se a necessidade de promover melhorias no que tange à questão da fome, que persiste influenciada por condições financeiras instáveis, além de questões políticas.
+
+Em primeiro plano, evidencia-se que o aspecto econômico é um grande responsável pela complexidade do problema. O setor da população que está inserido no contexto da desnutrição,   não possui acesso aos alimentos ou a perspectiva de melhoria de vida, segundo Graziano, engenheiro agrônomo e ex-diretor da FAO . Por conseguinte, a problemática torna-se cada vez mais intrínseca ao cenário da pobreza. 
+
+Além disso, cabe ressaltar que a insuficiência de leis é um forte empecilho para a resolução do problema. Conforme Aristóteles, a política tem como função preservar o afeto entre os indivíduos de uma sociedade. Contrariamente, no Brasil, a fome não encontra o respaldo político necessário para ser solucionado, o que dificulta a superação desta dificuldade . Ademais, a fala  do atual presidente Bolsonaro revela o teor do conhecimento do poder Executivo acerca da realidade do país. 
+Torna-se evidente, portanto, que os caminhos para a luta contra a desnutrição no Brasil apresentam entraves que necessitam ser revertidos. Logo, é necessário que as famílias, em parceria com a liderança dos bairros, exijam do poder público o cumprimento do direito supracitado. Essa exigência deve se dar por meio da produção de ofícios e cartas de reclamação coletivos, com a descrição de relatos de pessoas da comunidade que sofrem com esse problema, a serem entregues nas prefeituras, para que os princípios constitucionais sejam cumpridos. A partir dessas ações, espera-se promover a construção de um Brasil melhor. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: O Brasil paralisado: o que você pensa sobre a greve dos caminhoneiros?
+# score: 150
+# title: Lutar e vencer
+Nas últimas semanas de maio  o Brasil parou. No dia 29 de maio  a greve dos caminhoneiros tomou conta de todo o Brasil, eles  queriam seus direitos, o reajuste dos preços do oleo  diesel, da taxa do eixo erguido, e a diminuição da tarifa dos pedágios.
+De início  a greve estava afetando somente alguns estados, porém porém, depois de alguns dia, as consequências da greve afetaram todo o país, dessa forma começou  a faltar combustíveis nos postos, alimentos nos mercados, linhas de ônibus diminuídas, vôos  suspensos.
+Penso que a greve estava indo muito bem, pois todos temos direito de reidivincar , mas também, penso na população que sofreu com está  greve, com a falta de alimentos, gás de cozinha  entre outras coisas básicas  que todos necessitam.
+Logo o governo  federal, negócio  com os caminhoneiros sedendo  suas reivindicações, e assim a greve se encerrou e aos poucos os caminhoneiros voltaram a circular todo o Brasil.
+# C0: 100
+# C1: 50
+# C2: 0
+# C3: 0
+# C4: 0

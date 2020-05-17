@@ -1,0 +1,13 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 0
+# title: Comenta-se que o ex-presidente Lula
+Comenta-se que o ex presidente Lula no ano de 2016, após a decisão do Supremo Tribunal da Justiça foi condenado a segunda instância e foi diante a sua acusação do lava jato . Ainda mais que vários réus infratores de penalidade graves devem manter na prisão.
+Em primeiro lugar 726 mil presos, no Brasil tem terceira maior população carcerária do mundo, isto é a gravidade de lotações no qual muitas vezes não possuem infraestrutura adequada para receber os condenados.
+Além disso o desembargador após analisar a sentença, em seguida quando manter o detido, tornando a cadeia uma escola do crime isso é dificulta o processo de ressocialização dos criminosos.
+Por fim conforme o livro A politica de Aristósteles acredita que a democracia e ética do ser humano e a felicidade do ser além disso quando aflige a lei da justiça deve cumprir sobre os seu atos.
+Mediante a sintaxe, o Ministério Público Federal deve implantar apoio com o governo Jair Bolsonaro apoio à prisão em segunda instância julgar se condenados devem cumprir pena na prisão ou podem aguardar em liberdade enquanto recorrem aos tribunais superiores assim sendo horas depois o julgamento.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

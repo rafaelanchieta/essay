@@ -1,0 +1,11 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 300
+# tittle: [Redação sem título]
+Lotação dos presídios é um dos problemas enfrentados no Brasil. Como reverter essa situação? Segundo Victor Hugo, ativista pelos direitos humanos na França,  "Quem abre uma escola fecha uma prisão ",  Analisando este pensamento e relacionando-o com a realidade carcerária brasileira , percebe-se a necessidade de um olhar mais crítico com relação a educação e ao sistema prisional. 
+De acordo com o jornal "O Globo", 70% dos presidiários são jovens entre 18 e 29 anos com baixíssima escolaridade, isso mostra a fragilidade do ensino e o desinteresse da juventude brasileira pelos estudos e sua atração pelo mundo do crime, como forma de se obter dinheiro fácil. 
+Torna-se evidente,  a necessidade do governo investir no Ministério da Educação,  com a finalidade de se criar mais escolas , projetos e instituições com proficionais  profissionais qualificados e preparados aptos em atender esses jovens, combatendo a criminalidade e preparando-os para ingressar no mercado de trabalho, para que no futuro o Brasil tenha menos detentos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: Escola no Brasil: com partido ou sem partido?
+# score: 450
+# title: Militância partidária
+Um grande debate surgiu sobre a conduta dos professores na sala de aula : de um lado, a organização Escola Sem Partido defende a ideia de  que os professores aproveitam de suas posições de mestres e conduzem o pensamento político dos alunos. De outro, professores e educadores afirmam que é impossível ensinar humanidades sem se posicionar sobre uma ideologia.
+A escola possui o papel de formar cidadãos preparados para a vida em sociedade. Os profissionais que nela atuam detêm um posicionamento político que, se usado para persuadir os alunos, ferirá aos direitos dos mesmos 
+Os estudantes, bem como a população de modo geral, têm o direito de pensar de forma crítica e de se apropriar de uma cultura , sem a intervenção de terceiros.  Uma ideologia ser imposta pelos professores, é violar a liberdade de crença do aluno.  
+Questões de natureza religiosa e moral são os únicos assuntos que necessitam de intervenção, pois cada família possui uma maneira de conduta. Fora isso, fica a critério de cada indivíduo sua forma de pensar politicamente.
+É possível que exista  debates políticos em sala de aula mesmo com a lei  Escola Sem Partido. O mestre em sala  poderá conduzir um debate, porém, sem se posicionar sobre nenhum lado em questão. Todos os lados devem ser debatidos, questionados e aceitos.
+Portanto, é de extrema importância que professores e educadores tenham essa ideia em mente. Os estudantes terão uma oportunidade de pensar por si só, e poderão se tornar cidadãos mais conscientes e preparados para o cenário político.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

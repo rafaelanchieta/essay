@@ -1,0 +1,14 @@
+# prompt: o-que-muda-no-pais-apos-as-manifestacoes-populares
+# score: 7,5
+# title: Paraíso tropical: demagogia ou realidade?
+"O gigante acordou". A frase que impulsionou as manifestações e foi tema de diversos cartazes nos faz pensar: será que o Brasil realmente despertou? Embora os protestos desses últimos dias obtiveram umaascensão midiáticaimpressionante, sabemos que isso não será o suficiente para alcançarmos o êxito em relaçãoaspautas. É necessário, além da exposição de nossa insatisfação, darmos um prazo para que o governo
+         regularize sua situação e cumpra o que foi reivindicado. Desse modo, se as devidas providências não forem tomadas, devemos voltar "às ruas". Democracia é isso: a constante fiscalização daqueles que nos representamdentro docontexto político nacional.
+         Existe ainda uma questão sobre o que, de fato, mudará no país após esse movimento. Issoporque, todarevolta possui um objetivo. Será que o Congresso aprovará
+         os pedidos ? Uma coisa é certa, já demos o passo de partida para a alteração do cenário. Através dos ocorridos , já conquistamos, por exemplo, em São Paulo e no Rio de Janeiro, a redução das tarifas dos transportes públicos; em âmbito nacional, a PEC 37, que limitaria o poder investigativo do Ministério Público, foi rejeitada. Entretanto, não foram solucionados todos os requisitos. Há aindamuito o quefazer. Melhorias na educação e na saúde
+         são também bastante exigidas , uma vez que é lamentável que um país com economia crescente como o Brasil, ocupe o penúltimo lugar no ranking mundial da educação e o 72º no de saúde. Fundamentado no que foi exposto, é possível aferir que estamosem progresso. Porém, o trajeto será longo e árduo. Precisamos romper com alguns paradigmas e esquecer o famoso "jeitinho brasileiro", pois só assim
+         estaremos inseridos no verdadeiro paraíso tropical : uma nação isenta de corrupção e agindo em benefício de todos.
+# C0: 1,0
+# C1: 2,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

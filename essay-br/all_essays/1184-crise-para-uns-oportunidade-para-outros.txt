@@ -1,0 +1,15 @@
+# prompt: qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro
+# score: 5,5
+# title: Crise para uns, oportunidade para outros
+A crise monetáriaEuropeiavem causando polêmica no cenário econômico mundial. Apesar de enfraquecer o império da moeda da Europa, causando desordem em países que fazem usoda mesma, favorece os países menos desenvolvidos a fortalecerem
+         seus produtos de importação interna e externa. OEuroé a moeda adotada pela grande maioria dos países da União Europeia, é a segunda maior reserva monetária internacional edegrande importância na economia do mundo inteiro. Mais que isso, simboliza a integração entre os países europeus e incentivasetor econômicoentre eles efora do mesmo.A crisese deuinícioatravés depaíses que não arrecadaram o suficiente de impostosprasuprir os gastos e essa dívida acabou por colocar os governos mais prejudicados em grandes dilemas.
+         A economiainstávelé deveras importante para o desenvolvimento da nação, e uma vez
+         afetado desencadeia uma crise de problemas e desordem que requerem medidas drásticas a serem adotadas pelos governantes afetados para solucionar esses problemas. Por outro lado, países menos desenvolvidos possuem nessa crise uma grande chance de voltarem seus investimentos para a produção nacional, dando maior espaçoaprodutividadeeconsumo do própriopaíseconsequentemente aumentando a sua renda. É uma oportunidade de ganharem um espaço maior na economia, levando países subdesenvolvidos a alcançarem um lugar mais importante no cenário mundial. O Brasil é um país com fatores favoráveis a uma saída positiva dessa crise, desde que saiba administrar esse desafio da
+         forma correta e tenha o amparo necessário. É uma boa formadopaís mostrar suas qualidades, desviando-se da crise de uma
+         forma lucrativa e propício ao desenvolvimento nacional. A crise pode abalar a estrutura econômica por tratar-se de uma moeda muito importante e por envolver países também muito importantes no cenário global, no entanto pode colaborar para o desenvolvimento dos que se mostrarem capazes de lidar coma mesmade uma
+         forma criativa e oportuna. É uma forma de incentivar esses países a buscarem um lugar mais importante na cena mundial.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

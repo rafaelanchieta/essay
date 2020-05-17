@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 450
+# tittle: [Redação sem título]
+“No meio do caminho tinha uma pedra, tinha uma pedra no meio do caminho”. O trecho do poema de Carlos Drummond de Andrade retrata muito bem a Reforma da Previdência Social, tal que ela insere uma pedra no caminho do brasileiro, pois as medidas da Reforma definem que o tempo de contribuição das pessoas passará a aumentar e a remuneração irá diminuir. Contudo o governo deve mudar sua ideia sobre tal, pois o povo deve ser beneficiado e não prejudicado. 
+
+Em princípio o governo usa como argumento para implementação dessa reforma um déficit, que de acordo com eles continuará a crescer se as regras atuais de concessão do benefício permanecerem. Todavia  para o Presidente da Associação Nacional dos Auditores Fiscais da Receita Federal, Vilson Antonio Romero Romério, não há déficit, pelo contrário  o total de recursos que a união arrecada é superior aos gastos. Em 2015 sobraram mais de 65 bilhões de reais que têm sido usados para o pagamento da dívida pública. 
+Além disso, de acordo com o site BBC o gasto da Previdência é de 730 bilhões distribuídos pelos 40 milhões de cidadãos. No entanto  desses 40 milhões de pessoas  39 milhões recebem 520 bilhões e teremos  um milhão de habitantes recebendo 210 bilhões, sendo esses últimos juízes e senadores públicos. Com isso podemos  perceber que a elite está recebendo muito e a reforma deve ser feita nessa desigualdade. 
+
+Portanto  os governantes através da Receita Federal de reformular com calma reforma da Previdência , pois ela ainda não está em déficit  deixando mais severa para os 1 milhão de habitantes privilegiados, com isso a desigualdade diminuiria e acabaria tirado essa pedra no caminho do povo brasileiro. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

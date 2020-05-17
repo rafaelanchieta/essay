@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: A conquistas de direitos
+Em pleno século XXI  no auge do pensamento moderno, muito se fala sobre direitos. Os povos indígenas estão nesse território a milênios antes mesmo do início da colonização portuguesa, porém com o tempo e a colonização os indígenas foram perdendo seu território. Mas será que isso está certo? E os direitos deles onde estão? 
+
+Os direitos indígenas são os direitos coletivos que existem como reconhecimento a condição dos povos indígenas. Na nova Constituição inovou em todos os sentidos , estabelecendo, sobretudo, que os direitos dos índios sobre as terras que tradicionalmente ocupam são de natureza originária. 
+
+Contudo, a questão indígena é mais complexa. Os índios brasileiros ainda têm de lutar pela terra. Isso porque a bancada ruralista do nosso  país vem tomando terras indígenas para colocar sua atividade comercial. Essa situação vem dizimando muitas tribos e impedindo o avanço de qualquer tentativa do governo brasileiro ou de ONGs  que atuem na questão dos direitos indígenas no Brasil. 
+Portanto essa é uma situação que não podemos  mais tolerar todos os povos têm seus direitos . É preciso que nós lutemos  a luta desses povos como se fosse a nossa luta , como já dizia Mahatma Gandhi  “Temos de nos tornar a mudança que queremos ver''. O governo também deve atuar de forma mais rígida contra a opressão desses direitos, com leis que punam quem invadir terras indígenas e se apropriar delas. Assim futuramente não precisaremos  lutar pois já os direitos estarão seguros. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

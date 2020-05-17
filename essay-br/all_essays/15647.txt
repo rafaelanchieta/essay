@@ -1,0 +1,15 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 520
+# tittle: As novas descobertas na ciência
+“A vida sem ciência é uma espécie de morte’’, essa frase dita pelo filósofo grego Sócrates nos  reflete que,  a falta de importância à ciência leva à morte de muitas pessoas, pois é com ela e com seus avanços que temos  melhorias na astronomia, tecnologia, saneamento básico, química, educação em geral, nas informações que temos  no dia-a-dia , e principalmente na área da saúde. 
+A falta de recursos para essa cognição  prejudica na construção de novas escolas sobre o assunto, na melhoria de termos educacionais já citados acima , na importância de ações políticas,  na rede de pesquisa pública que todos os brasileiros têm o direito de ter, conforme está escrita na lei nº 12.527/2011 , e na região da saúde pública . 
+Mas essa crise na ciência não se deve apenas pelo fato de corte de verbas, mas também de uma visão estratégica e de uma política de Estado  que compreenda a necessidade de aumentar os investimentos no setor para assegurar a competitividade e promover o desenvolvimento econômico e social do país. 
+“Os investimentos federais em ciência no Brasil nos últimos anos vêm despencando em queda livre, independentemente do governo”, disse Helena Nader, professora da Universidade Federal de São Paulo   e presidente de honra da Sociedade Brasileira para o Progresso da Ciência . Nessa categoria de despesas estão incluídos os setores de educação, saúde, defesa e ciência e tecnologia. “[O baixo investimento em ciência e tecnologia] representa uma opção do Estado brasileiro”, avaliou Nader. 
+Contudo, a ciência permite a humanidade compreender um pouco mais sobre a natureza, ela é importante na nossa  vida pois nos  ajuda a ter uma qualidade de vida melhor, pois através dela muitas doenças foram eliminadas, , e é com novas descobertas e avanços na área que cientistas e a população podem erradicar pandemias. 
+O contributo  desta compreensão para a sociedade é inquestionável,  na medida em que possibilita avanços nos campos da saúde, da alimentação, do ambiente, da tecnologia, da energia e muitos outros, melhorando  a qualidade de vida das populações e enriquecendo  as sociedades intelectual e culturalmente.
+Uma forma de contribuir com este entendimento é o Governo aumentar o dinheiro enviado para laboratórios, universidades e campus, para acelerar o processo de novas descobertas, de novos avanços para a erradicação  de doenças, e produção de vacinas. 
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 150
+# C4: 20

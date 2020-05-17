@@ -1,0 +1,11 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 4,0
+# title: Batata quente, quente, quente, quente, quente, queimo!
+Até pouco tempo o mundo estava voltado para meio ambiente , e o Brasil não ficou de lado, pois a Amazônia é a maior floresta tropical do mundo e com a principal fonte para a existência do ser humano no planeta, que é a reserva de água doce. Mas, uns anos passaram e veio novamenteàtão temida
+         crise financeira para atormentar o capitalismo dos países . Em determinadas regiões houve até diminuição na emissão de gás carbônico nas indústrias que contribuiu brevemente para o meio ambiente, mas isto não foi por causa da política ou pelo IPCC, foi mesmo devido à crise econômica. É óbvio que as dificuldades surgem devido a um fato existente, assim como as mudanças climáticas, os problemas econômicos ou conflitos imprevisíveis entre países podem vir ocorrer. Mas qual é o enigma, o grau de importância para o Brasil do IPCC e a economia? Situações diferentes, com pesos iguais e com grau de importância relevante a sobrevivência. Embora o IPCC esteja numa reputação não muito plausível, deve-se dar crédito. Visto que a ação humana deixa cada dia mais preciso, que a terra ainda sofrerá muito com as mudanças climáticas e os seres que habitam também.
+         E o Brasil em meio a estas duas situações, devepriorizar e seguir adiante com o crescimento econômico, de forma que fique mais resistente para poder enfrentar outros problemas políticos, econômicos e sociais. Lembrando sempre que a preservação não depende apenas de um, mas de como todo o mundo.
+# C0: 2,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

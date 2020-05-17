@@ -1,0 +1,16 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 250
+# tittle: O encarceramento no Brasil
+No Brasil  atualmente os presídios estão superlotados e necessitando de recursos para resolverem o problema. 
+
+O sistema carcerário brasileiro está sofrendo uma grande dificuldade de entendimento entre os presos, levando eles a criarem intrigas uns para com os outros, podendo resultar em um massacre, como houve em Manaus . No decorrer dos anos foram criados vários grupos criminosos para venderem ou exportarem drogas para outros países, exemplos: Primeiro Comando da Capital , Comando Vermelho ...  Quando esses grupos se juntam o maior objetivo deles é tomar o espaço, no qual se resulta em briga ou até em morte. 
+De acordo com os direitos humanos  o sistema carcerário nacional podia fazer a divisão dentro das celas por grupos que foram citados anteriormente ou criando leis que proíbem esses tipos de acontecimentos, mas com o consenso de manter o preso encarcerado. 
+
+Portanto, precisamos  achar uma solução para acabar com essa oposição dentro dos cárceres, levando em conta a sobrevivência dos encarcerados. 
+
+Enfim, o principal objetivo é criar meios para mudar essa situação no Brasil e o foco é acabar com a oposição dentro dos presídios. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 0

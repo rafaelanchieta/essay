@@ -1,0 +1,11 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: A Importância da Ciência  em Meio a pandemia do Coronavírus
+O atual vírus que expandiu o Brasil está sendo o assunto auge no momento. O coronavírus é o causador da Covid-19, e por ser uma doença nova os cientistas ainda não desenvolveram meios para combatê-la. 
+É correto afirmar que o coronavírus é o ápice global no momento, trata-se de um vírus letal que se originou em Wuhan  cidade localizada na China, e vem abrangendo  todo o mundo . É um assunto de extrema delicadeza que amedronta a população pelo fato da rápida proliferação nos países  e também as inúmeras ocorrências de mortes em diversos lugares do planeta . Com esse grave problema a ciência uma é grande aliada   em meio a essa pandemia  tendo uma de grande importância, pois é a partir de estudos científicos que desenvolve métodos eficazes, como vacinas e medicações  no qual ajuda a amenizar o índice de doenças na população. 
+De acordo com as informações anteriores  a pandemia que hoje predomina o mundo é de auto grau de gravidade. Para melhor controle da situação abordada, devem decorrer aos órgãos governamentais para que tomem medidas urgentes, aprimorando  a saúde nos hospitais públicos, e disponibilizando  equipamentos hospitalares para facilitar o atendimento de infectados, ampliar a gama de médicos especializados para suprir as necessidades cotidianas e  também é essencial investir mais na ciência para garantir a cura da sociedade . Com isso ajudaria nosso  país expandir socialmente, e juntos combater esse novo vírus.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 50

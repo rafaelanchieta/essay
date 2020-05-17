@@ -1,0 +1,14 @@
+# prompt: Qualificação e o futuro do emprego
+# score: 520
+# title: O emprego do futuro
+Atualmente, o desemprego atinge grande parte da população, principalmente os jovens, que não possuem a qualificação exigida pelo mercado de trabalho. Com o avanço da tecnologia, a maioria das tarefas são executadas por equipamentos eletrônicos. Assim, os postos de trabalho estão sendo substituídos por máquinas.
+As vagas disponíveis exigem qualificação profissional altíssima, qualificação que na maioria das vezes o jovem que acabou de sair do ensino médio não possui. Seja pela falta de oportunidade, seja pela falta de condições financeiras.
+Não obstante, em um mundo onde as mudanças estão cada vez mais rápidas, é essencial que a sociedade crie e aceite as novas dinâmicas de trabalho e fomente o desenvolvimento de outras habilidades. 
+Um exemplo dessa nova dinâmica de trabalho são os motoristas e entregadores de aplicativo que vem ganhando cada vez mais adeptos e mais força.
+Assim, para seguir e manter a empregabilidade é necessário que as empresas em conjunto com a sociedade e o Estado quebrem paradigmas e ampliem opções de trabalho, desenvolvendo novas competências e habilidades.
+Nesse sentido, é necessário haver um incentivo por parte tanto do Estado quanto das grandes empresas em ensino, educação de jovens e adultos, desenvolvimento de habilidades, competências, modernização dos postos de trabalho, modernização das legislações trabalhistas a fim de que as vagas de emprego do futuro sejam preenchidas e o desemprego cai significativamente.
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 160
+# C4: 80

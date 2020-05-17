@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: Gravidez na adolescência
+Decretado pela ONU , em 1948, a Declaração Universal dos Direitos Humanos garante a todas as pessoas à saúde, educação e segurança. Por tanto   a gravidez na adolescência faz com que essa parcela da população não desfrute desses direitos . Diante dessa perspectiva, cabe avaliar os fatores que favorecem esse quadro. 
+Precipuamente, é de extrema importância mostrar que a gravidez na adolescência deriva da baixa atuação do governo, que acaba degradando à saúde mental de vários adolescentes em fase de crescimento.  Conforme a OMS , um em cada cinco bebês nascem de uma jovem entre 10 a 19 anos. 
+Na Índia o casamento precoce é visto de outra forma. Segundo o ranking do Fundo das Nações Unidas para a infância , a Índia é o sexto país do mundo onde o casamento precoce é mais comum. Muito desses casamentos precoces, as filhas eram obrigadas pelo pai e a mãe, afim  a fim de terem filhos para herdar propriedades. 
+Portanto, indubitavelmente, medidas são necessárias para resolver esse problema. Uma das soluções principais seria o governo investir mais em educação sexual nas escola, para que ensinem aos adolescentes oque realmente eles precisam aprender sobre esse assunto . E com isso o Brasil poderia superar a gravides na adolescência. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

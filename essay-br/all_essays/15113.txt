@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: Vacina: sua importância para a sociedade
+A vacina é um meio de se proteger contra doenças q  não existe outro meio de se proteger . Elas são feitas com o próprio vírus ou bactéria da doença que estão enfraquecidas  para poder ser aplicado nas pessoas. 
+
+As vacinas são importantes, pois elas erradicaram doenças que a há muito tempo não eram infectadas pelas pessoas . Mas de 2017 para cá , o número de pessoas que não acreditam em vacinas ou acham que as próprias vacinas dão a doença, são chamadas de antivacina, subiu drasticamente, segundo o Fundo das Nações Unidas para a Infância , vacinas como tríplice viral , tríplice bacteriana  e o poliomielite são as que estão diminuindo o número de pessoas imunizadas . Apenas a vacina de BCG atingiu a meta estabelecida de 95% do público-alvo imunizado. 
+
+Com a volta dessas doenças,  estamos vendo  um número muito grande de pessoas que estão morrendo com essas doenças que poderiam estar imunizadas  mas acabam não acreditando tanto por achar que elas causam outras doenças ou por informação errada, chamadas de "fake news" . Várias campanhas estão tendo que reforçar as informações e estendendo as campanhas para que pelo o menos o número de cidadãos imunizados seja alcançado. (Abordagem superficial do tema.
+A partir das informações apresentadas acima, concluímos que as "fake news"   são espalhadas por muita gente e elas acabam acreditando e repassando sem saber se aquilo é verdade, com tantos meios para se informar hoje em dia elas não se informam direito . As campanhas estão fazendo a parte deles, estendendo as campanhas até onde eles podem, mas poderiam passar de casa em casa para reforçar mais e ser capazes de dar as vacinas também,  pois tem gente que não pode sair de casa por mobilidade reduzida ou por não conseguir ou poder sair sozinha . Isto poderá aumentar o número de cidadãos imunizados e menos gente que não acredita em vacina. 
+
+Com tais implementações, as vacinas poderá ser uma mazela passada na História brasileira. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

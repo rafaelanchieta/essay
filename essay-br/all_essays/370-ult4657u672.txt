@@ -1,0 +1,16 @@
+# prompt: qual-o-papel-da-imprensa-numa-sociedade-democratica
+# score: 2,0
+# title: Manipulando opiniões
+No Brasil e no mundo,aimprensa tem tomado uma proporção imensa,qualquer acontecimentoseja, em qualquer parte do mundoem pouquíssimo tempo jáestampa asprincipais manchetes e noticiários televisivos, internet, jornais impressos e revistas de todomundo, avelocidade da informação
+        proporciona para todo ser humano conhecimento e consequentemente formação de opinião a respeito de tudo que acontece no mundo, sete dias por semana e vinte quatro horas por dia. Os meios de comunicaçãotemum enorme poder sobre a opiniãopublica,podendo elogiar ou denunciar,
+          fazer a população aprovar ou nãoatitudes tomadas pelo governo.
+          É direito do cidadão tomar conhecimento do que acontece no país em que vive,sociedade.
+            A imprensa no Brasil é livre para investigar, opinar, e publicar o que quiser, muitas vezes cometendo excessos ou pendendo para um dos lados do tema abordado, sem considerar as opiniõescontrariasao tema que a mídiadefende, levandoaté o cidadão a ideia formada, como no caso Isabella Nardoni,quando o caso ocorreua mídia se manifestou de uma forma que a culpa recaiu sobre o pai, Alexandre Nardoni, e a madrasta, Ana Carolina Jatobá, mesmo antes das investigaçõescomeçarem, issocausou uma grande comoção na população do Brasil, e eles já entraram no julgamento condenados , pois opré julgamentoda mídia atingiu a população demodonão houve espaço para a defesa se manifestar de forma livre.
+              É inegável que a mídia é um meio importantíssimo para a atual democracia, pois informaapopulação o que acontece, e forma opinião de mais de cento e noventa milhões de brasileiros.
+                Portanto, a mídia tem que exporas ideias de modo que a população tenha acesso a todosos lados da notícia de modo transparente, dando assim direitoasociedade de decidir
+                  qual posição tomarem relação a noticia proposta pela mídia, semnenhum tipo de indução ou manipulação de ideias.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

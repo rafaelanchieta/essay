@@ -1,0 +1,17 @@
+# prompt: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao
+# score: 2,5
+# title: Marte em foco!
+Marte sempre foi um dos planetas que mais se destacou entre os outros pela proximidade daterradevidoo pontede vista e a imaginação das pessoas e dos pesquisadores
+         . Maisàuma duvida no ar: existe vida em Marte?
+         Pesquisas mostram queàindícios de vida
+         neste planeta, mas ainda não possui pista que comprova a existência de seres inteligentes ou não. Devidoosavanços , estudos mostram que o solo marciano obtinha água mas depois de muitos anos só tem vestígios da mesma no subsolo. Com base nessas pesquisas lançaram um projeto da empresa Mars Oneonde visauma viagem só de ida para o
+         solo vermelho . Se pensarmosdireitoessa ideia é meioabsurdopois
+         levaríamos anos para chegar em Marte (como o jipe Curiosity) além da incerteza de que sobreviveríamos para apreciar as belezas desse planeta. Depois que abriram asescrições,
+         milhões de pessoas já seescreveram nesteprojeto,ondeprecisam mostrar porque deveriam ser o escolhido e pagar uma taxa para ajudar no orçamento desse grande projeto.
+         Será que o escolhido seria capaz de suportar a solidão sem enlouquecer e o dinheiro que receberá como irá usufruir sendo que recebeu só passagem de ida? Aindaàmuitos pontos que devem ser esclarecidos, mas não devemos esquecer que
+         o nosso planeta não foi explorado por seres que deixaram suas famílias!
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 0,0

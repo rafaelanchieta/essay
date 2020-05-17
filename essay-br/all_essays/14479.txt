@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 600
+# tittle: Efetivação dos direitos indígenas, já!
+No livro “Macunaíma”, de Mário de Andrade, é retratada a imagem do índio com o “herói sem caráter”, que assume diversas faces. Essa visão abordada na obra analogamente com a realidade brasileira é reflexo do processo de colonização, onde  na qual os povos já existentes no país foram desvalorizados. Deste modo, faz-se necessário a efetivação das medidas de valorização e garantia dos direitos indígenas, que foram instituídos pela Constituição Federal Brasileira de 1988.
+
+Em primeiro plano, em consonância com a literatura, é expressa na novela televisa “Uga Uga” a teoria de valorização das pessoas primitivas, que consiste na apresentação do índio como herói e protetor, representado pelo personagem Tatuapú. Diferentemente da perspectiva trazida pelos livros, séries e TV – a realidade vivenciada por esses indivíduos é de extrema calamidade – marcada por traços de inferiorização que foram trazidos desde o processo de colonização, quando foram escravizados e denominados como “negros da terra”, em meados do século XV. Esta é uma situação que necessita ser desmitificada pelo governo com o cumprimento das leis já existentes, objetivando a promoção da dignidade e engrandecimento desta minoria social. 
+
+Outrossim, no artigo 231,  da Constituição é conferido aos povos nativos os direitos à diferença e a terra. Entretanto, algo que deveria ser incontestável e garantido de forma eficaz conforme o que apresenta na lei é alvo de grandes embates em cenário nacional – que geram constantemente conflitos – oriundos da falta de demarcação de terras e respeito às diferenças.  Pois,  muitos não reconhecem as tradições e formas de organização social dos indígenas. Sob essa ótica, o médico e escritor Augusto Cury afirma: o sonho da igualdade só cresce no terreno de respeito pelas diferenças. Ademais, o grande desafio que é posto ao Brasil é assegurar plena indubitabilidade do texto constitucional e reconhecimento das divergências entre a população. 
+Portanto, é necessário que o Ministério da Educação e Cultura  - órgão governamental responsável por tratar e melhorar a política nacional de educação em geral - promova campanhas de conscientização abordando acerca da importância de garantia dos direitos indígenas. Com a finalidade de reparar os danos trazidos aos índios decorrentes da colonização. Esta campanha deverá ser amplamente divulgada na mídia, seja na TV, rádio ou internet. Com intuito de alcançar o maior número possível de seres humanos e tornar-se realidade o cumprimento de tudo que é citado na lei constitucional. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 450
+# tittle: Gravidez
+Na Constituição Federal brasileira de 1988,  são garantidos direitos básicos aos cidadãos, tais como: moradia, alimentação, educação de qualidade, sem contar que  segundo ela, todos são iguais em direitos.  Entretanto com a gravidez precoce, que é um grande problema de saúde pública e da sociedade, esses direitos muitas vezes não são garantidos. Sendo assim convém analisar as causas, consequências e possíveis soluções para a problemática. 
+A adolescência é uma fase de grande mudança, onde  na qual surgem muitas curiosidades, são estas que induzem os jovens muitas das vezes a procurarem o sexo, sendo que a desinformação ou o descaso em relação aos métodos contraceptivos pode levar a uma gravidez indesejada . Os adolescentes precisam ser informados, visto que os índices de gravidez nesta fase está alto, só em 2011, segundo a OMS , ocorreram $533.103  nascimentos entre meninas com idade entre 15 e 19 anos. 
+Quando a gravidez é precoce,  há grandes riscos não só para a vida das meninas  mas também para a de seus bebês, pois o corpo de uma adolescente não está tão bem preparado para dar à luz a um bebê,  como o corpo de uma mulher adulta . É importante salientar ainda que a gravidez precoce na maioria das vezes leva a evasão escolar, que por sua vez promove a manutenção da pobreza, que é contrária a constituição cidadã e isso é inaceitável para uma democracia. 
+Portanto, indubitavelmente, para tal realidade ser modificada, o governo precisa disponibilizar preservativos gratuitamente nos postos de saúde, cujos profissionais devem promover palestras as escolas,  expondo a importância dos métodos contraceptivos e dizer que o governo disponibiliza preservativos gratuitamente nos postos de saúde . Com isso, espera-se transmitir informações aos jovens, pois, como disse Nelson Mandela, a educação é a arma mais poderosa que se tem para mudar o mundo. 
+Nome: Agnaldo Alves Xavier..
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

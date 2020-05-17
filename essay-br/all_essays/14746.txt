@@ -1,0 +1,21 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 500
+# tittle: A reforma previdenciária em questão no Brasil
+Atualmente, muito se tem discutido acerca da reforma da previdência. Ao analisar essa questão, vê-se que é algo necessário para a economia brasileira, entretanto, tem gerado opiniões divergentes. O país passa por uma crise econômica causada pela corrupção, onde no qual estão sendo feitas soluções emergenciais como a reforma presidencial criada pelo governo . Essa proposta tem como objetivo diminuir o aumento das despesas a partir da elevação da idade média da aposentadoria. 
+Do ponto de vista da justiça social e igualdade no financiamento a PEC  é favorável, pois prevê a criação de alíquotas diferenciadas  por faixa de remuneração. Mas,  na opinião da economista Denise Gentil,  a proposta da reforma pode apertar demais os direitos sociais e acabar gerando problemas  maiores, com aumento de probreza a médio e longo prazo . As principais críticas estão no estabelecimento de um tempo mínimo de contribuição de 20 anos, o endurecimento na concessão das aposentadorias rurais e as reduções nos valores de pensões e auxílios. Analisando,  vê-se que são regras que dificultam o acesso e resultam em pagamentos menores do que os recebidos hoje. 
+
+
+
+
+Portanto, medidas precisam ser impostas para que possa haver alteração na reforma da previdência. Que os critérios para a aposentadoria seja por tipo de trabalho, não por idade e gênero, pois é inaceitável que um político se aposente antes que um agricultor. Desta maneira, a reforma fica democrática para todos, em especial ao menos favorecidos, que não precisarão passar o fim de sua vida trabalhando para terem uma velhice tranquila. 
+
+
+
+
+
+
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

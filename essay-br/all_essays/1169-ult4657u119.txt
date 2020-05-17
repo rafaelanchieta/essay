@@ -1,0 +1,11 @@
+# prompt: a-gramatica-facilita-ou-dificulta-a-comunicacao
+# score: 3,5
+# title: Gramática sei ou não sei?
+O uso correto das regras gramaticais enobrece e valoriza a comunicação. A língua é um organismo vivo e pulsante, passa por constantes transformações, se assim não fosse, estaríamos ainda dizendo "vossamercê" ao invés de "você".Conhecer as normas cultas da lingua como instrumento de comunicação, aumenta consideravelmente a competência linguística do indivíduo.Os sofistas gregos notabilizaram-se pelo uso da palavra.Modernamente, no campo profissional das empresas, o uso da comunicação oral, respeitando regras gramaticais, pode significar promoção. Por outro lado,Descuidosgrosseiros na maneira de se expressar pode significar despreparo e lacunas no processo educacional. Quando escrevemos bem e falamos bem, certamente teremos um diferencial que
+        nos distingue dos demais. Será que as regras gramaticais para falar e escrever não são as mesmas? Em tese sim, no entanto, ao usarmos a comunicação coloquial poderemos cometer deslizes que podem até passar despercebidos, na comunicação escrita não gozamos do mesmo benefício, já que temos tempo para ler, reler e corrigir eventuais falhas. A comunicação temvariasnuances, numa apresentação de trabalho acadêmico é esperado um tipo de comunicação bem diferente da conversa com os amigos na mesa de um bar. Se isso não ficar claro podemos ser "pedantes" ao usarmos
+             o estilo errado. Cabe aqui diferenciar Norma de Estilo, a norma é como uma regra geral, coletiva habitual, invariável, gramatical e sistemática enquanto que o estilo pode apresentar desvios, é variável, individual, inesperado e surpreendente. O uso do estilo pressupõe um grande domínio do idioma de quem o usa, sob pena de tornar-se ridículo; enquanto que a norma é obrigação dentro da língua. É de fundamental importância ao profissional da Comunicação dominar adequadamente a língua nos seus vários níveis, seja na fala, seja na escrita. Interpretar corretamente um texto escrito . Argumentar com raciocínio lógico e fundamentado. Só assim será capaz de produzir textos bem estruturados sob o ponto de vista da tipologia textual requerida para cada momento.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

@@ -1,0 +1,12 @@
+# prompt: Política X Ciência: a "pílula do câncer"
+# score: 0
+# title: As descobertas através das pesquisas 
+Muitas foram as pesquisas feitas por cientistas para descobrirem  a cura do câncer, um estudo por mais de duas décadas do professor Gilberto Orivalde Chierice do instituto de químico da universidade  de São Paulo em São Carlos com objetivo de tratamento bem sucedido contra o câncer.
+Pesquisas realizadas em culturas de células e animais de laboratório, a substância apresentou resultados promissores em ambos os casos promissores, e o no organismo do ser Humano  mais complexos  a realização de todas as pesquisas necessárias o resultado foi satisfatório, quem sabe um dia a fosfoetanolamina realmente venha fazer parte do tratamento de alguns tipos de doença. 
+Com mascaras cirurgicas  e com faixas com diseres  como “Tomara que você não precise da fosfo” ou “A cura do câncer existe”, manifestantes sairam na  Avenida Paulista a protestar a favor da liberação da pílula .
+Algumas pessoas fizeram o uso disseram ter notado uma melhora significativa assim a substancia  poderia ser utilizada para garantir uma maior qualidade de vida. Com tudo isso sob a pressão popular, o congresso nacional  e a presidente da republica decretou  a lei 13.269 em 13 de Abril  de 2016 autorizando o uso da substancia  fosfoetanolamina sintética  a chamada “pílula do câncer”. 
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

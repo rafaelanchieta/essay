@@ -1,0 +1,12 @@
+# prompt: Epidemia alimentar: sobrepeso e obesidade
+# score: 800
+# title: Corpo humano em dia
+Tudo em excesso faz mal. Com a alimentação não é diferente. Segundo uma pesquisa da BBC Brasil, ela mostrou que quase  40% da população adulta do mundo - e cerca de 20% das crianças e adolescentes entre 5 e 18 anos - já sofrem de sobrepeso ou de obesidade. No Brasil, isso não é diferente do resto do mundo. Sendo assim, quais seriam as causas do aumento da obesidade e como acabar com ela e ter uma vida mais saudável?
+Sabe-se que o excesso de uma má alimentação tem sido o principal fator para o aumento de peso da polução  brasileira. As redes de fast food - comida rápida - são as principais causadoras e campeãs em termos de aumento da obesidade. A maioria dos brasileiros, principalmente as crianças, são apaixonados  por esse tipo de comida e, claro, também pela comodidade e praticidade que elas proporcionam, além da saciedade momentânea.  No entanto, nesse tipo de alimentação esconde vilões, como o sódio, principal potencializador da hipertensão, ou seja, causa a parada do coração, bem como o açúcar, que aumenta o sobrepeso das pessoas.
+Além disso, o sedentarismo também contribui para o aumento da obesidade no país. Muitas pessoas passam mais tempo em casa, ainda mais agora com a era das redes socias, conversando no Facebook e no Instagram, por exemplo, do que pedalando, nadando e caminhando em espaços públicos e abertos, enfim, exercitando-se. Tudo isso tem um impacto no corpo, como o acúmulo de gorduras, aumentando, assim, o peso desses indivíduos. E em casos mais graves, levando até à morte, uma vez que a obesidade, segundo levantamentos, tornou-se a segunda causa de mortes no mundo.
+Conclui-se, portanto, que medidas simples ajudariam a diminuir a obesidade da maioria dos brasileiros. Como  alimentar-se em casa e de preferência com alimentos de origens conhecidas, como as que são feitas em casa, livres de conservantes. Além disso, passar a frequentar mais parques e academias para não deixar o modismo do sedentarismo acompanhá-los. Só assim, eles terão a oportunidade de ter uma vida mais saudável, além de manter a saúde do corpo humano em dia e longe do sobrepeso.
+# C0: 160
+# C1: 160
+# C2: 160
+# C3: 160
+# C4: 160

@@ -1,0 +1,12 @@
+# prompt: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade
+# score: 4,0
+# title: Dois caminhos, uma decisão a ser tomada
+No trabalho, em casa e na escola acontecem eventos que fogem de nossos planos, alguns podem ser facilmente contornados, porém, outros são gravíssimos,quepodem custar até, em certos casos, vidas. Cabe a cada um tomar a decisão de ser corajoso e enfrentar a situação e assumir a responsabilidade ou sair "de fininho" como um covarde.
+        Onáufragodo Costa Concordia mostrou ao público a covardia do capitão Francesco Schettino que
+          pelo não cumprimento da ordem de seu comandante Gregorio de Falco , fugiu da sua obrigação de capitão e abandonou seus tripulantes que, por sorte, saíram com vida desse descaso. Mas quando há a confiança que lhe fora depositada, para mostrar-se digno, a coragem deveria ter-lhe falado mais alto, afinal vidas de várias pessoas estavam em suas mãos. Se ao menos os governos se mostrassem capazes de resolverem problemas de seus países, como é o caso da fome e da educação de má qualidade que afeta os países de terceiro mundo e os políticos não fossem covardes de roubarem seu próprio povo que oselegerame fossem corajosos o suficiente para colocar ordem na administração e buscassempor melhoriaspara sua nação, investindo o dinheiro arrecadado, talvez menos miséria e vestígios de igualdade seriam alcançados.
+             A conquista da independência de muitas colônias americanas também foi pela luta e coragem de seus nativos, que embora reprimidos pelas metrópoles, não deixaram seu objetivo. É comum chegarmos ao ponto de pensar "antes um covarde vivo que um herói morto" e simplesmentefechamosos olhos e deixarmos que o mundo exploda a nossa volta, mas basta colocar em uma balança, de um lado as consequências da nossa covardia e do outro as da coragem, que o bom senso dirá que mais vale o bem estar geral aoegosísmo narcizista.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

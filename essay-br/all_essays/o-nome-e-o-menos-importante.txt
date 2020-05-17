@@ -1,0 +1,13 @@
+# prompt: Agrotóxicos ou defensivos agrícolas: dois nomes e uma polêmica
+# score: 400
+# title: O nome é o menos importante
+A questão do atual governo brasileiro liberar mais de 260 (duzentos e sessenta) tipos de pesticídas no cultivo agrícola não é um debate atual, já vem de boas décadas anteriores. O fato é: como vamos lidar com esse alto número liberado, uma vez que vem prejudicando à saúde da população? O Brasil cresceu muito na produção de insumos vegetais, mas, paradoxalmente, não consegue lidar com os fatores negativos do uso dessas substâncias.
+Em primeiro lugar, é normal a utilização de pesticídas  para combater às pragas advindas das lavouras. E nesse cenário, o mercado brasileiro evoliu muito, produzindo mais por hectares, o que justifica seu alto índice de emprego dos agrotóxicos nos alimentos plantados.
+Entretanto, o que não se admite, e isso ocorre cada vez mais, é usá-los sabendo que prejudicam o Meio Ambiente , especialmente o ser humano. Não estamos sabendo lidar com esse aspecto negativo que está manchando a imagem do nosso Estado, trazendo mais conflitos internos de interesses e divisão política, e a população acaba refém da informação mal veiculada, a qual usa nomenclaturas não técnicas.
+Outro sim , é que cada grupo vai defender sua bandeira ideológica. Uns dizem que é em razão de ganhos lucrativos, outros argumentam que sem eles não seriam capazes de produzir em grande escala devido às exingências dos consumidores. De qualquer forma, o posicionamento varia frente ao lado que se luta.
+Destarte , a questão do nome é o menos importante nessa seara . Porém, defensivos agricolas são uma terminologia que não remetem negativamente no seio social, devendo ser adotada nesse contexto. Eles foram criados para controlar e combater às pragas da lavoura. Um controlhe rigoroso desses produtos oriundos daqueles que são nocivos e Punições celeres e mais severes para os infratores que usam sabendo que são universalmente proibidos na plano nacional e internacinal .
+# C0: 80
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 80

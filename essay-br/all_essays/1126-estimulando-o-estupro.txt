@@ -1,0 +1,12 @@
+# prompt: cultura-do-estupro-a-culpa-e-da-vitima
+# score: 5,0
+# title: Estimulando o estupro?
+Sabe-se bemquena maioria dos casos de estupro, a mulher é o alvo principal do estuprador. Com roupa longa oucurtaninguém pede para ser estuprado. Então, de quem é a culpa?
+         O cidadãobrasileiroa cada dia que passa, está mais vulnerável a sofrer algum tipo de crime. Graças aos poucos investimentos e olhos fechados do poder competente em relaçãoasegurança. A insegurança está frustrando o cidadão, que aos poucos se torna refém da mente maliciosa dos maníacos e psicopatas existentes na sociedade.
+         Casos de estuproé frequentemente relatadoem departamentos de polícia ou denunciados depois de anos por pessoas que sofreram abusos quando crianças. Na maioria dos casos, mulheres que são atacadas nas ruas por maníacos, sem qualquer chance de defesa. Mulheres que também, na maioria dos casos, foram abusadas e estupradas na infância dentro de casa seja pelo padrasto, pelo vizinho, até mesmo pelo próprio pai.
+         Portanto, o comportamento vulgar de algumas mulheres ou modo de como elas sevestem, poucose relaciona com a mente doentia demaníaco estuprador. A sociedade está a mercê do estupro dentro ou fora de casa. No entanto, precisa-se se refletir muito em relação a segurança epoliticasem relaçãoadefesa do cidadão. Ninguém pede para ser estuprado.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

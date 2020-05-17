@@ -1,0 +1,16 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 300
+# tittle: Uma questão de cultura
+Em um país onde  todos têm o acesso as sessões de cinemas, a população é mais informada e possui um âmbito cultural grandioso, contribuição para o acesso de globalização e também na interação uma com as outras . Entretanto, a atual situação do Brasil,  consiste na seleção de regiões com maior desenvolvimento para as construções de cinemas. Deste modo a democratização do acesso ao cinema no brasileira   não tem o acesso por falta de estrutura e pela privatização dos cinemas que contribui para a seleção dos habitantes destes locais. 
+
+Muitos destes locais estão em condições precárias, não atendendo a todas as necessidades exigidas pelos frequentadores, como por exemplo os deficientes, contribuindo para a diminuição destes . Por outro lado, lugares como na região norte e cidades do interior não possuem nem se quer o local propriamente dito , assim caso queiram assistir a um filme de lançamento precisam se deslocar para áreas privilegiadas, pelo fato de o local não ter verba suficiente para construir e manter essa estrutura. 
+
+Com a revolução industrial, aos poucos tudo vem ficando mais “fácil”, hoje é possível comprou um ingresso, para ver um filme, pelo celular, contudo, nem todos tem condição de ir ao cinema, já que hoje o cinema é privatizado cobrando preços altíssimos, para permanecer aproximadamente 3 horas assistindo um filme, como mais que a metade da população do Brasil é classe baixa, dados apontados pelo IBGE, o acesso a esse tipo de cultura é mais dificultoso e o jeito é esperar o filme diminuir sua popularidade e ser transmitido na “sessão da tarde”. 
+A democratização deste acesso tem de ser resolvido rapidamente, pois segundo a fala de Platão “só sei que nada sei” expressa ignorância e sede de conhecimento , pois ao assistir o filme Harry Potter  sabendo que é fictício – ignorância – despertamos  a curiosidade de saber o que acontece com os personagens durante a saga – sede de conhecimento- obtendo conhecimento cultural e novas formas de ver o mundo. 
+
+Por tanto Portanto para que o país possa obter esse conhecimento cultural é necessário implantar uma campanha que consiste em um cinema solidário, onde  o governo  com a parceria das prefeituras e das empresas cinematográficas, implante  em todas as cidades brasileiras que não possuem cinemas, um cinema gratuito em um local público e de fácil acesso para todos incluindo os deficientes onde por meio de arrecadações dos patrocinadores possam levar filmes em lançamento e de boa qualidade para regiões mais pobres do Brasil. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

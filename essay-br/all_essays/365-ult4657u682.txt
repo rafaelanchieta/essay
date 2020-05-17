@@ -1,0 +1,11 @@
+# prompt: qual-o-papel-da-imprensa-numa-sociedade-democratica
+# score: 1,5
+# title: Imprensa: alienação ou liberdade de expressão?
+Todos nós sabemos que a imprensa tem um poder de influência muito forte, mas como isso acontece numa sociedade democrática?Bom! Édifícil responder essa pergunta, já que a democracia permite a liberdade de expressão, o pensar individual,entretanto os meios de informação cooperam um pouco mais na posição de uma sociedade, nem sempre mostram todas as posições de determinado assunto.Informar é diferente de opinar. Quando lemos umJornalnão enxergamos os fatos como eles realmente são, mas como o
+          escritor enxerga. Na maioria dos casos, a pessoa é levada por um argumento, pela falta de conhecimento, e isso retira do indivíduo a capacidade de avaliar um caso. No entanto, a imprensa tem um papel importante, o de expressar o sentimento de uma sociedade, ajudar na formação de argumentos, e denunciar o que está muitas vezes oculto. Em alguns programas de TV, o cidadão pode participar pelo telefone ou internet, e interagir compartilhando sua opinião pessoal, fazendo críticas, ou seja, a imprensa acaba despertando o senso crítico das pessoas.Istoé bom,
+            até o ponto em que o assunto é abordado de um modoneutro, sabemosque qualquer situação tem muitos lados e que eles precisam ser respeitados, ou pelo menos debatidos. A imprensa é um meio de a sociedade exercer a democracia, o modo de dizer o que está pensando, e saber o que está acontecendo. As manifestações públicas contra a violência, por exemplo, são mostradas na televisão, para nos levar a tomarmos uma postura que mudeesse sistema, ou seja, é uma arma demanifestocontra oufavor de uma causa que afeta a todos, não para alienação, mas para através dela o "governo do povo" seja exercido pelo povo.
+# C0: 1,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,5

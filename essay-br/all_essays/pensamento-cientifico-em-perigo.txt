@@ -1,0 +1,12 @@
+# prompt: A ciência na era da pós-verdade
+# score: 960
+# title: Pensamento científico em perigo
+A ciência contribuiu, ao longo dos séculos, para o desenvolvimento da sociedade tal como conhecemos. Graças à ela, diversas comodidades, como meios de comunicação, internet e medicamentos, estão disponíveis. Entretanto, seu prestigio vem diminuindo entre a população. Este fenômeno está bastante associado às novas formas de consumo de informações e pode trazer grandes prejuízos ao povo.
+Atualmente, a disseminação de informações tornou-se mais dinâmica. Entretanto, isto favoreceu as chamadas "fake news", caracterizadas por apresentarem inverdades, muitas vezes convenientes para alguns segmentos da sociedade. Ainda , o impacto destas notícias é favorecido pela chamada era da pós-verdade, que, como explica o filósofo Paulo Ghiraldelli, caracteriza-se por uma situação em que fatores pessoais pesam mais no momento de analisar uma informação do que qualquer outro. Com isto , tanto o pensamento crítico, como o científico são postos para escanteio.
+Além disso, a descrença na ciência traz consequências negativas para a população, sendo um claro exemplo desta relação o caso da vacinação. Tal ligação se dá pelo fato de o Brasil, nos últimos anos, ter passado de país modelo na pauta de imunização à figurante entre os principais países com aumento na incidência de sarampo. Neste processo, o disseminado movimento anti-vacinas , carente de base técnica , teve importante contribuição. Associado à ele, também contribui a falta de criticidade relativa às informações.
+Dado o exposto, faz-se necessário trabalhar pela valorização da ciência. Neste processo, as instituições educacionais são fundamentais e devem contribuir para a formação de cidadãos críticos. Além disso, devem estimular o primeiro contato com a ciência e sua compreensão, por meio de atividades práticas contextualizadas com o dia a dia. Além disso, é de suma importância que as empresas ligadas à comunicação desenvolvam mecanismos de combate às "fake news", a fim de evitar a disseminação de informações prejudiciais à população. Desta forma, contribuir-se-á para o melhor uso do conhecimento.
+# C0: 160
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 200

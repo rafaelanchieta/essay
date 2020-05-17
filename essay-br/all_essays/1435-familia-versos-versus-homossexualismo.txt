@@ -1,0 +1,14 @@
+# prompt: o-conceito-de-familia-pode-ou-nao-pode-mudar
+# score: 1,0
+# title: "Família versos [versus] homossexualismo"
+Não é de hoje que o casamento de homossexuais é discutido na sociedade brasileira. Partindo do pressupostoque para seformauma família, a base é um homem e umamulheré esdrúxula a idéia de uma união do mesmo sexo.O veiculo decomunicação
+         , éa molamestrepara influenciar a sociedade.Com tudomesmo que o setor conservador da sociedade possa
+         indeferir , não é o bastante para evitar outra forma de se constituir uma família. Não há como negar que não tem como imaginar a sociedade do futuro.Èdifícil pensar como vai ser a mente da criança cujo pai é homem e a “mãe” também. Noentantoessa idéia ainda não é bem vista aos olhos da sociedade, emfunçãodistoo bem maior da maioria tem que prevalecer. Pois o Brasil é um paísdemocrático aoqual todo mundo tem suaopiniãoedeve serrespeitadasem ser acusado de discriminação.
+         Arede globo, éuma grandeinfluenciana sociedade.
+         Esta divulga homossexualismo influenciando a juventude brasileira em suas novelas. São comunssenasdeatrizse beijando, traição, entre outras coisas que ajudam a destruir a idéia de criar uma família.
+         Entre 2004 a 2010, o direito humano tentou criar uma lei que legalizava o aborto e o casamento gay.Entretantonão foi aceita pelos setores conservadores dopaís como: A igrejacatólica e a protestante. Mas é inevitável que em um futuro próximo o casamento homossexual seja aceito no Brasil.È possível sim ter um pais que existe várias diferenças, a basede tudo é o respeito e aceitar a opinião do próximo.È necessáriouma reeducação da sociedade em relação aos veículos de comunicação que ditam como deve ser a vida da sociedade.Com tudo,no futuro as crianças possam ter o direito de ter um pai e uma mãe.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

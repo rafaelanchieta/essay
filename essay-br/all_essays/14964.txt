@@ -1,0 +1,17 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: Cooperação universal
+Considerada patrimônio da humanidade e candidata a umas das 7 maravilhas do mundo, a Amazônia está em perigo por causa dos desmatamentos e queimadas. Ela possui uma variedade de plantas que são importantes para a formação econômico-farmacêuticamente , mas tem perdido cada vez mais a flora. 
+
+A floresta tropical presente no Amazonas é devastada em prol da pecuária. O que ocorre é que pecuaristas incendeiam e matam animais para depois formarem uma fazenda e criar bois. As consequências são perda da fauna e da flora. A floresta é responsável por grande parte do oxigênio no planeta, portanto é uma questão de saúde pública cuidar dela para não haver problemas do trato respiratório nessa e nas futuras gerações. 
+
+Ademais, um dos exemplos referente a flora é a planta carqueja que alivia problemas de digestão. Essa e uma infinidade de outras plantas como as que ainda nem foram descobertas estão em risco de desaparecer. O "flora brasilienses"  uma obra de Philipp Von Martius, botânico Alemão, cataloga mais de 20 mil variedades de plantas com benefícios medicinais, alimentícios e tantos outros, essa é a importância da Amazônia para o mundo, política, econômica, estratégica e de saúde. 
+A região amazônica está ameaçada pelas queimadas e o desmatamento. O Presidente Jair Messias Bolsonaro,  enviou tropas para ter um controle maior sobre o desmatamento, mas ainda é preciso de apoio internacional, pois essa responsabilidade é de todo o mundo. E por meio da conscientização, estudos e benefícios financeiros os países podem cooperar com o Brasil. 
+
+
+
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 150
+# C4: 50

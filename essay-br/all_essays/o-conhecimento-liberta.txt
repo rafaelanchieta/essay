@@ -1,0 +1,14 @@
+# prompt: O que é mais importante para vencer na vida?
+# score: 880
+# title: O conhecimento liberta
+A ideia de vencer na vida, presente no imaginário coletivo, divide opiniões quanto a qual seria o principal fator de mudança para o sucesso, na vida do cidadão brasileiro. Dessa forma, os resultados de uma pesquisa recentemente realizada pela ONG Oxfam Brasil, sobre este tema, transparecem uma realidade nacional que choca até os mais incautos.
+Segundo a pesquisa, a maior parte dos entrevistados (28%) acredita que ter uma fé religiosa possui maior importância quando o assunto é vencer na vida. Tal resultado condiz com a formação histórica e cultural do Brasil, colonizado pelos portugueses e cuja incumbência, entre outras, foi a catequização massiva da terra conquistada, o que foi decisivo para transformar o país em uma nação primordialmente cristã. Consequentemente, a convicção de vencer pela fé representa uma característica do povo brasileiro, visto o crescente número de igrejas que surgem a todo momento.
+Concomitante ao predomínio da Igreja na vida dos brasileiros, não houve um projeto de educação que visasse o crescimento intelectual e cultural da população, como mostra a pouca importância dada à cultura e ao lazer no que tange a obtenção do sucesso (2%). Todavia, o estudo, como forma de crescimento profissional aparece em destaque (21%), somente perdendo para a crença religiosa.
+Por certo, o estudo e o conhecimento adquirido são as formas mais eficazes de libertação da condição de menoridade do ser humano, que segundo Kant, atrasava o desenvolvimento das capacidades e possíveis chances de se vencer na vida. Assim, a fé como forma de libertação vai de encontro à visão iluminista, na qual apenas o conhecimento liberta.
+Assim, o estudo, além de desenvolver as capacidades técnicas a serem usadas profissionalmente pelo indivíduo, também aumenta sua perspectiva crítica de mundo, essencial para o convívio em sociedade e para distinguir inclusive, as possíveis armadilhas que a fé pode colocar em seu caminho, como promessas de ganhos pessoais feitas por pastores evangélicos, que nunca se concretizarão.
+Portanto, o estudo representa o fator de maior importância para melhorar de vida, cada vez mais valorizado no mercado de trabalho como forma de seleção de um bom profissional, além de apresentar ganhos concretos para seu "praticante", que terá uma visão mais ampla do mundo ao qual pertence e como poderá agir para modifica-lo , sem necessariamente buscar o lucro.
+# C0: 160
+# C1: 200
+# C2: 160
+# C3: 200
+# C4: 160

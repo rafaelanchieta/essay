@@ -1,0 +1,9 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 190
+# tittle: analfabetismo
+é É uma  um tema muito comum no brasil Brasil,por não terem regras o suficiente para agregar a obrigação de pessoas a frequentar escola,  a pouco investimento no recurso de educação escolar, escolas públicas sempre deixam a desejar, analfabetismo sempre vem da dificuldade de ler,escrever,interpretar símbolos, é comum encontrar pessoas mais velhas com esse tipo de dificuldade pois não tiveram um recurso básico na escola ou nem frequentaram quando eram mais novos. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 20
+# C4: 0

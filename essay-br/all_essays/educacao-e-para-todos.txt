@@ -1,0 +1,12 @@
+# prompt: Universidade em crise: quem paga a conta?
+# score: 560
+# title: Educação é para todos
+De fato, as discussões sobre o corte de verbas das nossas universidades e faculdades públicas tem sido um tema atualmente debatido, que gera diversas opiniões distintas. É compreensível o lado de todas as opiniões: pessoas de alta classe econômica se utilizam da universidade pública, mesmo tendo condições econômicas de pagar mensalidades em uma instituição privada, e os gastos na mesma são altíssimos, pois é uma ferramenta que necessita de alto poder econômico. Ao mesmo tempo, temos o lema do que significa ter acesso à educação superior, gratuita e pública, gerando oportunidades para todos.
+A faculdade é paga com os impostos de todos os brasileiros, então, teoricamente, pessoas de classe alta também tem direito ao acesso. O que se discute é que, muitas vezes, as vagas limitadas da universidade são ocupadas em sua maioria pela classe alta, por terem melhores condições de ensino - por exemplo, ter estudado em colégio particular - então acabam sendo melhor preparados para os vestibulares. Em contrapartida existem as cotas, que tentam amenizar essa desigualdade educacional e social entre nossos estudantes. Ainda assim, universitários de classe alta ainda são majoritários na aquisição das vagas, e um dado, do Instituto Liberal de São Paulo, que mostra esse desequilíbrio constatou que metade dos calouros da USP, uma das melhores universidades públicas do Brasil, correspondem a 20% dos mais ricos do país.
+Entretanto, como rege a nossa Constituição Federal, acredito que a educação deveria ser sim gratuita e de qualidade para todos nós brasileiros, que pagamos por ela com nossos tributos. Deveria haver também uma gestão de recursos mais bem organizada nas instituições, a fim de aplicá-los nas áreas certas, que possam garantir a qualidade de ensino dos estudantes. A área da pesquisa também deveria ser explorada, a fim de buscar investimentos de empresas privadas e/ou instituições que financiam pesquisas e avanços.
+Infelizmente, o investimento, vindo do governo, na área de pesquisa e educação ainda é pouco valorizada - o que poderia trazer outros investimentos além do público, como já citados -, pois não é vista como investimento, e sim gasto social, talvez por isso o tamanho descaso com a educação e principalmente com os nossos professores.
+# C0: 120
+# C1: 120
+# C2: 80
+# C3: 120
+# C4: 120

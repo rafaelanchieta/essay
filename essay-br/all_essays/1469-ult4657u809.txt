@@ -1,0 +1,13 @@
+# prompt: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco
+# score: 5,5
+# title: Branco e Negro igual[Branco e negro iguais]. Será?
+Será que o negro tem o mesmo status que o branco na sociedade atual? Claro que não! Como pode existir igualdade social e status igual, se o negro não tem espaço merecido na televisão, na política, no mercado detrabalho.Na televisão, por exemplo, o negro raramente tem papeis de destaque, quanto maisprotagonista.
+          Séculos e séculos se passaram para que um negro pudesse ocupar papel de destaque e o que mais indigna é o argumento: "Você não se encaixa noperfil."A política também demorou muito para avançar nesse aspecto.
+            A passos lentos , os EUA elegeram o primeiro presidente negro do país. Embora tenha acontecido isso, é possível contar nos dedos da mão ospolíticos da assembleia americana..
+            Embora não seja dito às claras, aqui no Brasil ainda há muito preconceito contra os negros e aqui é pior que em qualquer país do mundo , pois ele não é revelado. Vivemos dentro de uma hipocrisia gigantesca, onde o preconceito é transmitido de forma velada, através de olhares cínicos, cochichos, e pequenos gestos que revelam o quanto o preconceito é grande. Cotas Raciais nãoéa solução, aliás,longedela. O mais correto seria criar programas sociais de interação entre crianças de várias origens, já que o Brasil abriu as portas paraimigrantes eem vez de minimizar o
+                negro com programas comoascotas raciais, coloque-os em direito de disputa e igualdade com os outros, pois assim como os outros, eles têm a mesma capacidade.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,13 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 6,0
+# title: Incentivo a [à] leitura de um clássico
+Em um mundo que poderia até mesmo ser considerado como preconceituoso, pessoas seriam privadas de conhecer e compreender uma leitura como se não merecessem lê-la . Aqueles que não tivessem a avidez parainterpreta-lanão mereceriamconhece-la. Mas é perceptível que
+         tal método privativo poderia ser considerado um equívoco e até mesmo uma injustiça. Sabe-se que na realidade dobrasilnem todos estão prontos para ler uma
+         obra literária de característica de linguagem considerada difícil ou até mesmo incompreensível para alguns. Uma simplificação de uma grande obra literária nada maissériado que uma forma de acessibilidade para todos os tipos de leitores. Aqueles que preferem a obra original e acreditam que a adaptação faz com que ela se empobreça e perca sua essência podem simplesmente não lê-la. Que continuem a ler a obra original.
+         A intenção não é substituir a escrita de Machado de Assis, mas sim promover uma segunda opção de leitura mais simples para aqueles que encontram dificuldades em entender a obra original. Tal atitude pode até mesmo ser vista como uma forma de incentivoa aquelesque não gostavam das obras doautor, euma vez que tenham lido a versão simplificada, passem a gostar e até mesmo procurar ler as obras originais. Uma forma alternativa para pessoas que fogem de uma
+         linguística considerada difícil.Ajuda-lasda melhor forma possível a ter curiosidade e obter conhecimento deveria ser o método priorizado, que com certeza traria melhores resultados na intelectualidade de todos.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,16 @@
+# prompt: A influência dos meios de comunicação na sociedade brasileira
+# score: 240
+# tittle: *SEM TÍTULO*
+Desde os tempos remotos  o ser humano vem buscando novas maneiras de comunicar-se entre si. Com o avanço da tecnologia a forma como as pessoas se comunicam mudou expressivamente. Hoje, já é possível acompanhar em tempo real o que outro indivíduo pode estar fazendo a milhares de quilômetros de distância. Exemplo disso temos   as ligações por vídeo chamadas, vídeo conferências no meio empresarial e tantas outras maneiras através das redes sociais. 
+
+Todos os dias somos   bombardeados de  por novas informações, sejam boas ou ruins elas sempre acabam chegando a nós  pelos mais diversos meios de comunicações. O uso constante de plataformas digitais nos permitem ter acesso a uma grande quantidade de dados e notícias referente a assuntos atuais e passados. Dados estes que podem acabar influenciando certas maneiras de pensar e agir. Para citar um exemplo do quão é importante sabermos interpretar estes dados e não nos deixarmos influenciar pelos mesmos são as famosas “fake news”. Ou seja, notícias falsas. 
+
+No ano de 2019 muito se foi falado sobre este tema.  A maneira como essas notícias podem se espalhar pela internet é incrivelmente rápida. nos forçando a encontrar alternativas viáveis de conter este problema que acaba afetando uma grande parte da população mundial. Ao se deparar com este conteúdo, algumas pessoas “desinformadas”  por assim dizer, acabam que alastrando o problema através de compartilhamentos indevidos. A falta de informação vem a ser um dos motivos principais para propagação das fake news. 
+Portanto, para evitar que sejamos influenciados por este tipo de conteúdo  ou até mesmo colaborarmos com sua propagação, estar bem informado sobre assuntos diversos é um hábito que devemos construir diariamente. Acompanhando os mais variados meios de comunicação: sejam jornais, revistas, sites com conteúdo construtivos  até mesmo as próprias redes sociais, buscando sempre fontes verdadeiras e bem conceituadas podem ser bastante úteis. 
+
+Com o uso consciente das mídias e a utilização de informações verdadeiras podemos nos beneficiar expressivamente. além do conhecimento adquirido podemos ser a própria fonte de informações para outras pessoas que, pelos mais diversos motivos, não conseguem ter acesso a meios de comunicação básicos como por exemplo: a internet.
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 20

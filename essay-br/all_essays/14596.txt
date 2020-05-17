@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: Emancipação Indígena
+Como caracteriza Gilberto Freyre   “Com a intrusão europeia desorganiza-se entre os indígenas da América a vida social e econômica”. É notório, como afirma o autor  que o contato dos povos indígenas com os portugueses foi extremamente prejudicial para os primeiros. Assim, é necessário medidas a fim de promover a emancipação dos povos originários, incitando um diálogo entre a sociedade e o Poder Público. 
+
+Em primeiro plano, é pertinente elencar que a invasão e exploração do território brasileiro pelos portugueses se configuraram como elementos determinantes para as transformações em que a população indígena passa no decorrer de cinco séculos. Para corroborar com essa asserção, o período da colonização ressalta que a cultura e a tradição dos nativos,  foram menosprezadas em detrimento da supremacia portuguesa. Todavia ainda é nítido o subjulgamento dos índios, o que deve, pois, ser repudiado, a fim de promover a reafirmação dessa etnia. 
+
+Posteriormente, o direito dos nativos foi incorporado à carta magma do país. Nesse panorama, a FUNAI  é o órgão responsável por promover e proteger o direito desses povos sobre o território nacional. De acordo com o artigo 6º da lei 6001/73, que preserva a jurisdição dos índios  “serão respeitados os usos, costumes e tradições das comunidades indígenas”. Contudo, apesar de terem seus direitos previstos em lei, ainda é perceptível o pensamento evolucionista de integrar os nativos ao modo de vida capitalista. Assim, esse cenário urge para ações efetivas com o intuito de propiciar a emancipação dessa parcela da população. 
+Fica evidente, portanto  que estratégias profiláticas entre a sociedade e o Poder Público são imprescindíveis para a manutenção dos direitos indígenas. Cabe aos cidadãos se conscientizarem da importância dos nativos para a constituição do país, por meio de debates nas instituições formadoras de opinião e nos veículos de comunicação em massa. Ao Ministério Público compete promover ações jurídicas pertinentes contra atitudes contrárias a legislação em prol dos indígenas, a fim de assegurar o direito desses. Em suma, essas intervenções conjuntas possibilitarão alcançar o Estado Democrático de Direito.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

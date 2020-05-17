@@ -1,0 +1,13 @@
+# prompt: cultura-do-estupro-a-culpa-e-da-vitima
+# score: 1,5
+# title: Quem será a verdadeira vitima vítima do estupro ?
+"Mulher que usa roupa curta merece ser estuprada!", foi essa frase que entrou em discussão, logo após a revelação da página do Facebook chamada "Encoxadores". Depois disso, o Ipea (Instituto de Pesquisa Econômica Aplicada), divulgou na quinta-feira (27) que 65% dos entrevistados, concordaram com a frase, sendo que a maioria dos entrevistados eram mulheres. Quando o Ipea viu a revolta que causou, o instituto corrigiu o erro, nãoeraexatamente 65% e sim 26%concordavamque mulher que usa roupa curta ou decotada merece sim ser estuprada.As vitimas, a maioria são nada menos queadolescentes e crianças do sexo feminino.E com isso podem causa-las marcasfísicas e psicológicas, e os relacionamentos sociais podem se comprometer por vergonha oupelaspessoas acharem que o estupro é uma doença contagiosa,
+         que ninguém pode chegar perto de quem sofreu o abuso. Embora, aindaexistepessoas que apoiam essa ideia, são apenas
+         humanos que não conhecemsobre oassunto. Posteriormenteapesquisa, o Brasil agora
+         poderia ser conhecido como "cultura do estupro" , pois se avitimausa roupas menores ela merece ser estuprada, sendo assim ela acaba se responsabilizandoda violência.
+         Portanto, o Brasil continuará sendo esse país da ignorância, o país das diferenças, mas todo mundo é igual, e ninguém merece ser violentado.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

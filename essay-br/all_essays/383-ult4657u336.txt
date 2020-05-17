@@ -1,0 +1,10 @@
+# prompt: o-que-voce-acha-do-ensino-nas-escolas-do-brasil
+# score: 5.0
+# title: A melhor escola é a vida!
+Falar sobre o ensino das escolas no Brasil não é difícil, principalmente das públicas, pois todos sabemos que deixa muito a desejar. Mas também tem um detalhe muito importante, é que cabe a cada um fazer suadiferênça, pois se os alunos detêrem-se apenas a sala de aula fica difícil, tem de correr atráz com determinação, pois na escola é teori     a, mas temos a chance de praticar todos os dias, aquilo que estamos sempre aprendendo.O ensino é bom, tanto o público como o privado, porém poderia ser melhor, mais exigido, mas cobrado mas fiscalizado, e mais dinâmico.Além de tudo isso, difere muito de uma região para outra até mesmo de escola pra escola na mesma cidade. Depende muito da administração de cada escola e do sistema de ensino de cada professor. É o professor que faz todadiferênçana sala de aula. Se ele é dinâmico, extrovertido,criativo,e desejarealmentevêos frutos do seu trabalho,consequentemente, seus alunos seguirão seurítimo. Pelo menos a maioria.
+          Parainsentivaros professores e administradores das escolas, deveriam ser criados centros de treinamentos, congressos, e conferências anuais,bonusde gratificação por bom desempenho, e também melhores condições de trabalho.A educação, é uma causa que se fosse abraçada com muita garra pelos governantes. Daqui alguns anos esse país seria de primeiro mundo.
+# C0: 0.5
+# C1: 1.5
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

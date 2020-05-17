@@ -1,0 +1,11 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 3,5
+# title: Intolerância religiosa brasileira
+A intolerância religiosa é uma ideologia que afeta práticas religiosas , com atitudes escrotas e que afetam totalmente a sociedade . Nos três últimos anos, no Brasil, denúncias sobre esse crimevemsendo cada vez mais expostas. As principaisvitimassão geralmenteda religiãoumbanda e candomblé.A intolerância no Brasil é muito grande e camuflada, apesar de não apresentar tal histórico, que vem sendo explicita de um modo violento que comove as pessoas que são contra esse tipo de preconceito.Esse crime fere a liberdade de expressão humana, pois perdem o direito de ficarem neutros em lugares públicos , de crer em mais um ser divino, e até mesmo de praticarem sua religião. Ninguém tem o direito depregar, ouir contra nenhum tipo de religião,
+         mesmo que seja pacificamente . Cada religião tem sua regra e de alguma formainfluência navida de seus praticantes.
+         Orepeito mutuoentre as diferenças mudaria totalmente essa situação, nenhum ser é superior ou inferior a outro que mereça tamanha falta de respeito. Sea religião ajudaas pessoas a enfrentar os problemas cotidianos, queseja praticada, sem torna-las violenta ou intolerantes um para com os outras.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

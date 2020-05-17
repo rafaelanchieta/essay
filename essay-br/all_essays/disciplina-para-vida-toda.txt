@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 300
+# title: Disciplina para vida toda
+"O Brasil é um  país do futuro", já dizia Renato Russo  em suas belas canções . Para que haja uma ordem no progresso da nação, é necessário ter muita disciplina, que em contra partida  denotará o interesse na educação do país e com rigidez, esforço e paciência, isso espelhará em um  futuro promissor para a educação brasileira.  O ensino militar, por exemplo, mostra que a junção desses elementos (citado  no primeira paragrafo ) resulta nas boas notas em avaliações externas  que são submetidos. Dedicação e foco são necessário  para formar críticos, que por sua vez, tende  a contribuir no aperfeiçoamento dessa metodologia de ensino do país.Não é para tanto que a demanda da procura para ingressar  no ITA é uma das mais cotadas hoje no Brasil, isso  só deixa mais claro o quão bom e  a forma de ensino nessa instituição, que forma profissionais de alta qualidade, tal qual uma nação em desenvolvimento necessita na atual contemporaneidade .Por tanto , em feito aplausivo, seria a ampliação desses colégios militares feito pelo governo, a acessibilidade à  essas escolas trará uma nova visão para o jovem que sonha. Essa autoridade no ensino mudará a forma de pensar, agir, senso crítico . A presença da disciplina militar em regiões com baixo rendimento em avaliações externas, deve  ser prioritária e urgente. Para termos ordem e progresso, é necessário uma boa base educacional para os jovens, que são o futuro do país.
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

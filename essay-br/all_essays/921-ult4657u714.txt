@@ -1,0 +1,13 @@
+# prompt: o-que-e-ser-homem-nos-dias-de-hoje
+# score: 3,0
+# title: Macho ou machucado?
+O homempor ser homem, acredita que ser agressivo, falar grosso, falar gírias e ser insensível são atitudes de macho,
+        mas na verdade é uma grande babaquice. Existem diversos biotipos de machos pelo mundoa fora, mas o verdadeiro macho é o que tratatanto homens como mulheresbem, com sutilieza e educação.
+        Se o homem não tem dúvida de sua masculinidade,podemos considerar este machototalmente resolvido e livre de preconceito.
+          Os machucados se ferem facilmente com qualquer tipo de palavra que atinja seu ego másculo, no entanto acabam agredindo as pessoas verbalmente ou fisicamente. Alguns machos fazem questão de mostrar sua virilidade e levantam os ombros, estufam o peito eainda piorfazem cara demal,
+          então chamaria isso de homens "Machucados", porque no fundo são uma verdadeira flor. O macho pode ser sensível, ter uma melhor amiga, limpar a casa, cozinhar, dançar balé entre outras coisas que eram exploradas apenas pelo mundo feminino, como também existiam coisas que apenas os homensrealizame que hojetemos diversas mulheresatuanteno mercado de trabalho e em atividades antes realizadas por homens.
+# C0: 0,5
+# C1: 0,5
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

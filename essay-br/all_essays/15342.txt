@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 550
+# tittle: Epidemia de gravidez entre adolescentes
+Em pleno século XXI, ainda existem casos de gravidez entre jovens de 10 a 19 anos  , sendo caracterizadas como problema de saúde pública em razão do risco de vida da mãe e do bebê. Vale salientar que as causas para que ocorra nessa faixa etária é o mito de que não tem como engravidar na primeira relação sexual , além das adolescentes cederem à pressão do parceiro quanto a não utilização de preservativos. 
+Em princípio, os jovens não fazem controle de natalidade por acreditarem na possibilidade de gravidez na primeira relação sexual , como o exemplo do Filme Juno, o qual aborda o relacionamento da mesma , com 16 anos, com seu melhor amigo após apenas um coito . Por outro lado, as meninas que se previnem com anticoncepcionais,  não os utilizam corretamente . Além disso, as adolescentes cedem à pressão do parceiro quanto a não utilização de preservativo, levando-as a contrair doenças sexualmente transmissíveis . Ente Esse comportamento é explicado pelo público, que não presenciou a epidemia de AIDS  ocorrida na década de 1980, e por isso desacreditam na seriedade do problema ou que pode ser curada. 
+A posteriori, na gravidez precoce apresenta como protagonistas adolescentes,  que muitas vezes,  são responsabilizadas pelos parceiros, com a justificativa que apenas ela poderia ter evitado a gestação . Como consequência, esta é abandonada pelo parceiro, cabendo a ela toda a responsabilidade sobre o filho . No entanto, apesar de pessoas afirmarem que ter um bebê é a melhor coisa que poderia acontecer, normalmente faz com que elas abandonem a escola, dificultando futuramente sua entrada no mercado de trabalho. Além disso, adolescentes tornam-se financeiramente dependentes de seus familiares, podendo ser vítimas de abuso e violência . Por outro lado, cabe ao pai apenas o pagamento de pensão. 
+Nesse sentido, a gravidez precoce é consequência da imaturidade dos jovens , podendo levá-los a optarem pelo aborto ou adoção, como ocorrido com Juno . Portanto, a escola poderia abordar o tema com os estudantes por meio de dinâmicas e questionamentos com profissionais de saúde, com a finalidade de informá-los sobre o uso correto dos métodos contraceptivos, de forma a prevenir uma gravidez indesejada. 
+# C0: 150
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 100

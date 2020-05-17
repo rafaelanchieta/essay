@@ -1,0 +1,17 @@
+# prompt: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo
+# score: 3,0
+# title: É melhor prevenir do que remediar
+Massacrevemsendo
+        atos que estão acontecendo cada vezmais em escolas principalmente, talveza possível causa seja oBullinguma ação irracional cometida por muitos que se acham superiores,
+        se sentindo com o poder de humilhar tanto de maneira psicológica quanto física outro individuo,mas geralmente o agressor não temnoção da repercussão que esse ato desumano pode trazer posteriormente.
+        A vítima pode não reagir com uma ação imediataguardando um sentimento de vingança que com o tempo pode virátona,
+          descontando sua raiva e rancor em pessoas que nunca lhe fizeram mal apenas por encontrar alguma semelhança com o seu agressor dopassado, ogovernoestatomando medidas como a criação de uma leiant-Bulling, mas pelo visto como as demais leis no Brasil essa sóficarano papelnão
+          se tomando uma medida que realmente poderá diminuir esse problema. OBullingpode levar uma pessoa a cometer um assassinato, mas nãoa única razão delepor queuma pessoa que é capaz de matar outroindividuosó pode ter algum distúrbio psicológico, não possuindo qualquer sentimento, em realizar um ato tão monstruoso, pois ninguém se torna um psicopata, a pessoa que é capaz de matar já nasce com um distúrbio que o torna diferente dos outras sem a emoção que o torna realmente humano.
+            Uma pessoa normal sabe quemesmo sofrendo humilhaçõesjamais poderá tirar a vida de outro ser humano.
+            Devem-se tomar medidas tanto para identificar oBullingnas escolas ou em qualquer outro lugar que ele
+              esteja sendo cometido, de forma que se elimine essa ameaçaevitando que pessoas passem por humilhações que poderão despertar um sentimento de vingança. Outra medida é o acompanhamento psicológico das criançasanalisando se elaestapreparada ou não para viver emconvive-osocial,tratando-o dasque apresentarem distúrbiosevitando atos nocivos a outras pessoas.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

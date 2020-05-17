@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: Fome, um problema atemporal.
+É indubitável que a fome é um problema social persistente no Brasil. Desde os primódios da humanidade , o homem caçou para saciar a fome e sobreviver. Em paralelo a isto, na idade contemporânea, a modernidade chegou, porém,  a problemática da fome se repete. Ademais, alguns motivos levam a fome a se agravar, entre eles a má distribuição dos alimentos e o desperdício. 
+
+Sob essa perspectiva, no mundo há comida suficiênte para a população, contudo, a distribuição desigual destes alimentos prejudica, apenas, a maior parcela da população, os pobres. Por conseguinte, tornando isto um crime social, pois fere os direitos humanos, que garante a cada cidadão o direito à alimentação adequada. Ademais, essa problemática devesse  ser prioridade para as autoridades governamentais, ainda estamos  longe de chegar a números menos alarmantes. 
+Outrossim, o desperdício de alimentos consumível  consumíveis é notório, principalmente em instituições públicas, como hospitais, universidades e escolas . Apesar de haver coleta orgânica, parte destes alimentos não são mais próprios para o consumo, uma vez que aquele alimento ficou exposto ao ar livre, podendo acarretar doenças a quem comsumi-lo. 
+
+Portanto, medidas devem ser tomadas para resolver o impasse. Deste modo, cabe às autoridades governamentais distribuir melhor os alimentos que são produzidos, entres as pessoas mais pobres, visto que,  é a parte da população que mais sofre com esse crime social,  Cabe também,  à á população a concientização sobre o desperdício alimentar e evitá-lo.  contribuindo para uma sociedade mais igualitária. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

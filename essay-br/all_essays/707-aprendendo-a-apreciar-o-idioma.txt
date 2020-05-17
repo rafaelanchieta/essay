@@ -1,0 +1,9 @@
+# prompt: norma-culta-x-variantes-linguisticas-qual-deve-ser-a-posicao-da-escola
+# score: 3,5
+# title: Aprendendo a apreciar o idioma.
+O português brasileiro é uma língua com infinitas particularidades. Isso o torna complexo, mas também belo. Cabe a cada um de nós saber apreciar e usar essa beleza. A escola tem papel fundamental na formação do aluno. E o uso correto do idioma é com certeza uma das matérias mais importantes a ser aprendida. É algo que estará presente na vida do estudante em todos os momentos. Um país com tanta diversidade cultural, com tantas raças e formas de falar, é um país riquíssimo. E todos deveriam ter o direito de aproveitar e crescer com isso. Um vocabulário diferente em cada região, uma forma alternativa de se falar correspondente ao lugar ou situação. As informações, hoje mais do que nunca, estão em todas as partes. A escola deve introduzir as diferentes formas de linguagem desde o começo da vida escolar das crianças. Depois crescemos, surgem novos desafios. E então como impor uma língua estrangeira a quem não domina completamente nem mesmo a sua própria? As escolas e a família devem ensinar. Ensinar o português culto, suas variantes e como se portar com cada pessoa e em cada momento. Mas a aprendizagem virá com a prática e apenas se o próprio indivíduo se dedicar. Há numerosas formas de se comunicar, há infinitas formas de aprender. A escola deve apresentar a literatura e a gramática ao aluno. Mas o prazer de compreendê-la , de falar, de ler e ouvir, só depende de nós mesmos.
+# C0: 2,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

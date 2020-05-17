@@ -1,0 +1,14 @@
+# prompt: organismos-transgenicos-fonte-de-problemas-ou-de-solucoes
+# score: 4,5
+# title: Transgênico, ame-o ou deixe-o.
+Os sucessivos avanços da humanidade sempre requisitaramdopleno conhecimento de técnicas necessárias ao domínio do meio que a cerca.
+         Já na Pré-história, os grupos humanos selecionavam plantas que melhor aumentavam a produtividade. Uma forma simples de controle e de elevação da produção, masquenacontemporaneidadeservemde base
+         para técnicas mais sofisticadas, os organismos geneticamente modificados , com uma diversidade de aplicações não só em plantas como também em animais e bactérias. Visto que há necessidade de suprir carências de vitaminas e diminuição do espaço de cultivo , os transgênicos dispensam vastas áreas, preservando regiões florestais, e suprem certas necessidades vitamínicas na ausência do respectivo alimento. Outro aspecto é a produção de hormônios deficientes em pessoas com determinados tipos de doenças. A insulina sintetizada em bactérias é exemplo disso e beneficia milhares de pessoas diabéticas. Desse modo, proporciona , também, o combate a doenças propagadas por mosquitos, especificamente ao transmissor da dengue. Com a crise hídrica no Brasil a proliferação acentuou-se, euma das formas de combate desenvolvida foi a liberação de mosquitos alterados geneticamente para que o cruzamento gerasse descendentes limitados à fase larval.
+         Nesse contexto, críticos alertampelafalta de estudos acerca dos efeitos de alimentos transgênicos na saúde e
+         quanto à seletividade de insetos, bactérias e ervas no campo. Já que há aceleração na seleção de organismos mais resistentes que ocasionariam perdas incalculáveis na oferta de produtos e das possíveis alterações no corpo humano. Observa-se, portanto, a diversidade de aplicaçõespelamanipulação de genes com benefícios na saúde, na agropecuária e na indústria. No entanto, é preciso estudar as possíveis consequências da introdução de
+         organismos geneticamente modificados antes de iniciar qualquer projeto, visto que o mínimo erro pode ocasionar desequilíbrios ecológicos. Assim, é função do Estado regulamentar quais especificidades devem atender para serem lançados no mercado de modo que não haja prejuízos ao ambiente e à saúde da sociedade.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

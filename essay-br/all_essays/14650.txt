@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 400
+# tittle: Crise no sistema prisional
+Segundo o Levantamento Nacional de Informações Penitenciárias   o Brasil possui a terceira maior população carcerária do mundo.Dado o grande número de encarcerados,desafios como superlotação,insalubridade e rebeliões internas requerem atenção do governo,fazendo-se necessária intervenções para melhoria do sistema prisional brasileiro. 
+
+Pode-se afirmar que 40% da população carcerária hoje são de presos provisórios oriundos de prisões em flagrantes.A Infopen revela que 26% dos presos são detidos por meses a espera da sentença,quando poderiam aguardar em liberdade dependendo da gravidade do crime cometido  assim aliviando a pressão no sistema em relação a lotação. 
+
+Ainda convém lembrar das condições desumanas que os detentos são submetidos dentro das prisões problemas como,celas sujas,má infra estrutura,a precária qualidade nutricional e até falta de aguá potável contribuem para o descaso que sofrem dentro das cadeias brasileiras .Expostos a insalubridade dentro dessas instituições os reclusos são sujeitados a situações de vulnerabilidade,podendo aquirir doenças e outros agravos só por habitarem tal ambiente. 
+Portanto o modo que os prisioneiros são tratados no cárcere ferem os direitos humanos,logo o governo deve investir em novas cadeias para conter a lotação.Além de garantir acesso a  à saúde  que é um direito universal de todos,faz-se imprescindível equipes médicas nas penitenciárias e fiscalizações desses cuidados.Assim seria uma forma de assegurar que os indivíduos não sejam tratados de maneira tão desumana. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

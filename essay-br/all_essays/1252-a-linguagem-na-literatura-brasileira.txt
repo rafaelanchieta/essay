@@ -1,0 +1,11 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 3,5
+# title: A linguagem na literatura brasileira
+Atualmente , vários clássicos literários brasileirosvemsendo lidos nas escolas do nosso país. O problema encontra-se no fato de que muitos jovens que leem Machado de Assis ou José de Alencar, por exemplo, não compreendem o que estão lendo.
+         É horrível ler algo e não entender sobre o que fala . Eis a questão: é válido simplificar a linguagem de um clássico? A resposta pode variar de pessoa para pessoa. E é uma questão repleta de polêmicas , como por exemplo, quando se simplifica a linguagem de um clássico da literatura brasileira, a pessoa que está reescrevendo a obra pode acabar mudando osentido da mesma. Pode mutilar a obra doautor, ealém disso, a literatura clássica é ensinada nas escolas por ummotivo. Enriquecero vocabulário dosadolescentes, ejá que existem tantos problemas na compreensão desses livros, os alunos deveriam pesquisar em um dicionário ou até mesmo tirar as dúvidas com um professor. Então, como foi dito anteriormente, o lado negativo dessa adaptação dos clássicos seria a perda da essência da obra original. Porém o lado positivo seria que os jovens talvez se interessariam mais pela nossa literatura.
+         Mas então o que deve ser feito? Os jovens deveriam procurar alguém para tirar as suas dúvidas sobre o vocabulário coloquial das obras. Não é tão difícil compreender o que está escrito nesse tipo de livro, apenas deveria haver mais esforços e interesse dos leitores para com as obras.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

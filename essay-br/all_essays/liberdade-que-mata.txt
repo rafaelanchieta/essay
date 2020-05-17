@@ -1,0 +1,12 @@
+# prompt: Internação compulsória de dependentes de crack
+# score: 200
+# title: Liberdade que mata
+A liberdade das pessoas que se manifestaram nas últimas semanas contra às  ações da polícia militar  e a de traficantes que financiavam a dependência de drogas na região conhecida como cracolândia, tiveram  desfechos semelhantes.
+Por um lado, entre a população iniciou-se um combate ideológico, de  diferentes pontos de vista e de  onde surgiram mais tarde manifestações. Por outro lado, a polícia combatia a ação de meliantes, levando presos quem vendia drogas no entorno e dentro da chamada cracolândia.
+É preciso levar em conta que os dependentes de drogas, sem qualquer âmparo , tanto de organizações não governamentais ou entidades ligadas aos direitos humanos, precisam de cuidados e  acima de tudo, de humanidade. De esforço honesto em fazer o bem, ainda que, o  indivíduo não possa decidir por sí  mesmo. Levando em conta os valores sociais e morais, a internação compulsória seria a melhor solução para esse drama que vivem os dependentes de crack e aos  que convivem com o problema na região.
+Nesse aspecto, se faz  urgente a intervenção do estado, para proteger e zelar pela saúde de seus cidadãos, com o respaldo de orgãos  e instituições competentes. Compactuar com a dependência e o expressivo tráfico de drogas é antissocial e imoral, o que deteriora a sociedade como um todo.
+# C0: 100
+# C1: 100
+# C2: 0
+# C3: 0
+# C4: 0

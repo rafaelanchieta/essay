@@ -1,0 +1,13 @@
+# prompt: Carnaval e apropriação cultural
+# score: 160
+# title: A apropriação cultural contínua
+A apropriação cultural contínua das escolas de samba sobre a diversidade de culturas em suas alegorias e fantasias, expressam algo sem ao menos ter conhecimento sobre as suas origens e tradições.
+Em seu vídeo publicado no youtube a ativista Katú Mirim, relata como a sociedade expõe certa cultura e seus modos de agir ao público sem haver estudado sobre a seu fato histórico e a cada símbolo retratado, torna-se ato de racismo.
+Desde o período colonial é lícito dizer que há uma grande miscigenação de raças, idiomas e diversas culturas no Brasil. E isso faz que a etnia na qual é alvo pertinência seja aberta de modo que tenha conhecimento sobre seus desafios e dificuldades diárias e a cada objeto simbólico estudado. Não tendo teorias sobre o tema abordado pode gerar conflitos entre as raças e a sociedade, gerando violência, derespeito e racismo.
+Ademais a persistência em demonstrar multiculturas encaradas como homenagem se torna uma ofensa. Tais povos por exemplo como negros e indígenas, quando possuem acessórios, roupas e outros objetos do povo branco, tem olhares de discriminação sobre a sociedade encaradas de forma etnocêntrica.
+Por tudo isso, o ministério de educação e cultura devem apresentar a comunidade em forma de palestras e práticas em todos os institutos abertos ao corpo social a diversidade de grupos que há em nosso país, e que saibam usufruir este conhecimento e expor tal etnia em grandes eventos com fatos relatados.
+# C0: 20
+# C1: 80
+# C2: 20
+# C3: 20
+# C4: 20

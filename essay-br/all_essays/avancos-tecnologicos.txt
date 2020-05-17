@@ -1,0 +1,11 @@
+# prompt: Qualificação e o futuro do emprego
+# score: 0
+# title: Avanços tecnológicos
+No que se refere aos avanços tecnológicos no Brasil, nota-se que, atingiu diretamente à população em seu meio social, na qual, trouxe diversos benefícios e malefícios para os usuários. Em contrapartida, essa realidade impôs novos desafios para a sociedade contemporânea.
+Nesse contexto, é conveniente destacar, que muitos indivíduos até mesmo crianças, estão sujeitas a manipulações, que pode ser inadequadas. Infelizmente, como há pessoas de má conduta que utiliza a internet para atraí pessoas fragilizados , é de fundamental importância o acompanhamento familiar.
+Cabe ainda ressaltar, que ressaltar que tal meio se transforma em uma forma de lazer para todos os indivíduos, e com os avanços tecnológicos, irá conduzir mais ainda os telespectadores através dos seus gostos.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

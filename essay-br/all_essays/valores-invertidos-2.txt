@@ -1,0 +1,13 @@
+# prompt: Como melhorar a educação, sem valorizar o professor?
+# score: 2,5
+# title: Valores invertidos [2]
+ Brasil, "o país do futebol" e abandonado na educação, seja para com o próximo e seja no próprio ensino.  É vergonhoso dizer que o país se encontra entre os últimos quando comparado a outros em relação à valorização do professor, mas infelizmente, essa é a nossa realidade.
+ O que esperar de um país onde a maioria considera humilhante ser professor? Com certeza, é uma das profissões em  que poucos hoje sonham e isso tudo pela falta de valorização, pela falta de reconhecimento. O  que seríamos sem um mestre? Um presidente não seria presidente. Qualquer profissional necessita de ensino, se não, não seriamos nada  e jamais conquistaríamos alguma coisa na vida.
+ É difícil esperar pontos positivos de um país  que frequentemente professores são agredidos, ameaçados e essas atitudes nos leva  a entender que a própria sociedade não quer se desenvolver, pois, os mesmos cometem injúrias e absurdos com  quem apenas tem a missão passar  conhecimento e não de prejudicar alguém . As pessoas se esquecem que para tudo se tem uma base, e pensam que os professores estão numa entidade de ensino de maneira obrigada, fazendo um favor e merecem ouvir de tudo, um pouco.  
+ De fato, o que ainda piora a situação no brasil  é o governo, que não incentiva como deveria na  educação, dando prioridade a outro pontos e acabando por deixar a educação em segundo plano, e claro, isso acaba sendo um ponto positivo a eles , já que  desse modo, tornarão cidadãos desprovidos de conhecimento e assim, manipulados mais facilmente 
+ Ou seja, como solução mais breve, o governo deveria tomar mais reconhecimento dos professores, oferecendo um salário bem remunerado e mais justo, seguindo assim a própria sociedade, respeitando um professor assim como qualquer outra profissão, pois, professor é algo muito valioso e de muito poder.
+# C1: 0,5
+# C3: 1,0
+# C5: 0,5
+# C7: 0,5
+# C9: 0,0

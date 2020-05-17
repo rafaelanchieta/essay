@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: [Redação sem título]
+A vacina é um grande avanço tecnológico. A mesma  é responsável por criar uma proteção no sistema imunológico, assim diminuindo a incidência de vários tipos de doenças e dando uma qualidade de vida melhor para as pessoas. Mesmo assim, muita gente afirma que as vacinas não são importantes, é possível analisar isso nos aspectos: porque existem pessoas antivacinas e o perigo que isso pode gerar. 
+
+Uma vez que começou a repercutir que muitas pessoas estavam acusando os imunizantes  imunizadores de provocar efeitos colaterais graves  e até transtornos como o do autismo, muitos pais começaram a não vacinarem os seus filhos. Além disso, por causa da eficácia das vacinas, não se ouvia mais falar em doenças como poliomielite rubéola, fazendo com que muitos achem que por não ser algo presente no momento, não causará problemas . Já dizia o filósofo Confúcio: Se queres prever o futuro, estuda o passado.  Então, vendo como era a sociedade anos atrás, antes do desenvolvimento das vacinas, pode-se observar o estado crítico que essas pessoas viviam. 
+Logo, haverá muitas consequências caso o número de pessoas que não forem vacinadas aumente, pois irá voltar a circular epidemias de doenças que já estavam erradicadas, deixando sequelas e causando até a morte. A taxa de mortalidade infantil vinha caindo nos últimos anos, pela primeira vez, desde 1990, essa estatística voltou a crescer, gerando preocupação. 
+
+Portanto, medidas são necessárias para resolver o impasse. O Ministério da Saúde poderá desenvolver campanhas de conscientização em postos de saúde e escolas, com palestras, principalmente para pais e mulheres grávidas, para que obtenham conhecimento sobre a importância de vacinarem seus filhos desde os seus o nascimentos para que cresçam saudáveis, com menos chance de desenvolverem doenças. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

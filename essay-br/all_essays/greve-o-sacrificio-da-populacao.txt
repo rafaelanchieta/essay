@@ -1,0 +1,12 @@
+# prompt: O Brasil paralisado: o que você pensa sobre a greve dos caminhoneiros?
+# score: 150
+# title: Greve: o sacrifício da população
+A greve dos caminhoneiros deu início devido o  aumento de gasolina no Brasil. É notório que esse assunto trás  divergências de opinião, pois a ação dos caminhoneiros trouxe consequências a população brasileira.
+Com o aumento do imposto da gasolina, houve se  revolta por parte da população que deu início a greve, que de fato os caminhoneiros são os que mais sofrem com a situação.  A greve paralisou o Brasil, bloqueado as principais rodovias e ocasionando no desabastecimento dos comércio levando a  falta de remédios, alimentos e combustível nos estabelecimentos .
+É importante relatar que essa greve fez se necessária para mostrar, os  preços abusivos que os brasileiros pagam de impostos. Porém o Brasil não pode parar, devido a inúmeros transtornos que é deixado a Boa  parte da população, como indivíduos doentes precisando de remédios, famílias que necessitam do alimento e o direito do cidadão de ir e vir.
+Portanto, devido aos fatos  a primeira coisa a se fazer é que o poder público estabeleça uma queda nos impostos, e que também diminua a carga de trabalho dos caminhoneiros, pois eles são de extrema importância para o Brasil e são os que mais saiem  prejudicados com preços abusivos.
+# C0: 50
+# C1: 50
+# C2: 0
+# C3: 50
+# C4: 0

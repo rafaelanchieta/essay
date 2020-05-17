@@ -1,0 +1,13 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 720
+# title: Amadurecimento da sociedade e o STF
+Os julgamentos dos casos de corrupção, decisões de temas sensíveis como drogas e a possibilidade de regulamentação do aborto e o aumento das discussões sobre esses tópicos pelas redes sociais graças à internet, fizeram com que o Supremo Tribunal Federal entrasse de vez no debate público.
+Com a promulgação da Constituição de 88, o STF passou a ser expressamente incumbido de guardar a Carta Maior. Dessa forma, ficou responsável por dar a última palavra sobre a interpretação que a Administração Pública deveria ter acerca dos temas relacionados à constituição .
+Apesar de no início dessa responsabilidade , lidar precipuamente com questões administrativas, com o amadurecimento da sociedade e o curso regular das instituições, novas questões demandaram a atuação do Supremo, destacando-se, primeiramente, os julgamentos dos casos de corrupção, notadamente o mais famoso, o caso do Mensalão que direcionou os olhos da sociedade para a Corte.
+Em que pese a atuação em casos criminais citados acima, com o amadurecimento da sociedade, temas que, em tese, deveriam ser discutidos no Congresso, acabam entrando na pauta do STF por envolverem pontos sensíveis da Constituição como os direitos fundamentais. Tópicos como a legalização do aborto e de certas drogas que movimentam os debates sociais na internet e focalizam o STF com a última palavra.
+Assim, apesar do destaque que vem ganhando nos últimos anos, o STF, como Corte Constitucional, deve se ater estritamente na proteção da constituição , não se deixando levar pela paixão da opinião pública em seus julgamentos. Da mesma forma, não invadindo a competência de legislar que cabe aos representantes do povo no Congresso Nacional.
+# C0: 200
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 160

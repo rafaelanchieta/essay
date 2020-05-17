@@ -1,0 +1,11 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: A ciência como combate ao coronavírus
+Uma pandemia é causada pela disseminação de uma nova doença a partir da evolução transmissora de uma endemia em dois ou mais continentes, feita de pessoa para pessoa. A ciência, então, é um fator importante ao combate de uma pandemia, principalmente do novo coronavírus, que vem causando  uma extrema mudança nos hábitos de pessoas de todo o mundo. Mas, a partir da singularidade humana, muitos banalizam a importância da ciência para a sociedade como um todo. “A vida sem ciência é uma espécie de morte”.  A frase dita pelo filósofo ateniense Sócrates, apesar de antiga, condiz muito com a realidade atual. A partir de preceitos religiosos, pessoas de todo o mundo banalizam a ciência,  com o discurso do milagre divino. Porém, é claro e evidente , que é apenas a partir do desenvolvimento tecnológico da ciência que pode-se obter um diagnóstico e um tratamento mais eficiente para doenças pandêmicas. 
+ Além, claro, de vacinas para erradicação de tais doenças. Portanto, é de extrema importância saber os limites religiosos e saber valorizar o que tanto a ciências faz . É importante salientar que, com o avanço científico, é possível a elaboração de teste mais rápidos e mais baratos. Pois, apesar do danos sociais, os danos econômicos ficam bastante evidentes. Logo, é possível gerar uma maior economia nos gastos com os testes.  Podendo  reverter a verba economizada em setores mais prejudicados. E  assim, minimizar, concomitantemente, os danos sociais e econômicos. 
+ Portanto, a partir das ideias apresentadas, é de extrema importância a valorização e conscientização, por meio da sociedade, da ciência . Em especial, à ciência brasileira, que tanto sofre com o corte de gastos.  Além do maior investimento do Governo Federal, juntamente com os Ministérios da Educação e da Ciência, Tecnologia, Inovações e Comunicações em promover um maior investimento no desenvolvimento científico.  Pois só assim será possível a evolução no combate da à doença e no melhor tratamento de pessoas contagiadas, evitando  um maior número de óbitos. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

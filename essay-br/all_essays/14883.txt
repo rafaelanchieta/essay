@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: INACREDITÁVEL! A FOME AINDA EXISTE NO BRASIL
+A situação da fome no país apresentou melhoras a partir de 2004, no entanto nem todo mundo encontra-se  se encontra nessa estatística . A fome consiste no consumo alimentar em quantidade inferior ao necessário para repor as necessidades energéticas, resultando em baixo desenvolvimento mental e crescimento nas crianças, anemia nas mulheres e dificuldade para ir à escola ou trabalhar. Segundo a Organização das Nações Unidas para Alimentação e Agricultura , a causa da fome não é a falta de comida e sim o desperdício de alimentos ocorrido durante a produção agrícola ou durante a preparação dos alimentos nas residências. 
+
+O Brasil é conhecido importante mundialmente  na produção de carne e grãos. No entanto, 1/3 dessa produção é desperdiçada durante a colheita e processamento . Além disso, 10% dos alimentos que chegam as residências são desperdiçados, pois a população não come comida requentada ou não sabe reaproveitar as cascas, sementes e folhas. Essa situação é ainda agravante para população de baixa renda e com baixa escolaridade, aumentando ainda mais a fome, mesmo que essas famílias ganhem cestas básicas de instituições sociais e dinheiro proveniente de Programas de Transferência de Renda como Bolsa Família. 
+Pessoas famintas não possuem disposição para estudar e por isso,  não conseguem trabalhos com boas remunerações, principalmente na era da informática, com a substituição de trabalhadores braçais por máquinas, com maior rendimento operacional . Uma vez que esses indivíduos não possuem qualificação para operá-las, as empresas os demitem ou não oferecem empregos para jovens inexperientes. A baixa renda é uma das causas da fome no Brasil, pois a população não tem como pagar por alimentos de qualidade e em quantidade suficientes. 
+
+Diante do exposto, as Instituições Públicas deveriam propor programas de educação para pessoas em situação de vulnerabilidade social, de forma interativa e com duração mais rápida, possibilitando empregos com remunerações mais altas. Além disso, deveria investir em tecnologias para evitar o desperdício de alimentos durante a colheita e beneficiamento dos produtos e ensinar sobre reaproveitamento dos alimentos. Todas essas medidas poderiam contribuir para acabar com a fome. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

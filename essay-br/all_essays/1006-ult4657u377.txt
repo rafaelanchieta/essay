@@ -1,0 +1,11 @@
+# prompt: o-preconceito-racial-esta-chegando-ao-fim
+# score: 4.0
+# title: O negro e sua herança histórica
+Na simbologia européia medieval, a cor branca estava associada ao dia, à inocência, à virgindade; já a preta representava a noite, o demônio, a tristeza e a maldição divina. Essa dicotomia entre branco e preto, claro e escuro, foi transferida pelos europeus aos seres humanos e para muitos essa mentalidade, ainda que arcaica, persiste em suas mentes.O preconceito racial está longe de chegar ao fim.A globalização permitiu a expansão da comunicabilidade, mas ao mesmo tempo, acirrou as rivalidades étnico-religiosas. A xenofobia é um tipo de preconceito originado dessas transformações vividas no século XXI.Talvez Martin Luther King tinha razãoem suas asserções: "Devemos agir como irmãos ou morreremos juntos como idiotas".O competiçãoentre os seres, típica dessa mentalidade capitalista, intensifica a discriminação. No mercado de trabalho essa rivalidade, sobretudo entre brancos e negros, torna-se ainda mais evidente. Os salários são na maioria dos casos desproporcionais ao merecimento de cada indivíduo, porém proporcionais à etnia a que pertence.
+            Embora Edson Arantes do Nascimento, o Pelé, no Brasil e BarackObama nosEstadosUnidos sejamexemplos que aparentemente neguem a existência de preconceito racial, eles apenas são exceções. Hoje, a maioria dos negros, pelos estudos do IBGE, são os mais excluídos da sociedade, com os piores índices de alfabetização e renda per capita.
+              Assim, a mentalidade medieval, apesar de anacrônica e racista, ainda dita padrões na sociedade da globalização. Atualmente, os negros estão espalhados pelas periferias do globo e raros são aqueles queobtemnotoriedade. Mas a luta iniciada por King está longe de se findar, a igualdade étnica é uma luta constante e interminável.
+# C0: 1.5
+# C1: 0.5
+# C2: 0.5
+# C3: 1.0
+# C4: 0.5

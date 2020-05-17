@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 240
+# tittle: Previna
+A gravidez é uma decisão para se tomar com planejamento. Um filho é uma responsabilidade para vida inteira. Por isso ela nunca deverá ser precoce. A reprodução humana tem que ser desejada. Aceita e responsável. Para que o ser que está vindo ao mundo tenha no mínimo uma vida digna e feliz. Antes de se pensar em ter um filho deve-se pensar em tudo o que ele vai precisar para crescer saudável e feliz. 
+
+Uma criança não come capim nem dorme no relento.   Ela vai precisar de um lar, um quarto, alimentos, fraldas, produtos de limpeza, plano de saúde, muito carinho, atenção, cuidados e amor. E isso requer tempo e dinheiro. Logo, vem a grande pergunta, você vai querer colocar no mundo um vencedor onde nada lhe terá faltado? Ou um sofredor onde tudo lhe faltará? Que futuro que você quer dar para seu rebento? Que futuro ele merece? Ninguém nesse mundo tem tudo. A vida é feita de escolhas e o planejamento sempre é a melhor escolhas para todos.. 
+
+Quando os cientistas criaram os métodos contraceptivos, que são pílulas, Diu,  , injeções, tabelas, camisinhas e até adesivos.  Eles também criaram na mulher o poder da escolha se quer engravidar ou se não . Antes destes mecanismos elas não tinham o que fazer e pariam até morrer. Hoje não, toda mulher pode decidir seu destino. A escolha da reprodução humana é da mulher e o maior trabalho também, são nove meses com o filho na barriga, cuidados e repouso são necessários. Seis meses amamentando sem interrupção. Dores do parto, incômodos naturais da gravidez, no mínimo um ano de dedicação total para se adaptar a sua nova vida. E isso, quando se tem a sorte de ter um bebe saudável , se nascer doente, dependendo da patologia esses cuidados serão eternos. 
+Gravidez é um ato de coragem, dedicação e amor.  Filho não faz ninguém viver para sempre juntos . A única coisa que segura um casamento é o amor. Não coloque esse peso nos ombros de seu filho. Sem segurança não faça sexo. Existem muitas maneiras de não engravidar e só uma de você engravidar,. Que é fazer sexo sem segurança. Fazer amor não é fazer filho! Mas, todo filho só deve ser feito com amor e responsabilidade. Previna as meninas que assim acabará a mina de gravidez precoce.
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 20

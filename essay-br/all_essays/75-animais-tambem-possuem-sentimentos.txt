@@ -1,0 +1,18 @@
+# prompt: experiencias-com-animais-e-violencia-em-manifestacoes
+# score: 3,0
+# title: Animais também possuem sentimentos.
+O mês de outubro foi um mêsconturbado, issose deve ao fato que pesquisadoresestãorealizando experimentos com animais para a produção de cosméticos, medicamentos, e até mesmo cura para o câncer. Várias manifestações
+         comparadas ao movimentoabolicionistasforam realizadas no intuito de conter esses experimentos, para a proteção dos animais.
+         Os animais, assim como os seres humanos, possuem sensibilidadeàdores físicas e emocionais. Esses testes são
+         realizados sem anestesias ecausauma forte tortura aos animais, muitos deles morrendo a sangue frio.
+         As manifestações que embora sejam violentas,foi importantepara a retirada de mais de cem cães utilizados nesses laboratórios
+         de pesquisas ilegais. As pessoas estão indoasruas se manifestar contra os maus-tratos e isso tem sido bom para a defesa dos pobres animais que nãotemo direito de se defenderem.
+         Esses testes em animais são utilizados para criação de produtos para o consumohumano mas sendoque o organismo doshumanassão diferentes dos animais,estãoessas pesquisastemque ser abandonadas. As pesquisas realizadas
+         são ilegais e quem ospraticamdeve sercondenados a cadeirapor causa do sofrimentocausada àseres sem capacidade mental, cumprindo pena de acordo com o tipo de mal causado ao animal, desde torturaa morte.
+         As manifestações devem se tornarpacíficascom maior organização e consciência por parte dos manifestantes. Algumas pessoas foramprejudicascom as manifestações como os PM's que tiveram sua viatura queimada e os repórteres da TV TEM, que tiveram seus dois carros queimados. Animais são seres vivos como nós e merecem respeito, carinho e amor,trata-locomo "produtos químicos"
+         não irá mudar em casa as causas das doenças ou melhorar os produtos modernos.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

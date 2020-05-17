@@ -1,0 +1,11 @@
+# prompt: Patrimônio histórico e cultural brasileiro: um caso de descaso
+# score: 0
+# title: Patrimônios destruídos pelo governo
+Quando falamos em cultura cultura, logo pensamos em museus ou teatros, é o que mantém nossa história viva, que fazem lembrar-se da extrema importância de seus acontecimentos pelo país, e país e, quando algo destrói esses monumentos, parte do país se decepciona, por lembrar da alegria que trazia as às pessoas saberem que nossa história estava viva de certo modo. E o motivo é o governo, por investir em outros projetos ao invés de focar na cultura do país.
+A história do país deveria ser uma das coisas com a qual o governo mais deveria se importar, pelo motivo de sempre deixar as pessoas mais informadas e lembradas, porém isso não existe, eles preferem investir em estádios ao invés de manter histórias de décadas viva. Como o museu nacional Museu Nacional, com seus milhões de visitantes anualmente, e nem isso foi um motivo para o governo dar a atenção necessária, é como se tudo isso fosse uma brincadeira para eles, e acabam deixando de lado algo revolucionário.
+Agora com o inicio início das reformas do museu, não só do nacional como outros destruídos também por incêndios, o governo deveria pensar em investir nos patrimônios culturais, como os próprios viram como isso abalou os brasileiros, e os mesmos pedem que eles sejam cuidados e preservados, e isso só pode acontecer com a colaboração, principalmente daqueles que estão acima de nós, começando pela parte da valorização e terminando com a ajuda que ela precisa.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

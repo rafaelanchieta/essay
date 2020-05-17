@@ -1,0 +1,16 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 500
+# tittle: [Redação sem título]
+Com a Revolução Francesa, no século XVIII, notou-se a importância da mobilização coletiva acerca dos problemas vigentes para que a nação progrida . De maneira análoga, hodiernamente , é possível assimilar que a democratização do acesso ao cinema no Brasil deve ser cumprida para satisfazer a lógica. Destarte, é válido analisar o aumento dos investimentos e a efetuação de políticas públicas que acessibilizem como formas de garantir esse direito. 
+Em primeira análise, é evidente que inúmeras cidades não obtêm investimento direcionado à infraestrutura e construção de cinemas e, consequentemente, não estão inseridas na cultura cinematográfica. De acordo com Barão de Montesquieu: "a injustiça que se faz a um é a ameaça que se faz a todos". Sob esse viés, compreende-se a essencialidade da democratização do acesso a essa forma de expressão no Brasil. 
+Em segunda análise, é perceptível que grupos de baixa renda são desprivilegiados desse fator artístico no país,  em virtude da falta de políticas públicas que permitam a democratização do acesso. Segundo Sartre, filósofo francês, é fundamental que o homem zele pelo bem coletivo e não pelo seu exclusivamente. Assim, percebe-se uma contradição a essa filosofia. 
+Portanto, conclui-se  a relevância dessas medidas  para promover a democratização do acesso ao cinema no Brasil. Por conseguinte, urge que o Ministério de Educação e Cultura, mediante maior investimento na Agência Nacional Cinematográfica, estimule a construção de novas salas de cinema em locais exclusos , a fim de acessibilizar esse contribuidor  cultural. Outrossim, deve desenvolver, por meio de parcerias com empresas cinematográficas, a redução dos preços à população menos favorecida , com a finalidade de disponibilizar esse direito cultural. Desse modo, o ideal da Revolução Francesa será correspondido. 
+
+
+
+
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

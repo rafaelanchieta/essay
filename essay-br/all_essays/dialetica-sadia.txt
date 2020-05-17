@@ -1,0 +1,12 @@
+# prompt: Brasileiros têm "péssima educação argumentativa", segundo cientista
+# score: 550
+# title: Dialética sadia
+Diante de uma realidade marcada pela luta de egos  é comum presenciar diálogos em que argumentos se tornam ofensas. É visto que a  necessidade de se estar  certo num ponto de vista  faz o brasileiro dispensar qualquer ideia opositiva a  dele, cultivando cada vez mais a intolerância á críticas e a não formação de novos ideais pela ingênua fuga dos debates saudáveis.  
+A chegada até esta problemática admite inúmeras falhas, em que a educação é com certeza pioneira.   O alarmante desinteresse pela leitura faz  as novas gerações serem reconhecidas pelo domínio da  maioria dos assuntos atuais, mas todos com superficialidades , sem um verdadeiro aparato de conhecimento e contextos históricos , o que traduz fielmente a não maturidade  para debater temas com honestidade de fatos e de argumentos, sendo dessa forma mais fácil  partir para a violência física e verbal .
+Além disso, o não consenso da verdadeira identidade  da argumentação faz criar a ideia de que ganhar um debate se traduz em negar o ponto de vista do outro, ou acreditar estar sendo ofendido pela simples fala divergente da sua, o que para Karl Marx é de grande importância para uma síntese final. Anula-se assim  a real intenção da conversa , que seria  de refutar  e tentar persuadir a ideia do outro .
+Portanto, fica evidente a péssima educação argumentativa do brasileiro, bastante comprovada nos âmbitos sociais e políticos. Faz-se necessário assim  aplicar na prática a noção de crítica construtiva e  argumentação saudável e digna. Estas podem ser promovidas pelo Ministério da Educação  com mais incentivo nas escolas para desde cedo  desenvolver a dialética de  seus alunos, e também, por parte da própria família, que tomando como princípios na criação o respeito e a ética, podem esperar novos resultados no que diz respeito ao desempenho entre os brasileiros.
+# C0: 100
+# C1: 150
+# C2: 150
+# C3: 100
+# C4: 50

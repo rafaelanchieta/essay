@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 450
+# tittle: Atual sistema carcerário do Brasil.
+Há muito tempo os sistemas carcerários são um problema no Brasil, o número de detentos no país passa de 840 mil, considerando a superlotação e situações desumanas nas prisões. Seria possível reverter essa situação? 
+
+Recentemente, os estados das regiões norte e nordeste do país sofreram com as rebeliões e massacres que ocorreram nas prisões. E isso está aumentando cada vez mais por inúmeras razões, uma delas é que o país não tem capacidade para abrigar tantos aprisionados. Para mudar isso, seria necessário a construção de presídios para comportar adequadamente detentos, mesmo eles estando lá por causa dos homicídios, drogas, roubos e outros crimes que cometeram. 
+Mas, acima da construção de penitenciárias, é necessário priorizar a educação, pois ela é a base para tudo. Pitágoras, filósofo e defensor da justiça, declarou: "Educai as crianças e não será preciso punir os homens". O que falta na sociedade é a motivação e oportunidades para os jovens. 
+
+Com base nisso, é necessário mudanças na justiça, agilizar a situação dos que estão presos provisoriamente, esperando sentença. E estímulos de contato dos detentos com a família, comunidade, oportunidades de estudos e trabalhos, incentivando uma motivação e uma "segunda chance" para 0os  os encarcerados. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,11 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 550
+# tittle: Faz mais medos para os idosos
+Atualmente, o mundo está sofrendo  com o surto do novo coronavírus. Isso está causando  grandes problemas para muitas pessoas, entre eles a preocupação na busca de uma cura e o medo de uma crise global. 
+ A priori, o rápido avanço desse coronavírus , chamado "covid 19", está deixando  todo mundo em alerta. Ademais , o pouco conhecimento sobre ele provoca uma grave dificuldade de criar um medicamento capaz de combatê-lo, levando  muitos indivíduos à óbito. Tal situação pode ser comparada com a do livro de Albert Camus " A peste" onde  segundo conto , provocou a morte de várias pessoas. Nesse sentido, cientistas do mundo inteiro estão correndo  contra o tempo em busca de um remédio capaz de combater a covid 19. 
+Assim sendo, se faz necessário que a OMS   juntamente com os governantes de cada país, a criação de campanhas de orientação a população sobre os riscos e os cuidados que deve ser tomados, como lavar bem as mãos, usar álcool em gel, evitar lugares com grande quantidade de pessoas etc. Isso deve ser feito sobretudo em lugares onde têm idosos que tem   os organismos mais frágeis no contágio do coronavírus, além de orientar a população sem risco sobre a importância de terem que trabalhar, pois sem o trabalho de mais da metade da população mundial o planeta encarará uma nova crise. Caso contrário,o planeta não terá óbitos apenas pelo coronavírus  mas mais por fome também. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

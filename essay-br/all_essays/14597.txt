@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: [Redação sem título]
+A Declaração Universal dos Direitos Humanos, promulgada pela ONU  em 1948  garante uma vida digna para todos os habitantes do mundo. No entanto, no cenário brasileiro atual, observa-se que a falta de importância de valorizar e garantir os direitos dos povos indígenas impossibilita que essa parcela da população desfrute da liberdade para exercer a sua cultura. Nesse contexto, torna-se necessário analisarmos  a indeferença e preconceito social, junto a negligência do governo sofridas ao longo desses anos pelos indígenas.
+
+Em primeira análise, é notável destacar o desinteresse e rechaço por parte das pessoas não-indígenas contra esses indivíduos. Isso acontece porque, na sociedade capitalista em que vivemos , há desigualdade social e valores humanos como a empatia são ignorados. Na obra "Modernidade Líquida",   Zygmunt Bauman defende que a pós-modernidade é fortemente influenciada pelo individualismo. Em vista disso, os povos indígenas sofrem diariamente com racismo, discriminação e acesso desigual a serviços básicos, por exemplo, saúde e educação. 
+
+Além disso, cabe ressaltar o descuido do Estado sobre a questão da posse de terras.  pois,  a falta de uma ação efetiva do Governo acaba gerando confrontos entre indígenas e fazendeiros. De acordo com dados divulgados pelo G1, a maioria dos assassinatos de índios tem como causa conflitos no campo. Nessa perspectiva, a máxima de Martin Luther King de que "a injustiça num lugar qualquer é uma ameaça à justiça em todo lugar" cabe perfeitamente. Portanto, não há dúvida da gravidade dessa problemática. 
+Logo, é necessário medidas para garantir a solidificação de políticas que visem à construção de um mundo melhor,  Dessa maneira, urge que o Ministério de Educação e Cultura  capacite os professores de forma que eles possam proporcionar aos alunos maior ajuda para adquirir uma identidade cultural sólida, por meio de palestras, festivais culturais e demais meios didáticos sobre a importância do índio, respeito e preservação. Também, o Governo em parceria com a FUNAI deve demarcar as terras nativas e assegurar a correta execução de seus direitos conforme o Estatuto do Índio estabelece. Somente assim,  será possível combater os enormes obstáculos que sofrem pela luta do reconhecimento de seus direitos. Desse modo, talvez possam desfrutar a vida digna que a Declaração dos Direitos Humanos garante. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

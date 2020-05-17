@@ -1,0 +1,11 @@
+# prompt: Os ursos polares da Rússia e um dilema ecológico
+# score: 600
+# title: Em busca de um novo lar
+Com o aumento do aquecimento global, várias espécies de animais de todo planeta vem sofrendo, como é o caso das espécies que vivem em meio polar que veem literalmente, suas casas derreterem, ficando assim encurralados já que com as grandes áreas congeladas que vão se desfazendo no mar vai o seu alimento.
+Não tendo condições para que possam sobreviver no seu habitat  algumas espécies migram para as áreas urbanas, em busca de um novo lar e uma fonte de alimentação que não vá embora junto com as geleiras, isso então acaba se tornando um grande problema para a população já que se trata de animais selvagens que não vão ter a preocupação em diferenciar um ser humano de uma presa fácil, até por que crianças não conseguiriam encontrar uma maneira de se defender dos ataques desses animais que estão em busca de uma nova morada. É percebido que o fato desses O fato animais estarem migrando para as regiões habitadas pela sociedade se deve também ao fato de um crescimento desenfreado em direção às suas "casas".
+Tendo isso em vista, pode-se dar conclusão de que um engajamento maior dos países em acordos como o Acordo de Paris , que traz metas que preveem a diminuição da temperatura do planeta, poderia ser uma boa alternativa para evitar que animais não sejam obrigados a se deslocar até os centros urbanos mais próximos em busca de alimento.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

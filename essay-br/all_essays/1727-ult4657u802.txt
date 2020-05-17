@@ -1,0 +1,14 @@
+# prompt: votar-em-palhaco-e-uma-forma-valida-de-protestar
+# score: 5,0
+# title: De que pessoas precisamos?
+Votar em palhaço é uma forma de protestar? A ação de protestar não deve prejudicar a sociedade. Surpreende-nos que nesta ultima eleição o propósito de votar em alguém despreparado sirva como forma de protesto. Nesta ultima eleição muitas pessoas ficaram indignadas ao ver que o deputado federal Tiririca foi um dos mais votados. No entanto,estaforma de protestolevouuma pessoa que declarou em rede nacional não saber qual seria o seu papel na política.
+          As formas de protesto são para visar obem estarda sociedade, um exemplo, foi o movimento de maior participação popular da história do Brasil que propunha eleições diretas ("Diretas Já"), em que o eleitor vota pessoalmente em uma urna.Entretendo, atualmenteestedireito democrático nãoestasendo valorizado pela maioria das pessoas, já que elegem deputados que não possuem o mínimo de preparo para ocupar tal cargo.
+            Sendo assim, os cidadãos brasileiros devem refletir sobre a responsabilidade devotaremem algum político, pois essa decisãoimplica nofuturo de outras pessoas também. Desta forma, precisamos de uma
+              sociedade que pense no coletivo, quedevalorasreivindicações passadas, como no caso do voto diretoe
+              principalmente quesejam sujeitoscríticos e capazes de exercer a cidadania adequadamente
+              .
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

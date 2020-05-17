@@ -1,0 +1,21 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 2.0
+# title: [Sem título]
+O processode ensino-aprendizagem é muito complexo. A relação entre alunos e professoresfaz partee é muito importante, e mesmo não parecendo, ajuda muito.
+        Esse método é ultilizadopara ajudar principalmente os que não
+          temcondições de ter um bom estudo, porém, só é
+          bem sucedidopara os que tiram bom proveito e se esforçam, pois virtualmente não
+          tem semuita responsabilidade e ninguém
+          quepossa interagir.
+          O contato físico é muito importante, de ambas as partes; osque aprendem e
+            osque ensinam. Às vezes é mais fácil aprender estandojunto, porque alguns professores
+            temseu jeito certo e especial de explicar, o que ajuda principalmente os que
+            temmais dificuldade. Um olhar ou um gesto pode mudar muita coisa.
+            Por meios virtuais, seria interessante repassar o conteúdo já aprendido e já passado, ou para os mais estudiosos um jeito prático de estudar melhor em casa. Por outro lado, é uma inovação que todos querem. Quem quer acordar cedo paraassistir aula? Com certezacom essa praticidade ninguém quer, já que existem meios de fazer isso de casa, onde você pode assistir à aula de pijama.
+                  Com um pouco de esforço e vontade é possível ter um bom desempenho e resultado final excelente.É um processoquese for bem
+                      ultilizadoe tiver bons resultadosserá em pouco tempo muito comum para todas as universidades e cursinhos de todo o mundo, se puder progredir.
+# C0: 0.5
+# C1: 0.5
+# C2: 0.5
+# C3: 0.5
+# C4: 0.0

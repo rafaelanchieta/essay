@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 500
+# tittle: Vacinar-se é importante?
+O aumento da desvalorização contínua da importância da vacinação na sociedade brasileira é evidente. Isso deve ser freado , pois as maiores vítimas são as crianças, os idosos e a população em geral. Sendo relevante uma análise dos aspectos que corroboram com essa problemática: descaso do governo e parcela de culpa da sociedade. 
+
+É compreensível que a questão legislativa e sua aplicação estejam entre os fatores que atenuam o problema. Nesse contexto, é importante enfatizar que,  o governo não leva isso a sério e é válido analisar que o desconhecimento acerca da importância da vacina influi em comportamentos inadequados contra os brasileiros . A exemplo de quando em 2018 houve uma forte epidemia da febre amarela  que segundo o Ministério da Saúde foi a pior epidemia da doença já registrada no país que levou a óbito 340 pessoas. 
+Além disso, é cabível salientar que, segundo Drauzio Varella, "A vacina foi a grande responsável pelo aumento da expectativa de vida no Brasil.". Dessa forma, a sociedade se faz plenamente responsável por tal visão da sociedade. 
+
+Assim sendo, fica evidente a problemática da importância das vacinas no Brasil. Tomando   assim indubitável a importância do Governo Federal, mediante o Ministério da Saúde. Ainda cabe a mídia o papel de promover campanhas publicitárias, debates em horários nobres, fomentando a conscientização sobre o quão é importante se vacinar. Afim  A fim de que,  essa problemática de cunho social seja cada vez menos recorrente na sociedade brasileira. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 100

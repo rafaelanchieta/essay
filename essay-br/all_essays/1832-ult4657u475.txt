@@ -1,0 +1,13 @@
+# prompt: combate-ao-fumo-autoritarismo-ou-dever-do-governo
+# score: 3.0
+# title: Compartilhe a vida, não a fumaça
+A liberdade nos permite escolher nossos hábitos, crenças e modos de viver a vida. Quem faz a escolha de acender um cigarro exerce esse direito, mas pode violar a liberdade de pessoas que optam por uma vida saudável e sem vícios. O cigarro funciona como uma fuga, alémde não trazer benefícios para o corpo humano, é utilizado apenas como forma de relaxamento ou como um modo
+          de se inserirem um grupo social.
+          Mesmo com a conscientização em propagandas e no verso das carteiras de cigarro, é imenso o número de usuários, e novos adeptos surgem a cada ano. O governo gasta muito para recuperar a saúde dessas pessoas, mas ironicamente também lucra com os impostos pela venda.O ideal seriaconscientizar os jovens desde a infância, para que na idade adulta possam ter hábitos mais saudáveis, passando este pensamento para seus filhos e assim criando um ciclo que levaria a diminuição do número de fumantes.
+            A integração entre as pessoas é muito importante, é o que nos leva a evoluir. O convívio deve ser harmônico, não podemos isolar quem fuma, mas sim criar locais adequados para o fumo. Em festas, se o ambiente é fechado, deveria teruma sala mais isolada para os fumantes, que depois retornariam para o ambiente com os demais.É muito difícilsair para se divertir, principalmente à noite, e não encontrar nenhum fumante. Nesse caso é necessário encontrar alguma solução, nos demais o governo deve fiscalizar rigorosamente, como no trabalho e em restaurantes.
+              Assim como aumentou a fiscalização quanto ao consumo de bebidas alcoólicas por motoristas, que causam mortes nas estradas, o governo e a própria população devem fiscalizar e conscientizar os fumantes, para evitar doenças respiratórias e outros males derivados deste hábito.
+# C0: 1.5
+# C1: 0.0
+# C2: 0.5
+# C3: 0.5
+# C4: 0.5

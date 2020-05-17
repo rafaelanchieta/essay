@@ -1,0 +1,14 @@
+# prompt: lixo-questao-de-cidadania-e-responsabilidade-social
+# score: 3,5
+# title: Lixo: Questão de Cidadania e responsabilidade Social
+O Brasil vem vivendo há anos com problemasdodestino do lixo. São milhares de toneladas por dias recolhidasporcada cidade,mas nem toda cidade o lixo é recolhidoou nem sempre o destino dele é o correto.Mas parareverter situações como estas, devemos nos concientizar.
+         Cidades brasileiras com falta de coleta delixo, temsido um dos principais problemas. Não há
+         destino e são jogados em terrenos baldios com lixo acumulado e visivelmente feio . Isso acontecepoisnão há conscientização doscidadães, nem das autoridades responsáveis.
+         Muitoscidadõesbrasileiros não separam seu lixo doméstico,
+         restos de comida com papéis que poderiam ser separados adequadamente. Muitos fazem isso por falta de informação e outros por simplesmente falta de vontade. Mas é isso que devemos levar aos outros, conscientização.Faze-loscom que cada um cumpra suas partes,separa-losseulixos, recicla-los. Poissão de nossa responsabilidade.
+         E assim sendo, a melhor forma de garantirmos um país sem problemas comlixo, éagindo de forma correta e com responsabilidade.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

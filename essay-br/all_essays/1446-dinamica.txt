@@ -1,0 +1,13 @@
+# prompt: o-conceito-de-familia-pode-ou-nao-pode-mudar
+# score: 9,0
+# title: Família dinâmica
+Após o primeiro capítulo da novelababilôniana rede Globo, uma onda de manifestações a favor e contra o beijo gay mostrado nas cenas tomou a internet. Os contrários insistem em dizer que relacionamento se faz entre homem e mulher. Essas pessoas não consideram, no entanto, que o conceito de família é dinâmico e muda com o tempo.
+         O conceito de família tradicional está baseado em princípios religiosos. No Brasil, grande parte da população professa a religião cristã, que não aceita o casamento entre pessoas do mesmo sexo. Todavia, a Constituição Federal afirma que o Brasil é um país laico. Dessa forma, é incoerente estender o conceito de família tradicional a toda a população. Assim, o conceito legal de família não só pode como deve mudar para que a população que não concorda com o modelo tradicional tenha seus direitos garantidos e seja atendida peloestado.
+         O conceito de família é dinâmico. Esse conceito pode variar em decorrência de vários fatores, como a religião: A religião católica concorda com a definição da proposta de lei intitulada “Estatuto da Família”, segundo a qual família seria a união apenas entre um homem e uma mulher e seus filhos. Já o Budismo não faz distinção de sexo e vê a família como a união entre duas pessoas. É importante destacar também que família é um conceito que ultrapassa o legal:Estámais ligado a sentimentos do que a regimentos, assim essa ideia deve ser flexível. Na medida em que duas pessoas têm afeto entre si,essas temo direito deseremtratadas como família,
+         tendo todos os direitos dematrimônio, e de registrarem sua união.
+         Dessa forma, é visível que a definição de família não deve ficar restrita à união entre homem e mulher, um modelo religioso que equivocadamente foi transmitido à sociedade. Esse conceito deve mudar para respeitar as diferentes orientações sexuais. Cabe, portanto aolegislativobrasileiro não aprovar o atual “Estatuto da Família” e modificar seu texto para que englobe as diferentes instituições familiares. A sociedade tem o dever de aceitar e respeitar toda forma de família.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 2,0

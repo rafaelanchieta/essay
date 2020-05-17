@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 370
+# tittle: A vacinação e sua importância
+Em virtude do cenário atual foi necessário relembrar a importância da vacinação , já que com o passar dos anos o número de pessoas vacinadas estão diminuindo, mesmo tendo em vista que não está muito distante os episódios das grandes epidemias que afetavam uma boa parte da população e o país ainda não tinha um programa de vacinação definido pelo Ministério da Saúde. 
+ 
+Nos dias de hoje   não encontramos   tantas doenças como antes, mas se perguntar aos avós  e até mesmo a alguns pais  é normal escutar sobre quando pegavam catapora, sarampo ou poliomielite, e isso se dá pela eficiência das vacinas que diminuíram e até eliminaram algumas doenças do país deixando essa nova geração livre das mesmas . Isso colabora para um fator que influencia as pessoas que não querem se vacinar ou vacinar seus filho, pois se não tem mais ou nunca pegaram essas doenças por que deveriam se vacinar? Vale lembrar que muitas dessas doenças não são encontradas no Brasil, mas podem ser encontradas em outros países e se um estrangeiro que vem ao país estiver contaminado pode transmitir ao chegar na região ou algum brasileiro que vai para um destino que se encontra a doença pode acabar transmitindo ao voltar a terra natal.  
+Existem também os movimentos antivacinas, no qual as pessoas afirmam que a própria vacina está espalhando o vírus, trazendo à tona as enfermidades de antes, mesmo sendo comprovado a eficácia e a importância da vacina sem contar que já foi esclarecido que as vacinas estimulam a defesa do corpo, sendo infinitamente mais leves que as doenças em si e as suas sequelas. 
+
+Já passou o tempo da Revolta da Vacina,   onde   as pessoas eram completamente leigas sobre o assunto, estamos   em tempo de evolução e voltar para o passado não é evoluir . Cabe ao governo tornar a imunização um processo mais fácil e dar início a mais campanhas e projetos de conscientização para as pessoas entenderem que vacinadas elas podem proteger, indiretamente, quem ainda não se vacinou  e que é possível que todas aquelas epidemias voltem . Essa conscientização deve ser feita para todas as faixa etárias. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

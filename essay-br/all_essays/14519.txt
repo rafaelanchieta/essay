@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: Os verdadeiros descobridores
+Muito antes da chegada dos "descobridores" no Brasil, viviam aqui índios de diversas etnias, cada qual com suas religiões e formas de convívio social. Religiões essas que foram sendo dizimadas ao mesmo tempo que o modo de vida foi sendo transformado pela presença do homem branco. 
+
+As primeiras expedições ao chegarem no Brasil,  descreviam estas terras como semelhantes ao jardim do Éden, e ao enviarem cartas e relatórios de viajem para o rei, descreviam os habitantes deste lugar como: seres pardos, nus, e de grande inocência. Esta que facilitou a tomada de suas terras pelos conquistadores. 
+
+Aos poucos,  também foram sendo catequizados pelos padres jesuítas, e por medo foram deixando de lado suas religiões, seus costumes, e até mesmo suas línguas, já que uma das ferramentas de conversão dos padres,  era uma espécie de teatro, onde as falas de Deus e dos anjos eram em português e a dos demônios era feita na língua dos nativos.. 
+Nos dias atuais, séculos após esses acontecimentos, e de baixo debaixo de muito preconceito e discriminação,  muitos índios ainda lutam, não mais pela recuperação dos vários hectares que foram tirados dos seus antepassados, mas sim pela conservação dos pedaços de terra que ainda lhes restam. Cabe aos cidadãos a consciência disso, o conhecimento da história, e ao Estado, políticas públicas que visem a conservação das terras, e segurança destes que são os verdadeiros descobridores. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

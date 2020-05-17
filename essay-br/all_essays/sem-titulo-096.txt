@@ -1,0 +1,11 @@
+# prompt: Impeachment: a presidente deve perder o mandato?
+# score: 200
+# title: (Sem título 096)
+Desde 1º de Janeiro de 2011, nós brasileiros  temos sobre comando governamental, a Presidenta  Dilma Rouseff , que neste ano, de 2016, após 5  anos de mandato  está sendo investigada por suposto desvio de dinheiro, envolvido com a Petrobrás.
+Devido a essa situação, a do ex-presidente Luís Inácio Lula da Silva, que supostamente está envolvido pela 24ª.  operação lava-jato , os desvios de verba que seria para merenda escolar, envolvendo o Deputado Estadual, Fernando Capez, e a grande montanha de problemas que o Brasil diariamente vivencia, economicamente  e politicamente, a população decide  ir ás  ruas, protestar pela solicitação da abertura do processo de“ Impeachment da Presidenta”; após nove sessões desde que a comissão do mesmo foi instalada, ela apresentou sua defesa nesta segunda-feira (04), mas que ainda após novas cinco sessões será decidida pela Câmara dos deputados, á possibilidade de votação de aceitar ou não o processo de impeachment. 
+Conclui-se, assim, que Dilma Rouseff  prepare-se, pois, a população está unida, em busca de todos direitos, e irá procurar a melhora para nosso país, mas claro, sempre estando por dentro da lei,  para que a justiça possa ser realizada, e a politica  brasileira, assim como, é afirmado em  nossa bandeira, possua “Ordem e Progresso”.
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 0

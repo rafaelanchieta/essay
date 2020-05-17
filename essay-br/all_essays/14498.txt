@@ -1,0 +1,16 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 140
+# tittle: Qual a sua tribo?
+No Brasil há três tipos de indígenas: isolados, integrados e intermitentes. A hierarquia absorvida da cultura branca podem valorizá-los e garantir sua existência. 
+
+Os indígenas intermitentes têm grande capacidade de aprendizado da cultura civil brasileira como uma membrana estes  têm um papel importante na manutenção e agrupamento do povo nas áreas já estipuladas pela FUNAI , também ajudando este órgão a fiscalizar a área demarcada. 
+
+Enquanto os integrados têm contato limitado com a civilização  possui seu dialeto e também português como recheio de uma membrana ajudando na manutenção e promoção da tribo. 
+Nos isolados quase não possui contato com a civilização este é o guardião dos rituais, tradição e cultura dos indígenas . O pouco contato dos isolados garante qua  não seja destruída a cultura deste povo. 
+
+Com essa estrutura formada e bem definida os povos indígenas irão garantir a manutenção, valorização e os direitos necessários para sua tribo. 
+# C0: 50
+# C1: 50
+# C2: 20
+# C3: 20
+# C4: 0

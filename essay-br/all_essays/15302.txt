@@ -1,0 +1,14 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 260
+# tittle: [Redação sem título]
+Depressão, sofrimento, solidão, arrependimento,  são temas interligados e presentes em muitos policiais, principalmente quando se está envolvido em grandes operações . No Brasil, as polícias não possuem estrutura e preparo para enfrentarem grandes perigos, com isso se sentem despreparados e acuados diante de uma operação policial. 
+
+Em diversas regiões,  não encontramos  estrutura suficiente, por exemplo, para um policial enfrentar um confronto de rua.  Muitas vezes, são agredidos pelos marginais de forma a serem atingidos não só fisicamente, mas também moralmente, prejudicando principalmente a sua forma de pensar e agir, se tornando pessoas agressivas e violentas. Quando param para pensar no que fizeram se sentem arrependidos, por exemplo, por ter matado uma criança inocente ou agredido uma pessoa sem pensar, no “momento da fúria”. 
+Diante dessa situação, se sentem deprimidos e imaginam que a vida não tem mais sentido, por não ter conseguido cumprir uma operação ou até mesmo ter matado ou maltratado um inocente. Retirando assim a sua própria vida. 
+
+Mas o que podemos fazer para resolver essa situação? A corrupção no Brasil só aumenta , o dinheiro que era para melhorar a estrutura das polícias no Brasil está sendo desviado para benefício próprio. Mas, esse dinheiro deveria ser usado na melhoria e aperfeiçoamento de equipamentos de segurança, cursos e treinamentos especializados, avaliações com psicólogos. Com isso nossos policias iriam se tornar cada vez mais preparados para enfrentar diversas situações, ocorrendo assim menos casos de suicídio e depressão entre os policiais.
+# C0: 100
+# C1: 20
+# C2: 20
+# C3: 100
+# C4: 20

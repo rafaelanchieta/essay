@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 450
+# tittle: Gravidez precoce problema sério
+De acordo com dados oficiais, 26% da população sexualmente ativa do país,  iniciou sua vida sexual antes dos 15 anos. Esse dado, logo,  comprova um grande problema presente na sociedade brasileira - a gravidez precoce . Nesse sentido, é preciso analisar como a falta de educação sexual e a ausência de políticas governamentais contribuem com a temática. 
+Em primeiro lugar, é importante destacar que a falta de educação sexual é uma das grandes causas do problema. Isso porque, falar sobre sexo é considerado um tabu, já que para muitas famílias conversar sobre o mesmo   pode incentivar o adolescente a tornar-se sexualmente ativo. Em vista disso, a falta de diálogo e informações essências  acabam prejudicando e colocando em risco o futuro dos jovens. 
+Ademais, a gravidez precoce no país está intimamente relacionada as desigualdades sociais existentes . Nesse âmbito, segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto isso não ocorre no Brasil . A condição de pobreza da família, falta de acesso à educação sexual nas escolas ei e inadequado planejamento familiar  prejudicam a prevenção da gravidez. 
+Logo, medidas são necessárias para resolver o impasse. Cabe ao MEC  promover nas escolas palestras e cursos sobre a educação sexual,  que mostrem maneiras de evitar a gravidez e seus efeitos na vida dos jovens . Além do mais, o Ministério da Saúde deve promover através de campanhas e discussões sobre a sexualidade nós  nos postos de saúde, com objetivo de quebrar esse tabu. Assim os índices de gravidez serão mitigados. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

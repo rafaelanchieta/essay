@@ -1,0 +1,14 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 320
+# tittle: [Redação sem título]
+Segundo Platão, “o importante não é viver, mas viver bem”, o qual representa a saúde mental dos policiais que sofrem agravos aos devidos conflitos podendo ser gerados tanto de forma familiar ou profissional, levando à um suposto suicídio. 
+
+A família deve dar um auxílio, mas vale ressaltar que os sofrimentos de origem familiar acabam sendo despercebidos pelos integrantes da mesma  e então não buscam ajudar a intervir a questão do suicídio, o que arremata sendo levado ao ambiente de trabalho. 
+
+Assim que o indivíduo exerce sua vida profissional sem tratar sua própria saúde mental, acarreta um rendimento prejudicial e isso agrava ainda mais a questão dos sentimentos indesejáveis , podendo ocasionar depressões futuras e transtornos que segundo o sujeito portador dessas angústias, a morte é a solução para acabar com os problemas enfrentados. 
+Portanto, medidas são necessárias para atenuar o número de suicídios entre os policiais, os quais encaram problemas psicológicos decorrentes de suas rotinas e distinguem como saída tirar a própria vida. Sendo assim, deve-se ter um bom relacionamento tanto no ambiente familiar como de trabalho, o qual deve sempre manter a saúde mental em dia e participar de eventos criados para conscientizar sobre o número de suicídio entre policiais que vem aumentando, pois conforme diz Platão, o importante é viver bem. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

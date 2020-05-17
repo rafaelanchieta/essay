@@ -1,0 +1,15 @@
+# prompt: o-conceito-de-familia-pode-ou-nao-pode-mudar
+# score: 3,5
+# title: O conceito social familiar pode mudar
+A uniãoinstávelde pessoas do mesmosexo, temsido um
+         enorme problema social no Brasil e no mundo. E com isso, vem agregando vários “danos” à família tradicional brasileira. Talvez, as coisas mudariam se as próprias pessoas vissem essas famílias homoafetivas de uma maneira igual, de uma maneira mais natural.Porquese existe diferença entre a família tradicional e a família homoafetiva, é a diferença entre os sexos.
+          Vejamos, casais homoafetivos adotam uma criança que foi abandonada pelos “tradicionais” e nada justifica o abandono de uma criança. Os “não tradicionais” são vistosna sociedade a maioria das vezescomo monstros ou abominaçõescujo asociedade descreve como está nabíblia, pois,simplesmentequerem que seus direitos sejam iguais aos demaiseno Art. 5º da Constituição Federativa do Brasil,dizque todas as pessoas sãos iguais perante a lei. Portanto, todas as pessoas devem ter os direitos iguais aos demais.
+         Em países como o Brasil, que é um país de miscigenação que engloba pessoas de raças, culturas e povos diferentes, não deveria existir preconceito contraessetipos de situações , aliás, não deveria existir preconceito sobre nada, principalmenteemconceito defamíliaque traz consigo os sentimentos afetivos, logo, o conceito sobre a família tradicional brasileira deve ser mudado e todo tipo de uniãoconsistemuma família.
+         Estamos em temposdiferentesnão há como negar, porém,demodo que o tempo vai passando e as coisas estãomudandoa sociedade deveria aceitar,união entre pessoas do mesmo sexoestão sendo aprovadasem demais países, e é como dizem: ninguém é obrigado a aceitar, porém, é seu dever respeitar para ser respeitado.
+         Portanto, as pessoas com preconceito ou não, terão que engolir que o conceitosobre afamília tradicional no Brasil está sendo mudado
+         e eles terão que respeitar.
+# C0: 0,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

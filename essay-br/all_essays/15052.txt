@@ -1,0 +1,58 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: [Redação sem título]
+Proteger, recuperar e promover o uso sustentável dos ecossistemas são alguns
+
+dos objetivos relacionados à vida terrestre da Agenda 2030, criada em 2015, e as-
+
+sinada por 193 países. Entretanto, de forma análoga, nos dias atuais, o número de
+
+desmatamentos e queimadas na floresta amazônica têm crescido, ao longo dos
+
+anos, de maneira assustadora. Precisamos , portanto, analisar as causas e conse-
+
+quências dessa problemática, como também possível medida em nosso  país.
+
+Inicialmente, segundo as palavras do filósofo, teólogo, organista e médico ale-
+
+mão Alber Schewitzer, entre o século XIX e XX, vivemos  em uma época perigosa.
+
+O homem domina a natureza antes que tenha aprendido a dominar a si mesmo .
+
+Concernente a esse pensador, inevitavelmente, em pleno século XXI, vemos  ter-
+
+rivelmente ações do ser humano contra um bem precioso, que é o meio ambien-
+
+te, pois não cuida de forma eficiente, de maneira que evite problemas futuros. Ne-
+cessitamos, logo, mudar esse posicionamento da sociedade brasileira.
+
+Consequentemente, de acordo com os dados do Instituto Nacional de Pesquisas
+
+Espaciais , publicado no G1, agosto desse ano foi o pior mês para a Amazô-
+
+nia desde 2010. O número de queimadas na região triplicou em relação ao mesmo
+
+período do ano passado. É inadmissível,  que num país  o qual faz parte de um con-
+
+trato tão importante da Organização das Nações Unidas, permaneça nesse deslei-
+
+xo com algo essencial para a vida, respiração, umidade do clima, entre outros.
+
+Sendo assim, a fim de que alcancemos desenvolvimento sustentável na prática,
+
+convém ao governo,  investir e implementar fiscalizações nas áreas da floresta ama-
+
+zônica, com profissionais do meio ambiente, de modo que orientem as pessoas as
+
+quais administram o local sobre a importância de conservá-la, como também a pe-
+
+na que receberá de multa, caso ultrapassem os limites permitidos de queimação e
+
+desmatamento. Desse modo, certamente teremos diminuição de tal problemática
+
+no Brasil.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

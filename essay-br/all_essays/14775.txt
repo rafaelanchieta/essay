@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 500
+# tittle: NÃO! AO DESMONTE DE DIREITOS
+A Previdência Social é um instituto de proteção assegurado pela Constituição de 1988, que resguarda os trabalhadores, dependentes, deficientes e idosos. A Reforma proposta desfaz o sentido da previdência, que é assegurar a população uma vida digna, se aprovada, a desigualdade aumenta e os menos favorecidos sofrerão ainda mais. 
+
+Uma das mudanças que prejudicará os que se encontram em situação de pobreza,  é a do beneficio de prestação continuada  que disponibilizava o valor de um salário mínimo, no valor de 998,00 reais, a idosos com mais de 60 anos e de baixa renda, com a modificação se tornaria um valor ínfimo de 400 reais  aumentando progressivamente até chegar a um salário base aos 70 anos, porém um senhor ou uma senhora de 60 anos não conseguiria sobreviver dignamente com 400 reais, levando em considerações despesas como remédios, alimentos, moradia entre outras despesas, ocasionando sofrimentos e angústias que uma pessoa com a idade avançada não tem condições de passar.
+
+Outra alteração avassaladora é a da pensão por morte,  que possibilita a dependentes de um trabalhador que venha a falecer,  a possibilidade de se manter após a morte de seu mantenedor , no modelo previdenciário atual, a família recebe o salário integral do falecido, com a remodelação a família receberá 50 % mais 10 % por dependente, com isso uma família composta por um pai, uma mãe e um menor, em caso de falecimento de um dos mantenedores essa família teria a diminuição de 40 % na renda, causando perda de qualidade de vida e acesso. 
+Logo tal reforma,  afetaria a condição de muitas pessoas, levando a situações que o modelo previdenciário atual previne, com isso é notório que não pode ocorrer uma reforma nos moldes apresentados, é preciso que o poder legislativo federal reveja e perceba que a previdência social deve continuar a amparar a população, e para alcançar essa percepção a sociedade precisa se mobilizar e ir às ruas,  em manifestação dizendo não,  ao desmonte de direitos. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

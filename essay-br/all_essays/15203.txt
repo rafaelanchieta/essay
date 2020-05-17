@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 370
+# tittle: A importância da realização de vacinas
+A vacinação é de suma importância para a prevenção de doenças graves na qual desde o nascimento a criança é submetida a tal, para que ela tenha uma infância e juventude segura e saudável. 
+
+À medida que uma criança cresce ela necessita ser vacinada para que não adquira doenças que possam afeta-lá a  deixando com sequelas ou até mesmo levando-a ao óbito . Um exemplo de vacina, que é realizada na criança aos 12 meses de idade, é a Tríplice Viral, que a protege de três doenças cujas são o sarampo, caxumba e a rubéola, na qual a sua realização até o ano de 2014 era estável, mas que nos últimos cinco anos vêm se tornando instável. Além da vacinação ser algo super importante para a saúde de uma pessoa, é considerável que os indivíduos tenham a consciência de que as vacinas possuem uma notável relevância para que doenças já erradicadas não tenham a chance de retornar à sociedade. O alto índice de desistência na realização de vacinas é de fato algo extremamente alarmante, pois não só pode pôr em risco a vida da pessoa individualmente  como também a sociedade como um todo. 
+Portanto, medidas devem ser tomadas de forma rápida para diminuir esse perigoso retrocesso na efetuação  de vacinas obrigatórias. A urgente necessidade de se averiguar o alcance de campanhas  e também na garantia de que a vacinação de rotina está estável, se faz presente, o que nos   mostra o quanto devemos   contribuir para que vivamos   saudavelmente. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

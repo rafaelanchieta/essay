@@ -1,0 +1,9 @@
+# prompt: O sucesso vem da escola ou do esforço individual?
+# score: 350
+# title: (Sem título 082)
+A determinação é algo que transcende o conceito da possibilidade. É a partir dela que a vida pode ganhar sentido. O grande Nelson Mandela é a prova disso, de origem muito humilde, negro, em um contexto de violenta segregação racial (Apartheid), Mandela lutou e formou-se em direito apesar de tudo e todos. Não há nada de mal em buscar o sucesso por si mesmo, porém, como afirmava o pintor espanhol Goya,"o sono da razão produz monstros", logo, nada funciona se não houver um ambiente saudável onde nele  se aprenda a conviver com tais criaturas. A escola teria esse papel imprescindível, não importando a faixa etária, a cor, o sexo ou a renda, todas as pessoas são suscetíveis à confusão, que pode acarretar naa desistência de quem sonha.Contudo, antes de adormecer, algo houve de iniciar a procura pelo conhecimento.  Não necessariamente uma instituição educadora, portanto,   se fosse investigado  a realidade das pessoas inseridas nos dados de analfabetismo, por exemplo, seria possível traçar um perfil genérico: pobre, pais ausentes, por qualquer motivo que seja, ambientes hostis e estudante da escola pública  que só lhe  ensina a pensar em si ou no próprio bolso. Caso não haja algo que o impulsione, o que restará é a exata falta de perspectiva futura.Claramente, como  tudo em nossa sociedade, há ligações intrínsecas.  O Estado precisa garantir uma educação de qualidade, para que seu aluno possa seguir por conta própria. A sociedade deve atentar-se  para as dificuldades que projeta, que muitas vezes complica  a formação do indivíduo. E este, tem  de prosseguir em busca do que deseja, sempre ultrapassando as medusas que a racionalidade cria. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

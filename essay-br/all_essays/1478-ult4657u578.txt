@@ -1,0 +1,15 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 3,0
+# title: A melhor idade
+O aumento do número de idosos na população é um fenômeno mundial que deve ser levado a sério. A sociedade está envelhecendo e devemos estar preparados para isso. Temos que dar atenção e carinho para essas pessoas que tanto podem nos ensinar, valorizar os idosos ao nosso redor. Atitudes simples como ceder lugar no ônibus ou ajudá-los a atravessar a ruatemvalor muito grande. Nossos idosos têm que ser tratados com respeito não só por suas limitações físicasmas também pela sua experiência e sabedoria, pois seu
+          legado histórico-cultural pode e deve ser transmitido para os mais jovens por meio de projetos quevisamavalorização do idoso,
+          que serão importantíssimos nos próximos anos . O desenvolvimento de atividades de lazer também ajuda, pois muitosnão tendo o que fazeracabam ficando sozinhos em casa. É importantetambémfrisartambémque ruas e calçadas estejam em boas condições para essa nova sociedade.
+             
+            
+            Cabe a todos lutar pelos direitos dos idososcomoaposentadoria e uma vida digna.
+              Ao conseguirmos melhorar a vida deles, conseguimos tornar a velhice defato, a melhor idade.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

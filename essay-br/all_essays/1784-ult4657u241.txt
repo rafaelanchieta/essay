@@ -1,0 +1,12 @@
+# prompt: favela-e-cidade-as-distancias-sociais-desapareceram
+# score: 3,0
+# title: As Favelas.
+As favelas já viram um marco em toda história, dês dos tempos remotos da antiguidade. Para qualquer lugar que estaremos indo, ou já fomos, presenciamos a existência de favelas em tais lugares.Mas ainda teríamos que entender sua relação com a sociedade.A criação da favela, dizem, foi criada há tempos atrás, com pobres, imigrantes e negros. Que estariam sendo isolados do povo civilizado. Como escreveu Aluisio Azevedo em sua obra. Descreve o despertar de pessoas que moram na favela, podemos perceber que são que não ligam muito para outras coisasalemde suas vidas. Que já é bem comum e complicada.
+          A favela por sua vez, é vista como uma cidade dentro de outra, pelo ponto visto de inúmeras pessoas. Percebemos que este fato é levado em consideração quando foi apresentado em rede nacional, pela emissora Globo,atrávezda novela Duas Caras. Que retrata o cotidiano de uma favela, que está mais para uma pequena cidade, no estado do Rio de Janeiro.
+            Um ponto forte mostrado na novela foi à desigualdade social. Não só em termos de racismos, política e etc. Mas sim por mostrar que a favela estava parecendo uma cidade, e aparentemente se comportando como uma. E sendo assim interagindo com ela igualmente, fazendo desaparecer as distâncias sociais. Entretanto para as pessoas que vêem, e participam da realidade, sabem que tudo que se mostrou na novela, não foi de toda a verdade. Muitas destas razões são, pelo que falam, é adistanciasocial entre a favela e a cidade, que é causada por ambas as partes, e sem chegar a um consenso. Para tentar resolver um pouco deste problema, devíamos pegar os sarrafos de nossa sociedade, que estão espalhados porai, e juntar, formando uma só obra prima da cidade.
+                Mas com o passar dos anos a distância está sendo diminuída, e teremos que torcer para que diminua ainda mais. Para que um dia, possamos ter uma sociedade sem tantos problemas de distância social.E poder ver a favela como parte da cidade, não como uma.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

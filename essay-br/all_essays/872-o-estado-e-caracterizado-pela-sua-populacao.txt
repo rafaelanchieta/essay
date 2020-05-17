@@ -1,0 +1,14 @@
+# prompt: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes
+# score: 5,0
+# title: O Estado é caracterizado pela sua população
+Percebemos no mundo contemporâneo dois modelos de Estado: o liberal e ohierarquizado, oprimeiro tem comogrande protagonistaos Estados Unidos e
+         fez uma grande estátua como marco desde processo que nomeou como Estátua daLiberdade, e osegundo tem como exemplo oBrasilonde a
+         sociedade se diferencia pelo “status” social . O modelo de Estadoliberalque teve como precursor osnorte americanosantes de sua independência jáapresentavamuma cultura liberal, mas a coletividade se destacava naquela nação, pois todos os cidadãostemos mesmos direitos e deveres não importando sua etnia, cultura ou classe social.
+         Nos Estados com características hierarquizadas, com temos por exemplo o Brasil, desde sua busca pelaindependênciao individualismo, os favores, se destacam, seja pela cultura dobeija mãoou por coroar alguns indivíduos que se destacaram em algum esporte (Pelé é rei), ou programas de televisão (Xuxaa rainha dos baixinhos).
+         Antropólogos como Roberto Kant deLima, fezum estudoondecomprovou o modelo de Estado dos Estados Unidos e doBrasil, com issoassociou-se o primeiropaiscomo tendo um modelo que se assemelha a uma figura de formato de um paralelepípedo, onde a base da figura é igual ao topo e com isso os direitos e privilégios são iguais para todos oscidadãos, já nosegundo modelo tem o formato geométrico de uma pirâmide, onde a base é maior que o topo, sendo assim indivíduosdestasociedade “brigam” por interesses particularizados e temos uma sociedade desigual.
+         Podemos concluir que o Estado não precisa controlar sua população e sim cada cidadão se conscientize em fazer o melhor, sem tirar vantagens, pois assim iremos melhorar a vida da coletividade e precisamos apenas de um governo que nos represente nas esferas internacionais pensando sempre na coletividade.
+# C0: 1,5
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

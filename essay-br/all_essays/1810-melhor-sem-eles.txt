@@ -1,0 +1,12 @@
+# prompt: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade
+# score: 1,5
+# title: Melhor sem eles
+Atitudes de coragem e de medo tem acompanhado o ser humano desde os primórdios de sua existência, ea pesarde todo o avanço da sociedade atual,
+        ainda nos deparamos com vários atos de covardia, principalmentenoponto de vista ético.
+         Ao assumir qualquer tipo de responsabilidade, temos que estar conscientes das consequências das nossas ações. O que diferencia um herói de um covarde é que o primeiro possui coragem de admitir seus erros e responsabilizar-se por seus atos, enquanto o segundo tende a negar o próprio equívoco e fugir das consequências das suas ações. Um covarde, por nãotomas atitudesperante as próprias falhas, prejudica não só a si mesmo, pois não aprende com seus erros, mas tambémoutros ao seu redor,
+          já que abandona a responsabilidade antes assumida perante tais indivíduos. Uma notícia que tem se destacado na mídia que exemplifica muito bem esse fato foi o caso do capitão Francesco Schettino que, após bater em uma rocha junta à ilha italiana, abandonou o navio deixando milhares de pessoas que estavam a bordo da embarcação. Assim, é notável o quãoprejudicial
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,0

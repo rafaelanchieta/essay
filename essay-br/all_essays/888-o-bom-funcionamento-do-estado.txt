@@ -1,0 +1,13 @@
+# prompt: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes
+# score: 3,0
+# title: O bom funcionamento do Estado
+O Estado foi criado para atendera necessidadedo cidadão, sendo eleo provedor dos serviços que presta a sociedade; mas na praticaexistefalhascomo: desviou dodinheiro público efalta de mais investimento nos setores queatendea população.
+         A existência do Estado foi para criar um papel de bem servir a população em seus anseios, por isso há arrecadação de impostos paraservir de subsídio namanutenção dos serviçosprestadopelo governo. A segurança pública por exemplo, tem sido pouca ofertada, diante disso, o crescimento da violência e impunidade tende a aparecer.
+         O governo tem que combater a corrupção e criarmecanismoqueasseguremais investimento nos setores públicos;
+         uma alternativa favorável seria capacitar os funcionários públicos em suas atividades, conscientizando estes para a melhoria dos serviços ofertado pelo Estado ao cidadão. É precisoteruma harmonia entre
+         governo, investimento e funcionários do Estado para se ter um bom funcionamento em seus serviços , e somente a ética e a transparênciafarácom que a sociedade seja bem atendida.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

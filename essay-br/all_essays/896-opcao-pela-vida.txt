@@ -1,0 +1,13 @@
+# prompt: eutanasia-quem-decide-a-hora-certa-de-morrer
+# score: 5,5
+# title: Opção pela vida!
+A forma de apressar a morte de um doente incurável, sem queessesinta dor ou sofrimento, é um desrespeitoanatureza humana; deve-se deixar que a natureza tome seu curso e faça da maneira como deve ser feita; pois enquanto houver vidaaesperança.Segundo ojuramentomedico que diz"Manterei o mais alto respeito pela vida humana, desde sua concepção. Mesmo sob ameaça, não usarei meu conhecimento médico em princípios contrários às leis da natureza"; e a eutanásia intervém totalmente e de maneira direta na lei da natureza e desrespeita o diretopelavida.
+          No Brasil, a eutanásia é considerada homicídio. Um dos casos mais recentesde eutanásiaé o da americana Terri Schiavo
+         : seu marido entrou com um pedido na justiça para que os aparelhos que mantinhamTerriviva fossemdesligados. Esse caso chamou a atenção do mundo todo, muitas pessoas se manifestaram contra, as igrejas se revoltaram com tal situação, a família da paciente era contra, os pais dela entraram na justiça tentando impedir a ação. No fim, a justiça e o governador da Califórnia, Arnold Schwarzenegger, decidiram pelo desligamento dos aparelhos que amantinhaviva.
+         Analisando esse caso,mevem umapergunta: o marido de Terri Schiavo tinha o direito de tirar a vida da esposa? Não, poiso direito de vida Terri era somente deapesar da situação em que se encontrava, ninguém poderia decidirentre a vida ou a morte. Deve-se deixar a
+         natureza fazer o trabalho dela sem intervenção humana.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 0,5

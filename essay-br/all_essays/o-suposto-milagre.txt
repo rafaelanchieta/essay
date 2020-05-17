@@ -1,0 +1,12 @@
+# prompt: Impeachment: a presidente deve perder o mandato?
+# score: 300
+# title: O suposto milagre
+No dia 13 de março de 2016, o Brasil se deparou com um grande panelaço a favor do Impeachment  da presidente Dilma Rousseff. A noticia  se espalhou rapidamente pelas redes sociais, convocando mais de trinta e quatro cidades pra irem para as  ruas.
+O Impeachment  só pode acontecer se tivéssemos provas acusando-a de crimes de responsabilidade. Segundo o cientista político Matthew Taylor  pesquisador do Brazil Institute, até o momento não há provar  de crimes de responsabilidade, nem de sua participação no caso da Petrobras.
+Diante dos noticiários que afirmam que alguns partidos políticos estão interessados no Impeachment  da Dilma, outros afirmam o contrario , querem ver a Dilma afundar na crise, obrigando-a tomar decisões difíceis, para retomar o bom funcionamento do país. 
+Ter ou não ter o Impeachment ? Segundo os analistas, outros países da América Latina também estão passando por uma crise, como a Argentina e a Venezuela, com a inflação acima de 35%, enquanto o Brasil está em aproximadamente 8%. Este é o grande erro das pessoas, não olharem ao redor, não observarem a situação dos outros países, pensarem que com o Impeachment  haverá um milagre, e tudo voltará ao normal.
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

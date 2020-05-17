@@ -1,0 +1,12 @@
+# prompt: cultura-do-estupro-a-culpa-e-da-vitima
+# score: 2,0
+# title: "Não mereço ser atacada"
+É de conhecimentogeral, quenos dias de hojea mulhertêmse mostradocada vez mais atuante na sociedade, mas ainda falta
+         entre nós tolerância e respeito a elas. As mulhereshojebuscamcada vez mais seu espaço na sociedade, jádeixou[deixaram] de ser apenas“rainhado lar” ehojeocupam, por exemplo, ocargo do poder executivodo nosso país,
+         como é o caso da Dilma Rousseff. No entanto, recentemente, o IPEA (Instituto de Pesquisa Econômica Aplicada) divulgou uma pesquisa onde mostrou que a maioria dos brasileiros concordaram que a vítima era responsável pela violência que sofria. Não obstante, é indiscutível um ato de violência contra um ser, muito menos pela sua vestimenta, como mostra parte da pesquisa, sendo assim, a praia um local onde mulheres usambiquinese homens retiram a camisa, seria um local onde aconteceriam mais violências.
+         Dado o exposto, percebemos que ainda temos uma cultura atrasada. Diante disso,se faz necessárioleis mais eficientes, para que as mulheres sintam-se mais protegidas e consigamcada vez mais seu espaço na sociedade.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,5
+# C4: 0,5

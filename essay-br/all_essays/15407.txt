@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 500
+# tittle: Amadurecimento prematuro.
+Nos dias atuais, a sexualidade segue sendo considerada um tabu entre a sociedade, se tornando cada vez mais um assunto ignorado nas famílias e julgado como impróprio, ocasionando uma onda de desinformação sobre os perigos que um acesso antecipado a uma vida sexualmente ativa pode trazer para os adolescentes, como doenças e a gravidez precoce. 
+Nomeia-se  como gravidez na adolescência aquela em que a gestação ocorre antes dos 20 anos de idade, trazendo riscos não só para a mãe  mas também para o bebê, devido ao fato de que o corpo de uma adolescente ainda não possui a formação ideal para o crescimento correto do feto, resultando, nos menores casos, em um nascimento prematuro. 
+Não apenas um problema físico, a gravidez acaba se tornando uma perturbação psicológica e social, onde   a mãe se torna reclusa e deixa de frequentar ambientes comuns, como a escola, o trabalho e até mesmo o convívio com a família . Já a sociedade, muitas vezes guiada pela religião, usa o cristianismo impelido pela colonização — onde a pureza da mulher é exaltada — como base e acaba excluindo a adolescente de exercer seus direitos por vergonha. 
+A desigualdade social presente no Brasil influencia ainda mais nesta problemática, pois, apesar de ser uma das maiores economias do mundo, o alto número de pessoas marginalizadas ainda se faz evidente, tendo jovens mais vulneráveis como consequência e na maioria dos casos, que não possuem papeis sociais se não o de ser mãe.  Aquelas que não se sentem preparadas para tal função , recorrem para a prática do aborto clandestino, onde, de acordo com o Ministério da Saúde, realizam 95% das interrupções de forma ilegal no país. 
+Se torna Torna-se necessária a atuação do Ministério da Educação , adicionando na grade curricular das escolas de nível médio a educação sexual e palestras sobre os métodos contraceptivos, informando assim grande parte da sociedade sobre os danos de uma gravidez na adolescência. Outrossim, a valorização de programas sociais contribui com a situação financeira de famílias e amplia suas oportunidades, dando-lhes a chance de novos caminhos. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

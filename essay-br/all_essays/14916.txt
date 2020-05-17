@@ -1,0 +1,12 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 750
+# tittle: Descaso nacional
+De acordo com Émile Durkhaim, a sociedade pode ser comparada a um “corpo biológico”, por ser assim como esse composta por partes que interagem entre si. Desse modo, para que o organismo seja coeso, é necessário que todos os direitos dos cidadão sejam garantidos. Entretanto, no Brasil isso não ocorre, pois em pleno século XXI percebe-se que a questão da fome é um problema que aflige parte da população. Favorecendo, assim, um cenário né   iniquidade  contrariando o pensamento do sociólogo. Sendo assim, cabe avaliar os fatores que favorecem esse quadro.
+A princípio, vale ressaltar que o contraste na concentração de renda no Brasil é uma fonte que auxilia no desenvolvimento da fome no país, fator que é característico de países subdesenvolvidos. Logo, no Brasil  10% das pessoas mais ricas detêm boa parte de toda renda nacional, ocasionado a desigualdade evidente que, por consequência, evita que todas pessoas possuam uma renda que as possibilitem de obter mantimentos . Desse modo, fica explícito que a má disposição de renda corrobora para que esse cenário de iniquidade seja existente no Brasil.
+Ademais, segundo o IBGE- Instituto Brasileiro de Geografia e Estatística- o número de pessoas em situação de fome caiu cerca de 80% entre 2002 e 2013. Apesar de menor, a fome ainda afeta o país. Deve destacar também a má distribuição de terras e a injusta estrutura fundiária,  que impossibilitam o acesso de famílias ao meio de trabalho e que concentram essas terras nas mãos de poucos. 
+Portanto, é nítido que a má distribuição de renda, além da atual estrutura fundiária auxiliam na propagação desse problema. Sendo assim, cabe ao INCRA- Instituto Nacional de Colonização e Reforma Agrária- promover urgentemente o processo de reforma agrária no país, fornecendo terras para essas famílias em vulnerabilidade para que possam plantar para sua própria subsistência, além de gerar renda para os mesmos . Além disso, caberá ao Governo deve  reformular projetos sociais que já existem, com objetivo de obter resultados à longo prazo. Dessa forma, a sociedade irá funcionar de forma coesa como um “corpo biológico” assim como propôs Émile Durkhaim.
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

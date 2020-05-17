@@ -1,0 +1,12 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: Fome resultado da desigualdade
+A fome no Brasil está direcionada não apena com a falta de alimentos , como também ausência de oportunidades no mercado de trabalho devido a má distribuição de recursos oferecidos como : o Programa de Cadastro Único e o acesso a educação. 
+A fim de identificar e caracterizar a população de baixa renda para inserção nos programas sociais, o cadastro único não é eficiente pois não abrange todas as famílias necessitadas e oferece uma renda mensal de apenas R$89,00 por pessoa  o que dificulta ao o acesso de alimentos em quantidade e qualidade. 
+Ademais  a dificuldade ao acesso às escolas e as diciplinas dada por elas ,  vêm acarretando grandes evacoes  escolares, gerando alto nível de desemprego e fome  uma vez que o mercado de trabalho busca pessoas qualificadas e com bom aproveitamento escolar , excluindo de forma implícita a população de baixa renda  já que não é oferecido a estes recursos para alfabetização de qualidade. 
+O alto custo de vida brasileira tem como cenário a permanência da fome. Portanto cabe ao governo um reajuste na renda mensal oferecida pelo cadastro único de acordo com os preços dos alimentos, fiscalizar e rever as políticas públicas para acabar coma  fome de  forma eficiente . Assim como o ministério da educação  oferecer , não apenas ter programa de educação para todos como fazer campanhas e palestras educativas melhorando a qualidade e a forma como aplica as diciplinas . 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

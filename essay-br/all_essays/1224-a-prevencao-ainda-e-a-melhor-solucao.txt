@@ -1,0 +1,13 @@
+# prompt: enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre
+# score: 8,0
+# title: A prevenção ainda é a melhor solução.
+No início do ano, as fortes chuvas castigaram o Brasil, deixando milhares de mortos e desabrigados, uma verdadeiracatrastofenatural.NaAustrália, no mesmo período, também foi tomada pelo mesmo fenômeno em proporções maiorescom consequências menores.
+        Ainicidênciade chuvas nesse verão não pode ser desculpa dos nossos governantes para o que ocorreu no Brasil, enchentes, mortes, soterramentos, milhares devitimas. O que foi feito pelo poder público para evitar tudo isso? Pelo que foi visto, nada. Infelizmente, no Brasil, não há um plano de defesa civil paracatrastrofesnaturais.
+          No ano passado tivemos problemas semelhantes de inundações edeslizamentos, seráque não houve tempo para as autoridades criarem um planejamento para retirada das famílias das áreas de risco, bem como impedir a instalação de novas famílias nessa áreas?
+            A Austrália vivenciou o mesmo problema, mas o governo encarou os fatos e criou um sistema de monitoramento eficaz, acrescido de um plano deabandono,ondea população tomou conhecimento das chuvas horas antes, assima população abandonou suas casas e se deslocoupara abrigos seguros reservados para esse fim. Cabesalientar, quena Austrália choveu quase o dobro [do] que choveu no Brasil,aqui os prejuízos foram maiores com milhares de mortos e desabrigados.
+              Portanto, não podemos dizer que o excesso de chuvas é a causa principal dasenchentes, entendoque é uma somatória de fatores que desencadearam as inundações,començandopela falta de educação da população quando não deposita seu lixo em local adequado, a falta decompromentimento[comprometimento] do poder público que deixa de tomar medidas importantes nainfra-estruturadas cidades, seguido pela falta de um sistema de monitoramento das chuvas, atrelado a um plano deabandono, finalizando pela falta de uma política educacional voltada para ao meio ambiente. A prevenção ainda é a melhor solução.
+# C0: 1,0
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,5

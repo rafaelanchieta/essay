@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 370
+# tittle: Aposentar? Talvez
+Um dos assuntos que mais geram discussões atualmente é, sem dúvidas, a reforma da previdência. Esta proposta do governo visa aumentar a idade mínima para se aposentar, ou seja, a idade mínima para um homem se aposentar será de 65 anos e 62 para as mulheres, porém a mudança só será aplicada aos novos trabalhadores. 
+
+Para as pessoas que já estão contribuindo por anos a mudança não tem tanto peso, o que gera tanta discussão sobre o assunto é que os novos trabalhadores irão demorar muito para se aposentar, isso se aposentarem. 
+Por outro lado, um ponto positivo desta proposta são as alíquotas , que serão maiores para os que recebem mais, e menores para os que recebem menos, diminuindo assim os impostos pagos. 
+
+A reforma da previdência tem seus pontos positivos e negativos, por isso, deve ser trabalhada e pensada de um modo que não prejudique demais os novos e os atuais contribuintes. Se vai ser algo positivo para o país? Isso só o tempo pode nos dizer. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

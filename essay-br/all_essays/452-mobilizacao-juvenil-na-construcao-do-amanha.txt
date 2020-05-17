@@ -1,0 +1,12 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 7,0
+# title: Mobilização Juvenil na Construção do Amanhã
+O jovem é geralmente associado à ideia de rebeldia e revolução. Segundo Rousseau, é nesse período da vida que as pessoas estão mais racionais e voltadas à ciência. Por esse motivo, vários movimentos sociopolíticos no decorrer da históriase deram com a participação dos mesmos, tais como a luta contra a ditadura militar e a manifestação dos caras pintadas.
+        Nos dias de hoje, a juventude encontra-se mais interligada com os mecanismos oferecidos pela internet e telefones móveis. Ela consegue se organizar em prol de uma causa com muito mais facilidade que outrora, a luta por liberdade de expressão é a principal delas , seguida da oposição à corrupção política. Sem dúvida, a manifestação iniciada na Universidade de São Paulo (USP) contra a presença da Polícia Militar no campus ilustra bem uma mobilização juvenil que não mede esforços em busca da liberdade de pensamento e ação. Conforme relatos dos estudantes, a PM atuava de maneira muito autoritária e reprimia qualquer prática que fosseconsideraçãosuspeita. A partir dessa situação é possível elaborar-se uma analogia com a ditadura que abalou o país entre as décadas de 60 a 80.
+            Quanto à corrupção política, a nova geração tem se mostrado insatisfeita com as condutas da maioria dos representantes desse meio devido a suas más reputações. Isso porque é sabido dos desvios de verbas públicas e da não preocupação deles com o povo. Os jovens, mesmo que de maneira lenta, começam a abrir os olhos para questões do gênero e prometem, daquialguns anos, constituir um novo país. E tudo através voto; sim, do jeito mais democrático.
+              Depreende-se, pois, queomovimentos juvenis são um grande aliado no processo de (re)estruturação do país, visto que evidenciam os interesses de um grupo de pessoas. E em relação às causas que o jovem tem se mobilizado; o caso da USP poder-se-ia resolver com evasão da Polícia Militar, porque segurança não é sinônimo de repressão; e, quanto à corrupção, o ideal é fazer valer o poder do voto, elegendo políticos dignos e preocupados com a população. E assim, somente com a voz, a rebeldia e as ideologias de jovens conscientes, dotados de moral e ética, é possível construir um mundo melhor.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

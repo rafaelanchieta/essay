@@ -1,0 +1,18 @@
+# prompt: combate-ao-fumo-autoritarismo-ou-dever-do-governo
+# score: 2.5
+# title: Autoritarismo é essencial ao combate ao fumo
+Cada vezmais, encontramosmaisdependentes do fumo.Nossa civilização foi criada em um mundo onde fumar em locais impróprios jamais foi proibido.O fumo não vai ser combatido apenas com uma simples lei imposta por nossos governantes,
+        será os próprios consumidores que precisam ter consciência de que o fumo não trará boasaçõesno seu futuro.
+        Hoje em dia écomum andarmos nas ruase vermos a quantidade de pessoas
+          mais idosas usando o tabaco. O mundo jamais esteve livre das drogas. Porem, é
+          freqüenteencontrarmos adolescentes usando não apenas o tabaco,
+          mais sim o uso da maconha, do craque e da cocaína.
+          Podemos encontrar em todos os lugares conscientização contra o combate ao fumo , mas para combatermos, precisamos que os consumidores tenham em mente omauem queisso pode lhe
+            afetar.
+            A lei impostaonde visa à proibiçãodo uso do fumo em locais fechados ou semifechados pode ser que diminua o uso de cigarros em certos ambientes.Mas afinal, não precisaria de uma lei a ser imposta para que os usuários tenham a consciência e o respeito de que fumar em locais fechados sempre foi uma grande falta de ética.Para muitos que pensam que essa lei vai tirar parte de sua liberdadeprecisamos apenas alertá-los de que a sociedade muda
+                  , apenas quando os indivíduos que vivem nela mudam. Precisamos de um planeta livre do fumo, e depende de cada um de nós fazer com que isso aconteça.
+# C0: 0.5
+# C1: 0.0
+# C2: 0.5
+# C3: 0.5
+# C4: 1.0

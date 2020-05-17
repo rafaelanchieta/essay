@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 650
+# tittle: A ciência como instrumento para o desenvolvimento societário
+A ciência, desde o final de 2019, tem ganhado grande evidência  em todo o mundo, devido a pandemia do novo coronavírus. É fato que sua  atuação vem sendo crucial na busca de uma vacina e de tratamentos paleativos contra a doença. No entanto, essa notoriedade científica nem sempre foi assim, especialmente em contextos que não consideram esse conhecimento como algo importante para o desenvolvimento da sociedade .
+Atualmente em nosso  país temos  vivenciado essa questão, em que a falta de investimento no campo científico tem mostrado o quanto somos  dependentes do mercado externo para adquirir insumos mínimos , como os reagentes necessários para a realização de testes, visando   investigar o grau de disseminação do coronavírus em nosso  território. 
+A pergunta que se faz é por que esses produtos já não vinham sendo fabricados .  E a resposta pode ser bastante simples, pois a ciência não vem sendo inserida na agenda política como um plano de Estado capaz de ascender o país social e economicamente, pelo contrário ela é tida como um gasto e não um investimento necessário a médio e longo prazo . Tal situação pode ser percebida em nossas  universidades públicas, as quais têm feito o possível , em meio a falta de condições, para desenvolver pesquisas que possam amenizar os gargalos sociais e infraestruturais da nossa nação. 
+ Diante disso, faz-se necessário intervenções que englobem planos de ações do Ministério do Planejamento com o objetivo de colocar a ciência como instrumento relevante para o crescimento econômico, além de propostas do Ministério da educação tendo como foco a formação de novos pesquisadores e condições estruturais para a realização de pesquisas . Nesse sentido, ressalta-se que a criação de centrais incubadoras  de pesquisas possa ser feita tanto no campo social, principalmente na área da saúde, como no setor tecnológico e de infraestrutura. Para tanto, sugere-se a implementação de um programa  que insira os Ministérios do planejamento, da ciência e tecnologia, bem como o da educação objetivando  a viabilização dessas ações.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

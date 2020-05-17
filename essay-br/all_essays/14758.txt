@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: Reforma da Previdência: uma solução ou um problema?
+Tal como a maior parte dos países desenvolvidos, o Brasil passou a encarar na última década um novo desafio, conhecido como “transição demográfica”. É o que acontece quando a expectativa de vida de uma nação passa a ser maior que a taxa de natalidade anual, ocasionando assim um gradiente envelhecimento da população que, apesar de ser vantajoso individualmente, acarreta uma significativa mudança estrutural no Estado. 
+
+Foi com base nessas mudanças que o atual governo propôs em abril do ano passado a “Reforma da Previdência Social” que após algumas reformulações determinou um tempo de contribuição de 40 anos, com idade mínima para se aposentar de 62 para as mulheres e 65 para os homens. Esses números, no entanto, mesmo com a crise político-econômica que o país vem encarando, podem ser radicais se for levado em consideração diversos fatores que tornam incomparável a situação do Brasil com os demais países desenvolvidos que já enfrentam tal problemática. Um deles é a qualidade de vida. Em boa parte da Europa a saúde e a educação pública são de qualidade, algo que o Brasil deixa a desejar. A Noruega, por exemplo, de acordo com a ONU , em 2015  apresentava um IDH  de 0,949, enquanto que o Brasil se mantinha com 0,754, mas caía o indicador para 0,561 devido as desigualdades sociais. Ou seja, a média da longevidade nacional hoje pode ser de 72,5 anos, porém, em alguns estados esse índice não chega a alcançar 65 anos. 
+Além disso, é preciso preservar a equidade. Ainda que o feminismo pregue a igualdade de gêneros isso não se reflete igualando o tempo de contribuição de homens e mulheres  . Isso porque o Brasil ainda é consequência direta de uma sociedade patriarcal, que se reflete em mulheres com dupla jornada de trabalho, por ainda serem majoritariamente as responsáveis pelo “cuidado da casa e da família”. 
+
+Dessa forma, é necessário que uma mudança deste teor seja planejada com cuidado. Ainda que o futuro do país clame por uma reforma da previdência  essa não pode acontecer antes de uma reforma da política, da saúde e da educação. É preciso se atentar as pequenas e grandes corrupções,  antes de condenar a vida dos menos favorecidos. O Estado precisa atuar no presente de forma sábia e justa, ao invés de usar em primeira circunstância,  a válvula designada para o último caso. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

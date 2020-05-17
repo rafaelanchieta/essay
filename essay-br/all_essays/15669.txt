@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 450
+# tittle: A pandemia da COVID19 no Brasil: a divisão das opiniões frente aos argumentos científicos
+Com um caso confirmado do novo coranvírus no Brasil, o país entra em crise . O Ministério da Saúde, governadores e o presidente da república, Jair Bolsonaro, lutam para combater a pandemia e a crise econômica que o Brasil enfrenta atualmente.  Coronavírus é uma família de vírus que causam infecções respiratórias . O novo agente do coronavírus foi descoberto em 31 de dezembro de 2019, após casos registrados na China, ainda não existe cura para os infectados, apenas isolamento social. 
+ Antes de tudo, precisamos  conhecer esse vírus e seus sintomas para estarmos  preparados caso alguém se infectar. De acordo com a OMS  o novo coronavírus, também chamado de COVID19, a principal forma de transmissão é pelo contato físico, tosse ou espirro, que ocorre pelo ar, com alguém infectado . Após o contágio, os sintomas são: tosse; febre alta; nariz escorrendo e dificuldade para respirar em casos mais grave.  O primeiro caso no Brasil foi confirmado em 22 de fevereiro, em São Paulo, um homem  de 61 anos, se infectou voltando  de uma viagem da Itália, ficou internado no Hospital Israelita Albert Einstein. 
+ Em resposta, o governador João Doria   com o apoio do Ministério da Saúde, determinou quarentena, evitando  aglomerações e possíveis propagação do vírus, mantendo  aberto apenas estabelecimentos essências como mercados, açougues, farmácias e entre outros. O presidente da república, Jair Bolsonaro, em seu  pronunciamento  declarou ser contra a quarentena, de acordo com sua fala, o presidente apontou a necessidade de o país voltar a normalidade e que permanecer em casa afeta a economia do país e a vida financeira da população. 
+Em virtude dos fatos mencionados, cabe ao Ministério da Saúde atuar no SUS , melhorando  a infraestrutura dos hospitais, mais equipamentos, principalmente aparelhos respiratórios para as pessoas que contraírem a COVID19, é importante também,  os cidadãos respeitarem as medidas de segurança da OMS, como lavar as mãos frequentemente, ao espirrar ou tossir colocar o cotovelo na boca, e assim por diante. Destarte, veremos  mudanças em curto prazo. 
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

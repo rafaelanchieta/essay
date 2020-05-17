@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 500
+# tittle: Gravidez precoce
+Muitas mulheres possuem um tão esperado sonho, que é o da gravidez,  porém em nossa   ascendente sociedade podemos   perceber um exponencial aumento de gravidez entre as pessoas com 10 a 19 anos . Como ela ocorre e o impacto na vida social das pessoas envolvidas? 
+
+Sucede-se que nessa faixa etária várias transformações hormonais estão acontecendo  e em uma sociedade patriarcal como a nossa dependendo do meio onde  em que essas meninas vivem são de certa forma estimuladas a terem relação sexual prematuramente,  pela falta de um canal de comunicação com a família ou alguém em quem confie para falar sobre o início de suas vidas sexual,  impedindo assim que elas possam conhecer os meios de prevenção a gravidez. 
+
+Em 2011 foram registrados 2.913.160 nascimentos no país  e destes por volta de 533 mil eram de mães pré ou adolescentes , mesmo as vezes sendo uma gestação planejada ela acaba tendo um impacto muito grande na vida social de todos os envolvidos um deles e a evasão escolar , as garotas não conseguem conciliar estudos e maternidade ou então pela vergonha de como a sociedade vai olhar para ela sendo mãe e adolescente ao mesmo tempo.  É por este motivo 75% das adolescentes que têm filhos estão fora da escola, portanto pode ser considerado um problema social não somente de saúde pública  mas também de educação.
+Uma importante observação a ser feita e que o governo tem uma enorme importância para que possamos romper com pensamentos ultrapassados de que não se pode falar de sexo nas escolas pois para que ocorra uma real prevenção pais e a sociedade como um todo precisam participar para que o conhecimento não fique apenas entre quatro paredes de uma sala de aula, mas possa se espalhar por todo o país . Para minimizar os impactos da gravidez precoce na educação temos exemplos de escolas que disponibilizam berçários para as mães deixarem seus filhos e poderem estudar, ou até mesmo criando um projeto capaz de desengessar o modelo da escola atual  flexibilizando horários de aula para impactar menos na vida da mãe e da criança.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 50

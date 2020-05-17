@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 600
+# tittle: O analfabetismo funcional uma realidade no Brasil
+Atualmente, o Brasil apresenta uma queda nas taxas de analfabetismo, no entanto essa questão ainda é considerada um problema social relevante devido aos altos índices registrados e a persistência de elevados números de pessoas analfabetas funcionais , refletindo em inúmeras consequências sociais e econômicas.
+No tocante ao analfabetismo funcional este é fruto de uma baixa qualidade e ineficiência  no plano educacional vigente em nosso   país. Nota- se a existência de um sistema de alfabetização arcaico no qual o indivíduo é avaliado constantemente perante um coletivo pelo seu desempenho em disciplinas e conteúdos padrões em detrimento a valorização das individualidades e capacidades do sujeito, bem como existe de uma baixa valorização do ensino que leva em consideração o contexto social em que o indivíduo está inserido. 
+Nesse perspectiva, a falta da criatividade e estímulo ao aprendizado leva a diminuição do interesse por parte do indivíduo, deixando limitado o desenvolvimento de habilidades individuais e potencialidades dentro de um grupo. Assim, a inexistência de qualificação dos docentes para explorar as qualidades do sujeito e falta de investimento público na busca por melhoria da qualidade do ensino geram um desinteresse e afastamento da escola. 
+Nesse sentido, os investimentos em recursos, material pedagógico, prédios e programas que melhoram o acesso e garantia do direito à educação, bem como melhoram o quantitativo de indivíduos alfabetizados.   No entanto, a baixa qualidade do ensino básico gera uma dificuldades em interpretar textos básicos e resolver operações matemáticas básicas o que chamamos  de analfabeto funcional, o indivíduo passa a ter dificuldades de desenvolver um senso crítico perante questões sociais importantes. 
+Assim, é necessário interesse do poder público em investir na qualificação dos docentes e um plano educacional consistente que estimule o sujeito ao aprendizado e desenvolvimento pessoal, levando em consideração suas individualidades e elevando seu papel dentro da sociedade.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

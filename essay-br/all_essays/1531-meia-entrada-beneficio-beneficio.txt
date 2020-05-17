@@ -1,0 +1,11 @@
+# prompt: meia-entrada-voce-e-contra-ou-a-favor-por-que
+# score: 0,5
+# title: Meia-entrada: Beneficio [benefício]?
+A meia-entrada, é um processo que procura beneficiar principalmente as pessoas menos favorecidas, de qualquer forma, como estudantes, aposentados e deficientes. Essa é uma forma de condicionar a inserção social dessas pessoas, pois pagando meia-entrada ela pode ir duasvezem um local, pelo valor que ele iria uma vez.
+          A meia-entrada possibilita o ingresso de jovens, de baixa renda, na universidade, pelo fato de que o transporte, pode limitar esse jovens, pelo custo que se tem ao final de um mês principalmente em cursos que apresentam sua grade em tempo integral, esse corte de custo mesmo que pareça pequeno, no final das contas contribui muito. A aprovação da lei quedeterminaobrigatória
+         a meia-entrada, tende ser apoiada, pela sociedade para que o avanço dos brasileiros seja possibilitado,tanto cultural, social e educacional.
+# C0: 0,0
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

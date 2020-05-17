@@ -1,0 +1,17 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 7.5
+# title: A educação digital e o lucro real.
+O ensinoadistância tem, ou pelo menos deveria ter, objetivos positivos
+        . Comopor exemplo, levar o conhecimento acadêmico a lugares de difícil acesso eproporcionar apossibilidade de uma graduação parapessoas que não tenham disposição de tempo para frequentar uma faculdade tradicional.
+        Contudo, com a grande oferta desses tipos de cursosnos dias de hoje, podemos observar a deturpação dos reais valores que deveriam ser oferecidos por essas entidades.Estas, mostram-semuito mais voltadas ao lucro, devido à grande quantidade deinteressadosum diploma com menor custo do que
+          o interesseem uma possível função social e educativa que deveriam proporcionar.
+          É certo que dentre elas exista uma minoria com cursos corretamente elaborados, com uma didática adequada, com conteúdo capaz de formar um profissional tão bom ou até mesmo melhor do que o de uma faculdade tradicional. Masgrande parte, visaapenasolucro, como uma empresa privada qualquer.
+            Com a ininterrupta evolução tecnológica que presenciamos hoje em dia, é cada vez mais frequente a mudança daquilo que por longos anos foi tido como certo e rígido. Neste caso concreto, o método de ensino. Não podemosnegar, queo potencial de funcionalidade
+                destemétodo de ensino é grandioso. Porém, deveremos
+                regulamentá-lose
+                padronizá-los, para o bem de nossos futuros diplomados, consequentemente para nosso próprio bem.
+# C0: 1.5
+# C1: 1.5
+# C2: 1.5
+# C3: 1.5
+# C4: 1.5

@@ -1,0 +1,12 @@
+# prompt: experiencias-com-animais-e-violencia-em-manifestacoes
+# score: 4,0
+# title: Animais que salvam vidas
+Recentemente no Brasil, ativistas contrários ao uso de animais em pesquisacientificainvadiram e retiraram 178 cães da raça Beagle do Instituto Royal,
+         com isso surgiram ações violentas e protestos em defesa dos animais, interrompendo também estudos de extrema importância para a sociedade como o tratamento contra o câncer. Diante disso, podemos constatar que anos de estudos foram "jogados no lixo" ocasionando danos imensuráveis ao Instituto Royal e consequentemente para a sociedade brasileira, uma vez que é através desses estudos que muitos seres humanos têm a cura de sua doença. Desde muito tempo, o uso de experiências com animais tem amenizado o sofrimento humano com o desenvolvimento de medicamentos para diversas doenças. Infelizmente o uso de animais ainda é inevitável, mesmo porque muitas delas necessitam das reações semelhantes às dos humanos para que a experiência tenha resultados mais exatos . O que se tem percebido é que cada vez mais cientistas têm evitado o uso de animaisnesses tiposde experiências, principalmente pelo alto custo e pelos questionamentos éticos que podem ser feitos sobre tal fato. Provadisso, éque em muitos países proíbe-se o uso de animais em experiências para a produção de cosméticos, sendo substituídos por pele artificial.
+         Dessa forma, somos levados a refletir sobre como nós, brasileiros, fomos prejudicados com todo esse trágico episódio da invasão ao Instituto Royal, com certeza o Brasil retrocedeu muitos anos nas pesquisascientificasno ramo da saúde. Infelizmente, por muito tempo ainda precisaremos dos animais para
+         a evolução de muitos de nossos tratamentos de saúde , enquanto isso, o que se pode esperar é que a tecnologia avance cada vez mais atéqueenfim, os animais fiquem excluídos de tais experiências.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

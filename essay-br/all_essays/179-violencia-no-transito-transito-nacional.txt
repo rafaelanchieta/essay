@@ -1,0 +1,12 @@
+# prompt: a-sociedade-brasileira-e-os-conflitos-no-transito
+# score: 2,0
+# title: Violência no transito [trânsito] nacional
+OTransitobrasileiro está extremamentecaótico, háanos a frota de carros cresce desenfreadamente . Todos hoje são dependentes dos seus automóveis, assim as pessoas contribuem mesmo sem querer para o aumento dos problemas de trânsito.
+        Um desses graves problemas é aviolência, adependência do automóvel faz com que muitas pessoas o usem isso faz com que haja um grande numero de carros nas ruas gerando enormescongestionamentos vistos atualmente. Com toda essa frota de carros nas ruas, o trânsito não anda e o motorista acaba estressado provocando brigas.
+          Entretanto há algumas mudanças que cada pessoa pode fazer para melhorar essa dramática situação, uma delas é pelo menos uma vez por semana não usar seucarro, setodos fizessem issoàmelhoria seria visível,
+            porém quem deixa de usar o carro deveria usar o transporte coletivo, que no Brasil é considerado vergonha nacional. Portanto a melhora deve ser feita em fases, uma coisa depende de outra para acontecer.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

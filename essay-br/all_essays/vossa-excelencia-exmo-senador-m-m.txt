@@ -1,0 +1,14 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 600
+# title: Vossa excelência [Exmo.] Senador M. M.,
+O senhor e eu já estamos cientes do projeto de lei que é favorável à remoção do rótulo dos produtos com componentes geneticamente modificados, os transgênicos.
+É sabido que os alimentos transgênicos trazem grandes melhorias, tanto para o solo, pois podem ser produzidos em maior quantidade ocupando um espaço de terra menor que as grandes produções atuais  e, quanto a sua produção, que não necessita do uso exagerado de agrotóxico e  suas sementes são resistentes à praga. Porém, estes  produtos podem levar ao excessivo uso de agrotóxico nas plantações, pois as ervas daninhas e os herbívoros tendem a se tornar mais resistentes, o que levaria a um desequilíbrio ecológico.  Além disso, pode  aumentar resíduos de agrotóxicos nos alimentos.
+Pois bem, a meu ver este Projeto de Lei não deverá  ser aprovado, pois o rótulo é essencial para que os consumidores saibam que estão consumindo produtos geneticamente modificados. Caso seja aprovado, mesmo que ainda contenha identificação de forma escrita na embalagem  prejudicará o consumidor que já está acostumado com o T de alerta no produto e que, devido à pressa do dia a dia  não tem tempo para ler o rótulo de todas as mercadorias que está comprando.
+Assim, Excelentíssimo Senhor, sugiro que o senhor  leve em consideração o que lhe relatei, pois a aprovação desse projeto traria alguns transtornos aos consumidores que não utilizam esses tipos  de produtos.
+Respeitosamente,
+A. P. H. S.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

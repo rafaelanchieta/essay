@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 600
+# tittle: [Redação sem título]
+Segundo a primeira lei de Newton, um corpo tende a permanecer em repouso até que uma força atue sobre ele. De modo análogo o desmatamento e as queimadas são atos inerciais, precisando assim de uma força para derrotar tais ações. Neste sentido, convém analisarmos  as principais consequências de tais posturas negligentes para sociedade. 
+
+A problemática do desmatamento e queimadas na Amazônia se deve não só a falta de diligência do governo com relação a segurança do local e como também a impunidade dos criminosos, visto que grande parte da exploração ocorre ilegalmente para nutrir interesses econômicos individuais. De acordo com Aristóteles no livro “Ético a Nicômaco”, a política serve para garantir a felicidade dos cidadãos, logo se verifica que esse conceito encontra-se corrompido no país. 
+
+Por conseguinte, se nenhuma medida for tomada, em alguns anos não existirá esse importante bioma que possui uma vasta biodiversidade, que proporcionou remédios para doenças, além de funcionar como um irrigador para o planeta, fazendo com que algumas regiões não fossem um completo deserto . Em virtude com o líder Indiano Gandhi, aquilo que se faz no presente determina o futuro . Assim, uma mudança é necessária em relação à exploração para mudar essa inércia. 
+Portanto, cabe ao Estado tomar providências para amenizar o quadro atual. Para que essa exploração ilegal não aconteça, o mesmo  deve fiscalizar e punir aqueles que praticam para que assim essas ações diminuam e promova palestras juntamente com o MEC  nas escolas para que advirta a comunidade sobre a importância em preservar a Amazônia. Somente,  assim o governo funcionara como a força suficiente descrita por Newton e mudará o percurso da exploração. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

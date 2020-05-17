@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 370
+# tittle: Fazendeiros maquiavélicos
+O índio é uma etnia fundamental quanto a construção da cultura brasileira, principalmente seus conhecimentos que foram adquiridos . Porém desde o colonialismo até a atualidade sua presença não é respeitada como deveria, isso se deve ao fato de que a sociedade desconhece seu valor somado a interferência de latifundiários no seu espaço. 
+
+Apesar do patrimônio indígena, a população pouco se ouve sobre eles,  alguns não sabem por exemplo que a origem de objetos como: rede, peteca, canoa e etc... vêm desses. Tais ignorâncias levam o indivíduo a discriminalizar o índio como inferior, assim ferindo seus direitos sociais que devem ser protegidos pelo governo. 
+Junto a este problema,  observa-se abusos cometidos por fazendeiros no momento que desejam expandir suas terras, dessa forma interferindo no território indígena, nesse contexto a citação " Os fins justificam os meios"  derivada de Maquiavel  se aplica perfeitamente , ou seja, em virtude do lucro os fazendeiros usam da violência para expulsar os índios de suas terras. 
+
+Nesse cenário, uma ação deve ser tomada pelo Ministério da Educação e da Cultura  que vise conscientizar a socidade através das escolas, da mídia e de campanhas. Ademais, a legislação deve garantir penalidade por via de multas, aos donos de terra que causarem danos aos índios. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

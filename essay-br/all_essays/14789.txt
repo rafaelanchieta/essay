@@ -1,0 +1,11 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 320
+# tittle: [Redação sem título]
+É evidente que,  o povo brasileiro está insatisfeito com a nova reforma da previdência social. Seja pelo prolongamento da aposentadoria que é o problema em destaque ou demais fatores. 
+Através da plataforma "Aposentrômetro", calculadora elaborada pelo Dieese, as pessoas conseguem ver o quanto falta para se aposentaraposentar aposentar, embora os resultados não sejam o esperado . O aeroportuário Benedito, de 64 anos  se sente indignado.  "Eu já tenho 30 anos de contribuição e, com a nova regra, vou me aposentar só daqui a 5 anos e só com 80% do meu piso. Para me aposentar integralmente,  seriam mais 9 anos. A reforma é injusta" . Ou seja  a idade e o tempo de contribuição foram ajustados, sendo que,  precisa-se pagar mais para conseguir 100% da aposentadoria.. 
+Logo, muitos pontos devem ser analisados pelo Governo Federal, como a inclusão de estados e municípios na reforma, visando saber a condição financeira destes e ter-se ter uma base de cálculos, garantindo o direito da parte carente da população. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

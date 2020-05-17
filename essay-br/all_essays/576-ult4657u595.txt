@@ -1,0 +1,13 @@
+# prompt: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao
+# score: 2,0
+# title: Tente outra vez
+Aconteceu em São Bernardo do Campo, região do grande ABC, num dia como outro qualquer, mas um dia que será lembrado para sempre. Será? Foi o dia em que mais uma pessoa quis ficar conhecida oudiríamosfamosa. E antes de realizar sua atitude maior, aquela que lhe causaria momentos de grande magnitude, ela pensou no que deveria ser feito para que uma pessoa comum como ela pudesse aparecer na mídia em geral sem que fosse nas páginas policiais, com a prática de um delito.
+          Foi quando se lembrou de que para um ser humano nada é melhor do que fazer aquilo que lhe dá prazer e lhe faz bem, e lembrou das vezes que provocava seu vizinho lavando a calçada debiquini, da forma com que os homens a olhavam quando colocava suas roupas mais curtas e assim lhe veio a brilhanteidéia.
+            Mesmo não sendo dona de um corpo escultural, decidiu que aquela seria a melhor forma de atrair a atenção de todos (ou pelo menos dos homens) e então foi para a aula de uma forma no mínimo chamativa. Chamativa sim, mas não querendocondena-lápor isso, pois condenar uma pessoa ou atribuir possíveis falhas em seu caráter simplesmente por sua maneira de se vestir é no mínimo querer ocupar um lugar ao lado de Deus e julgar a tudo e a todos. Mas nossa personagem conseguiu atrair não só os olhares masculinos, mas os femininos, osbi-sexuaise todo tipo de pessoa que cruzou com ela naquela Universidade.
+              E tudo aconteceu da forma que aconteceu. E o maior resultado de que a nossa personagem esperava também aconteceu. Foi convidada a dar entrevistas em emissoras de TV e ganhou momentos de celebridade quando apareceu em telejornais, jornais escritos e internet. O tiro não saiu do jeito que ela queria, mas pelo menos aparecer ela apareceu, num misto denoticiaspoliciais, devido a formaque ela teve de deixar a Universidadecom programas que passam em nossas tardes, abordando a vida (ou a desgraça) dos famosos ou postulantes a tal fama.
+                O convite para Big Brother e para posar nua em uma revista masculina não vieram, mas fica de alento a mensagem que sempre ouvimos, que o brasileiro é perseverante e não desiste nunca.Não desista de seu sonho, querida personagem.Tente outra vez.
+# C0: 2,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

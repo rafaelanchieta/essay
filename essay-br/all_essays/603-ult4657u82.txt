@@ -1,0 +1,10 @@
+# prompt: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil
+# score: 4,0
+# title: Energia nuclear. Benéfica ou maléfica?
+Neste contexto atual, em que o aquecimento global se tornou uma realidade, discutir sobre geração de energias alternativas, como a nuclear, é fundamental, e saber quais são seus benefícios e suas desvantagens se tornou essencial, principalmente no Brasil que é um país pioneiro na geração de energias alternativas.A energia nuclear é uma tecnologia que traz vários benefícios para o ser humano, um deles é o uso no tratamento de doenças como o câncer, através da radioterapia, inúmeras pessoas são contempladas, em hospitais de todo Brasil, com esse tratamento. Também é significante na geração de energia, visto que não emite gases poluentes e como conseqüência, não contribui para o aquecimento global. Entretanto,esse meio energético, não é perfeitoe traz consigo o risco de acidentes graves e o transtorno do lixo atômico que ele produz.
+               Com a necessidade atual, de se gerar energias alternativas, o que se espera das autoridades brasileiras, por exemplo, é umaatenção especial, com o objetivo de minimizar, ou até mesmo, extinguir os danos causados pelo uso da energia nuclear, visto que ela já provou a sua importância, tanto na saúde com na geração de energia.
+# C0: 1,0
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

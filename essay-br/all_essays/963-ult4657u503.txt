@@ -1,0 +1,17 @@
+# prompt: a-virgindade-e-um-valor-moral-a-ser-preservado
+# score: 7.5
+# title: Virgindade: um valor redefinido
+A revoluçãoComportamentaldo século passado e a
+        AIDSobrigaram até as famílias mais tradicionais e ortodoxas a debater com seus filhos sobre sexo. O assunto, que antes era considerado um tabu, passou a ser discutido abertamente tanto em casa quanto na escola. Após essa transformação, a virgindade também teve seu valor redefinido: no passado, era uma imposição da sociedade; hoje, é uma escolha tomadapelo jovem individualmente.
+        Os adolescentes contemporâneos possuem uma relação natural com o sexo, pois este tema é cada vez mais freqüentenos meios de comunicaçãocomo a televisão e a internet. Essa naturalidade, porém, não se manifesta de forma
+          homogenia. De um ladohá estatísticas que revelam a precocidade do
+          inicioda vida sexual e da maternidade, de outro, é crescente o número de jovens que optam por preservar a castidade.
+          A sociedade, mais flexível após a década de 60, não mais obriga que o jovem se mantenha casto até o casamento, porém exige deste a
+            responsabilizaçãopelas futurasconseqüênciascomo a gravidez e, principalmente, que tome as medidas necessárias para se evitar doenças sexualmente transmissíveis. Assim, ao mesmo tempo em que o indivíduo ganha a liberdade de escolher quando deixar de servigem, recebe também um grande carga de deveres, os quais devem ser realizados com muita maturidade. A virgindade, portanto, não era apenas um valor moral ou religioso, mas também uma forma de retardar o ato sexual até o momento em que o casal atingisse um certo<correct/>nível psicológico.Embora ainda simbolize pureza e bom comportamento, a virgindade não é tão importante quanto era no passado. O debate e a orientação tornaram-se mais eficazes contra a banalização do sexo. Resta
+                ajuventude fazer uma escolha consciente de como e quando dar
+                inicio avida sexual.
+# C0: 1.5
+# C1: 1.5
+# C2: 2.0
+# C3: 1.5
+# C4: 1.0

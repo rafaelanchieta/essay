@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 350
+# tittle: Transformar pra fome parar
+A fala do presidente do Brasil, que ninguém passa fome aqui, é uma mentira deslavada . Basta ver o valor do salário vergonhoso mínimo .  novecentos e noventa e oito reais bruto. Quem pode se alimentar bem por um mês com essa quantidade de dinheiro? E tendo que pagar aluguel, transporte, água, luz, gás e tudo que é preciso para sobreviver. Esse presidente não conhece a realidade brasileira. Ou aquele velho ditado pimenta no olho do outro é refresco. A fome e a subnutrição existem hoje, existiu no passado e se nada for feito se perpetuará no futuro. Quem tem fome sofre. 
+
+As escolas são muito importantes para ajudar nessa triste realidade . Com merenda nutritiva pode pelo menos matar a fome de vários estudantes carentes uma hora do dia. Esse é um problema social. E é dever dos Estados resolver. Ninguém poderá aprender as disciplinas direito com a barriga roncando de fome. É dever do governo cuidar de seu povo. Tem que haver um plano de alimentação nutritiva em todas as Escolas públicas nacional. Gastar dinheiro com a alimentação dos alunos, não é gasto, é investimento. Em pessoas saudáveis e produtivas no futuro. Todos sabem os malefícios causados pela fome. Combater é urgente, inteligente, para não ter uma geração de gente doente. 
+É preciso urgente uma ação social, escola e sociedade, a escola tem o papel transformador de toda sociedade. Só a educação muda a realidade do mundo. A educação pode deixar de ser o grande problema nacional para ser a solução de tudo. Por que, que as escolas não são agrícolas? Para produzir seus alimentos? Além do aluno aprender vários ofícios se alimentam e ainda ajudariam a comunidade mais carente. Tem que pensar juntos e juntos mudar. 
+
+A solução para a fome no Brasil está na Escola! Ela é o agente transformador do mundo. Investimento politico em um plano de sustentabilidade social. Plantando, criando e aprendendo. Não basta fazer, tem que fazer do jeito certo . Tem que ser todos contra a fome mesmo. O governo doa a terra e as sementes e a comunidade e alunos entram com o conhecimento e a mão de obra. Os professores com a administração e assim juntos todos construiriam uma nova realidade com mais humanidade e menos fome. E esse modelo pode ser copiado nos presídios, nos abrigos de idosos, nos orfanatos etc. Os famintos do país não querem esmolas, paliativos nem negligências. Querem oportunidades e projetos para tudo mudar. Para sempre. Primeiro cuida da fome. Depois transforma tudo! 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

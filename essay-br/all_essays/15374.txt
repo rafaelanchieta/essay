@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 270
+# tittle: A escolha é sua
+Em dias atuais é comum caminhar pelas ruas da cidade e se deparar com uma alta taxa de adolescentes grávidas . Mas, essa circunstância de gravidez não é por falta de consciência, pois as informações nos dias de hoje se envolve em vários meios de comunicação, seja em redes sociais, ou comerciais, e até mesmo no próprio lar. 
+Diante disso, como Zygmunt Bauman afirmou" Não são as crises que mudam o mundo, e sim nossa reação a elas", entretanto, com um pensamento em si próprio e nas consequências negativas  que uma atitude precipitada causa , a vida se torna melhor fisicamente e psicologicamente.
+Dentre inúmeras razões, uma que se destaca e que quase ninguém percebe , é o caso da bolsa família . O foco disso baseia-se no fato de que,  muitas adolescentes engravidam por interesse desse benefício , com o intuito de receber um dinheiro sem muito esforço, apenas concebendo filhos para sua serventia. 
+Levando-se em conta o que foi observado,  é possível prevenir-se, renunciar aquilo que por uma atitude mal amanhada venha trazer um resultante peso. "Podemos tentar evitar de fazer escolhas através de não fazermos nada, mas mesmo isso é uma decisão", Gary Collins. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 0

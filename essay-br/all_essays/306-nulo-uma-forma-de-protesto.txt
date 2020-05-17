@@ -1,0 +1,14 @@
+# prompt: o-voto-nulo-e-um-ato-politico-valido
+# score: 4,5
+# title: Nulo, uma forma de protesto
+Desconfiança, medo e desonestidade sãoalguns dos aspectosque levam alguns eleitores a tomar a atitude de anular seu voto.Esteato talvez não mude osresultados maisameniza o “peso” na conciência de quem irá votar. Não háopçõessódesepicões, votar em quem?
+         O voto nulo é o única meio para protestar contra a obrigação de votar, em um país dito de direito como nosso onde seu art.1 revela, não deveria impor ao povo votar, já que estamos vivendouma "democracia"não seria necessário
+         . A sociedade tem que escolher melhor seus representantes, ou a forma das eleições deveriam ser mais rígidas para os candidatos ,poiso que severé algocontrárioas pessoas são persuadidas com coisasfutéil, dando vazão para um qualquer decidir o futuro de uma nação que precisa de muito mais que palavras e promessas.
+         Anular o voto também é exercer a cidadania e ainda mais, uma forma valente denão deixar-selevar por discursos bem elaborados que não surtem nenhum efeito,
+         após a posse do cadidato, por sua vez nãovalemuito, pois são poucos ainda queconheceum modo de não compactuar com os corruptos quecorronpema humanidade com palavrasênfaticas.
+         Enquanto votar forobrigação averá nulos, a únicasaída é atransparênciatanto doscandidatosquanto do povo eliminar a venda de sua vontade .Obrigrarnão resolve, aliás, acabou o período de regime ditatorialpara começarumademocracia, estámudança tem que começar nas urnas.
+# C0: 0,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

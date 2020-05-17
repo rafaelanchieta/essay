@@ -1,0 +1,10 @@
+# prompt: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco
+# score: 5,0
+# title: Brasil racista?!
+Consciência negra? Será que existe verdadeiramente uma consciência? No país em que a maior parte da população é negra, ainda existe crime racial (Serão punidos, na forma desta Lei, os crimes resultantes de discriminação ou preconceito de RAÇA, COR, etnia, religião ou procedência nacional). O Brasil está em constantes mudanças em muitas áreas , mas a sociedade permanece presa a culturas que criam divisões entre as pessoas. O negro carrega nos ombros um peso do passado, que o limita a lutar pelos seus direitos no presente , direito esse que a própria Constituição Brasileiraconcede (TODOSSÃO IGUAIS PERANTE A LEI, SEM DISTINÇÃO DE QUALQUER NATUREZA, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, À IGUALDADE, à segurança e àpropriedade)..
+          No dia 20 de novembro muitos comemoram mais um feriado e não refletem sobre ele. Os cidadãos precisam esquecer a escravidão passada e olhar para os negros como qualquer outro brasileiro, com os mesmos direitos à saúde, educação, lazer, trabalho digno e deveres também. O negro não precisa de uma vaga na Universidade através de cota, e sim de oportunidade para buscar conhecimento e competir com igualdade por um futuro melhor . A sociedade precisa rever seus valores e perceber que não é a cor da pele que faz a pessoa, e sim o caráter epostura dela toma como ser humano. Só assim as diferenças serão superadas e viveremos em um país livre de preconceitos.
+# C0: 1,5
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

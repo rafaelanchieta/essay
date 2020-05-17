@@ -1,0 +1,13 @@
+# prompt: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia
+# score: 8,5
+# title: MMA, um esporte como qualquer outro
+O MMA é um esporte que vem atingindo grande popularidadeentre amídia easpessoas comuns. Como toda prática esportiva, o MMA pode promover melhorias ao meio social através da inserção de jovens à prática do esporte, instruindo-lhes que as lutas só devem ser exercidas dentro dos octógonos - ambientes onde ocorrem as lutas. Além disso, o MMA contribui para a formação moral desses jovens.
+        As artes marciais mistas ou MMA - sigla proveniente da língua inglesa - podem contribuir consideravelmente para a melhoria social ecultural, esseprocesso dar-se-ia através da abertura de centros de treinamento de MMA, ao possibilitar o ingresso de jovens que estejam dispostos a seguir fielmente os fundamentos do esporte. Por meio dessa iniciativa, pode-se evitar que esses indivíduos optem pelo ingresso nas práticas ilícitas, como o consumo e o tráfico de entorpecentes.
+          Concomitantemente à divulgação de tal esporte, é necessária a vigilância intensiva acerca da prática do MMA, ou seja, ao pleno exercício da luta emsi, essaatitude é requerida, visto que a prática indiscriminada dessa luta, seja em ruas, escolas ou em locais clandestinos, vai de encontro aos princípios estabelecidos pelo MMA, o qual apregoa a prática do esporte pelo esporte, ou seja, essa atitude não deve ser exercida por motivos torpes, como brigas, revanchismos e exibição de poder.
+            O MMA preconiza com louvor o respeito entre seusparticipantes, vê-seque esseesportealém de colaborar com melhorias nos âmbitossócio-culturais,transforma-se num agente capaz de contribuir para a formação moral de seus seguidores ao ensiná-los o inconteste respeito aos seusadversários, nãose trata de umexercimentode protocolos estipulados pelo MMA, mas simaoreconhecimento voluntário de cada indivíduo ao árduo treinamento desempenhado pelo outro lutador.
+              No encalço da popularidade das artes marciais mistas, surge o ensejo de promover melhorias na sociedade por meio da retirada de jovens da marginalidade social e, ao mesmo tempo, há o desenvolvimento do respeito e da tolerância entre os praticantes desse esporte.
+# C0: 2,0
+# C1: 2,0
+# C2: 2,0
+# C3: 0,5
+# C4: 2,0

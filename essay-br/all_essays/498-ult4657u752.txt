@@ -1,0 +1,15 @@
+# prompt: juventude-e-alcoolismo-um-problema-social
+# score: 4,0
+# title: Em busca de um mundo melhor
+As bebidas alcoólicas são encontradas com muita frequência nas comemorações das famílias brasileiras. O contato comestasbebidas, desde criança,fazemcom que adolescentespassam a incluiremao seu cardápio cada vez mais cedo.
+        Os menores começamà beberempara aparecerem e até mesmo por ser algo comum, mas com o passar do tempo os motivos vão mudando,devidooaparecimento de problemas familiares, amorosos e insatisfação consigomesmo.Fazendocom que a bebida deixe de ser uma descontração para se tornarnecessáriapara obter felicidade.
+          A maioria dos pais veemestasituação como algo normal, permitindo que
+            eles bebam dentro de casa, porém não pensam que elesmesmo podem se tornar vitimasdeste vicio,pois o álcool é o principal causador de
+            mortes no trânsito, estupro e agressões, tantofisicasquanto verbais
+            . E aqueles que alegam não saberem do comportamento do filho são culpados da mesma forma, poisestademonstrando a falta de atenção com estes.Esteconsumo precoceda juventudesó terá fim quando os jovenspoderempermanecer lúcidos em um mundoque vale apena viver. Poisa bebida tem servido de escape de umarealidade ondeos lares desconhecem o amor,o carinho e o afeto
+              . Poristonão adianta o governo fazer leis proibindo a vendadestasbebidas paraestesse os responsáveisdaformação da personalidadedestas crianças continuarpermitindo queeles se drogam.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

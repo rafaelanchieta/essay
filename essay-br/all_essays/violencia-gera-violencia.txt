@@ -1,0 +1,11 @@
+# prompt: Violência e drogas: o papel do usuário
+# score: 0
+# title: Violência gera violência
+Em todos os lugares do Brasil temos violência, incluindo os usuários de drogas.
+A segurança pública contra traficante e vice-versa, formando a guerra entre eles e trazendo a morte dos dois lados, temos  casos da segurança invadindo as comunidades e atirando para  todos sem nem querer saber se  é inocente, e  traficantes indo atrás de quem matou aquelas pessoas. Existe  drogas em todo o Brasil e usuários, e assim gerando a guerra, até entre as famílias por causa do vício, sempre haverá comprador é assim trazendo o vendedor.
+O Brasil tem que melhorar no sistema público para que a violência diminua e discutir sobre a legalização de drogas, pois a droga é proibida, mas continua no Brasil.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

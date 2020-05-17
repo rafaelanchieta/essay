@@ -1,0 +1,12 @@
+# prompt: qual-sera-o-legado-da-copa-do-mundo-para-o-brasil
+# score: 5,0
+# title: Brasil e sua política "Pão e Circo"
+Temos neste ano a Copa do Mundo, que vai fazer do Brasil o centro das atenções por certo tempo, mas essa atenção deveria estar voltada para as escolas e hospitais que precisam de melhorias, e não para esse evento que está servindo apenas de fachada para os verdadeiros problemas. Oportunidades de desenvolvimento não virão com a Copa, os investimentos feitos irão sumir juntamente com os jovens sem oportunidades. Todo o dinheiro gasto para a construção e reforma dos estádios não servirá para nada. Além de ser apenas temporário , não ajudará nossas crianças se elas continuam a morrer na porta dos hospitais, se continuam analfabetas ou irão depender da sorte parasobreviverjá que o governo só se importa com os lucros queterãocom a Copa do Mundo. Afinal não se faz educação e saúde com estádios de futebol,
+         já que aos olhos o governo o futebol é mais importante do que o futuro da nossa nação. A Copa não fará com que nossa economia cresça ou que nosso país se desenvolva. Se quisermos que o país melhore, devemos parar de nos concentrar em eventos como esse e procurar investir o dinheiro dos impostos em escolas e hospitais, em infraestrutura e segurança. Nós necessitamos de investimentos que sejam a longoprazoque possam nos
+         assegurar por mais tempo e não por alguns meses. Precisamos acabar com isso e reivindicar de verdade os nossos direitos, não adianta irmos para as ruas sem saber o que queremos, temos que saber pelo quê e por quem lutar. Poucos são aqueles que veem a Copa como ela realmente é. Estamos vivendo, em pleno século XXI, a política de "Pão eCirco" ondenós somos os
+         telespectadores que se iludem com um truque tão patéticoqueé a Copa do Mundo.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

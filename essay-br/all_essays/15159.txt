@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: As vacinas e a sociedade
+No século XIX houve a Revolta da Vacina, movimento em que a população era vacinada obrigatoriamente e precariamente informada, o que gerou indignação popular e caos. Entretanto, na realidade contemporânea, a negligência governamental e a desinformação são os principais obstáculos a política de imunização no Brasil. 
+Em primeiro plano, é vital abordar que as campanhas de informação e vacinação são episódicas, ou seja  não tem a periodicidade que deveriam. Já o sistema responsável por vacinar e imunizar a população é ineficiente, visto que ainda há uso do cartão de vacinação físico. 
+Outrossim, é válido salientar sobre a distribuição das vacinas em território nacional, já que por ser um país de extenso território, a imunização é mínima em regiões remotas . Ademais, a desinformação por parte da população, o que é incentivado pelos movimentos antivacina que são informações falsas que circulam nas redes sociais sobre a importância e necessidade de se vacinar. 
+Logo, por sua extrema importância, medidas devem ser tomadas a favor desse direito. O Ministério da Saúde deve criar a carteira de vacinação digital, assim como um banco de dados nacional atualizado com o registro das carteiras de vacinação, para que a população possa se manter informada sobre as vacinas que estão em dia. Cabe a este Ministério também o mapeamento e inclusão de regiões remotas  e o aumento das Unidades Móveis de Imunização, utilizados para levar vacinas a regiões longínquas.Já as escolas  junto com os postos de saúde  devem organizar campanhas informativas sobre o funcionamento das vacinas, combatendo assim o movimento antivacina, que é baseado na ignorância e desconhecimento sobre a imunização. Só assim a saúde será garantida e preservada para todos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 760
+# title: A Corte Suprema
+A pesquisa realizada recentemente pelo Datafolha causou surpresa à população. Nela consta que apenas 39% dos brasileiros aprovam a Corte Suprema, ou seja, o Supremo Tribunal Federal (STF). Diante disto surge o questionamento sobre o que leva uma pessoa a não aprovar o STF. O assunto prisão em segunda instância e a morosidade na resolução de processos judiciais contribuíram para esta reprovação.
+Primeiramente, a rejeição da proposta de prisão em segunda instância causou descontentamento na população. Políticos que haviam cometido vários crimes de desvio de dinheiro público estavam, de repente, livres. A sensação de justiça com relação aos crimes políticos se esvaiu da noite para o dia. Mas, temos que lembrar que o STF é composto por ministros renomados e de larga experiência que têm como premissa básica a guarda da Constituição Federal (CF), nossa lei maior. Este tribunal se viu na obrigação, por maioria dos votos, de cumprir o que consta na CF sobre somente condenar após trânsito em julgado.
+Por outro lado, é preciso avaliar também que a população está cansada da morosidade da justiça e urge por soluções de crimes políticos. É papel do STF se atentar também para os anseios da população para que possamos ter um país menos corrupto com a redução da impunidade. Atos do STF, como o supracitado, prolongam ainda mais os processos judiciais e tiram da população a esperança de melhores condições para o país tais como: saúde, saneamento e educação. Não são estes também itens básicos da Constituição?
+Portanto, é necessário que o STF dê mais abertura à participação popular nas discussões políticas para que juntos possamos definir o que é melhor para nosso país. Temos que abrir caminhos para a democracia e condições dignas e não colocar mais barreira . Como dizia Newton: "Construímos muros demais e pontes de menos".
+# C0: 160
+# C1: 160
+# C2: 160
+# C3: 160
+# C4: 120

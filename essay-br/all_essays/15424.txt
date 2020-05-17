@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 370
+# tittle: Gravidez precoce, breve reflexão
+A reposta para esta pergunta está atrelada a análise de dois fatores: o primeiro seria de ordem mais pontual, ou seja, as consequências de uma gravidez precoce na vida de meninas e meninos em fase de crescimento; e o segundo seria os efeitos dessa questão na sociedade. 
+Considerando as especificidades da puberdade, observamos   que além das transformações biológicas, a adolescência é um momento em que se inicia uma série de questionamentos, dentre eles,  os aspectos inerentes a mesma . E, quando essas perguntas não são bem esclarecidas, podem impulsionar a curiosidade por experiências, que requerem um mínimo de amadurecimento, como é o caso da sexualidade. Nesse âmbito, a iniciação sexual precoce e sem a devida informação podem acarretar uma gravidez não planejada, que na vida de adolescentes, principalmente das meninas, pode significar a interrupção de projetos característicos dessa idade, como os estudos, passando a assumir responsabilidades próprias de um mundo adulto. 
+Ao analisarmos esse aspecto no contexto mais amplo, percebemos que ele pode gerar, além de consequências socioeconômicas, situações de ordem estrutural, especialmente se atentarmos para o fato de que muitas dessas adolescentes tornam-se mães,  sem ao menos estarem psicológica e emocionalmente preparadas para lidarem com as adversidades do mundo. Nesse sentido, a maternidade precoce exigirá um certo aparato de assistência, que em meios mais vulneráveis,  demandará do poder público ações na área da saúde e da educação para atender as particularidades dessa mãe e dessa criança. 
+Portanto, acreditamos que a gravidez na adolescência é um problema, mas este poder ser evitado por meio de políticas que trabalhem massificamente a informação sobre os efeitos de uma prática sexual deliberada e sem o devido cuidado, procurando conscientizar sobre as responsabilidades envolvidas na mesma. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

@@ -1,0 +1,11 @@
+# prompt: o-conceito-de-familia-pode-ou-nao-pode-mudar
+# score: 4,0
+# title: A evolução da família tradicional
+Independenteda opção sexual, uma família pode sim, ser constituída por duas pessoas do mesmo sexo.
+         Embora isso seja visto pelosconservadoresda família tradicional como errado ou equivocado,mas asociedadetem que entendere aceitar a evolução social. Pessoas do mesmosexoque se relacionam independentemente de serem duas mulheres ou dois homens,deveriam ter os mesmos direitosque os heterossexuais, desde a adoção de uma criança ao casamento .Poisassim como qualquer outrocasaleles também têm seus sonhos de ter uma família.
+         Apesar de igrejas e entidades defenderem o conceito da família tradicional, que éconstituída segundo eles, por um homem e uma mulher, e valorizarem questões culturais,elestemque compreendera evolução da sociedade. O que antigamente não era comum, dois casais do mesmo sexo se relacionando, hoje faz parte do cotidiano, e com o passar dos anos irá fazer parte da cultura. Com isso, todosdevem respeitara pessoa e sua família,independente se forconstituída por dois homens, duas mulheres ou um casal de homem e mulher.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

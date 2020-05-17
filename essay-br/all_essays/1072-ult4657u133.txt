@@ -1,0 +1,10 @@
+# prompt: um-cachorro-vale-mais-do-que-um-ser-humano
+# score: 5,0
+# title: Animal racional versus Animal irracional
+É fato que em nosso mundo, o planeta Terra, existe dois tipos de animais o racional e o irracional. Cada tipo possui características específicas e pertinentes voltadas para o seu ciclo de vida.O homem é o único animal racional por possuir o dom da fala, da inteligência e conseqüentemente o poder de comunicar-se com outros seres humanos. O seu ciclo de vida é voltado para as suas necessidades e sobrevivência conforme o meio em que vive. Ele pode adaptar-se a diferentes lugares, pessoas e cultura. Enquanto que há animais irracionais quepodem ser domesticados e assim estarem mais próximosde seus donos numa relação de confiança, cumplicidade, parceria e amor. O cachorro é um exemplo de animal irracional que consegue manter uma sinergia com o seu dono e pessoas próximas dentro de uma convivência familiar.Enquanto há outros animais que somente poderão viver em cativeiros a fim de dar continuidade a sua espécie, mas logo em seguida são libertados na floresta, porque são animais selvagens que dificilmentepoderão conviverem meio aos seres humanos, eles precisam viver em liberdade para sobreviverem em seu ciclo de vida.
+            Em relação à reportagem sobre o cachorro que recebeu uma herança de sua dona, fica transparente o quanto ela sentia amor pelo animal e ao mesmo tempo o quanto o animal supria a sua carência de companhia, mas jamais ele estaria substituindo um ser humano, onde há troca mútua em todos os aspectos. Quanto à herança deixada por ela ao seu animal jamais será entendida, apesar da sinergia que havia entre os dois, pois o que realmente importava para o animal era a sua presença a qual se manterá registrada em sua mente. Portanto o cachorro não perde o seu valor, mas não é mais importante do que um ser humano, porque há falta das faculdades mentais necessárias para entender o que de fato há em seu redor.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

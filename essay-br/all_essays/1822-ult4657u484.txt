@@ -1,0 +1,30 @@
+# prompt: combate-ao-fumo-autoritarismo-ou-dever-do-governo
+# score: 2.5
+# title: Conscientizar é preciso
+Andamos nos centros das grandes cidades onde a quantidade de gases poluentessão altos, gases vindos das
+        Fabrica, automóveis e cigarros que ajudam a agravar a saúde de pessoas com problemas de respiração e as demais formas de vida na
+        terra, que dependem do ar para sobreviver.
+        Os meios de produção, industrias ,fabricas<correct/>, e os meios de condução como carros, ônibus, motocicletas são indispensáveis para os dias
+          atuas, pois
+          temuma grande força na economia do país. Já o tabaco,
+          visto como antigamentesímbolo de status social e, para alguns homens como símbolo da virilidade, vem perdendo esses aspectos para as pessoas que estão mais
+          preocupadoscom a saúde.
+          Existem estados, como São Paulo,
+            queo governo proibiu a utilização do tabaco em lugares fechados ou semifechados,
+            que sejapúblicos,
+            podendofumar somente em casa ou no meio da
+            rua, dessa forma proibindoque restaurantes e bares
+            recebemfumantesem seus estabelecimentos, priorizando assim a saúde e o
+            bem estardos cidadãos que
+            não praticam esse habito.
+            Entretanto, a proibição de fumar em locais públicos, fechados ou semifechados, acabou dando prejuízo aos donos dos estabelecimentos e tirando a liberdade de ir e vir e de ação das pessoas fumantes. Pensar em toda a população é sempre uma tarefa difícil. Então deixamos paraque os donos de estabelecimento decidam que
+              tiposde clientes
+              queiramter e se tiverem fumantes,
+              façauma área restrita para eles, pois
+              , os
+             demais clientes não são obrigados a dividir o mesmo ar poluído por eles.
+# C0: 0.5
+# C1: 0.5
+# C2: 0.5
+# C3: 0.5
+# C4: 0.5

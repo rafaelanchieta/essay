@@ -1,0 +1,11 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 4,0
+# title: Idoso: uma fase da vida que todos querem alcançar.
+No Brasil são consideradas pessoas idosas aquelas que possuem idade igual ou acima de 60 anos. Sendo assim, essas pessoastemdireitos queasdão prioridadesàpreservação da vida,àsaúde,educação, esporte, cultura, alimentação, lazer, cidadania,
+        entre muitos outros direitos . Porém, o que o idoso necessita para viver bem pode ser resumido em poucas palavras: o respeito da sociedade. Ser idoso não significa ser incapaz. Ser idoso quer dizer acúmulo de experiência e basta apenas darmos oportunidades para aprendermos com os mais experientes o valor da vida. Infelizmente o desrespeito, adescriminaçãoe desvalorização da sociedadecom as pessoas idosas são presenciadas a cada minuto em nosso país. Desrespeito nos atendimentos públicos,bancos, supermercados, no trânsito epior, na própria família.
+              A palavra velho deveria ser usada para nos referir apenas aos objetos não mais utilizados e que facilmente jogamos no lixo por não nos servir. Não deixemos nossos idosos isolados e sem nenhuma tarefa para fazer. O que eles precisam de nós é o que desejamos e gostamos de receber todos os dias, um pouco de atenção.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

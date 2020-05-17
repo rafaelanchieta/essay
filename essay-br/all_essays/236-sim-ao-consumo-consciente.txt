@@ -1,0 +1,11 @@
+# prompt: como-se-tornar-um-consumidor-consciente-isso-e-possivel
+# score: 5,0
+# title: Sim ao consumo consciente
+A base do atual sistema econômico mundial é o consumo e, para isso,desenvolve-e osmeios de se vender um produto, seja com o marketing excessivo ou com facilidades garantidas pelo governo.
+         É evidente que o papel da mídia em influenciar o consumidor é o mais impactante, porém, o ambiente familiar e a falta de informação também são fatores que contribuem diretamente na formação de um perfil psicológico voltado para as compras. Embora sejam comumente destacados os pontos negativos do consumo exagerado, é necessário enfatizar que essa atividade é a principal responsável pelo aquecimento do mercado interno brasileiro e principal motivo do aumento da qualidade de vida e desenvolvimento econômico do país. Sendo assim, seria necessário implantar um projeto de educação financeira queatue juntamente com psicólogosa fim de
+         formar cidadãos que aqueçam o comércio para manter suas necessidades e qualidade de vida.
+# C0: 1,5
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

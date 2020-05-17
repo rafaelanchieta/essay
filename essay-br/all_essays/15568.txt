@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Alfabetização brasileira uma questão de emancipação
+O problema persistente do analfabetismo no Brasil denuncia o descaso com a educação no país .  Sendo expresso pela desvalorização salarial dos educadores, do sucateamento das escolas públicas, além da prática de metodologias engessadas em salas de aula. E esses são fatores que aprofundam a desigualdade social e devem ser enfrentados  a fim de se transformar as condições de vida dos brasileiros.
+ Partindo   da concepção que essa transformação ocorre a partir da perspectiva que se tem da alfabetização como ultrapassando   a instrumentalização para o trabalho e visando   o seu potencial para o desenvolvimento humano. Assim como pode ser percebida em países desenvolvidos  a relação proporcional entre professores socialmente valorizados e alto Índice de Desenvolvimento Humano . 
+Não obstante, a partir da superação das questões básicas de salário e infraestrutura, o meio educacional poderá vislumbrar a reflexão acerca de metodologias, promovendo   e publicizando   boas práticas a serem incorporadas no cotidiano escolar. Como exemplo pedagógico inovador há Paulo Freire, uma vez que ele cria uma metodologia voltada à formação do estudante com visão crítica, e por meio da contextualização do ensino o processo de aprendizagem tende a desenvolver a autonomia dos sujeitos e os empodera. 
+Portanto, com o propósito de romper a persistência do analfabetismo funcional no Brasil propõe-se uma ação dos legislativos na reformulação do piso salarial dos professores, aumentando-o . Em especial às câmaras municipais e assembleias estaduais, uma vez que são dessas esferas que partem as ações que impactam a Educação Básica. E nesse sentido se demanda a regulamentação da ampliação dos investimentos às escolas, revitalizando e modernizando   espaços.  De tal forma que,  ao se renovarem as possibilidades de ensino no Brasil, a alfabetização plena, que é emancipadora, se torne realidade. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 150
+# C4: 50

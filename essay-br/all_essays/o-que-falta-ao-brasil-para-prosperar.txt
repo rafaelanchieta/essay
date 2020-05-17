@@ -1,0 +1,13 @@
+# prompt: A onda conservadora e o Brasil nos próximos anos
+# score: 1000
+# title: O que falta ao Brasil para prosperar?
+O Brasil sempre é citado como um país do futuro: possui proporções continentais, clima predominantemente tropical, solos ricos em nutrientes e localização geográfica que não costuma ser afetada por fenômenos naturais devastadores. Contudo, apesar de tão favorecido pela natureza, ainda não embalou o desenvolvimento prometido pelo seu potencial. A que se poderia atribuir tal fato?
+As eleições têm caráter obrigatório no país: é dever do cidadão exercer este  direito. Porém, ainda assim, verifica-se o desinteresse da população através dos altos índices de abstenção. Um dos fatores contribuintes é o próprio cenário político: a cada ano surgem mais partidos, muitas vezes compostos por candidatos já conhecidos e que defendiam posições antagônicas, mas, em algum momento, perceberam que poderiam conciliar seus interesses. Com isso, os partidos já não têm mais uma identidade marcante e o eleitor enfrenta dificuldades para se sentir representado.
+Entretanto, dada a história política brasileira recente, em que houve cassações e políticos poderosos foram acusados e condenados por atos de corrupção, é de se esperar que a população anseie por renovações. Educação, saúde, segurança e emprego estão sempre em pauta como problemas que requerem atenção e os grandes partidos que se alternaram no poder, nos últimos anos, não promoveram grandes evoluções, senão nos patrimônios de seus integrantes.
+É por se encontrar neste  impasse de promessa não cumprida que o Brasil chegou às polarizações apresentadas  em 2018. Embora o partido mais conservador tenha sido eleito, o percentil que representa a oposição é muito expressivo. Por isso, não cabe falar na existência de uma “onda conservadora”, mas sim de uma população que necessita de soluções.
+Assim, o que se precisa agora é que o eleitor satisfeito não se acomode: cobre pela implementação das propostas que conquistaram seu voto. E o que se decepcionou com os resultados também se mantenha participativo na busca por melhorias. O país somente poderá prosperar quando sua população se mantiver motivada e engajada em sua vida política.
+# C0: 200
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 200

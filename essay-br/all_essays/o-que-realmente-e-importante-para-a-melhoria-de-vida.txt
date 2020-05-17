@@ -1,0 +1,12 @@
+# prompt: O que é mais importante para vencer na vida?
+# score: 80
+# title: O que realmente é importante para a melhoria de vida
+Atualmente, é comum ver a diversidade de pessoas que utilizam e creem em um ser "maior" como melhorias e aspectos atual de moradia, educação e até mesmo saúde.
+No Brasil, conforme pesquisas da ONG, cerca de 28% da população de diversas cidades e estados, dizem que "a fé é um meio de se vencer e melhorar as condições de vida".
+Colocando abaixo desse tópico, a educação e estudos. Adiante afirmam que a fé é um muito importante.
+Sendo assim, se o governo investir em meios educativos, promovendo a educação e a colocando como única e realmente funcional para melhoria de vida, crendo que, a população estaria com altos conhecimentos para que possam ver com outros olhos as perspectivas de melhoria.
+# C0: 20
+# C1: 20
+# C2: 20
+# C3: 0
+# C4: 20

@@ -1,0 +1,13 @@
+# prompt: Internação compulsória de dependentes de crack
+# score: 350
+# title: A dependência química influência toda à sociedade
+O crack, substância química utilizada para dar uma imensa onda de prazer, porém, instantânea, vem abrangendo  um grande número de viciados que não se controlam  à quantidade de substância inalada e fazem moradia nesses pontos de consumo causando total dependência.
+O governo de São Paulo quer acabar com a cracolândia, enviando os dependentes à  centros de tratamento, porém a grande  parte dos viciados não querem se tratar, levando à internação compulsória.
+O uso constante do crack causa danos à corrente sanguínea, ao cérebro, aos rins, e o organismo começa a funcionar em função da droga.
+A internação compulsória é algo radical, porém necessário. O uso da droga causa perca à  vida familiar e acaba com o físico e o psicológico das pessoas. O uso da droga por impulso pode acarretar à dependência  e, assim, a formação de cracolândias facilitando o comércio.
+As cracolândias devem acabar. Com a ajuda de psicólogos e clínicas especializadas no tratamento, dando aos usuários motivos para não acabar com à  vida, nas drogas, e com o apoio do governo para financiar esse movimento que leva benefícios à  toda sociedade.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 0
+# C4: 100

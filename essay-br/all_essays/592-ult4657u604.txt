@@ -1,0 +1,15 @@
+# prompt: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao
+# score: 2,0
+# title: A mudança de costumes prevalecerão constante
+No convívio social, constantemente, acontecem determinadastransfomaçõesem vários campos,
+        em que estamos a mercê delas, na política, na ciência, na economia e, atualmente, natêxtis. Isso mesmo. Mas para que tais revoluções nesses sítios se realizem, é preciso quebrar certos paradigmas de costumes, quetemuma influência teórica consolidadadaspessoas, quando o assunto é o tipo de vestimenta adequado. A isso secorporacomo tradição uma boa educação, um perfil de quem se veste e comportamento com o devidoutensílo. Uma vezrompidoessas hegemonias causam repercussões constrangedoras.Apolêmica geradapelacausa da
+            utilização da roupa prevalece aincoerência, porque devemos ter primeiramente o respeitopara com outro de liberdade de vestir, desde que haja ética preponderante ao traje adequado. Essadiscordância de costumes, acarretaráo determinado reflexo de como a sociedade deve-se vestir nos lugares. Mas partindo da
+              teoria da expressão de liberdade , nada impede que possa usar qualquer tipo de roupa. Em decorrência disso, poderá surgir a regulamentação do traje paraos certos estabelecimentos, devido ao caso de uma estudante que marcou este ano pelo modo diferente de se vestir em uma instituição de ensino.
+              Enfim, a opção de não seguir o mesmo comportamento geral não quer dizer que seja irregular , como o ocorrido com auniversitariaGeisy,
+                porque perpassou sobre o seu estilo, a hostilização de seus mesmos parceiros patamares devidoaroupa ouafalta de regraspreviaspelo ainstituição.
+                No final das contas,absorvida, demonstra-se, portanto, que além de derrubar a maioria queeramcontra, a mudança de costumes prevalecerão constante.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

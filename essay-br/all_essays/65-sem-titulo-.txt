@@ -1,0 +1,13 @@
+# prompt: experiencias-com-animais-e-violencia-em-manifestacoes
+# score: 4,0
+# title: (Sem título 045)
+Os experimentos com animais, em especial com cães, têmtrazidosgraves problemas e consequênciaspois, cãessão utilizados constantemente para experimentos - principalmente de cosméticos - para alimentar uma sociedade capitalista,
+         estética e consumista. Acredita-se que os animais não devem ser utilizados para experimentos de produtos que serão utilizados por pessoas e não por eles, ou seja, sacrifício animal em prol de uma população cada vez mais estética , gananciosa, luxuosa, capitalista, fútil e desnecessária, assim temos em um só problema a prática de quatro dos sete pecados capitais . Em suma, acredita-se "quem use, que prove". Por outro lado, dizemquese não forem osanimaisquem irá se sujeitar a tais experimentos e sacrifícios? E logo
+         dizem "quem for contra se disponha a tal, antes perder um animalàum humano." Uma visão ignorante, bruta e esquecida de que afinal somos animais também.
+         Desse modo acredita-se que a solução é balancear ambasvertentes
+         , ou seja, diminuir a produção de cosméticos e produtos que muitas vezes possuem a mesma finalidade e mesclar experimentos com animais quadrúpedes e bípedes .
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

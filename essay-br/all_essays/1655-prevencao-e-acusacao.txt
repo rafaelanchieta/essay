@@ -1,0 +1,13 @@
+# prompt: terrorismo-o-brasil-tem-razoes-para-teme-lo
+# score: 3,5
+# title: Prevenção e acusação
+Com tantas manifestações queaconteceráem nosso país nos próximos meses, o Brasil tem sim razões para temer o terrorismo, pois qualquer paísestará apto a ser o país-alvode terroristas em grandes acontecimentos internacionais. Embora,
+         isto não convém a ser uma ação positiva, os governantes devem estar cientes que sim, poderá acontecer uma catástrofe nas realizações ocorridas no país. Contudo, todos já deveriam estar preparados para tamanha violência, caso ocorra. Se bem que essa nãoea realidade, pois nocódigopenal brasileiro não há conceituação de terrorismo, ou seja,
+         se tivermos um ataque terrorista não haverá penalizações para os autores da violência. Apesar de existirem tropas altamente qualificadas para o combate,não será o suficientepara a proteção da população e visitantes.
+         O ato terrorista tem como objetivo testar o país que será atacado , ou seja, acapacidade de defesa e prevenção. O que se tem de positividadeeque a defesa brasileiraecapacitada para tal ataque, o que falta são leis que castiguem esses malfeitores...
+         O assuntoque se trata é algo que talvez possa acontecer, por isso se destaca a prevenção a capacidade de antever. Para que a segurança do nosso país entre em rigor pelo menos nesta temporada pois se há como combater por que que não há como acusar? Se liga Brasil.
+# C0: 0,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

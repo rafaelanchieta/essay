@@ -1,0 +1,14 @@
+# prompt: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao
+# score: 7,5
+# title: Uma vida artificial
+Presente na curiosidade popular das sociedades mais remotas , os planetas têm sido também estudados intensamente por cientistas. Se desde a corrida espacial na década de 60, ocasião em que o homem foi à Lua, os cientistas não planejaram uma visitaàalgum outro astro do espaço, atualmente há planejamento para uma viagem só de ida a Marte com passageiros voluntários de várias partes do mundo. Porémestáideia apresenta incoerências a serem debatidas.
+         Pelo fato de que jamaisnem umastronauta pisou o solo de Marte para efeito deestudopercebe-se que levar
+         tripulantes para morar definitivamente no planeta vermelho é uma proposta contraditória . Por que não haverá uma expedição antes? Pois nem mesmo à Lua o homem voltou. E apesar da preparação fornecida aos voluntários, o conhecimento sobre esse planeta pode ser insuficienteaobter êxito, pois a compreensão que se tem dele corresponde à observação por sondas espaciais, o que por si só pode não evitar eventuais surpresas.
+         Também, a vida de qualquer organismo fora de seu habitat necessita de várias adaptações ocorridas no decorrer de muito tempo. E apesar de o ser humano ter condições de criar um ambiente favorável à sua sobrevivência, muitas limitações lhes são impostas. O habitante moderno da Terra é um ser extremamente social e habituado às facilidades proporcionadas pela tecnologia sofisticada. Então, retirá-lo de seu ambiente implicaria uma readaptação total nomodo de vida.
+         Além disso ter uma visão utópica de habitar fora da Terra, pode não ser tão fascinante quando na prática. Embora seja uma forma de explorar o seu potencial intelectual, sua habilidade de compreensão do universo em que vive, o ser humano também tem uma enorme capacidade de desequilibrar a natureza de forma irreversível e os sistemas que regem a vida. Os seus poderes podem ir além do planeta de origem, mas pode ser inviável a colonização de Marte, por, de repente, lhe trazer consequências semelhantes às que se manifestaram com a exploração da Terra. Assim, a satisfação com queconquistou - e com o que certamente irá conquistar na Terra –deve ser preferível ao homem àse aventurar novamente em mundo a ser desbravado. Zelar pela vida e pela natureza já criada e para a qual ele se adaptou de maneira natural é melhor do que tentar viver artificialmente em um lugarque não se sabe se há vida. Pois ele próprio adaptar-se e tentar adaptar o ambiente às suas necessidades seria
+         forçar a organização da natureza e da vida .
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 2,0

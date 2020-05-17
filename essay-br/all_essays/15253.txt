@@ -1,0 +1,12 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 350
+# tittle: O cinema no Brasil
+Desde tempos remotos   a arte se faz necessária para os seres humanos, desde pinturas rupestres em cavernas às tecnológicas telas de cinema, que nos  permitem ampliar nossos  conhecimentos e visões sobre diferentes culturas, e também uma forma de lazer, este que está contidos nos direitos assegurados pela Constituição a todos os cidadãos do país. Mas será mesmo que todos estão em plenas condições de gozarem do direito conquistado constitucionalmente? 
+
+Embora que o acesso ao lazer seja um direito adquirido , ocorre que nem todos podem se dar ao ''privilégio'' de gozar do mesmo, por exemplo o cinema, que se mantém restrito aos que têm as condições de acesso ao mesmo . A maioria dos cinemas encontram-se concentrados em grandes centros, e apenas alguns poucos estão presentes em lugares com uma concentração demográfica menor. É indubitável que isso demonstra uma restrição do acesso ao mesmo   pela maioria da população, além de que os custos de ingressos são elevados, o mantendo restrito à uma elite econômica e intelectual. A situação precisa ser alterada, pois o cinema além de uma forma de lazer é também uma forma expressão artística e de opinião sobre o que ocorre ao seu redor, seja ele atual ou histórico. 
+Para resolver a situação cabe então à Ancine e ao Ministério da Cultura  promover eventos que estimulem o acesso ao cinema para todos, como a promoção de sessões de filmes em comunidades de baixa renda totalmente gratuitos , o que amenizaria a situação de atual restrição à pequenas parcelas da população, tornando o ato de frequentar os cinemas mais democrático, em que todos estão em um estado de equidade cultural, visto que somente com o amplo acesso à cultura e educação que os atuais índices de desigualdade podem ser revertidos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 600
+# title: Órgão Máximo
+O Supremo Tribunal Federal (STF) encontra-se no topo da hierarquia do poder judiciário e, nesse sentido, ele pode ser entendido como a lei máxima do país, ou seja, é o grande guardião da constituição federal. Nesse contexto, é indubitável que as decisões tomadas pelo STF envolvem a população brasileira. Sendo assim, a opinião pública e a maior instância do poder judiciário são diretamente ligadas.
+Primeiramente, é importante ressaltar que nos últimos anos a Suprema Corte teve protagonismo no cenário político brasileiro. A intensa divulgação das atividades do Supremo pela mídia tradicional e pelas redes sociais fizeram com que as decisões tomadas pelo Tribunal ganhassem audiência global. Ademais, a cúpula do poder judiciário  brasileiro tomou medidas que não envolvem questões processuais baseadas na lei (fato que gera impunidade).
+Em uma segunda análise, constata-se que a maioria da população - segundo pesquisa Datafolha - não aprova o trabalho do STF. Essa situação se configura porque o público está mais atento às decisões tomadas pelo Supremo. Pois muitas das vezes parecem julgamentos de advogados de corruptos "graúdos" e não de ministros cuja função é preservar a constituição .
+É evidente, portanto, que é necessário e incontestável a ação da Suprema Corte. Porém, com o intuito de ter aceitação geral da nação e defender a carta magna , é fundamental rever como estão sendo feitas as definições dos ministros. Outrossim é importante verificar os erros cometidos para que os mesmos não sejam repetidos.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

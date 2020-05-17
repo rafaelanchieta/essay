@@ -1,0 +1,12 @@
+# prompt: o-que-voce-acha-do-novo-acordo-ortografico
+# score: 8.0
+# title: ReformaOrtográfica
+Um alfabeto que passou a possuir 26 letras e não mais 23, a inexistência do chamado acento diferencial; a saída do trema. Estes exemplos são apenas algumas dasmudanças em queaLínguaPortuguesa sofreu com o novoacordoortográfico que entrou em vigor no primeiro dia do ano de 2009. Esta reforma tem como principal objetivo unificar a escrita dos oito países que adotaram oPortuguês como língua oficial. Foi proposta em 1990, mas só após 19 anos, começa a ser colocada em prática.
+        A partir deste dia Angola, Brasil, Cabo Verde, Guiné-Bissau, Moçambique, Portugal, São Tomé e Príncipe eTimor Leste, iniciamuma fase de transição entre as ortografias, processo este que se deve concluir em 2012, e a partir de então não será mais permitido o uso de regras anteriores.
+          Pensando educacionalmente, há coisas mais importantes a se discutir sobre a educação do que acentos que saem ou que permanecem. Entretanto, se observarmos a política lingüística pode-se perceber que esseNovo Acordo Ortográfico é um grande avanço para a unificação e entendimento daLínguaPortuguesa, já que há divulgação científica entre os países lusófonos e a partir de então a escrita se tornará mais parecida.No ponto de vista de desvantagens desse processo, provém de como as pessoas recebem estas novas mudanças.É fato, quea maioria da população queixa-se de que aLínguaPortuguesa é complicada para ler, escrever e interpretar; e essas mudanças serviram para fortalecer este mito.
+            É de se esperar que esteNovo Acordo Ortográfico proporcione a superação das dificuldades lingüísticas entre os países eque nãovenha ocasionarnenhum conflito posterior. Até porque foi feito um acordo e subentende-se que houve um consenso. Enquanto as vantagens e desvantagens só o tempo poderá esclarecer melhor.
+# C0: 1.5
+# C1: 2.0
+# C2: 1.5
+# C3: 1.5
+# C4: 1.5

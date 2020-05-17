@@ -1,0 +1,11 @@
+# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
+# score: 9.0
+# title: A legalização do aborto a favor de melhorias na saúde pública
+A política da legalização do aborto envolve problemas morais, religiosos e, sobretudo, de saúde pública. Complicações pós-aborto clandestino estão em terceiro lugar como as principais causas de mortes de mulheres férteis.Países como a URSSe o Japão mantêm políticas de legalização do aborto. No Brasil, o aborto é crime, exceto por mulheres que sofreram estupro ou em situações que coloquem a vida da mãe em risco. Entretanto, no paísé registrado 200 mil abortos clandestinos por ano.
+        Grupos feministas que lutam pela liberdade da mulhere apresentamo aborto como opção da mãe. Em caminho contrário, com a quase possível liberação do aborto para fetos anencefálicos, houve um distanciamento do governo com aCúpulada Igreja Católica brasileira. A Igreja é totalmente contra o aborto, independente de sua procedência ouconseqüência. Preocupação extremamente exagerada, ao levar em consideração o descaso com a população mundial que sobrevive em condições precárias, com poucas chances de vida.
+          Omomento considerado geratrizda vida é a principal causa desta discussão. O médico brasileiro Drauzio Varella, em entrevistaáFolha, mostrou-seáfavor da legalização com prazo de execução estipulado, que seria de três meses, enquanto para médica Lílian Piñero, jáexistacontato do feto com o meio externo poucas horas após a fecundação. Esta divisão é debatida na sociedade médica, que ainda não pôde estabelecer um período exato.Medidas como esta mudarão o rumo da ciência, pois envolveo início da geração humana,quereacenderá as disputas pelas pesquisas que envolvem as células-tronco. O aborto com total consentimento da mãe, realizado sob vigilância médica rigorosa e após procedimentos comoo mencionadopelo Dr. Varella, deveria ser regularizado. A lei diminuirá as taxas de maus tratosácriança, aborto clandestino, além de estimular a utilização das células regenerativas, pesquisas revelam que as principais doenças que atingirão os homens no futuro serão as degenerativas.
+# C0: 1.5
+# C1: 2.0
+# C2: 1.5
+# C3: 2.0
+# C4: 2.0

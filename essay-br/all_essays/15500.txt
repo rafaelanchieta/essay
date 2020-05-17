@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 500
+# tittle: É essencial a alfabetização
+A alfabetização é indispensável para se ter uma boa escrita e uma boa leitura dentro do limite , mas o analfabetismo esta  está presente tanto para adolescentes, para jovens quanto para pessoas já de idade. 
+A porcentagem de analfabetizados é bem maior para idosos, pelo fato de que muitos em sua época escolar,  não permaneceram firmes em seus estudos, para hoje serem alfabetizados, muitos largavam as escolas para poderem trabalhar, ou nem sequer tinham a oportunidade de aprender. 
+E nos dias atuais,  a analfabetização esta  está em campos de jovens/adolescentes desistentes ou repetentes,  que de alguma forma até buscam mudanças, procuram aprender, procuram se alfabetizar, voltar às salas de aulas, mas são intimidados por outros jovens, fazendo com que eles se sintam envergonhados de estarem a um passo atrás dos outros, alguns até conseguem se manter firme, passar por cima de zoações alheias, mas alguns possuem um psicológico mais fraco. 
+Uma das maneiras de se alfabetizar,  é voltar às escolas, procurar programas de alfabetização, cursos, reforços de leitura ou escrita, e as pessoas as voltas dos analfabetizados procurar sempre estar incentivando os, ajudar quando for preciso, levar até a uma solução, nunca julgar, sempre apoiar, e os própios analfabetizados precisam também querer uma mudança, precisam querer aprender. Como Imannuel Kant nos diz : "O homem não é nada além do que a educação faz dele". Para querermos um sucesso promissor devemos de fato nos educar, melhorar sempre, crescer metalmente, e buscar aprender sempre mais. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 50

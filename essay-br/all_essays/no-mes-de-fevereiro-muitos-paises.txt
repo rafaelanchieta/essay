@@ -1,0 +1,12 @@
+# prompt: Carnaval e apropriação cultural
+# score: 440
+# title: No mês de fevereiro, muitos países
+No mês de fevereiro, muitos países entram no clima de carnaval , a festa se caracteriza pelas diversidades de fantasias. No Brasil, entretando , vem ocorrendo casos de apropriação Cultural sobre culturas indígenas e africanas. Nesse sentido, covem analisar, tais medidas para resolver esse problema.
+Inicialmente, os brasileiros costumam colocar suas criatividades em prática em fantasias para as festas de carnaval . No entanto, é constante os relatos de apropriação Cultural entre vários grupos sociais em adotar hábitos, vestuário, objetos ou comportamentos específicos de outra cultura. É inaceitável usar uma Cultura como representação de fantasia.
+Além disso, um caso clássico que já causou polêmica é o uso do turbante. Atualmente, ele pode ser facilmente comprado em lojas de departamento e visto em desfiles de moda. ou seja, ele se popularizou, foi apropriado pelo mercado. Contudo, para as religioes de matriz africana, esse elemento significa proteção para a cabeça, que é o elemento mais sagrado dentro desta prática religiosa. Vale ressaltar, que dependendo do modo como ele é colocado, o turbante indica o tempo em que a pessoa está inserida na religião.
+O ministério da cidadania , portanto, precisa criar um projeto de lei e reforçar nas mídias sobre o uso de atribuir como fantasia a cultura desses povos. É necessário que ocorra a conscientização da sociedade e respeito as culturas dos indígenas e africanos. Assim, o Brasil se tornará um país mais harmônico.
+# C0: 80
+# C1: 80
+# C2: 120
+# C3: 80
+# C4: 80

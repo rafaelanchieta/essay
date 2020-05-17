@@ -1,0 +1,12 @@
+# prompt: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao
+# score: 1,0
+# title: Tudo a à mostra
+A aluna da universidade Uniban de São Bernardo do Campo,GeyseArruda, teve que sair da sua faculdadeescoltada, após ter sidoescoltadae humilhada por 700 alunos. O caso gerou varias controvérsias e discussões. Estaria mesmo curto o seu vestido pink o suficiente para todo esse alarde?Geysepediu desculpas pelo traje e admitiu ter errado na escolha da roupa. Entretanto, muitos consideraram o ato um exibicionismo erótico premeditado e concordam com a expulsão da estudante, argumentando que a roupa era inadequada para um ambiente estudantil como uma universidade e que[,] para se escolher uma roupaéprecissoobservar o lugar a ser frequentado. Por sorte, muitos foram em defesa da estudante, fazendo passeatas nus e a admitindo-a em programas de televisão
+          para do caso . A mídiaprincipalmente, sendo que o seu maior lucro vem da apelação da sensualidade, não teria outra opção a não ser apoiar a estudante.
+          Em sua defesa, a aluna disse que sempre gostou de usar roupas justas, decotadas e curtas e que o ato não foi de maneira alguma para provocar, e que sempre se vestiu dessa maneira e que quiseram apenashumilha-la.Geysenão voltouasaulas ainda, tem ido a programas de televisão falar sobre a polêmica. Virou uma celebridade, foi convidada para posar nua.
+            Em que país estamos: em um país de mulheres nuas nas praias, o país do famoso carnaval ou no país onde se condena o uso de um vestido nem tão curto assim? Esse ato foi de extremo machismo, intolerância e má-educação. Esse fato representa o quanto a sociedade brasileira é preconceituosa em seus conceitos einfelizmenteainda machista.
+# C0: 1,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

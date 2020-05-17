@@ -1,0 +1,10 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 6,5
+# title: Os salvadores da humanidade
+Diantedas aflições dos problemasque vivenciamos no mundo de hoje, repleto de desigualdades, violência, desordem e preocupações, buscamos portrazde uma figura, seja ela religiosa, cômica ou fictícia, uma essência de inspiração, de motivação, de esperança e de solução para nossas vidas.
+         Essas figuras são os heróis, um símbolo de fé, autores do otimismo e salvadores da humanidade. Podem, ou não, existir fisicamente, mas seu papel será sempre eficaz se neles crermos. Pessoas perdem amigos, família, dinheiro e até a felicidade, mas é ai que os heróis entram, devolvendo a elas o único sentimento capaz de mover uma pessoa ao reencontro consigo mesma e com sua felicidade, a esperança.  O sentimento e espera de que um dia, cedo ou tarde, uma força maior virá para resolver os seus problemas, para sanar a fome no mundo, para acabar com a violência e corrupção e para salvar nosso planeta do inevitável fim, são explicados cientificamente e obtidos quando cremos naquilo que chamamos heróis de cada um. Os heróis criam nas pessoas o efeito psicológico que pode ser resumido como otimismo, mentalização e pensamento positivo, capazes de curar e manter uma pessoa viva, movida apenas pela esperança de um futuro melhor. Chego à conclusão de que é essencial para qualquer pessoa ter em mente uma figura inspiradora, em que possa acreditar e buscar esperança, nos momentos fáceis e difíceis. Devemos crer nessa entidade mesmo quando há evidências provando sua inexistência. Afinal, a esperança é a ultima que morre.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

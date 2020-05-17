@@ -1,0 +1,12 @@
+# prompt: Terceirização: avanço ou retrocesso?
+# score: 50
+# title: A terciarização é uma forma de organização
+A terciarização  é uma forma de organização das empresas, em que ela  não precisam contratar trabalhadores para atividades não relacionadas àquilo que produzem. O resultado é prejudicial a todos, pois os trabalhadores perdem o direito conquistado com anos de luta.
+De acordo com pesquisas realizadas pelo G1, o Brasil possui  12 milhões de terceirizados, ou seja, 25% da população têm seus direitos burlados, sendo explorados por intermediários que visam apenas o lucro de si próprio . Resultando no aumento das taxas de desempregados e a divisão das classes trabalhadoras.
+Outro fator existente para a aprovação da Assembléia Legislativa é o projeto de Lei 4330, que prevê a contratação de serviços terceirizados para qualquer atividade de determinada empresa, sem estabelecer limites ao tipo de serviço, ou seja, tanta  atividade-meio quanto atividade-fim.
+Em virtude dos fatos mencionados, podemos considerar a terceirização como um retrocesso das leis trabalhistas, visto que mesma  funciona em países altamente desenvolvidos devido a  priorização da educação, saúde e da segurança. 
+# C0: 50
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

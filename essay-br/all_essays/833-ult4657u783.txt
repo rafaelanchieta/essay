@@ -1,0 +1,14 @@
+# prompt: o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico
+# score: 4,0
+# title: Dialogar ou dar palmadas?
+O projeto de lei que proíbe pais e educadores de corrigirem as crianças com castigos físicos tem causado grande polêmica. Para algumas pessoas,estaproibiçãoretratagrande invasão do governo na vida privada, mas, para outras, o diálogo é a melhor maneira de se educar, sendo a violência desnecessária e a lei correta.
+        A lei pode proibir tanto os pais, quanto os educadores e cuidadores de crianças e adolescentes em geral, de violentarem os menores de idade com beliscões, empurrões ou palmadas. O projeto pretende uma mudança cultural, ao incentivar os pais a educarem com diálogo e não com castigos físicos. Alguns especialistas acreditam que quando um adulto pune com palmadas, ensina a criança a resolver seus problemas com outras pessoas da mesma maneira. Casos como o da menina Isabella Nardoni, morta ao ser atirada pela janela, faz com que muitas pessoas aprovem a lei e queiram soluções diante de tantas violências. Uma pesquisa revelou que a maioria dos brasileiros (54%)sãocontra este o fim
+            das palmadas.Estesalegam que a proibição dos castigos compromete a autoridade dos pais com os filhos e, consequentemente, a formação das crianças.Destesmesmos entrevistados, uma média de 70% apanharam dos pais quando eram crianças e adolescentes. A proibição da lesão corporal com sérios danos é altamente aceita,mas as palmadas e beliscões sem que haja danos morais e corporais às crianças ainda serão utilizados na maioria das famílias.
+            Talvez a lei não sejamelhor forma de acabar com os casos de agressões familiares, pelo fatodogoverno ainda não ter recursos suficientes para aplicá-la. Vistoriar o cumprimento da lei não é tarefafácil, alei foi criada, masnãogarante que será corretamente seguida e os agressores punidos.
+              A mudança cultural para que todos os pais passem a educar apenas através de diálogos, levará muito tempo para ser modificada e aceita pela população, campanhas como "Não bata,eduque" já foram criadas para maior conscientização. Mas para muitos especialistas ,a conversa é o melhor caminho,entretanto, os tapinhas são benéficos em muitos casos, depende dasituação dos fatos.
+              Disciplinar sem agressões é certamente mais adequado, porém cabe aos pais decidirem a melhor maneira de educarem seus filhos, sem o medo de serem punidos por darem alguns tapas ou beliscões quando necessário nas crianças. Mas se o alvo da lei for realmente para os casos mais sérios, punindo apenas aqueles pais e educadores que espancam e maltratam cruelmente as crianças, a aceitação desta passa a ser mais abrangente.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,0
+# C3: 1,0
+# C4: 2,0

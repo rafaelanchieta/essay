@@ -1,0 +1,11 @@
+# prompt: Direitos em conflito: liberdade de expressão e intimidade
+# score: 250
+# title: Privilégio à informação
+Sabe-se que o cidadão tem direito à privacidade, a ter sua intimidade preservada e àquele  que ousar desrespeitá-la está sujeito à punição, e isso pode ser comprovado na Constituição, que diz o seguinte : "São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação".
+Porém, vale lembrar que certas pessoas estão sempre expostas a críticas, principalmente quando se trata da vida de uma pessoa pública, como por exemplo o presidente da República, e é imprescindível ressaltar que o cotidiano de alguém de tamanha importância, diz sim, respeito aos brasileiros, e neste caso,   a imprensa não deve se omitir de forma alguma a  manter o povo bem informado, ainda mais se o assunto em questão também for público.
+Sendo assim, pode-se perceber que certas entidades articulam-se de meios "lícitos" para dissimular e manipular o povo, de modo que, estes, só venham a ter conhecimento daquilo que lhes é conveniente. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 0
+# C4: 0

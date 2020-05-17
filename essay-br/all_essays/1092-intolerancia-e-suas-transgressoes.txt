@@ -1,0 +1,14 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 3,5
+# title: Intolerância e suas transgressões
+Intolerância religiosa é toda forma de agressão, sendo ela física, verbal ou até mesmo reclusão de um indivíduo por sua crença. Ato transgressorque infelizmenteé comum nos depararmos,
+         sobretudo no Brasil que, apesar de ser um país laico, possui uma variedade de religiões. Em contrapartidaasdemais crenças,existeduas que geralmente são alvos constantes de repúdio, atosdescriminatóriose violentos, sendo elas as religiõesAfrodescendentes.
+         Um dos casos mais recentes quereforça essa problemática socialfoi a garota de 11 anos, apedrejada após sair de um evento religioso, no Rio de Janeiro, por dois homens. Ambos portavam umabíblianas mãos. A agressão teria ocorrido pelo simples motivo
+         da mesma pertencer aocandomblé.
+         Todavia, assim como ela, há outras pessoas obrigadas a omitir suas crenças por medo de perseguições e represáliasquecom o passar dotempo mostra-se cada vez maior e mais explícita.
+         Faz-senecessárioa criação de projetos, campanhas e debates em instituições públicas e privadas, como escolas, universidades, empresas e outros, acerca dessas atitudesrepugnantes. Visandoa conscientizaçãocoletiva afimde mostrar que o respeito mútuo deve abranger até mesmo a própria religião.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

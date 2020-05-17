@@ -1,0 +1,12 @@
+# prompt: horario-politico-obrigatorio-bom-para-quem
+# score: 5,0
+# title: Reforma Eleitoral
+Propaganda eleitoral, show de hipocrisia, gatunos, palavras essas que viraramsinônimos entrea população,fazendo a elaperder a esperançasobre apolítica. Como consequência disso, em ano de eleição, muito se discute a respeito do horário eleitoral em redes de televisão aberta, pois ele é uma formadapopulação conhecer as propostas de seu candidato.
+         Todavia, deveria criar um canal aberto destinado a esse assunto e a população a ter esperança em questões políticas. O horário político atualmente desagrada milhares de brasileiros, pois ele atinge todos os canais de televisão aberta, semterchancedo individuoescolheroque assistir. Além disso, o dinheiro destinado à propaganda política vem dos cofres públicos, tendo como objetivo beneficiar todos os candidatos na questão do tempo, no entanto, ocorre o oposto,partidos‘’pequenos’’, como o antigo PRONA (Partido de Reedificação da Ordem Nacional), presidido pelo deputado federal Enéas Ferreira Carneiro, possuía um tempo menor de propaganda eleitoral.Em contrapartida,
+         não tinha chance de vencer os seus adversários. A questão do dinheiro sempre esteve presente na política brasileira, na época da República Velha, os coronéis eram praticamente candidatos vitalícios, burlavam os resultados políticos, fazendo ganhar a eleição quem eles queriam. Atualmente, a população brasileira vê os políticos como uma quadrilha de negligentes que surrupia o dinheiro destinado à saúde e educação, fato esse que perdura na história do Brasil desde o período da República. Este fator aniquila a política brasileira,ondeos brasileirosvotam,só porvotar. Não levando elaa sério,fato esse,ocorreu na última eleição,ondeo palhaço Tiririca foi eleito o deputado federal mais votado de todos os tempos.
+         Em virtude dos aspectos observados,devia-se criarum canal aberto destinado a questões políticas, com debates entre os políticos que, em época de eleição, apresentassem propagandaseleitorais, onde os políticoseleitos, discutissem com a população as melhorias que deveriam ser feitas em suacidade, sobre o que precisa ser melhorado, entre outros.Consequentemente, o indivíduo decidirá se quer ou não assistir à propaganda eleitoral, pois, afinal de conta, estamos em um país democrático. A população deveria levar mais a sério a política, pois todos dependem dela, e votar consciente.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

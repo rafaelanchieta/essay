@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 550
+# tittle: A ciência e as dificuldades oriundas de uma pandemia
+O jogo "The Last of Us", desenvolvido pela Naughty Dog, retrata um caso de pandemia, ocasionada por um fungo, onde  uma organização não governamental reúne esforços para a deter, vemos , no cenário não fictício atual, grupos de cientistas do mundo todo, fazendo  o possível para combater a covid-19, mal que assola a sociedade neste momento. 
+A ciência desempenha papel fundamental no combate de qualquer enfermidade,  que venha abalar a humanidade, na presente problemática  estudiosos "correm contra o tempo" para conseguir diminuir as perdas humanas, vendo que o tempo é um dos fatores que não favorecem os pesquisadores, de modo integral, já que eles possuem um curto período para desenvolver maneiras de retardar a propagação da doença e conquistar uma cura. 
+ Além do tempo ser um empecilho, há também a falta de recursos e materiais para as pesquisas, no decorrer da produção de métodos e possíveis curas, a ausência da matéria-prima para obtenção dos resultados,  provém da grande procura mundial, decorrente de uma pandemia. 
+Concluído  então que a ciência atua em um papel de extrema importância, a Organização das Nações Unidas e  países não membros poderiam  se unir, para agilizar e talvez antecipar pesquisas referentes a patogenos, palpando  assim tempo e recursos, tendo em vista que as nações não precisariam disputar por materiais e havendo  o compartimento de informações. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: e-certo-ou-errado-leiloar-a-virgindade-por-que
+# score: 4,5
+# title: Caráter que determina nossas escolhas
+Apesar de ser uma escolha de vender ou não a virgindade, quando olhamos num todo, tal escolha é criticada pela sociedade e pelos regimes religiosos do nosso país. A população que na sua maioria possui religião cristãdefendeque a venda da virgindadetorna-se umaprostituição.
+        Notícias que jovens venderam sua virgindadefoimotivo de muita repercussão em todo Brasil, pormotivo de demostrarque o sexo passou a ser um ato banal, ou melhor, um ato financeiro, deixando de lado o sentimento de amor, o respeito e a pureza que muitas meninas de décadasa trazguardavam. Além disso, faz apologiaarelação sexual por dinheiro, ou seja,invésda jovem seguardapara alguém que elaama, ela passa a se vender para alguém que nem conhece,
+          e depois é que a pessoa vai pensar nos seus sentimentos. Além disso, nãopodendo seesquecer de que vivemos em um país religiosoenesse mesmo paísquehá tanta liberdade deexpressãotal obra é condenada, pois religiosos, principalmente,cristões queveem o sexo antes do casamento como um sacrilégio (pecado contra Deus), e ainda por ser um ato sexualondeenvolve dinheiro para ser consumado o ato.
+            Portanto, observa-se que por mais que a população não esteja de acordo com a venda da virgindade, terá queaceita,pois as leis brasileiras ficam sem respostasobreesse assunto e a única coisa que podemos fazer édáeducação a nossos filhos para queos caracteres deles não os deixem chegar a essa polêmica.
+# C0: 1,0
+# C1: 0,5
+# C2: 1,5
+# C3: 1,0
+# C4: 0,5

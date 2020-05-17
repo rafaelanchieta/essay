@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Coronavírus: algo precisa ser feito
+A área da saúde no mundo hoje,  ocupa um lugar muito importante quando o assunto é o bem-estar da sociedade. Graças ao avanço da tecnologia e dos sistemas de saúde atuais,  é que se torna possível o diagnóstico de doenças de diversos tipos, dentre elas, as infecciosas que são capazes de alcançar um nível epidemiológico muito grande, podendo  levar até mesmo a uma pandemia. E quando isso acontece, é inevitável que vários continentes possam ser infectados  ou até mesmo o Planeta Terra  inteiro pode sofrer as consequências drásticas de uma contaminação em massa. 
+ No ano de 2020, o Brasil está a lutar contra o novo coronavírus, que surgiu na cidade de Wuhan  na China.  E vem procurando  métodos para tentar salvar vidas e encontrar a cura para conter o avanço da pandemia. Uma crise como essa já foi enfrentada há anos atrás , mais especificamente em 2009, onde  se teve que trabalhar arduamente na procura de um método para eliminar o vírus da influenza A H1N1. Situações como essa enfrentada antes, nos  mostra a importância que tem a ciência e o investimento na área de rede de pesquisas, para que possam ser desenvolvidas vacinas e medicamentos essenciais que visem o bem-estar das pessoas. 
+Um dos fatores que impossibilitam o avanço de estudos na saúde quando o assunto é o contingenciamento de doenças infecciosas como o novo Coronavírus ,  é a falta de disponibilização  de recursos financeiros necessários para que seja encontrada uma vacina e  ao mesmo tempo  que possa ser mantido o SUS , que é muito importante quando o assunto é atender as necessidades das pessoas de forma gratuita . A partir disso percebemos  o quanto é essencial que seja ressaltada a importância que tem a ciência quando falamos  sobre combates e descobrimento  de métodos necessários para tentar diminuir e conter o avanço de doenças, não só no Brasil, e sim no mundo inteiro. 
+ As medidas que poderiam ser tomadas diante dessa pandemia,  seria  investimento em tecnologia na área de pesquisas da saúde , para que possam ser realizados estudos mais afundo e específicos dos agentes causadores da doença, liberação de equipamentos essenciais para proteção de trabalhadores que estão na linha de frente dessa causa, e  por último, atendimento de qualidade e   com recursos necessários no SUS para que os diagnósticos possam ser feitos com precisão. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

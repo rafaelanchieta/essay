@@ -1,0 +1,12 @@
+# prompt: Universidade em crise: quem paga a conta?
+# score: 720
+# title: Universidade pública e gratuita para o bem dos estudantes
+Em uma sociedade desigual como a que estamos inseridos, é comum que muitas pessoas, especificamente de renda baixa, tenham a universidade pública e gratuita como uma das principais possibilidades de uma vida melhor. Tendo em vista que o estudo é o principal fator necessário para construir uma vida profissional de maior reconhecimento financeiro e social e que o preço de uma faculdade privada não é acessível a todos.
+Além disso, a universidade pública é preferível por grande parte dos estudantes por seu investimento em pesquisas - objeto de estudo fundamental para o desenvolvimento de novos fatos -, característica que só é possível graças à sua gratuidade, já que o dinheiro que seria recebido através de mensalidades não alcançaria o valor que é custeado pela sociedade.
+Ainda é possível reforçar que as vagas que são conquistadas na universidade não se devem apenas ao dinheiro gasto com ensino fundamental e médio privado, já que as vagas destinadas aos oriundos de escolas públicas não poderão, de forma alguma, ser ocupadas por ricos que desfrutaram de privilégios desde a infância.
+Tendo em vista os âmbitos acima e os gastos altos de uma universidade pública gratuita, a mais viável solução seria não cobrar mensalidades de nenhum aluno, visando a igualdade como todos devem ser tratados, mas criar campanhas de incentivo tanto à doação de dinheiro quanto à serviços comunitários por parte dos alunos a fim de arrecadar dinheiro para a instituição.
+# C0: 120
+# C1: 160
+# C2: 160
+# C3: 160
+# C4: 120

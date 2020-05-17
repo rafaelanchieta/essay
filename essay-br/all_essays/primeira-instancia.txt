@@ -1,0 +1,12 @@
+# prompt: O direito ao foro privilegiado
+# score: 650
+# title: Primeira Instância
+O atual perfil político do Brasil reflete o seu passado marcado por revoltas e ditaduras. A constituição  brasileira estabelecida em 1888, garante  aos legisladores e executivos o direito ao foro privilegiado  com o intuito de proteger o Congresso Nacional de possíveis ameaças à Democracia . No entanto, nos dias de hoje, esse privilégio está sendo mal utilizado, despertando uma forte discussão sobre o assunto. 
+Existem algumas correntes ideológicas que atribuem ao foro privilegiado a impunidade dos políticos brasileiros. No entanto, cabe ressaltar que a finalidade inicial do foro, era garantir que algumas autoridades fossem julgadas por uma instância superior, a fim de garantir ao poder judiciário imparcialidade, equidade e isenção em seus julgamentos. Contudo, há evidências de que essa forma de julgamento se tornou disfuncional e injusta, fazendo-se necessária uma redução na quantidade de autoridades beneficiadas ou uma racionalização, para que apenas crimes eleitorais sejam julgados pelo Supremo Tribunal Federal. 
+Por outro lado, até que ponto é coerente julgar pessoas de maneira diferente? De acordo com a Constituição Federal do Brasil, “Todos são iguais perante a lei, sem distinção de qualquer natureza.” Sendo assim, fica evidente a contradição que existe entre o foro privilegiado e a lei suprema brasileira, que diz não poder existir qualquer tipo de distinção, privilégio ou discriminação entre os cidadãos. Logo, faz-se necessária uma reforma constitucional justa e coerente, a fim de esclarecer e impedir que os crimes de corrupção não se mantenham impunes.
+O foro privilegiado constitui-se para julgar e processar determinadas pessoas de acordo com a importância do cargo exercido.  Nesta  perspectiva, é preciso que ele se restrinja a crimes eleitorais de autoridades ocupantes de cargos vigentes  e que ele pare de ser usado como uma ferramenta para o aumento da impunidade de crimes de corrupção. Além disso, é preciso que os brasileiros sejam mais ativos  nas escolhas de seus representantes, uma vez que grandes decisões são dadas aos detentores de poder através do povo . Garantindo a equidade e combatendo a impunidade, pode-se idealizar um Brasil mais justo.
+# C0: 100
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: Por que os jovens querem deixar o Brasil?
+# score: 500
+# title: Luso ou Brasileiro?
+Com a vinda da família real portuguesa ao Brasil, no século XIX, e junto dela a  construção de uma capital que se adequaria a vida de luxos  da corte, fortes ondas de imigrações  ocorreram no país, não só dos colonizadores  mas também de outras diversas etnias.  Entretanto, hoje vemos o oposto,   brasileiros que visam deixar o país em busca de um Estado  estável, sem violência e com melhores condições de vida. 
+Pesquisas mostram que mais da metade da população de jovens no Brasil deixariam o país se tivessem a oportunidade, esse  desejo foi crescendo juntamente com a criança que via em sua volta um país desestruturado, repleto de desigualdade social, roubos e violência. Hoje esse desejo de emigração é alimentado pelo medo de um futuro incerto, no qual a crise econômica e a falta de empregos para a população estão inclusos. 
+Ademais, países como Portugal  que precisam de mão de obra e que tem a  maior parte da população  formada por idosos, estão oferecendo aos brasileiros diversas oportunidades para migrarem e construírem uma nova vida em um país  que está no ápice da economia e que é considerado um dos mais seguros do mundo; o  resultado disso foi a aceleração dos pedidos de dupla cidadania, com 50 mil concessões desde 2016, só em São Paulo. 
+Em suma, percebe-se uma reviravolta no quadro migratório, antes portugueses fugiam para o Brasil com medo da supremacia de Napoleão Bonaparte e hoje brasileiros fogem para Portugal pelo medo do futuro do país, todavia o fim desses fluxos migratórios devem parar de  acontecer em algum momento, e para  é necessário  uma restruturação política e social no  Brasil por meio de uma educação que priorize esses ensinamentos.
+# C0: 150
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

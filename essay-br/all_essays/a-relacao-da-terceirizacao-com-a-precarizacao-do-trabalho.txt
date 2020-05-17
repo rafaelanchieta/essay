@@ -1,0 +1,13 @@
+# prompt: Terceirização
+# score: 8,0
+# title: A relação da terceirização com a precarização do trabalho
+ A terceirização originou-se nos EUA no século XX  logo após a II Guerra Mundial, no Brasil foi implementada a partir da década de 1990 e foi desvirtuada com o intuito de reduzir custos e era aplicada somente nas atividades meio .
+ O presidente Michel Temer sancionou a nova lei da terceirização em 2017 que diz que  tanto as atividades meio  quanto as atividades fins  poderão ser terceirizadas  o que preocupa os trabalhadores em várias questões  como as demissões e readmissões, os baixos salários e  precarização do trabalho.
+ Pode ocorrer uma série de demissões e readmissões dos empregados como terceirizados ou como pessoas jurídicas. Segundo o DIEESE  empregados terceirizados recebem 27% menos que os outros empregados pois possuem  seus direitos desrespeitados ou violados.
+ Os trabalhadores terceirizados sofrem mais acidentes de trabalhos e a maior parte das mortes por acidentes de trabalho ocorrem com esses trabalhadores censo também confirmado pela DIESSE que relata de um total de 135 mortes ocorridas em 2013 na construção de prédios, 75 eram terceirizados que eles são reconhecidamente mais explorados pois de 2000 a 2013 3000 trabalhadores terceirizados trabalhavam em condições de escravidão.  
+ Portanto, percebe-se que essa lei visa lucro somente para os "poderosos" , que são a minoria do nosso pais , além disso é um descaso com os menos favorecidos. Cabe a todos os sindicatos de trabalhadores, juntamente com seus membros, tentarem com protestos, greves, reuniões, e  outras formas levar a voz do povo, ou seja da maioria, para  os deputados e senadores possam criar leis que beneficiem o trabalhador, controlem a inflação e elevem a economia; assim gerará  empregabilidade e valorização do trabalhador, pois não se justifica acabar com os direitos adquiridos do trabalhador precarizando a vida do povo.  
+# C1: 1,5
+# C3: 1,5
+# C5: 1,5
+# C7: 1,5
+# C9: 2,0

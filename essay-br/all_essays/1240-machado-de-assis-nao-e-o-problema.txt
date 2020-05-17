@@ -1,0 +1,11 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 8,5
+# title: Machado de Assis não é o problema.
+"Entendo por que os jovens não gostam de Machado de Assis". Assim a escritora Patrícia Secco justifica as adaptações por ela feitas do clássico"O Alienista"em uma versão simplificada que visa facilitar a compreensão dos leitores. Porém, será que o problema é que os jovens não gostam de Machado de Assis ou que não gostam de ler?
+         Um dos papéis da escola é despertar no aluno o interesse pela leitura, pela história e pela cultura do seu país. Se o objetivo do professor fosse apenas auxiliar o aluno a responder as questões de provas, bastaria que este lesse um resumo ou apostila com os pontos principais do livro. Mas, ao ler na íntegra a obra literária, o leitor tem a oportunidade de mergulhar no universo que o autor pretendia ao escrevê-la e descobrir outros ambientes, outras emoções. Se os jovens fossem mais incentivados ao prazer delernão teriam dificuldades nesse sentido. Seria apenas uma questão de gosto a busca por uma linguagem mais simples, atual ou clássica e rebuscada. Além disso, não é porque as obras de Machado de Assis, Graciliano Ramos, Álvares de Azevedo e outros estejam nos currículos escolares que elas sósejamlidas com objetivo educacional. Elas são tão impressionantes que resistiram ao tempo.
+         A verdade é que, com o avanço das mídias tecnológicas, em que tudo é cada vez mais rápido e fácil, são poucos os jovens que se interessam pela leitura, algo que demanda tempo e concentração. Mas essa é uma questão social e cultural que precisa ser trabalhada. Portanto, a escola é o lugar certo para aproximar a juventude da cultura, do aprendizado e de desafios que enriquecem o conhecimento. A versão simplificada irá privá-los da oportunidade de conhecer a profundidade da obra de Machado de Assis e talvez de muitos outros gênios, por contentar-se apenas em simplificá-los.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

@@ -1,0 +1,12 @@
+# prompt: a-questao-do-lixo-nas-sociedades-de-consumo
+# score: 6,0
+# title: A questão dos lixos na sociedade de consumo
+Temos na sociedade atual um problema que não se resolve de nenhuma forma: os lixos. Vivemos falando sobre os sacos plásticosquejogados de maneira errada,
+         prejudicam a saúde dos peixes,oalagamento das ruas, a destruição do planeta,
+         mas nada se resolve. Nenhuma medida é tomada para melhorar este problema. Vivemos emum grupo de pessoasque nãosabemtomar o devido cuidado com a natureza.
+         Os lixos são um grande estrago para a vida ambiental. As soluções que buscamos sobre como resolver esse problema esta nas nossas atitudes e no que realmente fazemos para melhorar esse fato. Os lixos não são de total responsabilidade dos garis, por exemplo, são de nossa parte também . Vivemos nesse mundo globalizado, com altas tecnologias e não queremos aprender a utilizar o lixo de maneira certa. A reciclagem é a forma mais inteligente de aprendermos o que fazer para com o lixo que utilizamos em nossa casa, empresa e em todos os lugares. Ser sustentável é uma ação que gera toda uma reação positiva no meio ambiente. Então buscando melhorias na sociedade, comecemos com ações sustentáveis e com uma possível solução para isso tudo: aprender a fazer a nossa parte na vida em grupo. Permita boas melhorias no seu bairro, mas começando por você. Não adianta reclamar que certos órgãos não fazem nada, se você mesmo não faz. Toda ação gera uma reação, mas que seja uma atitude positiva no mundo global. Faça a diferença no meio em que você vive, para você ver a diferença no seu ambiente social. Temos tudo para que o lixo não se torne nosso vilão na natureza. Mas que esse vilão simplesmente não exista. Basta termos a vontade de ajudar a natureza a respirar de maneira certa e todos os que vivem nela. Os peixes precisam muito de viver e se você joga um lixo, no mar, você esta destruindo vidas. Comecemos a refletir sobre isso e não só ficar em reflexões e sim em ações. Vivendo da maneira correta e ajudando em grupo por um mundo mais sustentável é que faz toda a mudança ambiental.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,5
+# C3: 1,0
+# C4: 1,5

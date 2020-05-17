@@ -1,0 +1,12 @@
+# prompt: Você faz parte da turma do "eu me acho?"
+# score: 3,0
+# title: Inatingíveis
+ A ideia de superioridade é bem comum na relação entre pais e filhos, é claro, tratando-se da questão familiar – os meus filhos sempre serão os melhores que os dos outros. O dilema é, até  que ponto mimar as crianças de mais , poderá influenciar no seu desenvolvimento como cidadão. 
+ No nosso imaginário, de jovens em pleno momento de decisão da vida, o papai e a mamãe são o Superman e a Mulher Maravilha do mundo real, ou seja, os nossos salvadores na vida. Só que existe a necessidade de deixar-nos "voar com as nossos  próprias assas ". Prolongar demasiadamente esse estigma de que somos os melhores, acabará formando jovens mal preparados para os desafios do cotidiano. O ego fica aumentado, a pessoa não consegue tomar suas próprias decisões e também  por se achar superior, o problema nunca estará nela, mas sim, no outro.
+ Recentemente, a atriz Luana Piovane , frequentadora assídua das redes sociais, considerada pela mídia uma pessoa de temperamento difícil e intransigente, que de forma alguma aceita ser criticada, usou seu perfil em um aplicativo para responder à críticas sofridas pelo DETRAM (Departamento Nacional de Trânsito) . O Órgão de trânsito, através da internet, alertou-a sobre o uso do cinto de segurança no carro. Ela,  logo respondeu, questionando o direito e a moral do departamento de trânsito.
+ Como Luana, nós, dependendo da criação, vide a minha, as  vezes nos achamos inatingíveis, detentores da verdade, se sentindo um próprio deus, por isso, vale o bom senso dos pais na educação dos filhos, ressaltando os problemas da sociedade, mostrando que eles são os melhores para você, mas não para o mundo.
+# C1: 1,0
+# C3: 0,5
+# C5: 0,5
+# C7: 0,5
+# C9: 0,5

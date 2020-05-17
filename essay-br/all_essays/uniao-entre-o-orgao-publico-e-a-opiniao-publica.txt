@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 0
+# title: União entre o órgão público e a opinião pública
+O supremo tribunal federal é definido como um órgão de alta instância do poder judiciário , capaz de defender as normas da Constituição federal. Vários problemas estão em acontecimentos, e o STF ganha destaque sobre a população brasileira, devido ao impacto sobre a opinião pública, onde a sua atuação acaba agradando o brasileiro.
+Devido a vários impasses acontecidos no governo, o supremo tribunal federal rege com o seu papel em defender tanto as normas brasileiras, quanto a opinião pública, colocando em pauta sobre alguns acontecimentos como criminalização sobre o livro do beijo gay, mudanças na reforma da previdência e também o impacto ambiental, no que ocasionou também um dos assuntos discutidos pela opinião brasileira.
+Com a pesquisa do ponto de vista brasileiro sobre os impactos acontecidos e políticos, o STF acaba tendo um destaque sobre a população por exercer o seu papel de mostrar a avaliação que movimenta o órgão máximo do poder judiciário .
+Contudo, com a convicção entre o órgão público e a opinião pública, as pesquisas podem agradar ou não os brasileiros. Sendo assim, com essa união é possível abrandar aos problemas acontecidos, construindo com educação um Brasil mais abrangente e desenvolvido.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

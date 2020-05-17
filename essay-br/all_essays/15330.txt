@@ -1,0 +1,11 @@
+# prompt: A influência dos meios de comunicação na sociedade brasileira
+# score: 350
+# tittle: Se está na internet é verdade
+O final do século XX marcou a popularização da internet no Brasil  e consequentemente o crescimento do acesso à informação. Hoje  cerca de 79,9% da população vive conectada - dados IBGE  2019- possibilitando a propagação de informações em tempo recorde. 
+Os aplicativos de compartilhamento, a exemplo de Whatsapp e Twitter, são  ao mesmo tempo, exemplos de meios e produtos de uma nova era de informação . No entanto, as informações compartilhadas pelos usuários nem sempre recebem o título de verídicas, muitas vezes sendo apenas um ponto de vista reflexo de algum interesse, evidenciando assim a facilidade no processo de manipulação da informação . Enquanto consumidores e propagadores de informações, sem nos importarmos com sua legitimidade , funcionamos   como principais responsáveis pelas fake news, tão comentadas e evidenciadas na eleição presidencial de 2018 . Desde então, grandes meios de comunicação vêm mostrando crescente preocupação a imparcialidade e partilhamento de informações. Mas ainda não é o suficiente. 
+Tendo em vista a facilidade do acesso, se faz faz-se necessário que a própria população se conscientize e busque pela veracidade da notícia, antes de compartilhá-la. É importante que não foquemos apenas na internet como meio de compartilhar nossas vidas e nossas ideais, mas tambem, como um meio eficiente de nos informar e formar nosso senso crítico, deixando assim de nos comportar como escravos do bombardeio de informações, dando fim a máxima "se está na internet é verdade" e afirmando o nosso poder enquanto seres pensantes. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 0

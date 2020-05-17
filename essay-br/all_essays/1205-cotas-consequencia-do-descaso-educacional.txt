@@ -1,0 +1,12 @@
+# prompt: cotas-para-universidades-federais-solucao-ou-problema
+# score: 6,0
+# title: Cotas: Consequência do descaso educacional
+As cotas para a entrada nas universidadespúblicas,é uma boa opção aprovada pelos governantes para ludibriar as pessoas que fazem parte do ensino público fundamental e médio no Brasil.
+        Esse sistema deseleção,foi mais uma ?saída? encontrada pelos governantes para adiar o melhoramento do ensino público no país.
+          As cotas nada mais são do que a confirmação dada pelos próprios governantes de que o ensino no Brasil é tão medíocre e defasado, que chega ao ponto de seus alunos não terem a capacidade de competir igualmente com alunos da rede privada. Com as cotas, os governantes só favorecemaquelesque sofrem ou sofreram com o ensino público, esquecendo que eles não governam apenas para essas pessoas que nãoteemcondição de pagar uma escola privada, eles também governam para o aluno que só estuda
+              em escola particular porque seu responsável trabalhou muito para que seu filho estivesse ali. Portanto, os governantes precisam investir no melhoramento do ensino público ao invés de estarem criando cotas, para que seus alunos recebam recursos suficientes e sintam-se bem preparados, para competir de uma forma igualitária com os outros indivíduospela suavaga nas universidades.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

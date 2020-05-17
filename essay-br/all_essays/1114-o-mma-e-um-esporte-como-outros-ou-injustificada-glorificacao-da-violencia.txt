@@ -1,0 +1,9 @@
+# prompt: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia
+# score: 3,5
+# title: O MMA é um esporte como outros ou injustificada glorificação da violência?
+A ordem se estabelece por meio de limites. A polêmica causada pelo "MMA" (mistura de artes marciais, em inglês) é dividida em dois conceitos opinativos: se o considerado esporte é algo positivo para a sociedade ou o oposto. A questão principal geralmente se volta para um ponto em comum entre esses conceitos, que seria sobre os limites impostos para a violência apresentada nos ringues. Estaríamos voltando ao estilo arcaico do tempo em que mortes eram mais do que permitidas em esportes se permitirmos que lutadores de "MMA" encontrem um desfecho fatal para suas lutas nos combates. E como a sociedade sempre procura se desenvolver, um arcaísmo como esse seria uma extrema hipocrisia descarada. A política nos torneios de "MMA" deveria chegar a um acordo que, limitando a violência,se encontredentro dos padrões considerados positivos pela maioria da população (principalmente o público), ou seja, um senso comum.
+# C0: 2,0
+# C1: 0,5
+# C2: 0,0
+# C3: 0,5
+# C4: 0,5

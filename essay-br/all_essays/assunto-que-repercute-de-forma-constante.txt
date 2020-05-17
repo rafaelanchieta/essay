@@ -1,0 +1,14 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 0
+# title: Assunto que repercute de forma constante
+Assunto que repercute de forma constante nos atuais veículos de informações da atualidade tem gerado uma problematização constante, devido as opiniões opostas. O tema que concentra as atenções populares a espera de uma decisão, estão voltados ao Poder Judiciário.
+Que debatem se o réu deve ou não, ser preso após condenação em 2º instância.
+Por outro lado existem aqueles que defendem a posição de quem deve avançar o processo até o esgotamento de possibilidades do réu provar sua inocência. Para que então o acusado tenha sua ampla defesa e o devido processo legal.
+Todavia , o fato de se ter prolongado o processo por 2 níveis judiciários de julgamento, está mais do que provado a decisão dos juízes em indeferir o caso do acusado, além do mais acaba contribuindo pela celeridade do processo nos tribunais e não fomentar a impunibilidade que existe devido ao réu não ser considerado culpado até o transito julgado da sentença penal condenatória.
+Por trás do fato há detentores da opinião de que o Brasil é um país retrógado e impunível pelas leis e o sistema jurídico atuais que beneficiam os acusados e sentenciados, ficando assim distante de países onde as leis são severas e os índices de criminalidades são baixos.
+Contudo para que o Brasil possa chegar a notoriedade de um país soberano e justo, devemos nos conscientizar de que tudo começa pela aplicabilidade de normas impostas seja elas de direito oferecido e dever imposto.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

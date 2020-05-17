@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 350
+# tittle: O por que do analfabetismo persistir
+Analfabetismo são pessoas   que conhece as letras, mas não sabe interpretar o texto. No Brasil os números são super altos, principalmente no Norte do país, as pessoas lá tem muitas desigualdade , pois têm escolas porém a distância é longa,  alguns jovens caminham quilômetros, e outros estudantes desistem por conta da dificuldades. 
+A falta da interpretação textual também se dá por ensinos  ensino de baixa qualidades, infelizmente é um fato existente, professores não combram ou estimulam seus alunos a lerem mais livros e como irão detectar as dificuldades. 
+Crianças e adolescentes de 15 a 16 anos,  abandonando os estudos, algumas tem  têm complicação não só de interpretar os textos, mas de lerem e também tem aquelas que nem sabem. 
+Contudo, os planos do governo nesse sentindo é muitos benigno, mas deveriam ter mais fiscalização nas salas de aulas,  direitos iguais a todos e dar condições de um ensino de qualidade aos estudantes. 
+# C0: 100
+# C1: 50
+# C2: 100
+# C3: 50
+# C4: 50

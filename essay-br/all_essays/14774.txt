@@ -1,0 +1,13 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 450
+# tittle: [Redação sem título]
+Um tema mais do que controverso vem sendo alvo de várias discussões  inclusive em papos informais entre a família: a reforma da previdência . As dúvidas são será que a reforma é de fato necessária e de que forma ela deve ser feita . Afinal, a reforma é problema ou solução? 
+É um fato que o país está envelhecendo e que o déficit orçamentário vem aumento devido aos gastos com a previdência social . Por isso uma atitude deve ser tomada;  porque não dá pra para continuar como está  pois segundo alguns estudos,  a previdência pode tomar até 100% do orçamento daqui a alguns anos. 
+Por outro lado a reforma que vem sendo apresentada possui alguns pontos críticos que podem ser revistos . Não é necessário que aumente tanto os anos de contribuição. Deve-se achar um meio termo para se adequar ao que o trabalhador deseja e também ser benéfico para o país. 
+Portanto pode-se entender que a reforma é sim uma solução  pois a previdência precisa ser atualizada. No entanto, é preciso encontrar a melhor maneira de reformá-la para que tanto o governo quanto o trabalhador fiquem satisfeitos. Dessa forma ambos podem sair ganhando e o país pode resolver um enorme problema que vinha corroendo o orçamento federal. 
+
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

@@ -1,0 +1,8 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 350
+# title: Militarização: Problema ou Solução?
+# C0: 150
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

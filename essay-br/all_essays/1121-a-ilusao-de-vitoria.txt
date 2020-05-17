@@ -1,0 +1,14 @@
+# prompt: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia
+# score: 3,0
+# title: A ilusão de vitória
+A maior partesociedade sempre gostou de violência e atualmente pode-se tê-la ao alcance do controle da TV, oesporte MMA espalhou-se por todos os lados e hoje se pode vê-lo estampado em todo lugar, nesse contexto também há o problema da extrema violência que acaba influenciando as pessoas.
+         Ver lutas de extrema violência nunca esteve tão acessível, com o aumento das propagandas e da ideologia de lutas e o bem estarque elas produzem ao corpo e mente, nãohá dúvidas de que este novo tipo de esporte alivia um estresse, tensões corporais e outros problemas ocasionados por uma atividade diária cansativa, porém
+         deve-se levar em conta o que nela está explícita. Sendo uma modalidade esportiva, hátodo um conjunto de ideais e filosofia com o intuito de melhorar de algum jeito os participantes, entretanto, aqueles que estão de fora
+         os desconheceme
+         muitos nem ligam,acabam sendo influenciados por toda a euforia das lutas, da fama e do prazer de sangrar alguém, cadavez mais veem aquele tipo de cena, acabam acostumando-se e passa a ser normal,com o tempo os atos violentos serão nada mais do que uma cena comum.
+         Mesmo que o MMA seja considerado um esporte e contenha toda uma estrutura e filosofia para tal, as pessoas o verão com outros olhos , como um ideal para levaram em suas vidas edeixando a sociedade ainda mais violenta, mesmo que fossem aconselhadas de algum modo, haverá sempre alguém despreparado ensinando de maneira errada o significado e a prática das lutas.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,0
+# C4: 0,0

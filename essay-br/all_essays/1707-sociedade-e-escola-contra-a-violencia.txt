@@ -1,0 +1,14 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 4,5
+# title: Sociedade e escola contra a violência
+A escola é um ambiente que se relaciona com áreas de conhecimento e seus profissionais,mastambém influencia e é influenciada pela sociedade.
+         A violência nesse ambiente é um indicadorsocialjá que na escola existe uma amostra dosvalores coletivos.
+         A escola não é um espaço de neutralidade uma vez que não existe imparcialidade na sua função. Os índices de violência, no nosso país, cresceram em relação às décadas anteriores, isso se justifica pelo aumento de uso de drogas,aosgrupos paramilitares que utilizam jovens para iniciarem o tráfico e a facilidade de compra de armas. Todososdesvios sociais impactam diretamente os centros educacionais que são envolvidos
+         pelo cenário de violações que cercam os seus prédios . De forma que, hoje, com frequência somos noticiados com casos de brigas e disputas, uso de drogas ilegais dentro dos educandários. Com o avanço do pensamento da educação , chegou-se a conclusãode que:é
+         impossível dissociar a realidade escolar do cotidiano estudantil . Paulo Freire introduziu a didática de alfabetizar utilizando palavras do dia a dia doalunoa fim de que essas palavras tomem novo significado na sua ação. Dessa forma, a escola é um agente de transformação que pode atuar em diversas áreas, inclusive, na prevenção da violência.
+         É importante que haja uma interação entre a sociedade e a comunidade escolar a fim de diminuir os casos de agressões. A escola deve influenciar positivamente a sociedade e a retribuição é que existirão escolas melhores . Deve haver palestras sobre o tema deviolência e das consequências da utilização dedrogas, orientaçãopsicológica para alunosagressivos e descobrir suas causas das brutalidades sãoalgumas medidas que podem ser exercidas pela escola a fim de contribuir para umasociedade.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

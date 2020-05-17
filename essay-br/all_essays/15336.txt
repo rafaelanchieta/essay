@@ -1,0 +1,12 @@
+# prompt: A influência dos meios de comunicação na sociedade brasileira
+# score: 450
+# tittle: Autoformação de opinião - Uma cobrança à garantia constitucional
+A mais recente Constituição Federal, de 1988, antevê a todo cidadão o direito à liberdade de expressão. No Brasil, todavia, a falta de fiscalização do Estado  em conjunto com os estímulos midiáticos, corrobora para o não cumprimento dessa garantia, desacatando, assim, a medida constitucional. Nessa perspectiva, cabe a nós estudarmos   as principais causas, consequências e possível intervenção para tal estorvo. 
+Em primeiro lugar, a sociedade brasileira vem acatando influência da mídia para auxiliar seu modo de agir há muitos anos . No governo Vargas, medidas federais tidas como benéficas, a exemplo o DIP - Departamento de Imprensa e Propaganda, propagaram uma face contestável do então presidente: Getúlio Vargas. De forma análoga à atualidade nacional, constantemente o povo, à mercê do controle midiático, se vê sem opções se não seguir a massa. 
+Em segundo lugar, não basta cobrarmos somente ao setor federal por atenção para a resolução desse impasse. A fim de analisar as consequências da disseminação de informações nos grandes meios de comunicação,  devemos considerar as pesquisas realizadas em 2018, - ano da última eleição presidencial. Dentre tantas, a do Instituto Data Senado demonstra que, dos entrevistados, 45% decidiu seu voto a partir de interpretações resultantes de informações publicadas em redes sociais. Forma errônea de eleger qualquer candidato, visto que nessa época,  os campos digitais estavam minados de falsas informações cotadas como "fake news". 
+Depreende-se, dessa forma, a necessidade de se combater o problema . Sendo assim, o Governo Federal deve mobilizar os grandes canais de comunicação por meio de leis que os force a esclarecer informações possivelmente fraudulentas, para que haja conscientização do povo sobre o que está realmente sendo informado e sua opinião seja pessoal e autoformada. Feito isso, honrar-se-á a garantia constitucional que com tanta luta foi alcançada. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 150
+# C4: 50

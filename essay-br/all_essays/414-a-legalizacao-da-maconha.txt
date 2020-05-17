@@ -1,0 +1,15 @@
+# prompt: maconha-manter-proibicao-legalizar-descriminalizar
+# score: 5,0
+# title: A legalização da maconha
+As drogas sempre foramassuntosde grandes debates na sociedade. O combate às drogas, declarado em 1962, peloex-presidentedos
+         Estados Unidos da América , Richard Nixon, hoje, se mostra fracassadopelo oaumento considerávelde seus consumidores. Assim, vê-se,nessesúltimos meses, uma ampla discussão a respeito da legalização da maconha no
+         Brasil. Muitas pessoas afirmam que, por comprometeràsaúde, a maconha não deve ser legalizada, pois, segundo elas, afetará a qualidade de vida da população.
+         Será? A cannabis , nome científico da maconha, em alguns casos, pode levaradependência. No entanto, o número de
+         pessoas subordinadas à droga , se comparado com o total de consumidores, é considerado baixo. Além disso, a maconha pode ter uso medicinal, amenizando o número de convulsões e enjoos de alguns portadores de doenças crônicas, como o câncer e AIDS. Sabe-se que o número de mortes decorrente da violência contra traficantes é mais alto do que o número de obtidos causado pela overdose da cannabis. Com isso, há de senotar, quea repressão causada pela proibição da droga não produz grandes efeitos na diminuição do tráfico. Sendo assim, a legalização da maconha poderá diminuir ocomercioilegal da droga, pois com o controle regulamentado da erva, os consumidores nãonecessitam de recorrera situações informais para consumo.
+         Portanto, é de grande importância que o estado regulamente a maconha para uso medicinal, industrial e recreativo. É necessário que haja leis quevisam impor, como,e onde usar a droga.Ogoverno, instituições públicas e a família
+         devem propagar informações queexplicite, com um caráter persuasivo, os riscos e implicações do uso da maconha. Só assim poderemos reduzir os impactos negativos que a maconha propicia.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

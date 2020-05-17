@@ -1,0 +1,12 @@
+# prompt: qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida
+# score: 4,0
+# title: É preciso amar a profissão
+É inegável que os estudos fazem toda diferença na luta diáriadomercado de trabalho.
+         Para conseguir o que chamamos de uma vida confortável, precisamos de um bom emprego. Para um bom emprego é necessário ótimo estudo e, além disso, destacar-se no meio de várias pessoas que querem a mesma coisa. Hoje, há muitas facilidades para se conseguir formação em ótimas universidades, tanto públicas quanto particulares. Então, comonúmero de alunos queadentram esses cursos, fica claro que não basta um bom estudo para se sobressair.
+         É precisotera vontade de aprender,não somente porquetrabalhar e ganhar dinheiro tornaram-seo curso devida atual.
+         Aquele que observa o que há a sua volta descobre o que o faz ter vontade de aprender, é o homem ou a mulher que irá sorrir ao falar de seu trabalho. Porque é feliz com o que faz, e se propõe a ensinar e a aprender todo dia. Quando gostamos de algo, levamos adiante mesmo que existam as dificuldades. E mesmo que não seja em sala de aula, uma carreira de sucesso depende do aprendizado diário, baseado também na vivência do nosso mundo imprevisível. Um aprendizado que traz de brinde anos a mais de lucidez navelhice. Quepode proporcionar mais momentos felizes.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

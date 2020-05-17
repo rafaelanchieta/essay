@@ -1,0 +1,14 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 4,5
+# title: Uma fantasia laica para um país intolerante
+Mesmo quecamufladaé evidenteàprática da intolerância religiosa no Brasil. Um país rico emdiversidades culturaise etnias,mas infelizmentepessoas ainda são discriminadas por não terem religião ou acreditarem em uma diferente da predominante do país.
+         Vivemos em uma sociedadeque pela constituição é aceitávela liberdade religiosa, masé notávelas atitudes contrárias a isso, da parte dapopulação porexemplo: as violências e ofensas praticadas muitas vezes
+         pelos cristãos,perseguem os ateus e as religiões afro-brasileiras
+         ,em que os deuses dessa religião são visto como demônios.
+         Além disso, existem também certas oposições em relação aos governantes, se o nosso Estado é realmente laico é incompreensível à prática do aborto ser crime (colocando a vida das mulheres em riscos com o aborto ilegal), se em países como Cuba e Uruguai são permitidos em qualquer circunstância. Diante disso, demanda dois tipos de postura: a pessoal e a coletiva. Quanto à primeira, cabe a cada um de nósse conscientizarmo-nose respeitarmosas diversidades religiosas. Em relação à segunda, é preciso criar políticas públicas que assegurem cada vez mais os direitos de liberdade religiosa,
+         mas que também penalizemmovimentaçãopreconceituosas e abusivas.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

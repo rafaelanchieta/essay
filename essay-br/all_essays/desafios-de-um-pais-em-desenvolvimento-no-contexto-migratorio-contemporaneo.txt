@@ -1,0 +1,12 @@
+# prompt: O Brasil e os imigrantes no mundo contemporâneo
+# score: 880
+# title: Desafios de um país em desenvolvimento no contexto migratório contemporâneo
+A imigração, que sempre fez parte da história e da formação dos povos, tem se tornado um problema de difícil solução. Tanto os países desenvolvidos, como os países em desenvolvimento, como o Brasil, têm encontrado diversos obstáculos na tentativa de normalizar os fluxos migratórios, cada vez mais frequentes e preocupantes.
+Muitos são os motivos que levam milhões de pessoas ao redor do mundo a deixar seu país de origem, dentre os quais se destacam as crises econômicas, sociais e políticas, a exemplo da Venezuela, cujo governo nada tem feito para mudar a situação precária em que se encontra o país, tornando o crescente êxodo de seus habitantes insustentável para os países vizinhos.
+Em que pese à  necessidade de acolher de forma digna e humanitária os imigrantes que buscam melhores condições de vida, o Brasil tem revelado nos últimos meses insuficiência de infraestrutura e de recursos financeiros para garantir segurança e qualidade de vida tanto para os imigrantes, como para os brasileiros que passaram a conviver com essa realidade.
+O Brasil deve assegurar a entrada pacífica e digna tantos dos imigrantes venezuelanos, como de quaisquer outros imigrantes que necessitem garantir a sua própria subsistência e de sua família, como forma de respeito e proteção aos direitos humanos. A fim de efetivar esses direitos, no entanto, o país tem pela frente o desafio de distribuir corretamente esses estrangeiros no território nacional e dar a eles a assistência social necessária, a fim de evitar o aumento da desigualdade social e a xenofobia.
+# C0: 200
+# C1: 160
+# C2: 160
+# C3: 200
+# C4: 160

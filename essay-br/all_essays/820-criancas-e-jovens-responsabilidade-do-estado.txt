@@ -1,0 +1,11 @@
+# prompt: deve-se-reduzir-a-maioridade-penal-no-brasil
+# score: 7,0
+# title: Crianças e jovens: responsabilidade do Estado
+Toda vez que o país se vê diante de mais um crime brutal cometido por menores, como o que ocorreu recentemente em São Paulo, em que um jovem prestes a completar 18 anos assassinou um universitário por causa de um celular, há uma comoção da opinião pública no sentido de reduzir a maioridade penal no Brasil. Mas é preciso antes de tudo refletir se diminuir a maioridade penal de 18 para 16 anos seria a melhor escolha, levando em consideração a situação econômica e social do país e seus índices ainda insatisfatórios no que concerneaeducação infantil e o ensino médio nas escolas públicas.
+          Afinal, a maioridade penal existe na grande maioria dos países para garantir que o Estado zele por todas as crianças e jovens independente de classe social. Além disso, convém refletir sobre o sentido maior da justiça. Seriaaexpressão coerente da justiça
+            trancafiar um criminoso e deixá-lo padecer nas condições desumanas em que se encontram as prisões brasileiras? A respeito da redução da maioridade penal, o presidente nacional da OAB, Marcos Vinícius Furtado, confirma : "Seria um retrocesso para o país, além de transformar o menino num deliquente sujeito à crueldade das prisões." Na verdade, a discussãodespertadaspelos eventos e pela mídialevama uma reflexão muito mais urgente para o país, referente às condições enfrentadas por muitos jovensbrasileirosque os levam a recorrer às drogas e à violência, além das condições das prisões brasileiras. Afinal, justiça nunca foi nem nunca será fechar os olhos e cabe aos cidadãos e ao Estado rever as condições em que a justiça pode ser feita.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

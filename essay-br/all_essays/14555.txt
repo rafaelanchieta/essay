@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: Histórico cultural brasileiro em risco
+Em uma pátria amada,idolatrada, conserva-se seu histórico cultural,preservando sua gigante natureza e exuberância.Entretanto não é isso que acontece no Brasil, a começar com sua própria cultura indígena sendo extinta pelos homens bracos, assim chamados os brasileiros e portugueses diante do xamã, líder da tribo indígena. 
+
+Todo o processo se inicia no século XV com a chegada dos portugueses no Brasil,  Desde então essa pátria não é mais semelhante como antes.Os mesmos  com pensamentos fins lucrais, não perderam a oportunidade, tendo em vista matéria-prima associados a mão de obra barada, usaram da própria população para obter seus produtos. Ao decorrer dos séculos, dentre os inúmeros motivos que levaram a morte dos índios ,a exploração da mão de obra indígena e muitas lutas constantes para ceder o espaço rural e a urbanização, junto a doenças trazida pelo homem branco,muitos indígenas vieram a morrer, ocasionando o desaparecimento dessa comunidade e com ela sua cultura. 
+
+Os indígenas têm uma grande atuação diante da nossa atual sociedade, devido as heranças e aprendizado, como seus costumes, artesanatos ,  e diversos paladares peculiares.A partir desse pensamento,  poderíamos  sobrepor que se tivéssemos  resguardado melhor os indígenas,  teríamos um contato mais alcançável  podendo aprender mais de sua cultura.Cabe ressaltar que essa comunidade é de enorme importância para o equilíbrio ecológico tendo um modo de vida sustentável, poderíamos aprender muitas estratégias para conservar nosso meio ambiente. E incontestável que os índios foram os pioneiros dessas terras  portanto o minímo a se fazer é respeitar as delimitações de suas terras. 
+Diante desses fatos para que a população se conscientize do grave prejuízo o,  Ministério da Educação,teria que aprofundar nas escolas a importância do índio e sua cultura, para que os futuros jovens brasileiros não deixem de lado as verdadeiras raízes e venha a defender o índio e as áreas preservadas. A , Fundação Nacional do índio aumentaria o número de fiscalizações para áreas de preservação do índio, para empresas que descumprir com a lei,  de violação do território indígena,  seria punida severamente com multas e apreensão do maquinário. Desse modo melhoraríamos  a preservação do histórico cultural brasileiro. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

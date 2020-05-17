@@ -1,0 +1,11 @@
+# prompt: Posse de armas: mais segurança ou mais perigo?
+# score: 220
+# title: Segurança para quem?
+Nosso atual presidente  Jair Messias Bolsonaro  tem prometido  desde sua campanha eleitoral  mudar a legislação brasileira sobre o desarmamento e  porte de armas para a legitima  defesa da população. O decreto que facilita a posse de armas de fogo já foi assinado, porém vem gerando uma grande repercussão . Atualmente, sem termos essa facilitação da posse de armas no Brasil, sabe-se que há uma grande circulação de armas ilícitas e de pessoas não autorizadas em grande parte do país.
+O porte de armas deve ser algo em prol de toda a população brasileira, não só para as pessoas que possuem uma renda alta, pois a população que mora na periferia possui renda baixa (em alguns casos recebem menos que um salário mínimo) e não teriam recursos para a compra de uma arma de fogo e até então elas são os  que mais precisam de defesa pessoal, pois nas comunidades ocorrem os maiores índices de mortes. As mulheres, negros, pessoas que moram nas periferias, a comunidade LGBTQ e todas as minorias serão as maiores prejudicadas, pois por muito menos elas já são mortas todos os dias, e isso só será um meio fácil das  pessoas fazerem “justiça” pelas próprias mãos de acordo com o que eles  acham ou não que é correto.
+A segurança publica  é dever do estado e não dos próprios cidadãos de cuidarem de si mesmos, podem  ser usados os diversos tipos de luta como defesa pessoal.  O correto seria aumentar à  quantidade de policias  e seguranças nas ruas e estabelecimentos, que eles descem  mais assistência às pessoas, circulassem mais nas ruas e bairros onde os índices de assaltos são maiores para maior proteção de toda a população, o que resultaria em um índice menor de mortes ou acidentes onde todos se sentiriam seguros mesmo não tendo o porte de qualquer arma de fogo.
+# C0: 80
+# C1: 20
+# C2: 20
+# C3: 20
+# C4: 80

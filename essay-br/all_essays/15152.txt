@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 550
+# tittle: A importância de vacinar-se
+A Revolta da Vacina  ocorrida no ano de 1904  na cidade do Rio de Janeiro, foi um motim realizado pela polução que encontrava-se revoltada com a lei que tornava obrigatória a vacinação, porém ao decorrer do tempo os indivíduos passaram a se prevenir de modo espontâneo . No entanto  atualmente o Ministério da Saúde enfrenta sérios desafios para garantir a vacinação, já que muitos brasileiros desconhecem a importância e finalidade da vacina, além de haver diversos casos de negligência ocasionados por noticias falsas. 
+
+Em principio, cabe salientar que quem não se vacina não coloca apenas a própria saúde em risco, mas também a de seus familiares e outras pessoas com quem tem contato, além de contribuir para aumentar a circulação de doenças . De certo, a vacinação é a melhor maneira de se proteger de uma variedade de doenças como o sarampo, a rubéola, tríplice viral, dentre outras doenças infecciosas. Ademais, as vacinas são feitas com microorganismos da própria doença que previne, porém estes estão enfraquecidos ou mortos, fazendo com que o corpo não desenvolva a doença, mas se torne preparado para combatê-la se for necessário. 
+Além disso, observa-se que o número de fake news é crescente e com isso as pessoas ficam receosas com a eficácia das vacinas , e isto faz com que muitos brasileiros deixem de se vacinar. De acordo com um balanço divulgado pelo Ministério da Saúde 11,5 mil dúvidas foram esclarecidas,  através de um aplicativo criado para verificar as informações que circulam nas redes sociais. Entre vídeos, textos e imagens,  os conteúdos incluem relatos sem provas, pesquisas científicas derrubadas há décadas e argumentos sem fundamentação sobre falsos efeitos colaterais das vacinas. 
+
+Em suma, é necessário que o Ministério da Saúde amplie o acesso as à informações,  através da elaboração de campanhas midiáticas para que atinja um grande número de pessoas, além de realizar palestras nas escolas, nas comunidades e nos postos de saúde. Com o intuito de transmitir informações sobre a importância das vacinas e quais suas finalidades, para que assim a população se concientize e não deixe de se vacinar. A ação realizada no presente,  é capaz de modificar o futuro de toda a sociedade brasileira. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

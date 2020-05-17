@@ -1,0 +1,12 @@
+# prompt: O direito ao foro privilegiado
+# score: 700
+# title: Foro Privilegiado: resquícios da Monarquia
+O Brasil Império foi um período onde  o país era governado por monarcas portugueses, Dom Pedro I e Dom Pedro II. Esse período possuía um sistema de governo distinto do atual, pois, dentre as inúmeras diferenças, os imperadores possuíam algumas regalias, como a hereditariedade e vitaliciedade do cargo. Na contemporaneidade , essa esfera de privilégios permanece por meio do  “Foro Privilegiado”,  que consiste num benefício que permite que políticos e ocupantes de determinados cargos públicos não sejam julgados na primeira instância como os cidadãos comuns. Muito se discute acerca da extinção desse benefício e os motivos que sustentam esse ato .
+Segundo a Constituição de 1988, todos os cidadãos são iguais perante a lei, sem distinção de raça, sexo, religião e derivados. Dessa forma, o Foro  contradiz esse princípio de igualdade, quando permite o benefício do julgamento distinto do resto dos cidadãos simplesmente por ocuparem cargos específicos, tendo em vista que o ser humano tem livre arbítrio  para escolher a profissão que bem entender e todas constituem os pilares da sociedade. 
+Além disso, esse mecanismo pode fomentar a impunidade. Uma recente pesquisa da Fundação Getúlio Vargas evidenciou que 68% das ações penais concluídas no STF, entre 2011 e 2016, prescreveram ou foram repassadas para instâncias inferiores porque a autoridade em questão deixou o cargo. Na Operação Lava-Jato, por exemplo, mais de 22 mil pessoas pertencem  ao Foro , um número relativamente alto de agentes públicos que precisam ser julgados pelos tribunais de  instâncias superiores, que teriam pouca estrutura para isso.
+Diante do que foi exposto, infere-se que o direito ao Foro Privilegiado  é um mecanismo que precisa terminar em prol da diminuição da impunidade e permanência da genuína democracia. Por isso, cabe aos ministros do Supremo Tribunal de Justiça  que votem a favor do fim desse benefício. Além disso, cabe a  população, por meio de assinaturas  on-line, a lutar, influenciando os ministros nessa decisão. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 150

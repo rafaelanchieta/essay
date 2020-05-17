@@ -1,0 +1,12 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 400
+# tittle: O desmatamento da floresta amazônica
+A floresta amazônica é um local  que possui uma vasta biodiversidade e variados recursos como, por exemplo, plantas medicinais estudadas na fitoterapia, além de contribuir no equilíbrio da estabilidade ambiental do planeta terra. Mas por que a mesma  vem sofrendo um desmatamento acelerado nessas últimas décadas? 
+
+Nos últimos trinta anos o desmatamento da floresta amazônica vem aumentando de forma rápida, tanto para a criação de gado, no plantio de grãos  e também na utilização da madeira para outros fins. Outra maneira de abrir espaço para a atividade pecuária é a realização de queimadas em grande escala, onde as quais acabam liberando CO2 numa grande quantia direto para a atmosfera. Embora a amazônia tenha a capacidade de absorver da atmosfera uma enorme quantidade de CO2  com o desmatamento das árvores esse número vai diminuindo ao mesmo tempo que a liberação do dióxido de carbono aumenta. 
+Monitorar e controlar as derrubadas de árvores na amazônia é essencial para o impedimento do desmatamento, tanto como as operações de fiscalização. Outras medidas que devem ser adotadas são apoiar o uso sustentável da floresta, práticas melhores na agropecuária, restrição dos mercados para produtos relacionados a novos desmatamentos, assim como novas medidas políticas ambientais efetivas. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

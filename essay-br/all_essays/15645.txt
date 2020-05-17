@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Um colapso na saúde Brasileira
+O desenvolvimento e investimento da ciência é de suma importância para o mundo, visando  não só melhorias no âmbito da saúde, como em todos os sentidos sociais e econômicos de um país.  Visto que a falta de investimento na ciência afeta muito mais do que só a saúde brasileira , pois tudo está interligado. 
+Através da ciência,  foram descobertos vários meios de prevenção e cura contra doenças e possíveis pandemias na sociedade. Em 1789, Edward Jenner descobriu e desenvolveu a vacina contra a varíola, que foi essencial  principalmente no pico da doença, em 1904  que ficou conhecido como "A revolta da Vacina" . Atualmente várias outras vacinas e medicamentos foram criados para auxiliar o combate de diversas doenças , mas será que já é o suficiente .
+
+Por onde anda o novo Edward Jenner?.  O covid 19 já matou, e tem matado  muita gente, pesquisas  apontam várias tentativas feitas para a criação de um antidoto, uma vacina que combata esse vírus tão intrigante . Segundo o jornal da Record , em Israel, estão finalizando testes finais  para a liberação da vacina contra o coronavírus. A ciência auxilia e implica em tudo ao nosso  redor, podemos  ver que nessa pandemia,  não só a saúde foi afetada,   mas a economia de vários países. É grande o número de famílias brasileiras que estão passando fome, o número de pessoas que por conta da crise perderam seus empregos. Os estados temem um colapso na saúde publica. 
+Levando-se em conta o que foi observado, é de suma importância o investimento na ciência em todos os aspectos .  Visto que a falta dela implica em todo o desenvolvimento de um país. É viável que todo esse investimento  seja feito principalmente nas escolas, porque é nela que é formado profissionais que futuramente podem trazer respostas para problemas na sociedade brasileira, e no mundo. Facilitando  o saber principalmente em áreas mais pobres, periferias e zonas rurais. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 420
+# tittle: Reforma da Previdência Social
+A reforma da Previdência,  é uns um dos planos do governo do Presidente Jair Bolsonaro, ele trás traz uma forma de tentar acabar com a crise que o Brasil está passando, mas esse projeto trás  aspectos positivos e negativos . Mexer nesse sistema pode encontrar brechas que estão ajudando o país a afundar mais, porém com essas atualizações o brasileiro terá que trabalhar mais. 
+
+Com a correção dos erros,  a nação vai conseguir saber quem está aposentado de forma correta  pois entre 2014 e 2018 foram encontradas falhas humanas que aconteceram intencionalmente, funcionários do INSS  eram pagos por pessoas que já estavam quase se aposentando para conseguir uma salário maior do que seria recebido pelo benefício, esses erros estavam causando um pequeno rombo no cofre do governo por pessoas que não teriam direito a certos benefícios, estavam sendo beneficiadas pelo o que nunca contribuirão contribuíram, por exemplo aposentadoria rural, essa é uma das falhas que devem ser corrigidas nesse processo de reforma. 
+
+Com o avanço da idade vamos  ficando mais cansados e sem energia para poder lidar com o dia a dia, umas das regras que o presidente da nação opôs foi que o trabalhador terá que contribuir mais para poder se aposentar com uma salário que possa se manter na velhice, mas uma coisa que ele esqueceu que onde vivemos a desigualdade de todas as formas ainda existe . Mas como um idoso que recebe por exemplo  um salário de mil e quinhentos reais vai conseguir todo mês pagar uma remédio que ele necessita de mil reais   sendo que vai sobrar quinhentos reais para poder se manter durante o mês, essas regras têm que ser mais analisadas com mais calma e junto de pessoas que realmente pensam no bem estar de todos, muitas vezes essas leis parecem que foram criadas para que a população que está se encaminhando para os 65 anos viva em miséria, pois políticos que fazem leis pensando realmente no povo não vai vão criar uma lei que vai dificultar ainda mais a vida dos cidadãos. 
+A reforma da previdência social precisa ser mais sensata e analisada  pois mesmo com essas novas regras ainda existe erro no sistema e com isso aberturas são feitas para que aconteça novamente fraudes e acarretando novos roubos no cofre público. 
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

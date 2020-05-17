@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 700
+# tittle: O esquecido incentivo à ciência brasileira.
+Com a vinda da Princesa Maria Leopoldina para o Brasil foram trazidos em sua comitiva diversos cientistas, pintores e médicos . Como resultado, a Nação avançou em pesquisas científicas realizadas em todo o território. Contudo, atualmente, esse incentivo à ciência não é vivenciado. Nesse sentido, convém analisar as principais causas, consequências e possíveis soluções para esse impasse. 
+ Primeiramente, o mundo inteiro enfrenta uma pandemia,  denominada coronavírus . Com isso, foi necessário acionar pesquisadores em todo o planeta,  para buscar uma vacina ou remédio contra a doença. Entretanto, as universidades e institutos federais, que são polos dos estudos científicos brasileiros, sofrem com o contingenciamento de verbas . Logo, os especialistas possuem um fraco auxílio para trabalhar e desenvolver projetos. 
+Apesar de investir apenas 1,3% do seu PIB  anual em pesquisas e desenvolvimento, ainda se faz ciência no país. De acordo com o site Hypeness, pesquisadoras do Instituto Adolfo Lutz  da Universidade de São Paulo, foram capazes de sequenciar o genoma do novo coronavírus em 48 horas . Por conseguinte, é possível compreender como o vírus se modifica e como produzir uma vacina. Desse modo, a produção científica Nacional mostra quão importante é para a sociedade. 
+ Portanto, é preciso apoiar a ciência no Brasil. Sendo assim, compete em uma ação conjunta ao Ministério da Economia , Ministério da Ciência, Tecnologia e Comunicações  e ao Ministério da Educação ,  investirem uma parcela fixa do PIB, comparado com países desenvolvidos, em programas como Capes e CNPq . Outrossim, cabe ao governo federal incentivar empresas privadas e multinacionais apoiarem financeiramente estudos científicos nas universidades e institutos públicos,  em troca de incentivos fiscais . Assim, será colocado em prática os exemplos da valorização da ciência, pesquisa e estudos deixados pela Imperatriz Maria Leopoldina do Brasil.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 150

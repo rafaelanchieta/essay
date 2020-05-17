@@ -1,0 +1,13 @@
+# prompt: agua-aprenderemos-com-a-atual-crise-hidrica
+# score: 2,5
+# title: Olhando o presente e planejando o futuro
+Estamos sentindo na pele, O que é a falta de responsabilidade, Por parte cometidapor no, E pelosgovernantes.Na qualnão souberam planejar, E nem economizar o nosso bem mais precioso que é água.
+          O volume dos reservatórios,Nasua maioria é preocupante,Poisestão em estado critico. Estes
+         servem não apenas para o abastecimento humano,Comotambém para a geração de energia elétrica,Queda mesma formaestaem situação grave,Podendohaver racionamento.
+         No Brasil, odispesdicío, Chegara quase40%, Dessa porcentagemboa parte seperde, pelatubulaçõesarcaicas, Epelas ligações clandestinas. Chegou o momento de diminuirmos o nosso consumo de água e energia,Paraque
+         não haja uma escassez de recursos. É preciso, investimentos, Planejamentos E compreensão de que a água, Que não é inesgotável, e de que precisamos de poupança, para que esse bem tão precioso não se esgote.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

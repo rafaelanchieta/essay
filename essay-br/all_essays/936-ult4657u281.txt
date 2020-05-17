@@ -1,0 +1,11 @@
+# prompt: o-uso-da-maconha-deve-ou-nao-ser-legalizado
+# score: 5.5
+# title: O pior cego é...
+Podem até me chamar de 'surtada' por esse comentário, mas alguém já parou pra pensar que 'a corda sempre arrebenta para o lado mais fraco'? Que a justiça só é realmente justa quando o criminoso em questão é de origem humilde e pobre? Se a gente reparar, quando falam que "o sujeito foi pego fumando ou traficando maconha" quase nunca aparecem aqueles 'filhinhos de papai' que se acham donos do mundo, isso por que? Será que os tais supostos donos do mundo não bebem, fumam, traficam? Será que eles são realmente esses anjos que as pessoas pintam? Ou talvez não... talvez eles sejam os principais responsáveis pelo trafico de drogas, pelo porte ilegal de armas, por a sua casa estar sendo assaltada nesse exato momento. Todo mundo sabe que qualquer droga é prejudicial a saúde, até mesmo o tabaco e oalcool, que são legalizados, mas de que adianta proibir? Se você fossealcoolatrae proibissem a venda legal de bebidasalcoolicas, você pararia de beber? Não, você sabe que não, poderia diminuir o consumo mas não iria parar.Acho que as pessoas já tiveram muito tempo pra perceber que de nada adianta proibir, de nada adiantar legalizar, enquanto nossa justiça estiver sendo injusta. Enquanto não houver realmente uma punição para todas as pessoas, semexcessão, que forem pegas cometendo qualquer tipo de crime.
+              Particularmente, sou a favor da legalização, não só da maconha, mas do porte de arma também, porque os bandidos, não aqueles que são presos por roubar galinha do vizinho, aqueles de verdade mesmo, não importam se algo é ilegal ou não, elessimplismentefazem.
+                E pra finalizar, uma frase que ouvi uma vez e não esqueci mais: "Sou a favor da legalização da maconha sim, quanto mais as pessoas proibirem mais crimes os outros irão cometer, afinal, tudo que é proibido é mais gostoso, não é?!
+# C0: 1.5
+# C1: 1.0
+# C2: 1.0
+# C3: 1.5
+# C4: 0.5

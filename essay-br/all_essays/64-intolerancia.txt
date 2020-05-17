@@ -1,0 +1,12 @@
+# prompt: experiencias-com-animais-e-violencia-em-manifestacoes
+# score: 6,0
+# title: Intolerância
+Os rastros de rebeldia estão presentes em quase todas as manifestações populares ocorridas no Brasil este ano. Os "blackblocks"- os penetras mascarados dos protestos que se aproveitam para vandalizar o local - acabaram transformando grande parte dessa cena de evolução política do país em vergonha, ofuscando as intenções da sociedade. Tanto fizeram, que essas intenções praticamente silenciaram, o medo dos conflitos inevitáveis com policiais se espalhou e os protestos já estavam adquirindo
+         consequências mal interpretadas . Assim acontece, também pelo mau uso da informação e da comunicação, que gera desrespeito por todas as partes , como no caso do Instituto Royal - acusado de utilizar indevidamente cães da raça Beagle em pesquisas. Esses cães tão carismáticos tornaram-se alvo de questionamento de ativistas que acusavam o Instituto de maus tratos. Essa notíciamauformulada
+         caiu em mãos erradas. No embalo das manifestações, atos de vandalismo marcaram esse episódio: carros queimados, sequestro e abandono desses animais e depredações no local da manifestação. Sem o verdadeiro conhecimento dos procedimentos da pesquisa, nenhuma conclusão pode ser tirada. Uma ação popular não pode ser movida pela emoção. Afinal, as pesquisas tinham um ótimo propósito a favor da saúde do homem, porém, nem por isso devemos parar de questionar e cobrar esclarecimentos em relação ao uso de animais em pesquisas para o avanço da medicina, pois cabe apenas ao homem defendê-los. O nome e a imagem do Instituto, assim como a credibilidade dos procedimentos desse tipo depesquisaagora estão em jogo.
+         Medidas mais caras, talvez, teriam sido melhor empregadas nesse tipo de caso. Pois, assim como na política, é melhor a prevenção de um problema, do que lutar contra ele depois.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

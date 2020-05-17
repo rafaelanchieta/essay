@@ -1,0 +1,10 @@
+# prompt: mentira-e-doenca-problema-moral-necessidade-ou-brincadeira
+# score: 4.5
+# title: Mentira:apreciemoraçãocom
+Quandouasadamoderadamente amentira pode ficar sendo uma boa forma para aexistênciaesobrevivênciapacificanasociedade.todosmentiros seres humanos incondicionalmente precisam,masquando este recurso é usado de formaexarcebadaacabase tornando uma doença ou um distúrbio de caráter moral.A mentira em seu significado bruto e a soma de todos estesadjetivos:doença,problemacaráter,necessidadebrincadeiradee;Écomo umquadradroque em cada ladoestivessecada um dessesadjetivos;Cabea cada ser humano escolher aquele que melhor lhecabe;Todosmentiraos humanos já nascem com o dom da,começandoa usá-la quandochoraou quandofazde tudo pra ter o coloou ouleite damãe,éexatamente nesta fase queele descobreamentira,maso que vai formar o caráter desta criança é afamíliaou o meio em que elavive,assimela saberá usufruir melhor da mentira esaberusá-lanamomento certo.
+          Mentir pode ser uma válvula de escape desituaçõesindesejáveis sejaelas momentâneas oupermantes,comopor exemplo um trauma na infânciaou fase adulta quefaz com que o indivíduo minta para poder escapar daquele momento, é como um submundonoqual ele queira fugir e vivernele;mascomo tudo navida istopode acarretaremdanos pequenos ougrandes comopor exemplo o desvio de caráter.Contudo mentiraeacessórioque quandotocado liberapossibilidades equilibradasruins,masindivíduosquando,onde,como e com quem.um sensíveldiversasem boas ecabe a cadausá-las
+# C0: 0.5
+# C1: 1.0
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

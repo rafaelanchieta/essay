@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 700
+# tittle: [Redação sem título]
+O Brasil é um dos países com os maiores índices de violência no mundo  a qual é refletida na atual situação em que se encontram as penitenciárias do país, considerada como uma informação supérflua para grande parte dos brasileiros. Além do estigma carregado pelos detentos, boa parte da população deixa oculta a empatia por estes cidadãos através de um manto coberto de ignorância e repúdio, e passam a acreditar que a violência só é retida com mais violência. 
+
+Conhecido pela demasiada violência populacional, o Brasil se encontra no patamar de terceiro país com a maior população carcerária do mundo  sendo a massa composta por jovens pobres e sem escolaridade, dados obtidos pelo Levantamento Nacional de Informações Penitenciárias , que continua a crescer . Consequentemente, o sistema prisional brasileiro busca criar cada vez mais unidades visando suprir a demanda  e desse modo diminuir os infratores. Essa resposta rápida e pouco analisada traz a  à tona unidades prisionais cada vez mais precárias quanto sua infraestrutura  como ambientes cada vez mais desumanos para aqueles que , apesar de detentos, ainda sim são humanos e devem usufruir de seus direitos. 
+
+O filósofo existencialista Jean-Paul Sartre defende a tese de que o ser humano está condenado a ser livre, e desta forma, ele deve ser julgado e sofrer as consequências de suas escolhas quando a liberdade lhe for atribuída. Sendo assim não é errado pensar que infratores devem ser sentenciados e pagar, fielmente, a pena que lhe for decretada. Acontece que,  criou-se a cultura de que “bandido bom é bandido morto”, dando lugar ao repúdio e a falta de empatia a detentos. A eles, independente das condições desumanas existentes dentro dos cárceres, a carência de uma reabilitação social torna difícil lidar com o estigma que lhes é alicerçado, somada com a enorme falta de oportunidades  fazendo com que a criminalidade retorne as suas vidas. 
+Em detrimento do que foi apresentado, continuar a apertar na tecla da criação de mais penitenciárias não vai surtir efeito quando é necessário mudar todo o princípio: a carência de educação, de alto nível, nas escolas públicas. Porém, investir apenas na educação dos jovens não vai diminuir a enorme problemática envolvida, necessitando, portanto, que coexista com o ensino – que seria de enorme atributo quando ofertado dentro das penitenciárias – um acompanhamento psicológico para que haja êxito na reabilitação social dos detentos. Já aos cárceres existentes, é necessário uma reforma para que os tornem um ambiente mais humano, do que apenas jaulas para inúmeros infratores, desrespeitando os seus diretos. Pois, por mais cruéis que sejam os seus crimes, ainda são humanos e devem ser tratados como tal. 
+# C0: 100
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

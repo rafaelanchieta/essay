@@ -1,0 +1,13 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 3,0
+# title: Avivamento da Nação
+Durante a Copa do Mundo, ser patriota é ter orgulho do próprio país. É unir as raças para que transmitam energias positivas para a seleção que nos representará durante a competição. Cantar o hino "Sou brasileiro com muito orgulho com muito amor" num evento grandioso do esporte mundial, como o futebol, é adaptar a idéia que o Brasil é um país que não almeja um desenvolvimento pleno durante os três anos que antecedem e os que procedem a Copa. É causar um "involucionismo", ou seja, regredirperante atantos males que afligem a sociedade em questão.
+        É vedar os olhos para a saúde, fome, miséria, educaçãoe a tantosoutros fatores que comprometem o condicionamento da existência humana. No entanto, deveríamos nos sentir envergonhados e
+          ficarmos com os olhos marejados perante as situações catastróficasque somos designados, a passar devido a ação antrópica que a própria natureza nos castiga.Pois, esta sabe responder para a sociedade através de um "grito de socorro" o que é ser patriota com o desterro
+          Contudo, durante os jogos criamos um "exoesqueleto"o qualincorporamos uma figura que nos faz afastar de todos os problemas existentes danação. Evidenciandode maneira conjunta o falso patriotismo que exercemos através da "união" de raças, classes e culturas por um sintoma da irresponsabilidadepolítica-social, comodismo e oportunismo.
+            Em suma, o país pode até ganhar o destaquemundial mas,não deixará o títulode"Terceiro Mundo".
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: Fome: um retrato da desigualdade social no Brasil.
+Na atual Constituição brasileira  promulgada no ano de 1988, é previsto no inciso IV do art.7 que os indivíduos devem receber quantias capazes de atender necessidades básicas e cotidianas como alimentação e saúde . Conquanto, ao se analisar a atual conjuntura miserável   de parte da população do país, fica evidente que tal lei não tem sido cumprida da maneira satisfatória que deveria.  
+
+Um dos dilemas que influem no problema,  é a crise econômica enfrentada pelo Brasil desde 2014. Com a falta de empregos desencadeada pelo contratempo, inúmeras famílias se viram inseridas em situações de extrema penúria e, consequentemente de fome, uma vez que não possuem meios para obter alimentos necessários a subsistência. 
+
+Além disso,a carência alimentícia tende a gerar sérios riscos a saúde  pois,   quando o organismo não ingere calorias suficientemente nutritivas para a realização de tarefas simples, o mesmo   passa a utilizar as próprias reservas presentes no tecido adiposo e, quando estas também se esgotam, passam a consumir os próprios músculos causando a desnutrição  e em casos extremos até mesmo a morte.
+Diante do exposto, infere - se portando que ainda há entraves para a resolução da hodierna situação. Dessa maneira, é necessário que o Ministério da Economia  busque medidas para proporcionar um aumento nos valores disponibilizados por programas como o bolsa família  além da criação de políticas mais eficazes para a geração de empregos, minimizando ou mesmo erradicando o problema, e desta forma,  o Brasil poderia superar a complicação. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

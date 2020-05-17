@@ -1,0 +1,12 @@
+# prompt: Epidemia alimentar: sobrepeso e obesidade
+# score: 720
+# title: O desafio de combater a obesidade
+A sociedade contemporânea vem enfrentando alguns desafios que se referem muitas vezes a um estilo de vida adotado pela própria população, a  epidemia da obesidade é um desses desafios .
+Com o tempo cada vez mais escasso, muitas pessoas acabam trocando uma alimentação saudável e balanceada, por restaurantes fast food, que em sua grande maioria oferecem alimentos pobres em nutrientes e ricos em calorias, entre eles,  o mais comum é o hambúrguer com batata frita. A mídia também explora em seus comerciais, o  consumo de alimentos altamente calóricos e industrializados, que reflete em obesidade de jovens e crianças que são  muito influenciados por ela.
+O resultado disso é uma população com problemas de sobrepeso e  obesa, que precisa enfrentar problemas maiores relacionados a esse mal, pois a obesidade é porta de entrada para doenças mais graves como as cardíacas e o diabetes.
+Para combater a obesidade  é preciso que o governo invista na educação alimentar desde o ensino básico, que apontem  os benefícios de uma dieta balanceada e saudável, e que mostre os riscos de uma alimentação que a  primeira vista pode ser muito tentadora, mas que trará malefícios ao longo dos anos. Além de  agências reguladoras que possam monitorar e tentar minimizar a aparição e exploração exagerada na mídia de alimentos que comprovadamente fazem mal à saúde. 
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 160
+# C4: 120

@@ -1,0 +1,14 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 700
+# tittle: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+O analfabetismo entre jovens e adultos vem sendo reduzido no Brasil, de acordo com dados da Pesquisa Nacional por Amostra em Domicílio  – que passou de 11,5% em 2004 para 8,7% em 2012. Apesar da redução do analfabetismo entre essa camada da sociedade, segundo o Instituto Pró-Livro, 50% da população brasileira não leem livros por não conseguirem compreender seu conteúdo, embora estes sejam tecnicamente alfabetizados. É preciso mudar este contexto no país; esse cenário desafiador demanda esforços mais eficientes por parte do Poder Público,   da família e das instituições formadoras de opinião  a fim de garantir uma melhor qualidade no ensino do letramento.
+
+O direito à educação de qualidade a todos é reconhecido na Constituição Federal de 1988, antes deste dispositivo o ensino público era tratado como uma assistência, um amparo dado àqueles que não podiam pagar. No Brasil, entretanto, há uma discrepância entre o que é defendido pelo meio jurídico e a realidade vivida pela população, sobretudo, os menos favorecidos. Esses indivíduos sofrem, diariamente, com a falta de materiais didáticos e de profissionais qualificados . Além de que muitos ainda sofrem por não terem comida suficiente em seus domicílios, gerando com isso uma perda na qualidade do aprendizado, visto que muitos  por não terem se alimentado antes de irem para a escola, acabam sendo prejudicados durante o primeiro contato na sala de aula. 
+Ademais, apesar da redução do analfabetismo no país, o número permanece expressivo. As escolas, muitas das vezes, não levam em consideração os aspectos socioeconômicos dos alunos em sala de aula . Professores desqualificados, sem perspectivas tanto na formação profissional quanto no interesse dos estudantes em apreender os conteúdos transmitidos, já que esses se sentem desmotivados com os métodos utilizados por aqueles . Essa desmotivação implica em afastamento por parte dos estudantes dos locais de aprendizado, visto que se sentem incapazes de vencer.
+
+Diante disto, é dever do Estado cumprir o que determina a Carta Magna, em especial o que preceitua a educação de qualidade no serviço público a todos. Como também cabe à família e às instituições formadoras de opinião se engajarem na formação destes discentes, priorizando o desenvolvimento do letramento para a construção de sujeitos críticos. A fim de que possam torna-se pessoas livres e capazes de discernir sobre aquilo que leem para que seja possível produzir um país melhor; gerando bem-estar, crescimento social e econômico do país.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 150

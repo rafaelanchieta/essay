@@ -1,0 +1,11 @@
+# prompt: o-que-voce-acha-do-ensino-nas-escolas-do-brasil
+# score: 3.0
+# title: A educação também depende de nós
+A quem diga, que a educação no Brasil é ruim e deficiente.As condições precárias das instituiçõespúblicas, ea falta de incentivo aosprofessores,levama acreditar que o Brasil tem fraco desempenho na educação.Apenas, distribuirlivros didáticos e/oumerendas, nãoé suficiente para que os alunos sintam-se incentivados a estudar.
+            No meu ponto de vista, este procedimento não interfere o bastante na educação.Em que adianta, o aluno receber materias de estudos, se não sabemos que realmente ele irá estudar?Muitas vezes, estes materiais são desprezadospelos mesmos, ao saírem da escola.
+              Este fraco desempenhoeducacional, nãoé frutoapenas, dasmás condições de ensino, e dos constantes atrasos dos baixos salários dos professores, e sim da falta de interesse da maioria dos alunos que brincam,enquanto, aaula está sendo passada.Acredito, que se cada pessoa que fosse a uma escola, prestar-se atenção e revisar-se o que foi dado na aula, este quadro de negatividade mudaria.Atualmente, sabemos que o governooferece, algunsbenefícios incentivadores,para o aluno.CComo a redução nas passagens da condução; as bibliotecas públicas com acesso a in     ternet; e de instituições de ensino, que abriga o aluno durante o dia, distribuindo seu tempo em aulas teóricas, práticas, refeições e lazer. No que resulta em interesse pelos estudos.A solução para uma educação de qualidade noBrasil, seriao crescimento dessas escolas e unidades de ensino para todo o Brasil, como também quero ressaltar, os professores e responsáveis pela educação, que deveriam ter salários dignos, e aulasfrequëntesde capacitação e reciclagem.
+# C0: 0.5
+# C1: 1.0
+# C2: 0.5
+# C3: 0.0
+# C4: 1.0

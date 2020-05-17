@@ -1,0 +1,10 @@
+# prompt: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo
+# score: 2,0
+# title: Violência nas escolas
+Na sociedade atual, é comum observarmos determinadasviolências seja verbalou não, em
+        ambientes públicos como: escolas, universidades, entre outros. Assim gerando desconforto a quem recebe, resultando em muitas vezes em ato de violência. Uma das causas principais para a violência nas escolas é o Bullying que resulta na destruição de relações sociais entre emissor e receptor desse tipo de violência. Há também o fato dos problemas sociais que o agredido pode ter como: financeiros, familiares e de saúde, ou seja, tornando a pessoa mais retraída, isolada, tornando alvo de chacotas. Para acabarmos com esse tipo de violência em escolas, cabe a todosnoseducarmos melhor nossos filhos e tambémogoverno proporcionar mais palestras nas escolas, pois o problema nãoestanas estruturas dos ambientes públicos e sim na sociedade.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,5
+# C4: 0,5

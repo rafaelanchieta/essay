@@ -1,0 +1,12 @@
+# prompt: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia
+# score: 1,0
+# title: O MMA
+Atualmente o MMA éencaixadocomo um esporte, mas, paraoutrosuma violência que causa muita dor e sangramentos.
+         Podemos definir que o MMA tem suas regras para não causar algo mais grave, até a morte. Ser lutador não é só brigar, deve ter técnicas eabilidades.Pode-seconcretizarqueesse tipo de lutaé uma profissão muito difícil,pois para ser lutadorexige muito treino e esforço.
+         Podemos vera luta quehá pontos positivos e negativos, agora cada pessoa escolhe sua profissão, pois todas vão ter pontos negativos a enfrentar.
+         Para ser lutador,devebuscar seus sonhos e não temercom oque virá pela frente,coma cabeça levantadaromper todos os obstáculos ebarreira.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

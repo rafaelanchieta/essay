@@ -1,0 +1,12 @@
+# prompt: Escola no Brasil: com partido ou sem partido?
+# score: 1000
+# title: Escola Sem Senso Crítico
+Em meio a  recente polarização política, um debate vem ganhando relevância, o da escola sem partido. O projeto, segundo seus autores, tem como objetivo libertar o sistema de ensino da doutrinação esquerdista e da ideologia de gênero.
+No entanto, é irônico que um projeto que diz defender uma Escola Livre  traga como resultado uma maior restrição ao sistema de ensino e um declínio ainda maior da relevância da escola como local de conhecimento. O projeto, apoiado pelas partes mais conservadoras da sociedade, traz como discurso  a criação de uma educação neutra, o problema no entanto  é que tal ideal não pode ser alcançado, tal visão imparcial nada mais é do que uma defesa do conformismo e manutenção do status-quo. 
+À  partir dessa ideia vaga é criada uma linha tênue do que pode ser ensinado e o  que não pode. O que ali é ideologia e o que ali são fatos? O que ali pode estar atacando os valores morais ou religiosos de determinado aluno? Nesse espaço aberto a interpretações, encontra-se um constante policiamento e controle de qualquer discurso minimamente crítico.
+A Escola Sem Partido, portanto, não tem como objetivo livrar a educação de qualquer ideologia, mas permitir o perpetuamento de ideias defasadas e atrasadas. Usando de um discurso histérico e hiperbólico  uma camada da sociedade defende seus ideias  conservadores, impedindo que estes entrem em atrito ou sejam debatidos na escola, um ambiente em que o senso crítico deve ser deixado em casa.
+# C0: 200
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 200

@@ -1,0 +1,10 @@
+# prompt: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool
+# score: 4,0
+# title: Deve ou não haver maior controle sobre o consumo do álcool?
+O álcool consumido em excesso, principalmente por jovens, é um dos principais causadores de morte nos últimos anos. A combinação: álcool + direção, como podemos ver nos jornais, nãocombinamde forma alguma. Muitos acidentes de trânsito estão relacionados a casos deembriaguêsao volante. Outro fato preocupante também está relacionado ao consumo de álcool nosestádiosque gera a violência entre as torcidas rivais.Ainda mais que com a copa do mundochegando, além de preocupante, esse assunto também já está se tornando polêmico.Com alei de proibição da venda de bebidas nos estádios, com o objetivo de evitar os conflitos entre as torcidas durante o evento, jávêmgerando vários debates
+         e opiniões entre a própria sociedade. Agora, também podemos relatar a lei seca que proíbe o condutor de algum veículo automotor de consumir bebida alcoólica antes de dirigir. Esta medida é excelente, no início gerou muita discussão, mas aos poucos foi tomando forma e a grande maioria aderiu. Essa última citada, já evitou bastantes acidentes com vítimas e serve de exemplo a ser seguido pelas pessoas que irão aos estádios durante a Copa. Com a criação de mais leis e de mais projetos de conscientização para o controle do álcool na sociedade, as estatísticas poderão cair cada vez mais em relação às vítimas fatais que o álcoolnos proporciona.
+# C0: 0,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

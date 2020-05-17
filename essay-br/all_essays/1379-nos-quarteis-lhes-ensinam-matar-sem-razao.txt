@@ -1,0 +1,13 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 6,5
+# title: Nos quartéis lhes ensinam matar sem razão.
+No segundo semestre de 2013 foi divulgado um vídeo nos meios de comunicação,que a repórter Giuliana(Folha de S. Paulo) foi atingida no olho por uma bala de borracha disparada por policiais militares da Rota (Rondas Ostensivas Tobias deAguiar). Enquantocobria o protesto contra o aumento das tarifas em São Paulo. Ela foi hospitalizada e perdeu a visão do olho direito, junto a ela estavam mais sete repórteres feridos levemente.
+         Casos comodeGiuliana, temtido grande repercussão, devidoomodo como apoliciatem reprimido as manifestações, o que nos remete aoPeríodo Ditatorial Brasileiro, queos
+         jovens não podiam se expressar. A única coisa queos difereé o fato de uma parte da mídia e as redes sociais no momento estarem alertandoa periculosidade dos rolezinhos e das manifestações.
+         Ao invés de reclamarem pelo preço das tarifas, corrupção e gastos com Copa e Olimpíada, a população deveria somente exigir a desmilitarização da policia, pois é a única que os soldados não possuem necessariamente formação superior. Observe este trecho do Art. 2º INC II da Lei 6652/79 As Polícias Militares ... no âmbito de suas jurisdições: atuar de maneira preventiva como força de dissuasão, em locais ou áreas específicas, onde se presuma ser possível a perturbação da ordem. No século 21, tal lei funcionaassim,qualquer policial militar em exercício ou não com sua devidas funções pode matar, atirar em trabalhadoressumir com o corpo é opcional, isto porque a
+         lei citada foi criada e na Ditadura Militar e permanece na Constituição. Impressiona-nos como a legislação é ineficiente para aqueles que deveriam ser provedores da ordem. Conclui-se que 600 mortos em maio de 2006 em uma série de ataques na Baixada Santista, 111 presos assassinados em 1992 durante o Massacre do Carandiru, o desaparecimento do pedreiro carioca Amarildo de Souza em 14 de Julho de 2013 e a violência policial contra professores na Câmara dos Vereadores do Rio justificam a desmilitarização da polícia que ultrapassa diariamente aos deveres . Acrescentando que no ano de 2014 haverá provas para capacitar militares a evitarem manifestações na Copa, com certeza, mais"Amarildos" e "Giulianas"sofrerão da brutalidade, ineficiência e desorganização dapolícia militarbrasileira e suas histórias veremos no chão.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

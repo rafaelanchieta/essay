@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 220
+# tittle: o comprometimento com a educação
+O Brasil esta  está entre os países com maior índice de ma  má formação acadêmica do mundo , que advêm desde a lei áurea de 1888,   pois muitos indivíduos acabaram não tendo uma forma de ensino  pois não tinhão  tinham condições financeiras , advindo disto muitos brasileiros também não possui uma forma de estudo , por não ter verba para frequentar a escola , onde   mesmo sendo uma unidade publica  pública, ainda sim gera muitos gastos para os alunos. 
+Muitas pessoas que são analfabetas nos dias hodiernos  ,  têm tem origem pobre que não teve condição de se manter no colégio , segundo uma pesquisa feita pelo jornal OGLOBO 40% dos alonos que começão o ensino fundamental , não fazem o ensino médio por conta de condições financeiras ,e acabam abandonado os estudos para procurar trabalho ,para solucionar este problema o governo criou a lei do menor aprendiz que entrou em vigor em 2005, que permitem que alguns alunos a partir de determinada idade,poção trabalhar contanto que mantem sua media escolar sem um nível aceitável . 
+Em decorrência deste fato  a media  média de alunos que começarão  começaram a frequentar o ensino médio foi elevada ,porem  porém ainda a negligencia  negligência com a educação brasileira , pois as verbas investida pelas entidades governamentais ainda são ma destribadas ,ou em alguns casos nem chegam ou destino ,para resolver este problema o governo deve investir com mais sabedoria o dinheiro da população , e gerar melhores condições de estudos para os alunos . 
+as  As entidades governamentais de fato tomarão  providencia  providência para resolver os problemas da educação , entre tanto entretanto não é o bastando  bastante, deve-se investir mas  mais na educação da população em todas as áreas  visando que,  se torne o um abito  hábito brasileiro , pois como dizia Gustave Flaubert no conceito de defunto ´´ a vida deve se uma costante educação´´. 
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

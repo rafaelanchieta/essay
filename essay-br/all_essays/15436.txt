@@ -1,0 +1,9 @@
+# prompt: Gravidez precoce: um problema?
+# score: 190
+# tittle: Gravidez precoce: um problema?
+As crianças e adolescentes, tanto antigamente como hoje em dia  possuem o direito e dever de terem uma boa educação e lazer, mas isso não é o que acontece com muitas garotas no planeta.  Todos os dias há casos de gravidez precoce, e sim, isso é um grande problema, porque afeta muito no ensino, na disciplina, no comportamento, e até na saúde mental da pessoa, assim uma menina por exemplo que acostomava brincar e se divertir com seus amigos fica sem essa ação, pois terá uma grande responsabilidade sobre ela que aparenta ser um adulto no corpo de criança. Em muitos acontecimentos como este, a vítima acaba contraindo doenças mentais, acabando com a infância de muita gente. Dentro dessa questão, entra outra adersidade, o aborto. Como muitos infelizmente são desprovidos de condições financeiras e morada, ou até mesmo por negar dar a luz a um bebê, escolhem o caminho mais curto e optam em fazer o aborto, algo que é muito desagradável, esse assunto bastante debatido por várias pessoas ainda gera muita repercussão. O aborto é a solução para as adolescentes e meninas com gravidez precoce, não só para os jovens mas também para os adultos que não desejam ter uma criança. Contudo a gravidez precoce é um grande obstáculo e nós como seres consientes devemos agir contra isso, para que as crianças e jovens possam ter uma ótima infância e educação.  
+# C0: 100
+# C1: 20
+# C2: 20
+# C3: 50
+# C4: 0

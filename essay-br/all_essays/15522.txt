@@ -1,0 +1,14 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: Analfabetismo funcional no Brasil
+Analfabetismo funcional no Brasil: por que esse problema ainda persiste? 
+São chamados de analfabetos funcionais aqueles que reconhecem algumas palavras, porém não possuem capacidade de compreender textos, por mais que hajam palavras de seu dia-a-dia, dia a dia a coerência não é introduzida em suas mentes. 
+O analfabetismo funcional vem diminuindo cada vez mais com o passar dos anos, pois as pessoas têm grande acesso à internet e tecnologias, o que os estimula a se interessar pelas notícias globais ou videogames, e consequentemente,  tal ato aprimora sua leitura e vocabulário. 
+Contudo, há aproximadamente 60 anos, essas inovações tecnológicas não faziam parte do cotidiano da população. Muitas das pessoas que viviam no campo,  não conseguiam chegar às escolas, por estas serem longe o suficiente para não possuírem meios de transportes para se locomover. 
+Todavia, ainda há analfabetos pelo Brasil e alguns casos são responsabilidades do grau de necessidade passada dentro de seus   lares familiares, como trocar a escola pelo trabalho e ter de colocar o sustento dentro de casa. Há casos também,   em que o estudante vai perdendo o ânimo por acreditar que não é capaz de concluir, e com isso sua motivação vai diminuindo,  até ele desistir completamente e passar a vida toda se sujeitando em trabalhos com míseros salários. 
+Portanto, o governo atual possui  possue sistemas para melhorar essa situação, mas não são todos que se interessam. Estudos comprovam que encontrar uma forma divertida para os professores passarem as matérias mais tediosas, seria introduzindo jogos com o tema da matéria a ser estudada,  fazendo com que todos os alunos se interessassem cada vez mais pelas aulas e gerando interesse de estudar por conta própria.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

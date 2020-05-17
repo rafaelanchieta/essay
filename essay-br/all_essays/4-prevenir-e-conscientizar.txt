@@ -1,0 +1,12 @@
+# prompt: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens
+# score: 9,0
+# title: Prevenir e conscientizar
+Com um sistema de saúde precário e uma rotinaondetempo livre é raridade, grande parte dos jovens optam pela automedicação sem dar atenção às causas da doença nemosriscos de utilizar drogas sem orientação profissional.
+         É o que mostra recente pesquisa do Instituto de Ciência Tecnologia e Qualidade. Como o Sistema Único de Saúde não garanteapopulação um acompanhamento regular nem preventivo,nem mesmo nas emergências o atendimento é eficaz, os jovens optam pela automedicação, que é o caminho mais rápido para acabar com sintomas indesejáveis.
+         Além das más condições da saúde noBrasiloutro fator que leva os jovensaautomedicação é a inconsequência. Os jovens esquecem que para se ter uma velhice saudável são necessários certos cuidados na juventude. A automedicação pode solucionar um determinado sintoma no presente, mas pode trazer complicações no futuro se utilizados de forma errada.
+         Para evitar os transtornos da automedicaçãoa populaçãoo Estado deve investir mais emsaúde. Priorizando a prevenção,fomentando apraticade esportes,produção e o consumo de alimentos saudáveis, além de promover campanhas educativas alertandoos riscos da automedicação. Os cidadãos também devem buscar hábitossaudáveis tendoos medicamentos como último recurso.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 1,5
+# C4: 2,0

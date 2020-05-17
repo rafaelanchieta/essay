@@ -1,0 +1,9 @@
+# prompt: leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro
+# score: 4,5
+# title: Combate sistêmico aos acidentes de trânsito
+Conforme estatísticas da OMS, o Brasil ocupa a 2ª colocação no que se refere a acidentes de trânsito no mundo, devido ao excesso de velocidade e o uso de bebida alcoólica pelos condutores de veículos. Para coibir o índice de mais de 9% de acidentes nas estradas do país, o Brasil vai realizar uma consulta pública, para aumentar a punição dos motoristas que forem flagrados com taxa de álcool acima do permitido, e ou com o carro em velocidade acima do limite permitido.O Governo Brasileiro deveria investir mais em educação voltada para o trânsito, pois só com uma mudança de hábito que os acidentes nas rodovias serão reduzidos, mesmo que estas mudanças sejam graduais, más com resultados excelentes, visto que, no Direito Penal as penas impostas às pessoas que cometem o ato ilícito do homicídio é pesado, más mesmo assim algumas pessoas continuam praticando-as.Portanto os governantes do Brasil, teriam que investir ao lado das penas impostas às pessoas que cometem algumainflaçãono trânsito, uma educação sistemática para conseguir a almejada redução da taxa de acidentes nas estradas brasileiras.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

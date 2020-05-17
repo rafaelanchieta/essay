@@ -1,0 +1,12 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 2,0
+# title: A literatura no mundo atual
+Atualmente, os jovens não são de lermuito, num Mundode tanta tecnologia acabam se deixando levar porela, e com issoacabam se esquecendo dos livros, os tão maravilhosos livros.
+         Concordo em fazer uma nova liguagem de obrasliterarias,pois como dissemuitos jovens não leem mais,
+         quando leem é pouco, e por isso deve modificar a obra e deixá-la na linguagem mais 'jovem' , assim será mais produtivo e mais prático para nós, jovens, do que aquele livroque não sabemos o sigfinicado das palavras.
+         Portanto, deve sim ser modificado , porque creio que muitos jovens irão voltar aos hábitos de leitura .
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

@@ -1,0 +1,13 @@
+# prompt: a-sociedade-esta-perdendo-a-batalha-contra-o-crime
+# score: 8,5
+# title: A polícia que nos acuda
+Não importa seorganizadoounãoos grupos criminosos que atuam no Brasil devem ser combatidos. Os cidadãos percebem no dia a dia o que as pesquisas têm informado. A violência vem crescendo de forma exponencial. Só uma polícia eficiente para restabelecer a sensação de segurança da população.
+         A região sudeste, como de costume, está mais presente na mídia. Porém o agravamento da violência é um fenômeno nacional. Recentemente a onda de ataques a policiais chegouemSanta Catarina. Não sabemos se causa ou efeito, o consumo de drogas e contrabando de armas também estáaumentando.
+         Outro fato comum a todas as regiões é a desvalorização da profissão policial. Ela é mal remunerada e extremamente perigosa. Não atrai profissionais qualificados e algumas vezes pessoas com objetivos escusos entram na corporação já com o intuito de se corromper. Em São Paulotêm-se percebido que a reação dos grupos criminosos se deu devidoàexcessos cometidos pelos policiais.
+         A polícia deve agir dentro dalegalidade. Respeitandoos direitos humanos e deixando que o judiciário cumpra sua tarefa de fazer justiça.
+         Na situação em que se encontra a segurança pública no Brasil, só uma polícia valorizada pode restabelecer a sensação de segurança que a sociedade tanto almeja. Isso se dá com salário digno e uma estrutura moderna. E os policiais devem fazer o seu trabalho respeitando a dignidade da pessoa humana.
+# C0: 2,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 2,0

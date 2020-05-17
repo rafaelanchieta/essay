@@ -1,0 +1,12 @@
+# prompt: Política X Ciência: a "pílula do câncer"
+# score: 100
+# title: Política X Ciência: Perigo ou Salvação?
+Há tempos, observa-se que muitos médicos, cientistas e pessoas especializadas na área da ciência, buscam formas para curar o câncer, com isso surgiu a famosa pílula fosfoetanolamina. 
+Essa pílula surgiu como forma de revolucionar a ciência e propor uma melhor qualidade de vida com  quem tem a doença. É fundamental observamos  que ainda não é comprovada a sua cura. Muitas pessoas com diferentes tipos de cânceres já o aderiram  e tiveram bons resultados, não tiveram a cura, mas, tiveram uma boa melhora.
+Além disso seu uso foi devidamente liberado, pois a presidente Dilma Rousseff liberou a lei para a liberação do mesmo. Muitos dos que tem  a doença ficam com uma expectativa melhor por saber que pode haver uma cura ou uma melhora no caso. Por outro lado, alguns cientistas não concordam com sua liberação, pelo fato de ainda não saber de sua eficiência e se causa algum risco.
+Sendo assim  é sempre bom fazer testes antes de qualquer uso e que tantos  cientistas quanto médicos busquem melhorar seu produto e continuarem  buscando formas para curar o câncer e assim dar esperanças aos adquiridos com a doença. 
+# C0: 50
+# C1: 50
+# C2: 0
+# C3: 0
+# C4: 0

@@ -1,0 +1,17 @@
+# prompt: bicicletas-e-ciclofaixas-estao-chegando-para-ficar
+# score: 5,0
+# title: Bicicletas: a alternativa para um trânsito mais humanizado
+Congestionamentos, estresse, barulho, poluição e rompimento das relações sociais . Os problemas gerados pelo uso do transporte individual motorizado são visíveis e presentes diariamente na vida do brasileiro. Em meio a esse caos, surge o ciclista: indefeso, porém ecológico, ocupando menos espaço, exercitando-se epercorrendode forma mais rápida em meio aos congestionamentos. Será a bicicleta a solução?
+         No espaço urbano atual, nãoaespaçopara a bicicleta.
+         Aliás, nos grandes centros, não háespaçonem para os carros.
+         O planejamento é todo voltado para o veículo motorizado e o ciclista se sente intimidado a disputarespaçocom os carros, pois a bicicleta não oferece segurança ao condutor. Além disso, os motoristas dos carros se impõem sobre as bicicletas, desrespeitando o ciclista, o que inibe ainda mais o uso das bikes.
+         No Brasil,na cidade de São Paulo, por exemplo, o governo criou diversas ciclofaixas para uso exclusivo de bicicletasnos grandes centrospara estimular o uso , mas a sinalização é desrespeitada e é comum ver carros trafegando sobre elas. Nas redes sociais, os que são contra a instalação dos corredores para bicicletas afirmam que elas estão tomando o espaço dos carros e congestionando mais ainda o trânsito. No entanto, não levam em conta que a instalação das mesmas é justamente para estimular o trabalhador e o estudante a deixar seu carro em casa e ir de bicicleta para que as vias fiquem menos saturadas. Em países europeus comoHolanda, o transporte não motorizado funciona. Os cidadãos utilizam a bicicleta para o lazer e também para ir ao trabalho, escola, entre outros. Existe uma infraestrutura muito boa para os ciclistas: uma malha viária de ciclovias muitoextensas, além de estacionamentos exclusivos para bicicletas. Além disso, o
+         povo europeu está acostumado com essemodale por isso há o respeito mútuo entre o ciclista e o motorista de carro.
+         Assim percebe-se que a bicicleta é um modal necessário e fundamental para a terra do samba, pois estimula o motorista a pedalar . No entanto, é necessário quesejam criadaspelo poder público a infraestruturanecessáriacomo as ciclofaixas, os estacionamentos, ou até mesmo um sistema público de locação
+         para que o cidadão que não tem uma bicicletapossa utilizar.É interessante também que o povo seja educado por meio decampanhasa fim de mostrar os benefícios do veículo não motorizado. Dessa maneira, o trânsito se torna mais humanizado e
+         democrático .
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

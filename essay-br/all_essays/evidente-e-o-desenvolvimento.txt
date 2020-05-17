@@ -1,0 +1,11 @@
+# prompt: Ciência, tecnologia e superação dos limites humanos
+# score: 400
+# title: Evidente é o desenvolvimento
+Evidente é o desenvolvimento da ciência e da tecnologia, que vem ajudando o ser humano desde sua criação. Quanto mais diário os seus usos se tornam, mais à incorporamos. Uma sociedade controlada pela tecnologia criada pode estar mais próxima do que se parece .
+Desde a descorta da ciência e a criação da tecnologia, a humanidade esta cada vez mais desenvolvida e com isso o ser humano se deixa mais favorável a à utilização de novas tecnologias todo dia. Sair sem o celular de casa começa a ser deseperador , seu uso ja é tão concreto que a sua não utilização causa a sensação de que falta algo. Se a sua utilização compulsiva nós deixar favorável à implementação de chips e partes robóticas, pode ser o início visível de algo desconhecido assim deixando somente a elite a favor de tal coisa.
+Portanto a sua utilização deve ser moderada, e o seu desenvolvimento em laboratórios sempre supervisionado para não a deixarem controlar-los e deixarem sua ganância subir a cabeça e os consumir por completo.
+# C0: 80
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 80

@@ -1,0 +1,11 @@
+# prompt: racismo-como-virar-de-vez-essa-triste-pagina-da-historia
+# score: 4,0
+# title: A cor da pele não importa
+Desde os primórdios existe o preconceito racial. Há vários registros da presença do racismo na história do mundo, porém, em pleno século XXI, infelizmente, essa prática ainda prevalece. Antigamente, muitosindivíduos, possuíampreconceito
+         por pessoas de cores diferentes e isso era reforçado pelo império, que trazia inúmeros inúmeros negros para serem escravizados no Brasil, além disso, o ocultamento da África era evidente. Nos dias atuais, ainda são vistas várias formas de racismo, como foi o caso de uma senhora que não quis ser atendida por uma manicure negra em um salão de beleza. Os funcionários do salão filmaram o ocorrido e isso gerou uma grande repercussão na mídia. Também ocorreu outro caso que provocou a indignação da sociedade. Atiraram umabanano campo enquanto o jogador de futebol Daniel Alves batia um escanteio, porém, ele encarou o fato com muito bom humor. Após o ocorrido, milhares de pessoas postaram fotos em redes sociais como uma forma de apoio ao jogador.
+         Diante dos fatos mencionados, é perceptível a presença do racismo atualmente , o que é uma lástima, pois a cor da pele não influencia em nada. Sendo assim, é necessário o investimento do governo em campanhas contra o racismo, para que a população seja conscientizadaque isso não é uma prática respeitável.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

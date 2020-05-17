@@ -1,0 +1,9 @@
+# prompt: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade
+# score: 1,5
+# title: Covardia Social
+Uma das piores qualidades que o ser humano pode ter é a covardia. Esta desqualifica um homem, fazendo-o parecer um nada . Há várias maneiras de expressar esse sentimento . Uma das mais repugnantes é aquela em que a pessoa não assume seus atos e suas responsabilidades. Desvia -se deles, quando há necessidade de tomar atitudes importantes. Esse tipo de covarde vemos a todo o momento. Nossos representantes políticos nos fazem ver o quão prejudicial é para a sociedade essa má qualidade. A omissão na solução de problemas sociais, como educação, construção de casa de recuperação para viciados, demonstra tal covardia. Por outro lado, muitos anônimos têm assumido um papel importante diante do nosso povo. Distribuição de sopa, cobertores e alguma assistência social são exemplos de que os efeitos da covardia não têm atingido a todos. Pelo contrário. Têm sido incentivo para muitas pessoas externarem a vontade que pode mudar a sociedade. A coragem desses anônimos tem produzido um efeito muito mais positivo sobre todos do que a covardia de nossos representantes políticos.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

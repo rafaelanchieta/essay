@@ -1,0 +1,22 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 190
+# tittle: Os povos indígenas e o Brasil atual
+Como todos nós sabemos , ou deveríamos saber,  os povos indígenas, no Brasil, foram e são,  de extrema importância, e,  não valorizar e garantir os seus direitos,  é ir contra a nossa  história. 
+Graças aos indígenas, o povo Brasileiro que conhecemos  hoje e, sua cultura, formou-se, com a mistura das raças,  dos colonizadores, imigrantes, mesmo que, infelizmente, na maioria dos casos,  não tenha sido por vontade própria. Eles também,  preservam, diferente de nós, a natureza, justamente por serem muito próximos dela . Vemos  hoje que,  os direitos deles,  estão sendo esquecidos e desrespeitados, como a demarcação de terras, muitos acabam até morrendo, por doenças, pelo contato com outro povo, ou sendo mortos, por invasões em seus territórios. 
+Devemos , então, respeitá-los,  por serem responsáveis pela nossa  formação, para assim, garantir os seus direitos, que todo povo,  necessita e merece. 
+
+
+
+
+
+
+
+
+
+
+
+# C0: 50
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 20

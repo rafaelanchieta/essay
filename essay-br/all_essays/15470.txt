@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: Analfabetismo funcional
+É incontrovertível que o analfabetismo funcional é a realidade de muitos brasileiros. Logo, o constante crescimento destes casos estão tornando-se alarmante. Desse modo, deve-se tomar providências,  antes que este problema se agrave. 
+Bem como, são considerados analfabetos funcionais, sujeitos que sabem ler e examinar números, entretando, não conseguem interpretar e solucionar interrogações matemáticas mais complexas . Ademas, segundo pesquisa feita pelo Instituto Pró-Livro, 50% dos entrevistados declararam não ler livros por não conseguiram compreender seu conteúdo, mesmo sendo tecnicamente alfabetizados. 
+Além disso, o conhecimento é uma ferramenta fundamental para que o individuo  indivíduo possa questionar o corpo social em que se encontra. Desse modo, a falta de uma educação básica é um meio utilizado pelo Estado, cujo o objetivo principal é à desqualificação dos indivíduos para trabalhos bem remunerados . Logo, tornando-se mão de obra barata e abundante. 
+Diante disso, é de suma importância,  que o governo brasileiro proporcione aos cidadãos mais pobres à possibilidade de uma educação básica de qualidade . Outrossim, o Ministério da Educação  deve investir na criação de workshops para professores, onde ,  terão aprimoramento em seus mecanismos de ensino, para melhor combater o analfabetismo funcional. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

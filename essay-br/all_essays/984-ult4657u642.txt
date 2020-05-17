@@ -1,0 +1,13 @@
+# prompt: e-justo-proibir-o-uso-do-celular-na-sala-de-aula
+# score: 5,5
+# title: Um exagero de proporções
+Como todo bem individual que pode ser utilizado para diversos fins, os populares aparelhos celulares geram polêmicas. Desde a ascensão de todos os tipos de altas tecnologias, estamos vivenciando uma era de prós e contras, até onde a sociedade deve ou não interferir em valores e como nossos próprios bens materiais são capazes de nos prejudicar e nos expor. Nossos bens adquiridos para nosso prazer perdem seu caráter privado a partir do momento que podem ser utilizados para fins escusos , podendo assim prejudicar outras pessoas. É uma verdade que o Estado tem adquirido com o passar do tempo funções queestejamfora de sua esfera, entretanto, criar uma lei proibindo algo que pertence a outro âmbito, como esta proibição nas salas de aula, é no mínimo um exagero. Se os problemas ocorrem dentro das salas de aula, os responsáveis devem ser aqueles que estão próximos e são pagos para cumprir com determinada função, portanto vigiar as atividades de um aluno dentro de uma instituição escolar não é função de uma sociedade inteira, poisestainstituição é que deve se responsabilizar por seus alunos já que estão sob seu
+          domínio . Se a escola acredita que a atenção do aluno pode ser desviada por conta dos toques do aparelho, então cabe aestaproibir,
+            bem como o uso de bonés, se significa um ato de desrespeito para certos professores e demais profissionais, então que haja uma proibição sobre o mesmo também. É óbvio que os celulares podem servir para atender a uma emergência familiar ou para que os pais tenham um acesso mais facilitado com relação aos filhos, porém como os pontos negativos do usodestatecnologia ficam bem mais evidentes porque muitas pessoas passaram a utilizá-lo com outros fins, fazemos todo esse alarde. Éum elode coisas que se chocam e que nos põem em dúvida sobre qual a melhor posiçãoa seguir.
+            Dentre todos os aspectos positivos e negativosdestarevolução de valores, cabe a cada indivíduo e a cada instituição devida se responsabilizar por seus atos. O Estado, entretanto,possuiproblemas bem maioresque deveriam ser dignos de atenção, enquanto problemas simples como o uso de celulares e bonés em salas de aula devem ser deixados para ainstituição escola, em questão. Agora se vier a causar algum dano moral público, aí sim será preciso a intervenção de
+              autoridades mais competentes .
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

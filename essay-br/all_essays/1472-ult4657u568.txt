@@ -1,0 +1,11 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 4,0
+# title: O valor do idoso
+A vida de um ser humano é dividida em etapas. Trata-se de um processo contínuo e isso começa a partir donacimento. Com o passar do tempo, vamos adquirindo experiências, valores importantes e maturidade. A última etapa de nossas vidas é a conhecida velhice. Dependendo da pessoa, a velhice pode ser encarada como algo natural da vida, com certos benefícios, ou como algo indesejável , que nãotrásconsigo nada de bom.
+          Todavia, há uma verdade a ser ressaltada: a velhice é inevitável. Portanto, todos haveremos de passar por esta fase da vida, se obviamente chegarmos lá. A maioria dos idosospassampor grandes dificuldades, tais como: abandono por parte da família,malstratos, impossibilidade de acesso à saúde e até mesmo preconceito. Os direitos dos idosos deveriam ser respeitados, mas a realidade demonstra algo diferente. A mídia expõe frequentemente casosenvolvendo idosos, onde essessão espancados, menosprezados,e outros sãosimplesmente rejeitados
+            por seus próprios filhos, que afirmam que seus pais se tornaram um peso na vida deles . De fato, a valorização aos idosos deve começar em seus próprios lares, ou seja, em suas respectivas famílias. O idoso deve ser amado, compreendido e respeitado. O idosotêmmuito a oferecer à sociedade e aos mais jovens, pois é uma pessoa que adquiriu ao longo de sua vida muitas experiências e sabedoria. Certamente temos muitoo quêaprender com eles! Basta a cada um de nós nos conscientizarmos do grande valor que eles têm.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

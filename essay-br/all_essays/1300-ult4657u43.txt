@@ -1,0 +1,9 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 5,5
+# title: Procuram-se heróis
+O desenvolvimento da tecnologia gráfica permitiu a animalização de personagens heróicos e a sua constante divulgação contribui para a formação de um arquétipo positivo, que é almejado também fora das telas e das revistas em quadrinhos. Super-heróis não fazem parte apenas da fantasia infantil, no mundo adulto brasileiro são esperados para que possam reverter e até solucionar problemas reais, como a desigualdade social e a violência. A imagem de um homem com ideais humanitários aliados a princípios nobres, como a coragem e a solidariedade, transmitida por um herói desperta em populações desfavorecidas e oprimidas a esperança da mudança da realidade. Esperam por aqueles poderosos que irão lutar pelo bem comum, propiciando a elas condições de vida mais dignas, como um sistema de saúde público de qualidade e oportunidade de estudo e de crescimento profissional, frutos de políticas sociais eficientes comandadas por autoridades honestas e empenhadas. A violência, fruto principal das iniqüidades sociais, atinge ricos e pobres. Milhões de inocentes não seriam vítimas de balas perdidas, seqüestros relâmpagos, exploração infantil, guerras do tráfico e outras barbaridades se existissem aqueles que zelassem por sua segurança, por combaterem fortemente a injustiça e a impunidade, inclusive a dos políticos. Diante do contexto atual brasileiro, a idealização de heróis é essencial para acreditar-se em mudanças efetivas. Mas deve-se acautelar para não confundi-los com pseudo-heróis, que por detrás da mascara de defensores da nação, só enxergam seus próprios interesses. Às crianças, que constroem suas personalidades espelhando-se em adultos, o princípio de solidariedade deve ser ensinado, porque são elas os possíveis heróis do futuro.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 0,5

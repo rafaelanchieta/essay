@@ -1,0 +1,12 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 400
+# tittle: [Redação sem título]
+No Brasil o suícidio é umas das principais causas de morte, e os policiais não estão isentos a ela . Sob tal ótica, as maiores causas para que os policiais atentam contra sua própria vida,  não é apenas pela pressão sofrida mas também pela falta de tratamento mental. 
+Primordialmente, os policiais tendem a optar pelo suicídio desde a Segunda Guerra Mundial,  devido a grande pressão em que eles eram expostos. Ademais, atualmente por causa dos tralmas provocados pelos confrontos de rua,  muitos tendem a entrarem em depressão, levando- os vários à morte  mais que as divergências  de rua. 
+Entretanto, a faltas de tratamento mental nos treinamentos,  deixam a maioria dos polícias suscetíveis psicologicamente à depressão e à ansiedade. Além de tudo, o pouco treinamento psicológico não é muito eficiente, pois o atual não trata todo o psicológico dos policiais. 
+Dessa forma, medidas devem ser tomadas pelo governo juntamente com o exercício, que são os órgãos mais capacitados para tal tarefa, visando o bem-estar dos policiais. Sendo assim, um eficaz tratamento mental para os agentes com o psicológico abalado seria uma boa alternativa porque em meio o treinamento eles já estariam mais capacitados para realizar suas respectivas funções. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 500
+# tittle: Fábricas de ódio
+É fato que o sistema prisional está completamente fora de controle do estado. A população está cada vez mais encarcerada e assustada. Os presídios são fábricas de ódio e organização criminosa, os policiais e servidores estão acuados, sem infraestrutura mínima para trabalhar e sem perspectiva de melhora. 
+
+Por um lado, o superencarceramento representa uma grande parte de negros, pobres e jovens com baixa escolaridade, onde  a maioria dos detentos são por furto, roubo e principalmente o tráfico, apenas 2% representando homicídios. De acordo com o levantamento Nacional de Informações Penitenciárias , o Brasil está em terceiro lugar com mais presos no mundo, apenas ficando atrás da China e Estados Unidos. 
+
+Por outro lado, temos  a condição de vida precária e desumana, mesmo com 1456 presídios em todo território brasileiro  a superlotação é cerca de 175%. Segundo dados do Conselho Nacional , atualmente 256 mil presos são provisórios no Brasil, ou seja, 1/4 da população carcerária brasileira não foi condenada definitivamente pelo judiciário. A ressocialização é uma ideia deixada de lado, tal quadro é indubitavelmente preocupante, pois estes fatos causam,  uma sociedade perigosa e violenta ao receber tantos ex-presidiários que simplesmente cumpriram sua pena sem ter reinserção para retornar a comunidade. 
+Entende-se, portanto  que é necessário que a população entenda os riscos da não ressocialização do detendo  detento. Desse modo cabe ao estado investir na humanização dos espaços prisionais, na contratação de servidores e qualificação dos mesmos . Também cabe a sociedade apoiar investimentos e aceitar o ex-detendo como ser humano novamente. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

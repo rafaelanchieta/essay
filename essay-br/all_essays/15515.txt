@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 350
+# tittle: No brasil alfabetização
+No Brasil algumas pessoas têm oportunidade de estudar, poucas pessoas têm oportunidade no ensino, algumas alunos não têm condições de ir na  à escola, algumas estudaram pouco. É só saber escrever o primeiro nome. 
+No Brasil  o analfabetismo vem sendo reduzido  passou de 11,5% em 2004 para 8.7% em 2012. Embora o Brasil investido em jovens e adultos. Alguns indivíduos só conseguir ler, e compreender textos simples e escrever. 
+Embora algumas pessoas tendo oportunidade de estudar algumas de delas não conseguir ao companha a escola,   e com a falta de motivação que não irá aprender acabar desistido. Muitos estudantes desistem de estudar para trabalhar, o que prejudicar o rendimento escolar. 
+Portanto, cabe no  ao Brasil investir no incentivo dos brasileiros para se alfabetizar, investir no programa de alfabetização, e dar suporte para ir na  à escola. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

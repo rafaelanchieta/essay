@@ -1,0 +1,12 @@
+# prompt: qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida
+# score: 6,0
+# title: Mais estudo e menos ficção
+Para ter uma sólida carreira profissional é necessário ter uma “bagagem” de estudos, porém há casos em que nem foi precisofrequentaruma universidade para se tornarem milionários,
+         por exemplo Silvio Santos, Gisele Bündchen e a maioria dos jogadores de futebol. Esses casos não podem ser tomadoscomo exemplo, pois a “sorte” não está com todos.
+         Esperar que a sorte caia do céu é bem arriscado, o melhor é correr atrás e enfiar a cara nos livros. O único meio confiável de ascensão social é através do estudo e este deve ser valorizado. O conhecimento faz com que o homem enxergue o mundo com outros olhos, tendo sua própria opinião, e isso gera uma felicidade tamanha. Por outro lado, há aqueles que escolhem sua profissão por pressão familiar ou até mesmopelo tamanho salarial.Váriaspesquisas relataram que uma das maiores causas de insatisfação profissional está relacionada às escolhas equivocadas, em outras palavras, o profissional pode até ser bem sucedido, contudo ser totalmente infeliz. A pessoa, ao escolher sua profissão, deve sempre optar pela que mais lhe agrada,independenteda remuneração, pois salário é consequência. Fazendo aquiloquegostamos, certamente seremos bem sucedidos. A sorte é relativa e por isso não devemos nos iludir, pensando que
+         ficaremos ricos da noite para o dia. O bom da vida é estudar e trabalhar para conseguir o que almejamos.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

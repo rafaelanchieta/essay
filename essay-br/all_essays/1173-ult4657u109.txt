@@ -1,0 +1,11 @@
+# prompt: a-gramatica-facilita-ou-dificulta-a-comunicacao
+# score: 8,0
+# title: É difícil, mas é possível
+A arte de falar e escrever bem em uma língua é a primeira das definições apresentadas pelo Aurélio. Não que o dicionário esteja equivocado, mas concretizar esse conceito, com as regras vigentes da língua-padrão brasileira e as novas ferramentas de comunicação influenciando a linguagem, é tarefa bastante complicada.
+        Embora a escrita esteja ligada à fala, não podemos afirmar que a norma culta se aplique às duas. Basta analisarmos como cada país, colonizado pelos portugueses, adquiriu uma maneira própria de falar o português. O Brasil, tal quais os outros colonizados, moldou uma linguagem própria, fruto da diversidade cultual, os hábitos e tradições de cada região. Além disso, as particularidades lingüísticas das regiões tornam o Brasil ainda mais heterogêneo no português. Os sotaques, fonemas e ditos vêm sofrendo influências diversas que vão desde os indígenas aos imigrantes, além dos americanismos. Da mesma forma que alingüísticaé livre, a escrita está caminhando para o mesmo rumo. Está claro que a Internet é o exemplo maior dessa nova realidade. As abreviações, os sinais matemáticos, usados em e-mails, salas de bate-papo e blogs, mostram como a velocidade de informação está se sobrepondo ao cumprimento das regras da escrita. Não chega a ser um absurdo devido a liberdade que a Web proporciona, além do que seria exagero cobrar o uso da norma culta em tal meio.
+            Conduto, deixar de lado todas as regras e usar a linguagem coloquial em todos os ambientes seria um descaso a nossa língua-mãe. É imprescindível para a cultura e desenvolvimento do país que todos tenham a oportunidade de aprender as mínimas regras do português. Apesar da influência dos novos meios de comunicação e da globalização, não podemos deixar de lado a importância histórica da nossa língua, e os professores tem papel primordial neste caso, colocando de maneira mais prática e prazerosa o uso da norma padrão, equilibrando-a com as novas formas de comunicação. Um ponto de comunicação comum é o que a norma culta nos determina.Mesmo, com todas as difíceis regras, as peculiaridades regionais e culturais, devemos acima de tudo, continuar nos comunicando com a tão difícil e bela língua portuguesa.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 1,5
+# C4: 1,0

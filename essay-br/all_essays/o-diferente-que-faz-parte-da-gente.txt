@@ -1,0 +1,12 @@
+# prompt: Brasileiros têm "péssima educação argumentativa", segundo cientista
+# score: 300
+# title: O diferente que faz parte da gente
+Brasileiros  podem ser considerados por estrangeiros e até por nós, um  povo leigo, algo que já está sendo considerado da nossa cultura, pois comumente é visto notícias, em  que pessoas entram em brigas, que podem evoluir para casos gravíssimos, por motivos que poderiam ser resolvidos de modo diplomático  com uma simples conversa.
+Os nossos representantes na política brasileira, são  exemplos simples de casos em que a argumentação deveria estar acima de tudo, contudo  quando têm  votações, reuniões e assembleias facilmente é mostrado  que essas pessoas que comandam nosso pais  não sabem nem resolver de modo argumentativo , muito menos respeitam as opiniões que divergem as suas.
+Têm  casos que podem ser vivenciados diariamente por qualquer pessoa que frequenta as redes sociais, pois sempre há manifestações de opiniões, que se polarizam, e ao invés de ser discutidas expondo seus pontos de vista e respeitando aos outros, estes são xingados e ofendidos sem mesmo ter a chance de expor seus pensamentos. 
+Mas acima de tudo esse povo acolhedor tem que aprender a respeitar o que é diferente para ele, assim irá entender o outro lado, e consequentemente poderá mostrar o que na sua opinião não está correto, um gesto simples que começa nas escolas e evolui para a vida. 
+# C0: 50
+# C1: 50
+# C2: 100
+# C3: 50
+# C4: 50

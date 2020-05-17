@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 400
+# tittle: [Redação sem título]
+No final do século XIX,  surge a indústria cinematográfica após ser realizada, pelo inventor francês Lumière, a primeira exibição de um filme para o público.  Atualmente, apesar do crescimento do número de pessoas que frequentam as salas de cinema brasileiros, o índice ainda é baixo. Sob esse viés, torna-se profícuo uma análise dos fatores que impedem uma real democratização do acesso ao cinema no Brasil, como o descaso estatal e as desigualdades socioeconômicas. 
+
+Em primeira análise, convém ressaltar que a dificuldade para se democratizar o acesso ao mundo cinematográfico na sociedade brasileira se deve, muitas vezes, ao descaso estatal em relação à problemática. Segundo a Constituição Cidadã de 1988, é dever do Estado incentivar e apoiar a cultura, além de garantir o aproveitamento dela por toda a população . Entretanto, é fato que o Governo não investe de maneira efetiva em políticas públicas,  as quais tenham como intuito facilitar a acessibilidade dos indivíduos aos ambientes culturais. Desse modo, atividades culturais, como o cinema, tornam-se restritas a um pequeno grupo de pessoas. 
+Outrossim, as complicações para se ter acesso a esse meio cultural também ocorrem em razão das desigualdades socioeconômicas . Nessa perspectiva, mesmo com o advento das plataformas de streaming, como a Netflix, as quais aumentaram a possibilidade das pessoas assistirem a filmes sem precisarem sair de casa, nem toda a população tem condições financeiras de arcar com tais recursos. Assim sendo, diversas camadas da sociedade ficam impedidas de usufruir das produções da indústria cinematográfica. 
+
+Levando em consideração esses aspectos, faz-se necessário que o Estado tome providências para amenizar a atual situação. Logo, urge que o Ministério da Educação e Cultura  desenvolva projetos que exibam, de maneira gratuita, filmes nacionais e estrangeiros em salas de cinema e em escolas, com o objetivo de facilitar a acessibilidade a esses recursos por toda a sociedade, gerando menos desigualdade cultural. Posto isso, todos poderão usufruir da invenção de Lumière. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

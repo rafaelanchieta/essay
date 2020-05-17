@@ -1,0 +1,13 @@
+# prompt: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao
+# score: 4,5
+# title: Avançar para realizar.
+É plausível,quecom o avanço da tecnologia e
+         conhecimento da sociedade , a viagem para Marte não seja totalmente uma alucinação. Como descrito no artigo daFolha de São Paulo, é necessário ainda muito tempo para que seja realmente algo a ser colocado em prática, mesmo que para NASA.
+         O projeto MARS ONE tem uma proposta ótima, levando em conta que de pouco a pouco , povoaríamos outro planeta, conheceríamos outro tipo de vegetação, habitat e nos adaptaríamos a outros modos de vida e sobrevivência.Porem, como poderia o ser humano viver em um planeta com o meio ambiente tão hostil, como também relatado naFolha de São Paulo, com temperaturas médias de -63ºC e com falta deoxigênio.É necessário ainda pesquisas, obter informações, conhecer outros planetas, para que realmente possasediagnosticado um local
+         adaptável , para que o ser humano possa sobreviver bem, saudavelmente e para o resto dos seus dias já que é uma viagem só de ida, por conta da taxa para financiar o custo do projeto quechega a ser em cerca de R$ 15 bilhões.
+         Concluo que no fim das contas a ideia é valida, mas ainda temos que aperfeiçoá-la muito para um feito de tamanha proporção. É algo que exige tanto a evolução da tecnologia, quanto do ser humano para habitação e adaptação em outro planeta. Mas vale a brincadeira e a expectativa para quem sabe em um futuro próximo, possamos idealizar esse feito.
+# C0: 0,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: Preservação da cultura indígena
+O termo indígena concerne ao indivíduo que habitava no país anteriormente a um processo colonizador, o qual, quando associado ao Brasil, representa um episódio de exploração, além de desrespeito a sua cultura . Diante disso, é preciso entender a importância de valorizar e garantir os direitos dos povos nativos. Nesse sentido, convém ressaltarmos  as causas e consequências dessa problemática. 
+
+É fundamental,  pontuar que os índios ainda sofrem discriminação, pois há quem julgue suas pluralidades de culturas como inferior e a invisibilidade social é o âmago da questão . De acordo com o portal de notícias do G1, o principal problema é demarcação das terras onde em que ocorre conflitos com a bancada ruralista que tetam suprimir os direitos garantido na Constituição Federal. Em virtude dos fatos mencionados, é lamentável o descaso a esse fenômeno, ao considerar que os indígenas fazem a preservação do meio ambiente e os empresários do agronegócio visam somente a exploração e o lucro. 
+Em consequência disso,  há uma vulnerabilidade social e uma perca perda ambiental e humana, pois, resultam-se pequenos genocídios geográficos e culturais. Consoante o sócio-fundados do Instituto Socioambiental , Marcos Santili, historicamente já deu pra aprender que os indígenas não irão desaparecer e já lutam há mais de 500 anos contra as maldades feitas. Sendo assim, é necessário analisarmos  as possíveis soluções para mitigar esse desafio. 
+
+Portando, o Governo Federal deve ter rigor as leis de preservação as terras indígenas, por meio de investimentos na FUNAI e outros órgãos que visam a proteção desses povos;  além de promover palestras educacionais para difundir a importância e a luta de sobrevivência dos nativos. Espera-se, com isso, uma integração social com respeito e a diminuição de uma dívida histórica. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

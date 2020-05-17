@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 750
+# tittle: O sistema carcerário no Brasil: uma triste e alarmante realidade
+Na primeira metade do século XVI iniciou-se a escravidão negra no Brasil. Arrancados de suas terras, os negros eram trazidos por navios negreiros superlotados em condições insalúbres e desumanas. De maneira equiparativa, é perceptível no cenário brasileiro essas mesmas circunstâncias inseridas na realidade do sistema prisional, o qual encontra-se em condições deploráveis e cada vez mais aborratado . Nesse sentido, é fundamental analisar como reverter a situação das cadeias no Brasil.
+
+Em primeiro lugar, de acordo com a organização não-governamental Human Rights Watch, a estimativa de presos no Brasil no final de 2018 passava de 840 mil, contudo o sistema carcerário nacional possui capacidade para abrigar metade do número atual de detentos. Por conseguinte, esses fatores geram uma superlotação dentro dos presídios, tornando as condições de vida dos detidos cada vez mais precárias, com selas sujas, má alimentação e problemas de saúde. Tais condições também incitam ainda mais a violência já existente, a formação de rebeliões, articulação do crime organizado, tráfico de drogas e até mesmo prostituição. 
+
+Em segunda lugar, por se tratarem  de criminosos há um descaso social por parte do Poder Público e da sociedade com os mesmos . O Estado falha em garantir a integridade dos presos, não investe na manutenção dos estabelecimentos criminais e em projetos de ressocialização e capacitação profissional  e possui também um sistema de segurança falho. Além disso, a longa espera pelos julgamentos e a ineficiente assistência jurídica corroboram para o agravamento do problema. 
+Portanto, medidas são necessárias para resolver o impasse. O sistema jurídico deve reajustar as leis para penas de pequenos traficantes, reavaliar a aplicação de penas alternativas para prisões de longa duração e revisar possíveis casos de condenações para regime aberto ou semiaberto. O governo deve reforçar o sistema de segurança dentro das penitenciárias com policiais bem capacitados, reorganizar o número de reclusos por cela baseados em seus antecedentes criminais, promover manutenção do local periodicamente e dar assitência médica e melhor alimentação aos encarcerados. Faz-se necessário uma parceria do governo com entidades civis como a Apac , a fim de promover projetos de inclusão social, atividades educacionais, qualificação profissional e maior contato familiar dos detentos com suas famílias.
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

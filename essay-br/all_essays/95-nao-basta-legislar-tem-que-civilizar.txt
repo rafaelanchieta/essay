@@ -1,0 +1,12 @@
+# prompt: racismo-como-virar-de-vez-essa-triste-pagina-da-historia
+# score: 7,5
+# title: Não basta legislar, tem que civilizar
+Racismo: triste página de nossa história que tão cedo não conseguiremos virar. Por quê? Porque, em vez de parecer commetafórica banana que o jogador Daniel Alves deu a um torcedor racistaespanheiro, o modo de lidar com o problema no Brasil de hojeainda agrava mais ele. Procurar compensar os crimes do passado com medidas injustas, de caráter supostamente positivo, como as cotas raciais,resultamem mais tensão e menos união entre brancos e negros. Simples assim.
+         É a maneira típica de o governo brasileiro tratar seus problemas que estáerrado. Soluções por decreto só solucionaa consciência culpada de quem asproduzem. O
+         tesão de legislar e a dificuldade de perceber que a sociedade fatalmentetêmgrande probabilidade de fugir das legislações, ainda mais no paísdo jeitinho brasileiro, acabafatalmente seguindo a lei de Murphy. Exemplos? Já criaram uma lei obrigando a vender banana a quilo, em vez de dúzia, como era costume nacional desde os tempos de dom Pedro. Outra leideterminaramo nível de álcoolproibidano sangue dos motoristas, maspossibilitaram-lhesao mesmo tempo fugir ao bafômetro. Resultado: tiveram que mudar a lei pouco depois,pracriar um jeito defragaros bebuns.
+         Na minha opinião, a política de cotas é capaz de fazer o Brasil ser o primeiro país no mundo a ter um travesti na presidência da República. E daí? Mesmo assim os homossexuaiscontinuará a seremespancados e assasinados noitea fora. A "presidenta" da República elei Maria da Penhaestáaí para provar a tese. Não basta legislar: tem que fiscalizar, educar, civilizar.
+# C0: 1,0
+# C1: 2,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

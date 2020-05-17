@@ -1,0 +1,12 @@
+# prompt: O Brasil e os imigrantes no mundo contemporâneo
+# score: 560
+# title: Sonho imigrante
+O escritor brasileiro, Milton Nascimento  em sua música “Sonho Imigrante”, expressa o sentimento de saudade e anseio de retorno à pátria amada. Em decorrência da grave crise política, econômica e social que assusta países em todo o mundo, milhares de pessoas recorrem ao Brasil como refugio  em meio ao caos que vivem.
+Em primeira análise, é importante ressaltar sobre  a crise que assola a Venezuela, o que fez com que muitos vissem o Brasil como uma grande porta de recomeço. Segundo dados do Governo Brasileiro , foram emitidas aproximadamente cinco mil carteiras de trabalho dos  imigrantes Venezuelanos , o que faz com que trabalhadores que exercem serviços de baixa escolaridade, se  sintam ameaçados com a nova concorrência. Outrossim  mesmo que a sociedade civil se sinta ameaçada, o Governo Brasileiro  não pode omitir ajuda aos estrangeiros, pois a Constituição brasileira prevê igualdade entre nacionais e estrangeiros. 
+Alem  do mais, ressalte-se que o Brasil também vive uma crise econômica, com universidades, escolas e hospitais em estado de calamidade. Com a crescente onda de imigrações  as autoridades deverão aumentar o repasse de recursos aos municípios, a fim de atender as necessidades básicas dos moradores, sejam eles nacionais ou estrangeiros.
+Fica clara, portanto  a necessidade de ações por parte do Ministério da Justiça juntamente como Departamento de Migrações (DEMIG), como a solução dos “Campos fechados” uma proposta feita pela França e Espanha. É de extrema importância que o Ministério da Saúde intensifique campanhas de vacinação, para que doenças já erradicadas não se tornem novamente um alarde á  saúde pública.
+# C0: 160
+# C1: 120
+# C2: 80
+# C3: 120
+# C4: 80

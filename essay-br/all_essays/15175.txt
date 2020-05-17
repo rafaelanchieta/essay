@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 290
+# tittle: Conscientização da vacina
+A vacina recentemente tem sido um assunto muito polêmico no Brasil, pois trata-se de uma questão social onde   grande parte da população é a favor deste método e o restante é totalmente contra. 
+
+Muitas doenças que eram comuns no Brasil ,  deixaram de ser uma preocupação da saúde pública, justamente por causa da vacinação. 
+
+Algumas reações, como febre e dor, podem acontecer após a aplicação da vacina, mas os benefícios dela são muito maiores  do que os riscos dessas reações temporárias. 
+Pessoas não vacinadas,  podem ser a porta de entrada de doenças que acabaram no Brasil,  Com a globalização,  as pessoas passam por continentes em uma única semana, correndo o risco de infectar alguém que não esteja imunizado. 
+
+Em questão disso, o Estado deveria   criar mais projetos por meio da mobilização de vários setores sociais sobre a conscientização da aplicação da vacina, pois além de imunizar,  a vacina salva vidas. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 20

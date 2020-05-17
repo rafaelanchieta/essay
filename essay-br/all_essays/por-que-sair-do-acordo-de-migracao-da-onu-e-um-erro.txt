@@ -1,0 +1,12 @@
+# prompt: O Brasil e os imigrantes no mundo contemporâneo
+# score: 480
+# title: Por que sair do acordo de migração da ONU é um erro?
+No Brasil contemporâneo vivenciamos o impacto da imigração de venezuelanos por meio da fronteira entre Brasil, no estado de Roraima, e Venezuela . O êxodo venezuelano tem se desdobrado em discussões, debates, medidas governamentais de gerenciamento dos imigrantes e, finalmente, a medida mais drástica, a ameaça de retirada do Brasil do Pacto Mundial para Migração pelo Presidente da República, Jair Messias Bolsonaro.
+A questão de frente é a crise nos países de origem dos imigrantes  gerada por governos corruptos, ditatoriais, guerras, conflitos internos e crise econômica  além da falta de desenvolvimento na educação, carência  de estruturas básicas de saneamento entre outros déficits. Já a questão de fundo, ofuscada pelo medo e desinformação, é a situação de imigrantes e refugiados que ficam à margem da sociedade e se sustentam apenas na esperança de sobreviverem em um país com condições diversas do seu país de origem.
+A retirada do Brasil do Pacto Mundial  para Migração é um erro, é a negação do estado de direito daqueles que se socorrem em nossa nação, pois o contexto da Constituição de 1988 assevera que somos uma nação solidária e que em nossas relações internacionais prevalecerão os direitos humanos e a cooperação entre os povos para o progresso da humanidade, o que significa que a saída do Brasil desse acordo é a negação da própria Constituição Federal, a carta inaugural da República Federativa Brasileira .
+O Brasil é um país emergente, uma nação em ascensão  com plenas condições de acolher imigrantes, sua  acolhida significa, além de progresso, também o desenvolvimento e  demonstração de prevalência dos direitos humanos com o absoluto respeito a  dignidade da pessoa humana.
+# C0: 160
+# C1: 120
+# C2: 120
+# C3: 80
+# C4: 0

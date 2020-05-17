@@ -1,0 +1,11 @@
+# prompt: a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao
+# score: 5,0
+# title: O futuro de seus filhos
+Diabetes, obesidade infantil, colesterol alto e problemas relacionados ao coração são alguns dostópicosmais frequentes nas clínicas pediátricas. Sabendo-se que essas doenças são causadas por uma má alimentação,surgealgumas perguntas como:
+         essa má alimentação é direcionada a um grupo específico? E a quem cabe a responsabilidade de controlar a alimentação da população? Os fast-food são os grandes vilões dessa história, pois a maioria dos seus produtos alimentícios possuem um elevado índice de gordura trans, açúcar e sódio que são causadores de diversas doenças se forem ingeridos em excesso. O mercado do fast-food tem como principal alvo as crianças, dedicando-se totalmente a esse público, adaptando instalações, colocando escorregadores e outros brinquedos e criando alguns pacotes promocionaisondevocê compra um lanche e ganha um brinquedo. Você já viu uma criança com obesidade mor fazendo uma propaganda do Mc Donalds, por exemplo? Provavelmente não. Observando esses fatos pode-se dizer que a responsabilidade do problema é tanto do governo quanto dos pais e mães, pois tem que haver uma parte do governo e também uma conscientização dos pais para a alimentação de seus filhos. O governotem quecriar uma lei, que nas propagandas de refrigerantes e lanchestem quehaver um anúncio mostrando as doenças causadas pelo uso em excesso de tais alimentos, e os pais, por sua vez precisam educar seus filhos a comerem coisas saudáveis, tentar trocar o refrigerante ou o milk shake por um suco natural é uma ótima escolha. Não será fácil convencer os baixinhos, mas se trata da saúde de seus filhos, por isso o papel dos pais etão importantequandoo do governo.Fica-seclaro, portanto, que a responsabilidade daescolados alimentos que
+         iremos ingerir é tanto do governo como da sociedade,aondetodos deverão colaborar para que aja realmente um progresso para a melhoria da qualidade dos alimentos que ingerirmos.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,5
+# C3: 0,5
+# C4: 1,0

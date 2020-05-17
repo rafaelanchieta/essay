@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: A Reforma da Previdência e sua necessidade
+A Previdência Social consiste em um conjunto de leis e direitos para /com  a população, onde no qual o objetivo é ampará-la em casos de velhice, doença, desemprego e afins. A previdência teve sua última mudança, em 2015, no governo de Dilma Rousseff, porém tem como base a constituição de 1988, que se estabelece como a previdência que se conhece atualmente, na qual se aborda pautas que envolvem saúde e assistência. 
+
+Contudo, o atual governo vem com a proposta da reforma da previdência, onde em que se tem como premissa combater o déficit que o Brasil vem sofrendo, unido ao envelhecimento populacional, no qual a taxa de idosos é superior a taxa da população economicamente ativa, o PEA. Logo, pensar em reformas para a previdência é necessário, porém não é cabível mudanças na proporção que o governo vem estabelecendo, sendo elas extremamente rígidas para um país que ainda está em desenvolvimento. 
+Conforme essas mudanças,  pode-se citar a idade mínima estabelecida para se aposentar, sendo 62 anos para mulheres e 65 anos para homens, entrementes, muitas regiões do Brasil  a expectativa de vida não chega a idade estipulada, deste modo sendo quase notório a negação da aposentadoria a essas pessoas. Convém lembrar,  que o país sendo subdesenvolvido não proporciona qualidade de vida apropriada para a população civil, que será atingida com a reforma, assim torna-se incabível trabalharem até os 65 anos. 
+
+Em virtude das situações mencionadas, pode-se tirar como conclusão,  que a reforma da previdência,  é sim necessária para evitar uma futura crise econômica, porém deve-se fazer novos mecanismos para que se enquadre melhor na realidade na qual o país vive, visando o melhor para a economia nacional, mas também para a nação de modo geral. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

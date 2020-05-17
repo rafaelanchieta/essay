@@ -1,0 +1,12 @@
+# prompt: Artes e educação física: opcionais ou obrigatórias?
+# score: 50
+# title: Educação: notório saber
+Absurdamente nossos governantes vem  cometendo mais erros na área educacional, os quais poderão levar mais ao fundo do poço os índices de evasão escolar de nossos estudantes. Para melhorar esses índices são necessárias muitas outras ações a  nível social e educacional que acrescentem e não retirem nada do que já conquistamos.
+Neste tempo em que os estudantes ficam a maior parte de seu tempo conectados aos meios tecnológicos e sendo assim não praticam exercícios físicos, é imprescindível ofertar a eles a prática esportiva e a oportunidade para desenvolver habilidades artísticas.
+Outros dois equívocos são: acreditar  que temos estrutura física disponível para trabalhar em tempo integral em todos os estabelecimentos educacionais do país e não observar que nossa clientela vem de famílias carentes, que vislumbram a entrada no Ensino Médio e a possibilidade de trabalhar meio período para colaborar com a renda familiar.
+Enquanto os que tem  o poder de melhorar os aspectos educacionais estiverem se pronunciando com “notório saber”, sem conhecer nossas realidades e reais necessidades, estaremos, infelizmente, a um passo de piorar ainda mais a educação de nosso país.
+# C0: 50
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

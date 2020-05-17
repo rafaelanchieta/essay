@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 600
+# tittle: A ameaça do direito social
+O fator previdenciário nacional consiste em um sistema público que visa garantir a seguridade social. A estrutura cauciona as aposentadorias dos trabalhadores inativos através de contribuições com base na remuneração salarial dos empregados ativos. No entanto, essa técnica de repartição simples sofre com o envelhecimento da população e adoece a saúde fiscal do Estado. 
+
+Assim, a previdência possui um déficit orçamentário, posto que há um número maior de beneficiários do que de contribuintes. Dessa forma, o Governo vigente - órgão responsável - tenciona para reformulação do programa, como por exemplo: implementação de um regime de capitalização, ou seja, as contribuições do indivíduo são direcionadas para uma aplicação financeira que o mesmo  poderá resgatar no futuro. Ademais, o coeficiente central da reforma é instaurar mudanças na idade mínima , tornando-a como única condição de usufruir do benefício. Consequentemente, dificulta-se o processo de aposentadoria, todavia com os cortes nos gastos geram-se receitas aos cofres públicos, que segundo o Governo irá se traduzir em um crescimento econômico. 
+Não obstante, a partir de dados do IBGE , a expectativa de vida da sociedade brasileira não é igualitária devido ao desenvolvimento econômico e social de cada estado, tal como: em São Paulo - 77 anos, já no Maranhão - 70 anos. Logo, a generalização das idades mínimas danifica as massas em localidades mais desfavorecidas, pois a maioria dos indivíduos que vive em condições ínfimas de qualidade vital depende do programa para a subsistência. Por conseguinte, a reforma previdenciária é um problema, visto que essas alterações resultariam em um aumento na jornada profissional e uma baixa circulação de capital que viabiliza pessoas mais pobres. 
+
+Portanto, para que seja vedado o abalo fiscal, cabe ao Estado, por meio de leis e incentivos, solenizar os trabalhadores que agrupam o setor do mercado informal, melhorar a gestão em parceria ao poder Judiciário  a fim de abolir fraudes, assim para que se obtenham resultados a curto prazo e não atinja a camada social. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

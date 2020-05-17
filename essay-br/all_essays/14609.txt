@@ -1,0 +1,12 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 300
+# tittle: Como reverter o cenário da atual situação carcerária do Brasil?
+Sabemos  que atualmente no Brasil á as revoltas e repercursões estão dominando as prisões , o que era para ter um total controle está virando um desastre,  por quererem tratar um preso/assassino etc, como se fossem cidadãos sendo que esses indivíduos mataram, roubaram e abusaram pessoas, que às vezes nem merecia. 
+
+Com um novo governo , ainda mal colocado ou estão organizando, muitas leis não estão sendo exigidas como era para ser, um exemplo disso é as carceragens do Brasil para reverter o caso temos  que impor leis exigentes e que requeira mais cuidado em segurança,  como: entrada e saída de pessoas, revisar celas todos os dias. O que pode para fazer para mudar o cenário é colocar novos comandantes que tenham capacidade de exercer determinadas funções, e leis que fazem  façam com que os presos tenham os anos de prisões exigidos como um fato de que realmente tenham que pagar por aquilo que fazem, sem saída para natal, feriado nacional, etc. 
+Para mudar o que está acontecendo nas grandes e pequenas carceragens do Brasil,  tem que ter determinação para mudar regras/leis que realmente possam fazer alguma coisa. Os deputados, senadores e presidentes têm que colocar guardas de verdade, leis que permitam a entrada de pessoas realmente autorizadas, vistorias de presos e punições. Não para maltratar  mas um castigo que vale apena a pena.  
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

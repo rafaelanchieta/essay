@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 750
+# tittle: Muitas variáveis: A importância das vacinas para a sociedadw
+No início do século XX, a população do Rio de Janeiro absteve-se de aceitar a campanha de vacinação desenvolvida pelo médico e sanitarista Oswaldo Cruz, sobretudo pelo desconhecimento acerca do funcionamento das vacinas. Em tal contexto, o Brasil era afligido por diversas enfermidades, suscitando a necessidade de políticas públicas para erradicá-las peremptoriamente, pois a estabilidade da sociedade dependia disso. A imprescindibilidade de campanhas do tipo em território brasileiro perdura, oriunda tanto de sua importância para a garantia de um direito constitucional  quanto para a manutenção da estabilidade produtiva das empresas estabelecidas em território brasileiro. 
+A Constituição Federal de 1988 afirma a garantia do direito à saúde aos brasileiros. A vacinação, dessa forma, é fundamental para a égide de tal princípio constitucional pelos órgãos do Estado, à medida que a observação empírica constata que essa auxilia na atenuação da incidência de doenças nas diversas regiões do país, propiciando proteção da população contra enfermidades e, consequentemente, do direito constitucional no que tange à saúde. Sendo assim, a vacinação é de suma importância para a melhoria da qualidade de vida brasileira e preservação de um direito social. 
+Além disso, a economia brasileira pode ser beneficiada, direta e indiretamente, com campanhas de vacinação. A existência destas, por exemplo, pode eventualmente diminuir o número de trabalhadores que têm de se ausentar do trabalho devido a enfermidades, mantendo estáveis os níveis de produtividade das empresas. Soma-se a isso,  a atenuação dos gastos públicos com tratamento para determinadas patologias, que impacta positivivamente a economia. Logo, a necessidade da vacinação de majoritária parcela da sociedade é respaldada também pelo impacto de tal atitude no setor econômico. 
+A vacinação da população é, indubitavelmente, fundamental para a manutenção de uma sociedade com saúde populacional e economia estáveis. As secretarias municipais de saúde devem, portanto, realizar campanhas de vacinação, tencionando ampliar o número de pessoas imunizadas a doenças que atingem o território brasileiro, e palestras que mitiguem crenças errôneas  acerca do funcionamento e consequências das vacinas. Concomitantemente a isso, as empresas devem se engajar em campanhas que visem auxiliar na ampliação do número de trabalhadores vacinados, diminuido a possibilidade de eventuais prejuízos. Com essas medidas,  será possível evitar a ascensão de doenças até então erradicadas, impedir o aumento dos gastos públicos com tratamento dessas enfermidades,  e, ao combatê-las, proteger a economia do Brasil. 
+
+
+
+
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

@@ -1,0 +1,12 @@
+# prompt: Escravizar é humano?
+# score: 6,0
+# title: Escravidão: vergonha a ser extinta
+ Pessoas acorrentadas com o sonho de liberdade que para muitos nunca se concretizou. Esse era o cenário da escravidão no Brasil até a assinatura da Lei Áurea de 1888. Porém, engana-se quem pensa que tal documento extinguiu uma vergonha que apenas vestiu outros trajes para manchar a história contemporânea.
+ A escravidão, apesar de ferir a legalidade e os princípios éticos e democráticos, é praticada por muitas empresas e empreendedores individuais. No Brasil, por exemplo, esse é um fato muito recorrente. Pessoas são contratadas por empregadores que não pagam salários dignos, em  condições insalubres  sem equipamento de segurança e ainda submetidas muitas vezes à privação de sua liberdade de ir e vir  por dívidas que não têm qualquer fundamento. Isso acontece, principalmente, porque  devido ao incentivo à acumulação de capital próprio do sistema econômico vigente, muitos empregadores tendem a não medir esforços em busca do lucro e acabam desconsiderando o valor da vida humana, acrescendo-se também a falta de fiscalização, especialmente em locais isolados, e a escassez de oportunidades de trabalho a pessoas que se submetem a exercer essas funções.
+ Dessa forma, o regime de trabalho escravo não traz qualquer saldo positivo: destrói a saúde e até a vida dos trabalhadores, tira crianças da escola e o empresário, quando é descoberto, segundo a recém-aprovada PEC do trabalho escravo de 2014, tem suas terras expropriadas, sem qualquer indenização, além de incorrer em pena privativa de liberdade segundo o Código Penal.
+ Portanto, a escravidão deve ser um regime vergonhoso que apenas os livros e documentos históricos possam abrigá-la. Para isso, é preciso que se intensifique a fiscalização por órgãos como sindicatos trabalhistas e o Ministério do Trabalho, e que qualquer irregularidade seja punida sem qualquer abono da Justiça. Além disso, é preciso que o governo  federal crie e incentive oportunidades de emprego e renda dignas especialmente em áreas mais carentes, como por exemplo, reduzindo impostos aos microempreendedores. Afinal o Brasil só poderá ser um país de todos quando seus trabalhadores tiverem intactos seus direitos trabalhistas e suas dignidades.
+# C1: 1,5
+# C3: 1,5
+# C5: 1,0
+# C7: 1,0
+# C9: 1,0

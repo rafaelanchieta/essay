@@ -1,0 +1,16 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: Fome no Brasil: Os Resquícios do Dinheiro na Mão de Poucos
+A fome é um problema de caráter mundial que vem gerando reflexões a respeito, e que tem diminuído desde os anos 2000. Entretanto, apesar da sua diminuição, ainda faz parte da realidade de muitas famílias;  é um espelho do cenário atual brasileiro, onde no qual pessoas pós-graduadas buscam esperançosamente por um emprego - pois o mercado de trabalho reflete a situação econômica do país - e onde  as desigualdades crescem como nunca.
+
+Na internet, frequentemente, alternativas milagrosas são apresentadas aos nossos  olhos como o “6 em 7”, onde se promete conseguir 6 dígitos na conta bancária em 7 dias; além da famosa Bettina, que fazia propagandas no YouTube, e que investiu pouco dinheiro  e obteve um ótimo retorno financeiro. Diante da decadente situação financeira do Brasil, propostas desse tipo aparecem como uma saída, mas contribuem ainda mais para um país desigual. 
+
+Isso porque,  é gerada uma concentração de renda, que é um dos fatores determinantes para o crescimento das desigualdades econômicas;  enquanto ocorre essa concentração,  não há uma distribuição de dinheiro proporcional nos diversos ramos da sociedade. Essa falta de distribuição dificulta o comércio e o próprio desenvolvimento do modelo capitalista; há a dificuldade na geração de novos empregos e no mantimento dos já existentes. 
+Desempregados, a parte da população brasileira que hoje chega a 13 milhões, possuem uma família para sustentar e despesas. Muitas vezes,  não tiveram o acesso que deveriam à educação – o que dificulta ainda mais na inserção no mercado de trabalho. Com isso, enfrentam dificuldades financeiras,  que podem evoluir para a fome. Sem contar na parcela de pessoas que vivem em situação de extrema pobreza, e que pouco podem fazer para mudar essa realidade. 
+
+Diante dos fatos expostos, para haver uma diminuição da fome, que é, também, uma das consequências do desemprego, é necessário haver um incentivo do governo para a abertura de novas vagas de emprego e melhora na economia. Para isso, deve haver uma fiscalização geral acerca da origem e do que pode causar o dinheiro em determinadas situações, e, consequentemente, uma melhor distribuição das riquezas do país. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 340
+# title: Anseio do Povo
+O STF (Supremo Tribunal Federal) é responsável por ser guardião da constituição da constituição  federal, prezando pela justiça, entretanto atualmente foi instaurado uma grande frustração da sociedade em relação ao STF, criada pelas ações do mesmo.
+Em primeira instância as decisões feitas pelo tribunal federal são diferentes podendo algumas serem consideradas como antagonistas a o sentimento social da sociedade. Não é impossível dizer que todas as decisões dele são verdadeiras, pois ações tomadas por ele podem ser manipuladas, serem decididas através da convicção de uma só pessoa, isso causa falta de confiança nas decisões tomadas.
+Existe a falta de uma avaliação mais ampla, no cenário atual não há um julgamento em que seja visado todos os aspectos, há uma justificativa para alguém cometer uma ação ilegal, a culpa não é totalmente da pessoa, porém muitas vezes isso não é considerado, ações como essa são arbitrárias da primícia do STF que é a constituição .
+O convívio do cidadão com a justiça no Brasil é difícil, sem uma boa avaliação e consideração pelo desejo, anseio da sociedade, o sistema acaba sendo falho e precário. Uma fiscalização aprofundada, levará uma análise para saber o que está sendo ilegal, além disso um sistema que considere mais a opinião pública de forma que seja ético, pode recuperar a confiança da população brasileira.
+# C0: 80
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 20

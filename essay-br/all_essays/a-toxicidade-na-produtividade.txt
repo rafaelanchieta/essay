@@ -1,0 +1,12 @@
+# prompt: Agrotóxicos ou defensivos agrícolas: dois nomes e uma polêmica
+# score: 640
+# title: A toxicidade na produtividade
+Em meio a esta discussão para definir um nome aos produtos utilizados na agricultura, é importante destacar que há dois pontos de vista: o dos ambientalistas e o dos fabricantes/agricultores. Sendo assim, ambos as partes trazem argumentos que defendem suas conclusões de acordo com suas áreas de experiência.
+Os ambientalistas, aqueles que possuem como principal objetivo preservar o meio ambiente, afirmam que os produtos devem ser chamados de "agrotóxicos" por causarem um impacto negativo (tóxico) aos seres vivos. Já os agricultores ou fabricantes desses produtos defendem que o nome certo para os peticidas é "defensivos agrícolas", por defenderem as plantações das pragas.
+Para finalmente chegar a um desfecho desta discussão, deve-se analisar a real função dos peticidas , que é a seguinte: evitar danos causados por pragas em plantações. Ao mesmo tempo que esses produtos protegem as plantações, eles causam danos ao meio ambiente e aos seres vivos, ou seja, possuem a função de defender mas são tóxicos. Os ambientalistas estão ao lado das consequências da toxidade , e os que produzem e trabalham com esses produtos estão preocupados apenas com a produtividade (o ponto de vista econômico), sem se preocupar com os danos causados pelos produtos que utilizam para faturar.
+Em virtude dos fatos analisados acima, conclui-se que ambos os nomes propostos se encaixam aos peticidas , porém o mesmo não irá deixar de ser tóxico por atuar na defesa das plantações, e do ponto de vista ambientalista, esses produtos trazem mais desvantagens do que vantagens à todo o planeta, logo, o termo mais correto a ser utilizado seria "agrotóxico".
+# C0: 120
+# C1: 120
+# C2: 160
+# C3: 120
+# C4: 120

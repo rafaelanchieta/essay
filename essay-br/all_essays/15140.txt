@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 370
+# tittle: Vacina gera vida longa
+As vacinas são substâncias biológicas introduzidas nos corpos das pessoas a fim de protegê-las de doenças. Na prática, elas ativam o sistema imunológico,  "ensinando" nosso   organismo a reconhecer e combater vírus e bactérias em futuras infecções. A primeira vacina foi criada por Edward Jenner, no século XVIII. 
+
+Desde então,  é perceptível vários pontos positivos,  gera o aumento da expectativa de vida da população, protege quem não está doente, ao levar uma criança para estar imunizada no posto de saúde mais próximo até porque, pelo contrário  existem algumas doenças que deixam permanentemente sequelas no indivíduo pelo resto da vida. Tal como,  sarampo, febre amarela e, entre outras. 
+ 
+A intervenção da saúde pública de maior efetividade e de melhor relação entre custo e benefício é a vacinação contra doenças infecciosas . A prática da saúde pública deve ser sempre adaptada a realidade do momento. O código do consumidor, ainda recente, prevê situações semelhantes. Qualquer aplicação de um imunobiológico em massa, por mais precisa que seja a sua indicação, deve ser precedida e acompanhada de um processo de orientação, tanto da população-alvo, como do meio médico não diretamente ligado ao serviço público. 
+As vacinas são imprescindíveis no processo de formação, desenvolvimento da criança, do adulto e,  idoso, mas, quando foi descoberta por Edward Jenner não tinha tanta visibilidade como é hoje. É necessário que as pessoas, escolas  estejam informadas através da internet, jornais impressos, palestras sobre campanhas, pra para que serve e,  o público alvo . Quebrem o preconceito de algumas religiões, que disseminam aspectos negativos sobre as vacinas, ou seja, isso prejudica o objetivo da Campanha vacinal que é imunizar o maior número de indivíduos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

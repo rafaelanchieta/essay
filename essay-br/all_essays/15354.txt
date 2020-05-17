@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 270
+# tittle: Gravidez na adolescência
+Um dos maiores tabu, a gravidez na adolescência   entrou em cena e passou a ser comentada em diversos estados e regiões brasileiras  inclusive no mundo. 
+Muitas meninas entre 15 a 19 anos começaram a engravidar, comparado com o século passado que nessa faixa etária era considerado norma, porem, antigamente a vida era totalmente diferente, mais complicada, sem muitos recursos,   tinha baixa infraestrutura e principalmente o ensino não tinha qualidade. 
+Mas neste século XXI, mais globalizado, cheio de recurso, contendo mais métodos contraceptivos, as meninas assim deveriam se cuidar e prevenir . Pois muitas da vezes a gestação não é planejada  com isso,  deixa sua vida para dedicar ao filho e acaba deixando a escola de lado e muitas das vezes nem volta. 
+Outro problema que acarreta é que cada vez mais as relações não estão sendo realizadas com prevenção podendo transmitir doenças sexuais, que não há cura e gravidez nessa idade trás riscos tanto a mãe quanto ao bebê pois o corpo não esta preparado e formado para uma gestação. 
+Portanto deveriam utilizar os métodos contraceptivos oferecidos e mais palestras feitas nas escolas para a conscientização de todos já no caso de regiões subdesenvolvidas como Norte e Nordeste, deveria ser o foco de melhoria para o Brasil. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

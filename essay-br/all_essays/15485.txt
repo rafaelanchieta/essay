@@ -1,0 +1,11 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Analfabetismo : A importância de uma caneta na mão.
+De acordo com uma pesquisa realizada pela Pnad,o índice atual de analfabetos no país corresponde a 93,2%,dado que pode ser considerado elevado  e que mostra que  muitas pessoas não sabem ler ou escrever até mesmo textos simples. 
+Em primeira análise,os fatores que impulsionam a esse número de analfabetos são diversos,porém, valem ser lembrados aqueles que mais causam o abandono da escola,como por exemplo,o ensino básico de baixa qualidade que ocasiona em uma desmotivação do estudante  e consequentemente levando-o ao abandono escolar .Por conseguinte,  têm-se pessoas com baixo senso crítico,ou seja, não procuram se questionar sobre assuntos do ao seu redor  ou até mesmo do mundo .Logo,fica claro a dificuldade que esses indivíduos terão de enfrentar para conseguir um bom emprego, em virtude de não saberem interpretar textos ou fazerem contas básicas. 
+Em síntese, faz-se necessário diminuir o percentual de analfabetos funcionais consideravelmente.Para isso, é mister que o Ministério da Educação  por meio de políticas públicas ofereça oficinas ou cursos de leitura e interpretação,no intuito de dar continuidade ao aprendizado daqueles que acabaram não concluindo a vida escolar.Ademais,o incentivo da família é de suma importância,já que possui uma grande influência sobre os filhos.Pois já dizia Paulo Freire " A educação,qualquer que seja ela,é sempre uma teoria do conhecimento posta em prática ".
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

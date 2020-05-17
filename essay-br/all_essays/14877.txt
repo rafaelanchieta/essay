@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: [Redação sem título]
+O Brasil, segundo dados do FMI , tem a segunda melhor economia do continente americano, tendo a agricultura uma de suas principais bases. O país tem recursos suficientes para alimentar todos os brasileiros, porém, devido a má distribuição de renda e leis de tributação que desfavorecem os mais pobres, a fome ainda é uma realidade. 
+
+Segundo o psicólogo norte-americano Abraham Maslow, as demandas fisiológicas em um ser humano são as mais básicas, compreendendo a base de sua “pirâmide de necessidades”. Apesar de uma boa situação econômica e abundância de recursos e terras cultiváveis no país, muitos brasileiros não conseguem suprir estas necessidades básicas devido a fome. Estima-se, segundo a FAO   que existe 5,2 milhões de famintos no Brasil. 
+
+Concomitante a isso, segundo dados do Governo Federal, a maior parte da tributação do país é arrecadada através do imposto indireto, isto é, do preço total dos produtos no mercado. Ao comprar alimentos, tanto o cidadão rico quanto o pobre pagam uma parte em impostos, mas o pobre é mais prejudicado, pois essa taxa acaba sendo uma porcentagem maior do seu salário. Isso agrava os problemas da desigualdade social, que tem a fome como sua maior mazela. 
+Há comida o suficiente no país, porém a má distribuição e alta taxa de impostos indiretos contribui para que a fome persista. Diante disso, uma ação eficiente seria o governo legislativo propor leis para que se aumente a arrecadação de impostos diretos e diminuísse a dos indiretos, para que a compra de alimentos seja facilitada. Além disso, os veículos midiáticos poderiam estimular a população a votar em políticos com propostas que atenuariam essa situação, como aumento dos empregos e políticas públicas . Isso ajudaria a erradicar este problema que infelizmente ainda fere a dignidade de milhões de brasileiros. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

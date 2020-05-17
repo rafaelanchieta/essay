@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 550
+# tittle: Analfabetismo no Brasil
+Antigamente muitos largaram os estudos e procuram trabalhar para sustentar a família . Com o tempo essas pessoas não conseguiam voltar ou continuar os estudos e conclui-los, fazendo   com que cresça o número de analfabetos no Brasil. 
+Atualmente criaram ensino para que pessoas que antigamente não conseguiram concluir e frequentar a escola possam realizá-los. As escolas estão tendo dificuldades no ensino   fazendo   com que apresar   de frequentarem a escola, continuem os problemas na forma e maneira de interpretar textos sem figuras que facilitem a entender os texto e realizar cálculos matemáticos. 
+Com a internet que ajuda a ter acesso a todo tipo de informação, fazendo com que o interesse em aprender e permanecer nas escolas suma de alunos de 15 a 17 anos e não investindo tanto nos escudos noturnos, onde são ministrados para alunos de 18 a diante . Esses alunos na sua maioria buscam aprender  mas mais não é focado e dado importância como para os alunos de 15 a 17 anos que o conteúdo é dado completo e não parcialmente ou resumido como no noturno. 
+Concluo   que para que a taxa de analfabetismo funcional continue diminuindo   e voltar a dar interesse aos jovens que estão largando a escola, é usar a tecnologia e a internet para atrair e motivar a permanecerem nas escolas.  Nos estudos noturnos e EJAS  começar a dar mais importância, passar conteúdo completo ou que vão lhes ajudar na vida e serão utilizados para que entrem nas universidades em geral, gerando   oportunidade igualmente para todos. 
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

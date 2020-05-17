@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 300
+# tittle: A manutenção das tecnologias nacionais para salvar vidas.
+Em um mundo integrado, como o nosso , a circulação de pessoas saudáveis ou não,  é inevitável. Mas a necessidade dos países de vigiar quem permeia por tal  deve ser contínua, para impedimento de possíveis ameaças. 
+ São muitas as semelhança nos filmes de ficção cientifica, como Guerra Mundial Z, com a realidade do mundo atual. Negações dos fatos científicos e o compartilhamento retardado de informações é evidente , ao longo dos últimos anos, doenças altamente contagiosas alastram o globo terrestre, como exemplo: Ebola; H1N1; Covid-19. 
+No Brasil, nos últimos anos, a política de avanços na área da saúde e educação são escassas, perdendo, a cada ano, espaço para propostas retrógados , ajudando  a alavancar o sucateamento das instituições. Enquanto isso, outros países subdesenvolvidos impulsionam o fundamental ao avançado , por conseguinte a ampliação do desenvolvimento da ciência nacional se torna exemplo mundial, como a Índia que possui a maior rede de remédios genéricos do mundo. 
+ Observando  a realidade de cada país, em meio a uma crise, se percebe diversos aspectos que são determinantes para o diagnóstico de erros e falhas   cometidas na prevenção de desastres, sejam elas políticas ou sociais, mas a conscientização em manter tecnologias de vigilância, saúde e educação nacional para a prevenção de catástrofes deve ser mútua e implantada,  na finalidade de prevenir a vida humana. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

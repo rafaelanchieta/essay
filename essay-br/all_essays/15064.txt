@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 550
+# tittle: A vitalidade da Amazônia para o mundo
+Ocupando 60% do território brasileiro, a floresta amazônica vem sofrendo com as queimadas e o desmatamento ao longo dos anos, o que vem piorando em grande escala desde junho deste ano. Como grande fonte de recursos, a Amazônia é também o lar de tribos indígenas, que similar com a época da ditadura militar vem perdendo seu espaço de forma humilhante. Mas qual a importância em preservar essa floresta? O que acarretaria uma destruição total desta área? 
+
+“Inferno na floresta” é como esta situação vem sendo chamada, menos que isto não seria bem colocado . Pesquisas feitas em todos os lugares provam que em menos de 30 anos é de se esperar que a floresta não sobreviva, assim perdendo o habitat natural de dezenas de animais com alguns já em extinção, e outras até então desconhecidas. Um assunto que já é de visibilidade mundial,  trouxe à tona uma verdade que parecia querer ser mantida em segredo, como diz a canção “Brazil”  do cantor Declan Mackenna  “Eu ouvi dizer que vocês venderam a Amazônia, para mostrar que o país de onde vocês são, é onde o mundo deve querer estar...”. 
+Os recursos que ainda restam não são infinitos, o que sobrou logo não estará mais presente . A preservação da floresta amazônica de todo sumo sagrada, a humanidade precisa de ar puro para melhor respiração, as árvores purificam o ar. Segundo o G1 notícias, a umidade que vem da Amazônia alimenta regiões que formam quase que 70% do PIB  na América do Sul. 
+
+Com o desmatamento, o aumento do efeito estufa seria terrível. sem novos recursos,  a economia também seria afetada. Então, só pensar em tirar a terra, traria quase que a queda do país e a vida de muitos habitantes. Cabe ao governo aprimorar seus investimentos, monitorando qualquer processo que não cumpra as leis de preservação, premeditando qualquer acontecimento erradio, aumentando o reflorestamento para de algum jeito trazer de volta a vida a maior floresta tropical do mundo. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

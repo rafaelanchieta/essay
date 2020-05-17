@@ -1,0 +1,14 @@
+# prompt: a-virgindade-e-um-valor-moral-a-ser-preservado
+# score: 1.5
+# title: [Sem título]
+Virgindade é sinal de juízo, porque a pessoa estase guardando só para seu marido ou esposaque será oúnico(a) em sua vida. É
+        atebom
+        terpessoas no auge da fama que pensam assim, cantores teens que incentivam os adolescentes a se guardarem
+        ateo casamento
+        ,isso ajuda
+        termenos adolescentes grávidas e sem futuro, e ajudaa teruma sociedade mais organizada do que a atual,com crianças tendo filhinhas de bonecas, e não de verdade.
+# C0: 0.0
+# C1: 0.5
+# C2: 0.0
+# C3: 0.5
+# C4: 0.5

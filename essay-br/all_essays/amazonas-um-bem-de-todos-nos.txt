@@ -1,0 +1,10 @@
+# prompt: Preservação da Amazônia: Desafio brasileiro ou internacional?
+# score: 0
+# title: Amazonas, um bem de todos nós
+Amazonas, sem ela os dias do brasil estão contados, o presidente jair bolsonaro, devia  estar fazendo algo para-lhe mostrar para nos brasileiros, mais eu na verdade ele deve estar brincando com a nossas caras.
+Mas e ele nao sente o ar pesado de poluição e desmatamento, à amazonas ela é importante para uma parte do planeta, ou melhor ela gera oxigênio limpo e puro e com esse incêndio, muitos estados de outros países vizinhos estão sofrendo com a umidade relativa do ar, à amazonas e bem da sociedade que se importa com a natureza e também com o planeta, mais uma coisa é certa logo esse incêndio ira ser controlado e apagado para a felicidade da nacionalidade brasileira...
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

@@ -1,0 +1,16 @@
+# prompt: Carta-convite: discutir discriminação na escola
+# score: 250
+# title: Educação e convívio
+Pelo mundo diversas questões contundentes são discutidas, seja ela econômica, religiosa ou social , como  exemplo, a luta sobre a  liberdade de expressão sendo uma  das que vem ganhando maior força no último século. Devido a isso  é cada vez mais frequente a observação de pessoas que optam por se relacionarem com gêneros do mesmo sexo. 
+Em geral, a discriminação ainda é presenciado  pela maior parte da população que optam  por essa escolha, devido a  falta de respeito entre as partes. 
+A questão é,   como lidar com esse tipo de situação?
+Sabesse que todo ser humano ainda quando criança, devem ser ensinadas  a respeitar e conviver com as diferenças, até porque a escolha sexual é somente uma, dentre tantas existentes. 
+A educação, tem  como função desde o início da  conscientização para que inibição dessa situação ocorra , principalmente na escola, onde muitas crianças e adolescentes passam maior parte do tempo.
+Portanto deve ser aplicado  campanhas e exercícios de desenvolvimento contra os pré-conceitos, e  a punição  “avaliada” dos mesmos,  caso seja necessário .
+Tolerância e limites precisam ser respeitados por ambas as partes, “ofensivo  e ofendido"  para que a sociedade conviva de forma amigável.
+"Nos  devemos lutar pelo amor ao próximo" - ( Papa Francisco)
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

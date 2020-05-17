@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 450
+# tittle: COVID-19
+O surgimento de um novo vírus  chamado de Covid-19  assustou ao mundo, fazendo  o pânico se instalar e alertando  a todos para os cuidados de higiene. Sua primeira aparição foi na China, fazendo  a mesma  registrar 7.902 mortes. 
+ O Covid-19 teve uma rápida propagação e por isso foi denominado como uma pandemia, logo nas primeiras semanas os cientistas não sabiam como o mesmo  atacava e nem como o organismo humano se defendia . Com bastante empenho dos nossos cientistas como:  patologistas, infectologistas, médicos, enfermeiros, dentre outros profissionais, foi descoberta a forma como o vírus atacava e de imediato os especialistas criaram meios de prevenções, como exemplo, distância de 1 metro, uso de álcool em gel, lavar as mãos constantemente com água e sabão e, principalmente  evitar aglomerações. 
+ Esta última medida fez com que os prefeitos, governadores e presidentes de suas cidades, municípios e países ordenassem a paralisação das mesmas  com o intuito de atrasar a circulação do vírus, pois o mesmo  tem a facilidade de se propagar num raio de 2 metros. 
+Com tudo isso, diversos artistas e pessoas comuns saíram nas janelas de suas casas para aplaudirem aos cientistas da área de saúde, reconhecendo  o grande papel dos mesmos , onde conseguiram definir o genoma do vírus em poucos dias . Podemos  observar a necessidade de investimento na saúde, do restruturamento nos hospitais e postos para que em momentos de crises como esta não venhamos ter a necessidade de nos preocuparmos com a superlotação  e nem ter que escolher qual classe ou faixa etária deve viver. 
+ Além do investimento na saúde, deve existir o investimento para a educação, pois é por ela que se dá o nascimento dos cientistas, dos pesquisadores e tantos outros profissionais importantes para combater as endemias, pandemias e surtos do mundo . Com esta medida, estaríamos  melhorando  os equipamentos de laboratórios para meios mais avançados de pesquisar e aumentando  a velocidade de respostas em todos casos, sendo de emergência ou não. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 400
+# tittle: Presídios Brasileiros
+O Brasil têm  tem aproximadamente 622 mil presos atualmente  e é o sistema possui menos de 400 mil vagas, com isso gerando um dos principais problemas carcerários, a super lotação superlotçõ, outro ponto e é a reincidência dos presos no país. 
+Quando falamos  em sistema carcerário a primeira coisa que vem a nossa  mente e a super lotação, o Brasil têm a 4° maior população carcerária do mundo, e segundo o ministério da justiça o país tem 622 mil detentos, mas apenas 371 mil vagas  gerando um desequilíbrio em relação ao número de detentos e o de vagas, segundo uma pesquisa realizada pela BBC  a cada mês, penitenciárias de todo o país recebem 3 mil novos presos.  
+Outro ponto importante é a reincidência  um problema global  mas no Brasil têm  tem dimensões muito maiores, 70% dos que deixam a prisão acabam comentando crimes novamente. 
+Esses são alguns do vários exemplos que podemos  citar , a super lotação tem duas saídas: a construção de novas penitenciárias ou o investimento no ramo como o da educação para diminuir a população carcerária  levando em consideração que a maior parte dos presos não tiveram acesso a uma educação de qualidade, a reincidência poderia ser evitada se fossem adotados novos métodos de reintegração social baseado na teoria da aprendizagem social . 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

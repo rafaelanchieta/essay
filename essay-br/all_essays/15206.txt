@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: AS VACINAS
+As vacinas estão presentes em nossa  sociedade desde o século passado, quando a população foi obrigada a se vacinar,  em razão de uma epidemia de varíola, além de outras doenças. Sendo esse período foi chamado de Revolta da Vacina . 
+
+Um dos grandes problemas com relação as vacinas, 
+
+Mas muitos se esquecem que ao acreditar nessas informações acabam prestando um desserviço para com a sociedade, ficando assim vulneráveis tanto à vírus  quanto à bactérias, colocando a sua vida e as demais em risco. 
+Portando medidas são necessárias para resolver o impasse:  Segundo o filosofo Immanuel Kant"o ser humano é aquilo que a educação faz dele". Com isso o Ministério da Educação  em parceria com as instituições de ensino  deverá realizar palestras educacionais sobre a importância da vacinação, além disso as secretarias de saúde do municípios deveram  deverão enviar médicos e agentes de saúde para vacinar a população das áreas com baixa cobertura vacinal,
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

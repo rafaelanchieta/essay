@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 600
+# tittle: O risco da falência da floresta, pela ganância do homem.
+A floresta amazônica é a a maior floresta tropical do mundo e abrange em sua área total pelo menos 7 países. Além da sua vasta extensão territorial  ela possui grande diversidade de espécies de plantas e animais, vários destes encontrados apenas neste local, os chamados hotspot. Portanto nota-se a importância da floresta para a sobrevivência de diversas espécies que tem nela seu habitat. 
+
+Porém devido a falta de consciência e respeito de diversas pessoas este bioma está cada dia mais ameaçado , diariamente são encontrados diversos focos de incêndio e desmatamento criminosos nesta área, a maioria deles causados por grandes fazendeiros que se acham no direito   de destruir áreas preservadas para a expansão da agricultara e pecuária. 
+
+No ano de 2019 até o mês de agosto as queimadas aumentaram cerca de 60% se comparados aos últimos 3 anos, números assustadores que se mantidos podem gerar   consequências graves e devastadoras na floresta  como por exemplo a extinção de várias espécies e perda de grande parte da biodiversidade local, assim sendo a floresta perderá seus componentes de recuperação e corre sério risco de virar apenas história a ser contada. 
+Como medidas de proteção da floresta,  o Brasil recebeu ajuda de custo de países para o auxílio a prevenção de queimadas e desmatamentos, porém é importante que sejam adotadas medidas severas de punição aos infratores que destroem este bioma  além de campanhas de conscientização da importância da preservação da mesma  para a manutenção da vida na terra. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

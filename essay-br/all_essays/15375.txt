@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 300
+# tittle: A adolescência e a gravidez precoce
+Sabe-se que, hoje em dia, devido a maior mobilidade da informação, muitas adolescentes acabam ativando suas vidas sexuais de forma mais rápida , de forma precoce . Segundo alguns dados de 2011 , dentre 2.913.160 nascimentos, 560.888 foram nascidos de meninas entre 10 e 19 anos. Atualmente, tais dados não são tão distintos - uma vez que a suficiência quanto a conscientização ainda não é tão abrangente. 
+Acerca disso, surgem também as DSTs  que, segundo dados estatísticos , têm estado presentes nos adolescentes tanto quanto nos adultos. 
+Pode-se considerar o fator socioeconômico, onde   problemas como a hiperlotação de creches e pobreza podem estar interligados de acordo com a sociologia que, por sua vez, propõe que toda a criança tem o direito de se ingressar em escolas/creches e é o dever dos responsáveis assegurar que tal criança cresça munida de todas as necessidades básicas cumpridas. 
+Com tudo Contudo, pode-se concluir que cabe às instituições de ensino públicas  público ou particulares aderirem a métodos de conscientização através de programas sociais e palestras. Entretanto , também é cabível ao governo realizar campanhas/projetos que ressaltam o acesso aos meios contraceptivos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

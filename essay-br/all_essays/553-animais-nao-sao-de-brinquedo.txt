@@ -1,0 +1,14 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 2,5
+# title: Animais não são de brinquedo
+A questão fundamental quando o assunto é a relação entre os animais deestimaçõese seus donos é entender que o carinho deve existir, porém respeitando a natureza de cada um, principalmente a do animal.
+        O cão, por exemplo, não é um boneco, em que prevalece a estética em detrimento da saúde e da qualidade de vida. Ele é um ser vivo, sente dor, alegria, fome. Uma polêmica que envolve esse assunto éda amputação da cauda e das orelhas de cães, que é algo meramente estético, por isso é proibido por lei.
+          Outro caso que é combatido pororgãoscomo oibamaé a criação de animais selvagens, principalmente os ilegais.
+            Esses muitas vezes não estão preparados para viver entre humanos ou seus instintos não os permitem ter uma vida doméstica, o que acaba trazendo sérios problemasproanimal ou até sua morte.
+            Um meio mais prático de combater o desrespeitoanatureza dos animais de estimação é
+              a regulamentação desses com um cadastro nacional. Porém uma solução a longo prazo e menos burocrática seria a conscientização das pessoas com cartilhas e campanhas educativas fazendo-as entender qual o tipo certo de animal para seu estilo de vida e como cuidar dele.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

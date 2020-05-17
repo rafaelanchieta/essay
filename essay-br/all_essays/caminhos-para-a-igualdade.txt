@@ -1,0 +1,12 @@
+# prompt: Terceirização: avanço ou retrocesso?
+# score: 350
+# title: Caminhos para a igualdade
+No que se refere a  terceirização, é possível afirmar que, não  só será uma forma de retrocesso para os trabalhadores; mas também, será um grande avanço para as empresas.
+Relativo a  mão de obra terceirizada, podemos ver os direitos dos trabalhadores cada vez menores. O Brasil passou por uma longa luta na ditadura, para que nos dias atuais suas vozes pudessem ser ouvidas. Legalizar tal lei seria como voltarmos a  estaca zero, fazendo toda a nossa luta, para um Brasil mais justo, ser em vão. 
+Nesse sentido, as empresas conseguem com facilidade aumentar os lucros para suas respectivas empresas. De onde vem esse dinheiro? Muito fácil, do bolso do trabalhador. “O homem é o lobo do homem”, fazendo jus a  frase de Thomas hobbies , percebemos que a humanidade se preocupa apenas com seus próprios interesses, causando assim sua própria ruína.
+O governo, portanto, deve reconhecer que tal lei não beneficia ambos os lados, mas, sim, apenas os empresários em questão. As escolas então, precisam pregar a igualdade, fazendo projetos para os direitos iguais, para que as crianças de hoje, sejam  adultos justos amanhã.
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

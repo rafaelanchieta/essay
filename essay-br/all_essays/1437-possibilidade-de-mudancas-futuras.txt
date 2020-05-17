@@ -1,0 +1,14 @@
+# prompt: o-conceito-de-familia-pode-ou-nao-pode-mudar
+# score: 1,0
+# title: Possibilidade de Mudanças Futuras
+Antiga mente , uma família, normal mente , era respeitada pelo status que osobrenome da mesmatrazia,
+         de modo que esteve em plenos cuidados de um patriarca rígido e sério, todavia, valorizado pela sociedade da época. Os conceitos de ética e moral sofreram influências do tempo e da modernidade, bemcomo, areligião perdeu seu espaço nos lares.
+         Tornou-se banal crianças sofrerem exposições ameio externos, e acharque a realidade vivida é normal.
+          Está sendo formada uma geraçãoondea maioria acredita sofrer preconceito,ao invésde questionar se o quevivem, nãose tornou um modismo descontrolado que afeta todas as faixas etárias.
+         Negar a ideia de famíliashomossexuais, nãofaz com queelesdesapareçam. Demonstraapenas, quea sociedade se mantém contrária a esse posicionamento,são tradicionais.
+         A verdadeira indagação parte da ideia de como a sociedade lidaria com toda essa nova mudança. Seria uma criança capaz de crescer e entender claramente tal situação? O julgamento seria limitado e haveria melhora na educação e convívio social, num país cuja punição só existe para os corretos? A sociedade evoluiu, de fato, mas essa nação deve aprimorar os âmbitos educacionais , primeira mente , para que depois, a sociedade tenha conhecimento e altere o lado social positiva mente .
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

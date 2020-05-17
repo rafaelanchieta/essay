@@ -1,0 +1,11 @@
+# prompt: Perigos do universo digital
+# score: 150
+# title: Educação tecnológica pode evitar perigos futuros
+Em um mundo totalmente globalizado, a tecnologia vem tornando-se algo essencial para o desenvolvimentismo  humano, no entanto  a segurança que temos com os atuais dispositivos é quase nula, pois estamos expostos a diversos perigos vinda  do mundo digital.
+Cada  dia, meios tecnológicos torna-se  algo mais acessível ao cidadão da era moderna, quanto a isso torna-se preocupante o uso da tecnologia precoce em crianças  que são totalmente desinformadas sobre o perigo virtual.  Abuso infantil ou  até mesmo incentivos ao suicídio  como casos  recente da "Baleia Azul", está tornando-se algo mais presente na sociedade, pois os criminosos conseguem de uma maneira mais acessível ao dialogo  com um menor de idade com meios tecnológicos.
+Inclusão digital aos  jovens e crianças vem tornando-se algo mais presente no mundo atual, porem ambos , geralmente, não passam por nenhum ensinamento de como se precaver de perigos oferecidos pela tecnologia, onde isso  seria essencial para o bem estar  e segurança do utilizador .
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 0
+# C4: 0

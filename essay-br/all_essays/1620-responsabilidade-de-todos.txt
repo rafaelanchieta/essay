@@ -1,0 +1,15 @@
+# prompt: a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao
+# score: 4,0
+# title: Responsabilidade de Todos
+No Brasil, em 2012, está ocorrendooRio+20,o tema abordaquestões ambientais e o futuro de nosso Planeta.
+        Após 20 anosdepoisdo acontecido doEco-92, as Nações Unidas voltam-se ao principal problema de todos os países,comodesenvolver a tecnologia sem agredir mais o meio em que vivemos.
+        Ao visualizar o nosso Planeta e suas grandes potências , pensamos em quanto poderiamser úteis nodesenvolvimentomundialsemagreção denosso meio ambiente;
+          porém não é isso que refleteosEUA na contribuiçãodoRio+20.
+          Seria uma escapatória? Como todos sabemos,oEstados Unidos estão
+          na tão temida crise . Contudo, como advertem os chineses, "Isso não pode ser uma desculpa para fugir do compromisso", visto queossão os maiores consumidores e como consequência os mais vorazes em poluir, deixando a desejar seu cuidado com o meio ambiente. Todavia, o grande problema caminha em direção aos países subdesenvolvidos, tal como em um "efeito dominó", refletindo em nós o prejuízo causado pela irresponsabilidade, deixando no ar a interrogação "poluída" de como ficará o mundo com dinheiro e semàrvoresPortanto as expectativas por um futuro melhor,comuma conferência tão importante, sóhaverá êxitose todos contribuírem, sejam eles chineses, americanos ou brasileiros.
+            Pois o risco está em uma vida universal, cabe a cada qual dar o seu exemplo para que possamos ter um futuro garantido.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

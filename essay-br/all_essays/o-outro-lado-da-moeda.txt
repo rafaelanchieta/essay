@@ -1,0 +1,12 @@
+# prompt: Perigos do universo digital
+# score: 300
+# title: O outro lado da moeda
+No seriado 13 Reason  why, Hanna Baker comete suicídio por sido vítima de situação constrangedoras . Fora das telas, os perigos do universo digital é  uma realidade no Brasil, tornando necessário o seu combate, para a manutenção da privacidade e liberdade individual.
+Grande parte da População brasileira sobre de nomofobia, que é o medo de ficar sem celular. Contudo, a facilidade de falar o que quiser no mundo virtual, acaba por muitas vezes ferindo a liberdade e privacidade.
+Entretanto, a questão está longe de ser resolvida.  A própria família não sabe como ajudar e alertar sobre tais perigos da Internet. Ademais, apesar de ser condenada  pela Lei , atos cometidos na Web implicam em  penalidades muito leves e nem sempre chegam a julgamento. 
+Portanto, medidas são necessárias para resolver o impasse. O Ministério da Educação junto com as escolas, dará  cartilhas para as famílias durante reuniões escolares para a conscientização dos perigos. Por fim, poderá ser discutida a criação de uma emenda constitucional que condene mais severamente atos de má fé e garanta que todos os casos denunciados sejam devidamente julgados por juízes e defensores públicos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

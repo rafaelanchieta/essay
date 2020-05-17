@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 550
+# tittle: A mornidão social e estatal em relação às vacinação e imunização dos brasileiros
+Durante a época do Colonialismo, no século XV, houve uma enorme mortandade de nativos americanos. Isto se deu porque os colonizadores europeus que vinham às terras americanas traziam consigo inúmeros organismos causadores de doenças . Doenças essas quer eram desconhecidas pelos indígenas, portanto , estes não sabiam como se tratarem, provocando, então, inúmeras mortes. Porém, na pós-modernidade, muitas curas para doenças foram descobertas, e as vacinas, substâncias que estimulam a imunização do organismo, foram inventadas. Ainda assim, ultimamente, a questão da vacinação e imunização dos brasileiros têm sido desvalorizada pela sociedade e negligenciada pelo Estado, ocultando o seu caráter emergencial. 
+Contrariamente, em um cenário no qual uma imensa quantidade de doenças não têm suas curas descobertas, as vacinas se mostram necessárias para que não ocorra com as populações expostas às doenças o que ocorreu com os nativos americanos. Outrossim, muitas doenças agem tão rapidamente no organismo que este não tem tempo o suficiente para produzir uma resposta imunológica tão rápida quanto, e são nestes casos em que as vacinas são as formas de imunização mais úteis e eficientes. Apesar  disso, pesquisas e dados mostram que as taxas de vacinação e imunização da população brasileira têm diminuído gradativamente,  ao longo dos últimos anos. 
+
+ Por exemplo, segundo dados da Unicef , a cobertura da vacina tríplice viral, que estava próxima a 100% em 2014, caiu 15% a partir de 2015 até 2018. Por sua vez, a cobertura vacinal da poliomielite caiu 16,5% no período de 2015, quando a taxa estava acima de 95%, a 2017 . Durante o mesmo período, a cobertura da vacina tríplice bacteriana caiu 11,8%.Antes disso, estivera acima de 90%. A mesma instituição,  mostrou preocupação com a situação do Brasil. Isso porque, segundo dados divulgados pela OMS , a cobertura vacinal brasileira está caindo, ao contrário da tendência global. 
+Concomitantemente, é imprescindível que haja uma ação conjunta entre a OMS, o Ministério da Saúde e outros órgãos da área,  para a mobilização de profissionais e veículos, visando a distribuição e administração das vacinas em áreas onde a cobertura vacinal é menor ou onde a exposição à organismos patogênicos é maior, visando a imunização das populações, a partir dos locais mais necessitados. Urge também a ação da sociedade civil e das escolas para a disseminação do conhecimento, conscientizando todas as etárias, por meio de palestras, campanhas e extracurriculares, a zelarem com a sua própria saúde, visando, assim, a formação de cidadãos responsáveis e uma sociedade em harmonia com o saneamento básico e a saúde. 
+
+
+
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

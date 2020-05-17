@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 600
+# tittle: Fome nas famílias brasileiras
+A escritora alemã Herta Muller diz que não há palavras adequadas para o sofrimento causado pela fome. Em pleno século XXI, o Brasil sendo um país nomeado por suas grandes exportações é um dos quais possui um índice de de fome e miséria altíssimos. A falta de alimentos na mesa de diversas famílias é um problema que tem assolado os brasileiros. 
+
+Não descarta-se as melhorias que foram feitas nos últimos anos, o Jornal Folha de São Paulo em uma reportagem publicada em julho deste ano mostra que o índice de desnutridos caiu de 4,6% no período de 2004-2006 para menos de 2,5% entre 2016 e 2018. Porém o sistema público tem sido falho quando se trata de disponibilizar as verbas destinadas a população. A desigualdade é gritante, enquanto uns têm até mais do que precisam, outros não têm acesso nem mesmo ao básico. 
+
+Com a fome diária em certas regiões, o índice de IDH  acaba decaindo, crianças e idosos morrem por causa da falta de nutrientes necessários ao no corpo. No caso das crianças não conseguem nem mesmo ir à escola, pois há também a falta da merenda . O grande mal é que o país tem produzido muito, mas nestes locais onde há uma necessidade extrema de alimento,  as famílias não conseguem adquirir principalmente pela falta de dinheiro. 
+Conclui-se que é necessário a criação de novos meios para erradicar a fome no Brasil. A criação de mais projetos sociais, criação de novas leis para que a distribuição dos alimentos seja fiscalizada e chegue as casas das famílias brasileiras. Cabe também aos Estados retomarem as atividades de restaurantes populares, que eram oferecidos nas campanhas de Fome Zero, para assim conseguir levar alimentação ao maior número de pessoas possíveis. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

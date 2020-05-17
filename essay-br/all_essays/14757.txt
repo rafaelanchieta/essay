@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: A Reforma previdenciária do Brasil
+È possível afirmar que a reforma previdenciária foi criada com a intenção de melhorar o país no seu desenvolvimento econômico e social, dando direito a todos os brasileiros o direito da aposentadoria previdenciária, mais mas os militares não foram contemplados com essa reforma. 
+
+Pode-se perceber que essa reforma vai ajudar a diminuir os gastos das contas públicas  e acabar com os rombos de seus cofres, vale também lembrar que essa reforma vai regularizar a economia do país, controlando a entrada e a saída de dinheiro dos cofres públicos, inimizando seus gastos , mas vai continuar com a desigualdade social na qual o Brasil . 
+
+Além disso, a reforma previdenciária foi uma mudança que atingiu todos os setores, excerto os setores militares,  na qual distancia a igualdade social no país, pois a as contribuições será conforme ao  o salário ganho  ganhado de cada trabalhador , que além de contribuir para o seu aposento , também contribuirá para o aposento dos militares que já é injusto demais . 
+Sendo assim, mesmo que todos os brasileiros sejam beneficiados com a previdência social , o Brasil pode melhorar economicamente mais mas a desigualdade social vai continuar, bom seria que essa reforma também afetasse os setores militares, pois se todo brasileiro tem um prazo de contribuição e uma idade certa para aposentar, assim deveria ser para os militares, fazendo isso acabaria com a desigualdade social. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

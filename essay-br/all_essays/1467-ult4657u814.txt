@@ -1,0 +1,14 @@
+# prompt: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco
+# score: 3,0
+# title: "Alguém ainda adoça esse café"
+O conceito histórico nos permite afirmar que houve mudanças nos fundamentos éticos da sociedade nos mais variados setores dafilosofia, na politicafomos dominados pelos grandes líderes da Idade Antiga, que mostravam-se fortes e soberanos para conquistar opovo, naIdade Média buscava-se seguir a doutrina cristã a fim de ter ou manter o privilégio de sustentar-se no setor mais alto dasociedade, jána Idade Moderna e Contemporânea, um bom governo deve satisfazer a sede de igualdade social -da classe superior - e manter o país economicamente ativo às vistas do mercado estrangeiro; também no que se refereafísica eametafísica, tivemos mudanças de valores importantes, como a oposição da relatividade de Einstein ao mundo mecânico de Newton e a lógica talvez tenha permanecido, sem muitas mudanças significativas.
+        Mas nos detenhamos no pensamento político e na relação histórica do negro na sociedade brasileira. Sabe-se que após a abolição os negros tiveram, e talvez ainda tenham, dificuldades para se inserir na vida pública.Não caracterizando de forma homogênea, mas devemos considerarque grande parte do
+          "lixo social"(favelas, moquifos, cortiços etc)
+          não escolheu ser descartado , no entanto, sofreu as consequências de uma política pública ineficiente dominada ainda no cenário contemporâneo por uma espécie modernizada e mascarada de castas sociais. No dicionário temos a definição de classe social como "grupo de pessoas com status social variado"; e casta social como "grupo de pessoas com status social definido". Há, basicamente três formas de estratificação social, ou seja, de arranjo hierárquico: econômica; política; profissional. Talvez, o que exista na sociedade brasileira de hoje seja, além da estratificação política, um preconceito inconsciente, o que torna a luta pela igualdade mais difícil, visto que deve-se, antes deatacá-lo com todo pensamento filosófico e religioso devemos reconhecê-lo ecompreender a sua dimensão e seus limites.
+            Portanto, a sociedade discrimina osnegros, um pouco, pode até serconcepção histórica maldissolvida, no entanto,
+              se o brasileiro tem "memória fraca" para tanta corrupção - não somente econômica, mas principalmente moral - certamente, "alguém ainda adoça esse café".
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

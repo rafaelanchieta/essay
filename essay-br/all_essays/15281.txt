@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 550
+# tittle: A democratização do acesso ao cinema no Brasil
+No livro “Utopia”  do escritor Thomas More, é mencionado uma sociedade ideal, na qual a base social padroniza-se pela ausência de conflitos e problemas. No entanto, tal princípio se opõe à realidade, uma vez que a democratização do acesso ao cinema apresentam barreiras que impossibilitam a concretização dos planos de More.Esse cenário é fruto tanto da falta de investimentos e do alto índice de desempregados .Diante disso,torna-se fundamental a discussão desses aspectos  a fim do pleno funcionamento da sociedade. 
+
+Precipuamente, é fulcral   destacar que a difícil circulação de salas cinematográficas, em áreas de pouco acesso, deriva da baixa atuação das seções governamentais no que tange à criação de mecanismos que facilitem o acesso .Segundo o pensador Thomas Hobbes  o Estado é responsável por garantir o bem-estar da sociedade,entretanto,isso não ocorre no Brasil.Devido a falta de atuação das autoridades,  a ausência de investimentos repele a maioria das famílias brasileiras.Posto isso, faz-se mister a reformulação dessa postura estatal de forma urgente. 
+Ademais, é imperativo ressaltar o alto índice de desempregados como promotor do problema. Partindo desse pressuposto,as pessoas por terem baixa renda não conseguem sustentar os preços dos ingressos e acabam deixando de frequentar.Tudo isso retarda a resolução do empecilho, já que o alto índice de desemprego contribui para a perpetuação desse quadro deletério. 
+
+Assim, medidas exequíveis são necessárias para conter o avanço da problemática na sociedade brasileira.Dessarte,com intuito de facilitar a acessibilidade ao cinema, necessita-se que o Tribunal de contas da união  direcione capital que por intermédio do ministério de ciências e tecnologias  será revertido em entradas gratuitas para famílias de baixa renda através de comprovações censitárias.Desse modo,atenuar-se-á  o impacto nocivo do problema na sociedade e a coletividade alcançará a utopia de More. 
+# C0: 150
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 100

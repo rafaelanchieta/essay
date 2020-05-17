@@ -1,0 +1,22 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 400
+# tittle: Segurança pública no Brasil : Problemas financeiros  ou má gestão?
+A função da polícia no Brasil é, como base na legalidade , manter a ordem pública , através da realização de investigações e repressões a atitudes ilegais. Para tanto policiais são divididos em grupos que atuam em diversas esferas, tais como : a policia militar , policia rodoviária , policia ferroviária federal , policia civil , policia militar e corpo de bombeiros militar. 
+
+Tais atuações ocorrem em um país que, segundo o Mapa da Violência de 2019, tem números de assassinatos comparados a um país em guerra , pois ocorreu 31,6 homicídios por 100 mil habitantes. 
+
+Nesse cenário,  nasceu a desconfiança da sociedade em relação a essa profissão , pois, segundo o 10º Anuário Brasileiro de Segurança Pública , a Polícia Brasileira  letra minúscula apresenta uma das maiores letalidades quando em serviço, somente no ano de 2019 foram 2886 mortes , um aumento de 4% , segundo Jornal O Globo.
+
+Com a junção da falta de equipamento e instrutura deficitária ,  é possível elucidar que trabalhar no setor de segurança no Brasil é tentar lidar com problemas dentro e fora da corporação. 
+
+Com isso é possível inferir que, para quem está trabalhando dentro desse contexto, a situação é de limite psicológico , já que além dos riscos inerentes a função , há outros fatores, os quais citados , tornam essa função uma das mais arriscadas fisicamente e psicologicamente para uma pessoas.  Do mesmo modo muitos profissionais da área trabalham em uma situação precária , já que há falta de condição de trabalho ,  devido ao baixo investimento em segurança. Porque segundo o 12º Anuário de Segurança Pública o investimento em 2017 foi de 2,5% , valor abaixo 4,5% que é a média dos país  membros da Organização para Cooperação e Desenvolvimento Econômico . 
+Desse modo é possível verificar o porquê dos números alarmantes de suicídio entre os polícias , que segundo Fórum Brasileiro de Segurança Pública a taxa de suicídio entre policiais é de 23,9 para um grupo de 100 mil pessoas , esse valor é três vezes maior que o da população 5,8. 
+
+Diante desses números é possível inferir que é uma das profissões que oferece mais riscos, mas diversas soluções já foram apresentadas e ou foram implantadas , tais como : acompanha psicológico ?  e treinamentos para detectar pessoas que sejam possíveis suicidas. 
+
+Assim , devido as atividades exercidas na profissão e os números alarmantes de crimes cometidos no Brasil é possível verificar que há um risco elevado para adoecimento para quem está envolvido na profissão , já que trabalhar com violência é está estar envolvido em situação limite, mas é possível reverter tal situação através do aumento em investimentos na área de segurança , melhorar as condições de trabalho , fornecer mais apoio aos policiais e criar metas para diminuir os números de violência no Brasil. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

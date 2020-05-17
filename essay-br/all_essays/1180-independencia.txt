@@ -1,0 +1,14 @@
+# prompt: qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro
+# score: 6,0
+# title: Independência
+Em um mundo capitalista e com grande necessidade de velocidade , encontramospaisesinterligados por meio da chamada globalização, onde o processo de dependênciamutuaentre as nações setornamcada vez maisefetivas,e o que acorre em um determinado lugar acaba por afetar vários outros, assim comoexemplo do que vemocorrendo com a atual criseeuropéia.A crise vem abalando a estrutura dos países integrados ao bloco econômico da União Europeia, especialmente aqueles que obtiveram empréstimos do Banco Europeu equepor conta de grandes gastos e de uma balança comercialdesequilibradanão conseguiram quitar suas dívidas. Tal desequilíbrio espalhou-se por todo o bloco
+         por conta do mecanismo de interligação de capital entres os membros. Outros países não estão insentos de tal crise, mesmo aqueles que não possuem relações diretas com a União Europeia, uma vez que os países encontram-se interligadospor meio daglobalização,assim comoo caso do Brasil, que possui característica exportadora e estabelece
+         uma forte ligação com o governo chinês para a exportação decommoditie. A China possui
+         uma forte ligação de capital com o bloco europeu, logo, a crise afeta também a China, que acaba por afetar o Brasil indiretamente.Seria nescessáriograndes investimentos na área datecnológiae do desenvolvimento sustentável para garantir que o Brasil
+         sejaautosuficientee menos dependente.
+         Esta nação possui um enorme potencial de matérias-primas que poderia evitar os efeitos da crise, porém, por não conter indústrias tecnológicas para aproveitar tais recursos, torna-se totalmente dependente de suas exportaçõesasoutras nações. Claro que um paísvaiser totalmente independente das outrasnaçãoainda mais no modelo econômico em que vivemos, mas a independência tornará nossa qualidade de vida melhor com os avanços tecnológicos das indústrias.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

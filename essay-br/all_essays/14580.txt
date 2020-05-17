@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: As raízes culturais
+Sabe-se que em 1500  com a chegada dos portugueses em terras brasileiras,milhões de índios já habitavam o país.Conseguinte dessa vinda  os nativos foram submetidos a novos costumes e doenças que ocasionaram diversas mortes.A falta de conhecimento e até o preconceito social contribuem para quase inexistência da cultura indígena atualmente. A partir disso vemos  que transformações precisam ser feitas para preservar a identidade cultural brasileira.
+
+Vale ressaltar, a principio  a ineficiência no cumprimento de leis que protegem os direitos indígenas. A Funai  reconhece que 85% das reservas sofrem constantes invasões, logo observa-se a extinção de penalidades por parte do governo e a falta de multas aos responsáveis por apropriação indébita. 
+
+Ainda convém lembrar,  dos costumes e práticas que refletem a extensa diversidade doada pelos índios, tais como atividades de caça e culinária,a influência das línguas indígenas na própria língua portuguesa, o respeito que possuem pela conservação da biodiversidade e uso de plantas para fins medicinais,são algumas das heranças deixadas por eles que sofrem grande desvalorização e esquecimento. 
+"O preconceito é opnião sem conhecimento" a frase do filósofo iluminista Voltaire sem encaixa bem nesse contexto ,pois,  a falta de entendimento sobre o assunto leva a ignorância, consequente o preconceito ,portanto é essencial o governo investir em campanhas através da mídia para levar conhecimento a população a respeito da importância da valorização indígena. Faz-se necessário também que a Funai ponha  em prática medidas mais rigorosas para aqueles que violam a lei.Assim, o Brasil passará estimar suas raízes culturais. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

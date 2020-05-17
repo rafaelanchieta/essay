@@ -1,0 +1,13 @@
+# prompt: Por que não há novas manifestações nas ruas?
+# score: 5,0
+# title: Nada a "temer"
+ Não é novidade, os  diversos escândalos que vem  se agravando no nosso país, através  da mídia, acompanhamos  vários atos de corrupção. Já em 1987 Legião  Urbana já criara  a música: Que país é esse?, 
+ Michel Temer, o  primeiro presidente da República em exercício de mandato, foi  denunciado pela procuradoria  Geral da República, do Supremo Tribunal Federal, sendo investigado pela polícia federal  pelos crimes de corrupção, obstrução da justiça e organização criminosa.
+ Onde estava o povo? Na Internet, criando "memes" em relação a delação premiada da JBS. Protestos tambem foram registrados, o 19 estados e o a renúncia ou impeachment do presidente, convocados por partidos, CUT, grupos de esquerda, movimentos sociais e sindicais. 
+ Também ouve  protestos de brasileiros na Union Square, em Nova York  com faixas de fora Temer. Na primeira pesquisa encomendada pela CNI, o governo Temer é aprovado por favor 13%  dos entrevistados.
+ É hora da sociedade reagir dentro dos princípios democráticos,  ir às ruas, lutar pelos nossos direitos, devemos  falar o que pensamos, não podemos reprimir nosso grito,   devemos dizer não, a corrupção, vamos  fazer manifestações, mais  sem violência, destruir  o nosso patrimônio, destruir o que temos no nosso país não está certo, vamos  usar nossas redes sociais, o mais importante é irmos à luta.
+# C1: 1,0
+# C3: 1,0
+# C5: 1,0
+# C7: 1,0
+# C9: 1,0

@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 470
+# tittle: O Uso da Ciência no Sistema Único de Saúde
+É notório que o uso da ciência no Sistema Único de Saúde  traz divergência de opiniões, principalmente aos pacientes mais pobres . Dentre tantos motivos relevantes temos : a super-lotação superlotação dos hospitais e postos de saúde, e o acesso gratuito ao serviço de atendimento. 
+Sabe-se que o excesso de pacientes em hospitais vem sendo um grande desafio na sociedade contemporânea, devido às doenças tais como: hipertensão em idosos, dengue, e até o mais recente corona vírus  .   Portanto fica evidente que o SUS ultrapassa sua capacidade normal de atendimento cau-sando causando  transtornos a quem precisa, com horas nas filas de espera. 
+ Por outro lado, o serviço médico do Brasil é visto por outros países como excelente. Primeiro, porque a organização desse sistema equivalea de hospitais particulares que garantem o atendimento do início ao fim com êxito. Segundo, é que esse serviço de saúde pública é garantido a qualquer pessoa, seja ela rica ou pobre, preta ou branca, brasileiro ou estrangeiro, o que mostra o acolhimento e a diversidade do país, conforme recente matéria publicada no portal de notícias "G1", onde  um casal britânico que passa férias no Rio de Janeiro,  ficaram espantados por não precisar pagar pela consulta emergencial que normalmente em seu território de naturalidade custaria cerca de três mil libras esterlinas. 
+Como se vê, quando se fala em saúde pública brasileira, temos  recursos incríveis, porém é necessário adequações  através de estudos científicos, para que seja mais efetivo , permitindo  um atendimento a um número maior de pessoas e com mais qualidade. 
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 150
+# C4: 20

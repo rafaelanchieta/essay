@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: [Redação sem título]
+A varíola, doença que matou milhões de pessoas no mundo  foi erradicada do planeta graças a criação da vacina. Isso mostra o quanto a vacina é importante para a a sociedade. Infelizmente hoje em dia a cobertura vacinal vem caindo ano após ano no Brasil, situação que preocupa a UNICEF . Com esse cenário é necessário a tomada de medidas que resolvam definitivamente essa problemática. 
+
+A vacina é essencial para prevenir doenças e salvar vidas, mas infelizmente a vacinação no Brasil está em queda nos últimos anos. Isso é um problema porque doenças que foram erradicadas podem voltar a tona e gerar a morte de muitas pessoas .
+
+Entretanto, muitos problemas dificultam a resolução do impasse . Por não haver monitóramento necessário muitos estados deixam de vacinar uma boa parte da população . E pela falta de informação  muitas pessoas acham que a vacina pode causar maléficios  deixando de vacinar seus filhos e de se vacinar. 
+Portanto, medidas são necessárias para resolver o impasse. O Governo  junto com o Ministério da Saúde  devem aumentar o número de funcionários da área da saúde para ter um maior monitóramento da cobertura vacinal, vacinando as pessoas que não têm acesso a mesma . O MEC  em parceria com o Ministério da Saúde ??????? devem realizar campanhas e palestras nas escolas para pais e alunos falando sobre a importância da vacina para o bem-estar de todos. Assim, doenças como o sarampo podem ser erradicadas como foi caso da varíola. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

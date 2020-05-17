@@ -1,0 +1,12 @@
+# prompt: Perigos do universo digital
+# score: 500
+# title: A importância da intervenção dos pais na vida virtual
+Com a expansão do universo digital e com a  facilidade de conseguir informações em questão de segundos, surgiram também muitos problemas relacionados ao bullying, à invasão de privacidade, ao fácil acesso de material pornográfico no meio virtual. E se não for feito nada a respeito , o problema continuará se agravando cada vez mais.
+Sem a intervenção dos pais, muitos jovens praticam atividades inapropriadas na internet, como compartilhar videos  pornográficos, praticar bullying, e, até mesmo,   hackear o computador de suas vítimas e  roubar informações pessoais entre diversas coisas que também são ilícitas.
+A adolescência é um período de transição entre a infância e a vida adulta, um adolescente ainda não compreende o mundo que estará lhe sendo proposto, ou seja, a privacidade ainda é algo que lhe deveria ser proposta apenas na vida adulta,  já  que a fase adolescente  é uma fase de ensinamentos , não é recomendável que um jovem tenha uma vida virtual e social oculta, pois é muito importante a colaboração dos pais para solucionar seus problemas e lhe dar alguns conselhos, broncas  e corretivos (os jovens também devem se responsabilizar pelos seus atos!).
+Em suma, a intervenção dos pais é necessária para evitar tais atividades, assim haverão  menos problemas tanto para os pais quanto para os filhos, pois deve-se educar os jovens hoje  para não sofrermos más consequências no futuro.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

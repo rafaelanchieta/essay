@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: [Redação sem título]
+A chegada dos portugueses em 1500 na América resultou no conhecido "Descobrimento do Brasil", porém essa parte do continente não necessitava de descobrimento  uma vez que por toda a sua extensão já habitavam milhares de indígenas, cujo a importância era extrema tanto nos cuidados da flora e fauna, quanto na criação de uma certa base cultural, originada por eles . A chegada de tais colonizadores resultou em extermínio e desvalorização completa do conhecido índio, porém os eventos antes conhecidos como parte do passado se repetem, mesmo que de maneira amenizada e menos violenta, no presente. 
+
+Convém ressaltar que o desmatamento desenfreado que busca suprir a necessidade da ocupação urbana ou rural é um dos maiores fatores que colaboram com tal busca constante dos indígenas por seus direitos e valorização, sua sobrevivência é colocada a segundo prazo e o interesse da população que se sobressaí em números é rapidamente suprido, mesmo com tais consequências . 
+Sendo assim  o que lhes resta é a batalha contra um povo que não os ouve e os considera atrasados, já que é comum por exemplo o pensamento de que o indígena deveria se adaptar á a cidade e não ao contrário, assim como os costumes, crenças e culturas das tribos, que além de não possuírem nenhuma importância podem ser simplesmente esquecidos e substituídos por todos os valores hoje conhecidos. 
+
+Contudo, com órgãos do governo que visem a garantia de tais áreas destinadas  e assegurem sua propriedade a essas pessoas o problema pode ser contido, assim também como o papel da escola através de discussões e estudos evidenciando o papel da sociedade indígena na construção da nação que conhecemos  hoje, para que haja uma mudança de pensamento e quebra de preconceitos. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

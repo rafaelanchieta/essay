@@ -1,0 +1,10 @@
+# prompt: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil
+# score: 7,0
+# title: Energia diferenciada
+A energia nuclear é uma forma de energia muito satisfatória, porém que gera muita polêmica e discussão.Embora seja considerada uma limpa, potencialmente energética e não poluidora do meio ambiente, ela pode causar vários riscos à natureza, principalmente no que se diz respeito ao seu principal produto envolvido: o urânio.Energia nuclear é um tema muito controverso. Ainda que por um lado ela seja benéfica ao meio ambiente, não gerando poluição, não agravando o efeito estufa ou o aquecimento global, por outro ela é algo a ser discutido com muita cautela, pois o urânio, utilizado como fonte de energia principal, pode, se não descartado ou armazenado corretamente, contaminar potencialmente a natureza, como lençóis freáticos, rios, mares, lixo e, principalmente, acarretando sérios problemas, além de gerar acidentes, como o que houve em Chernobil.
+           Utilizar qualquer forma de energia é muito importante; porém, o que se deve é conhecer os benefícios e prejuízos dela, uma vez que formas de vidas estão envolvidas, além da agressão ao meio ambiente, que compromente sinergicamente a vida humana e animal. Exemplos como Angra 1 e Angra 2, no Rio de Janeiro, e futuramente Angra 3, como já está em andamento, são usinas que até hoje contribuíram para o desenvolvimento do país, mas vale lembrar que pesquisa, desenvolvimento de práticas que visem a prevenção de acidentes e bom senso de seu uso, são medidas eficazes que só tendem a tornar esse tipo de energia cada vez mais potente e segura. Assim sendo, a energia nuclear é e pode ser um grande avanço para a humanidade, maspessoas altamente qualificadas, desenvolvimento de novos métodos, estudos de casos, medidas preventivas, atuação significativa aliada a outras formas de energia, como a eólica, solar, hidrelétrica e outras, só tendem a mostrar ao país e a outras nações que energia limpa pode e deve ser utilizada, a fim de beneficiar todos, com segurança e eficiência.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,0
+# C4: 1,5

@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: Analfabetismo: uma questão educacional
+O analfabetismo funcional, apesar de estar reduzindo, ainda é uma questão recorrente no Brasil, que torna difícil a compreensão de símbolos escritos usados diariamente, como placas, outdoors, avisos, identificações de ônibus, preços de produtos, dentre outros. Esse problema é causado por falhas no sistema educacional. 
+O antigo ministro da educação, Paulo Renato Souza, declarava que a educação deveria focar-se forcar  nas crianças, afinal a “sucessão geracional” extinguiria o analfabetismo. Esse raciocínio demonstra a falta de investimento na educação de qualidade de jovens e adultos, amparando, assim, a perpetuação do analfabetismo funcional, pois,  além dos indivíduos estarem vivendo mais, muitas crianças tem  têm sua alfabetização complementada em casa, nas tarefas escolares. 
+Segundo uma pesquisa feita pelo Instituto Pró-Livro  no Brasil, metade dos entrevistados afirma não ler livros por não os entenderem. Esse dado reflete que a forma de lecionar ultrapassada, a falta de material qualificado e as salas sobrecarregadas de alunos não permitem ao professor alfabetizar com maestria. 
+Considerando os dados apresentados, percebe-se que o analfabetismo funcional ainda persiste no Brasil devido à falta de investimentos eficazes na área educacional. Para solucionar esse problema, é necessário material de boa qualidade para que professores consigam lecionar de forma moderna e eficaz, além de turmas com um menor número de alunos. Ademais, para a educação de jovens e adultos, fica evidente a necessidade de um programa para a alfabetização dos mesmos .
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

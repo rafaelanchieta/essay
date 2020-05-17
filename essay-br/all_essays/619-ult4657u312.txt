@@ -1,0 +1,12 @@
+# prompt: o-fumo-deve-ser-proibido-em-todos-os-lugares
+# score: 10.0
+# title: Fumar respeitando os direitos dos outros
+Há, hoje em dia, polêmica sobre a permissão do fumo em locais públicos e lugares fechados. Existem aqueles que defendem a proibição, em defesa da saúde daqueles que não fumam e acabam obrigados a inalar a fumaça alheia; e existem aqueles que consideram a proibição do fumo um cerceamento à liberdade individual de cada um. Não há dúvida de que o cigarroprejudica a saúdedas pessoas, isto já foi suficientemente comprovado. Não se discute também que o hábito de fumar deva ser desestimulado, justamente pelos males que causa. Medidas como a proibição à propaganda e a inclusão de advertências nas próprias embalagens dos cigarros, alertandoquandoa seus males, são plenamente justificáveis.
+          Caso o tabagismoprejudicasse somente à pessoaque fuma, a intervenção do poder público, com respeito à proibição, seria indevida por estar invadindo o direito individual de cada um. Ainda que o cigarro provoque males à saúde, não cabe ao Estado decidir como cada cidadão deva cuidar de sua saúde; ou então teríamos leis obrigando as pessoas a praticar exercícios físicos e a ter outros hábitos considerados saudáveis.
+            O problema é que o cigarro tambémprejudica aosque estiverem próximos ao fumante no momento em que ele fuma, os chamados "fumantes passivos". O "fumante passivo" também quer ver respeitado o seu direito de não fumar, de nãoprejudicar sua saúdecom as substâncias tóxicas do cigarro. A liberação do fumo em qualquer ambiente, desta forma, iria ferir os direitos dos não-fumantes.
+              A solução, portanto, é garantir o direito de ambos, permitindo o fumo somente em locais abertos ou em locais específicos para este fim, onde o fumante possa exercer à vontade seu direito deprejudicar a si mesmosem, contudo,prejudicar àquelesque não fumam e não querem conviver com a fumaça do cigarro.
+# C0: 2.0
+# C1: 2.0
+# C2: 2.0
+# C3: 2.0
+# C4: 2.0

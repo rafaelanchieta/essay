@@ -1,0 +1,12 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 500
+# tittle: Um mal necessário
+Segundo o IBGE , o aumento da expectativa de vida do brasileiro nas últimas décadas tem gerado uma descompensação no sistema previdenciário. Segundo o governo, a reforma torna-se necessária sob a justificativa de que se nada for feito o sistema entrará em colapso em pouco tempo, uma vez que o brasileiro vivendo mais o tempo  de contribuição não será suficiente para suprir a demanda dos trabalhadores aposentados e os que irão se aposentar. 
+Dados revelam que no último século o tempo médio de vida da população aumentou mais de 30 anos. Isso se evidencia pela melhor qualidade de vida e o avanço da medicina e suas tecnologias, esse aumento torna-se um problema para o gerenciamento da Previdência e como equacionar essa conta que tem gerado um déficit ano após anos. 
+Ademais, esse problema tem gerado muita discussão entre governistas e oposicionistas , por um lado,  o governo defende uma ampla reforma com aumento do tempo de contribuição, idade mínima para aposentadoria e limite de teto para todas as categorias públicas e privadas,por outro lado,  sindicalistas e trabalhadores resistem a proposta de reforma entendendo que é prejudicial pois tira direitos e penaliza os mais pobres .
+Assim, sob a ótica da racionalidade, é inegável a necessidade da reforma mesmo que cause sacrifícios aos trabalhadores, pois cada um terá a sua parcela de responsabilidade e sacrifício em defesa de um bem comum. Uma reforma Justa e igualitária gerará uma economia aos cofres públicos, o equilíbrio das contas públicas e a garantia de recursos para pagamento a todos os aposentados brasileiros. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

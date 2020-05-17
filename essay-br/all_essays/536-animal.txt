@@ -1,0 +1,12 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 4,0
+# title: Convivência animal
+Os animais sempre estiveram presentes na vida do homem, porém, hoje, em um momento em que as pessoas vivem mais isoladas e ocupadas,ele temum espaço afetivo especial. Essa convivência em alguns casostrazbenefícios chamados:saúde física emental,em outros casos o contrário bem implantado.Dentre tanto, a relação dos animais com os donos se diferencia caso a caso, conforme a
+          realidade financeira epsicológica. Enquanto, de um lado,se hámuito luxo com direito a festa de aniversário e até um dia de príncipe para osanimais. Dooutro lado pode-se observar o maltrato, a ação desumana para com o animalque indefesorecebe um tratamento comose fosse um ser-não vivo. Entre o luxo e o maltrato,
+          vale ressaltar o quanto a desigualdade é um fator impregnado em nossa sociedade . E como se posicionar em situações tão diferentes como essas? Destarte, pode-se concluir o quanto a ausência de equilíbrio na vida das pessoas faz todadiferença onde acabadeixando de lado a qualidadevitale o bem-estar. Animal não é gente, mas precisa de um cuidado equilibrado. A troca de afeto e carinho fortalece ambos, porém, não se pode confundir as necessidades de cada ser,
+            o qual modifica e quantifica o comportamento.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,0
+# C4: 1,0

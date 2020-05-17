@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 650
+# tittle: A hodierna precariedade carcerária.
+Segundo a concepção determinista, que se deu início no século XIX, o homem é fruto de seu meio. Ou seja, suas ações são determinadas por acontecimentos anteriores. No entanto, pelas suas condutas e crimes cometidos, os prisioneiros são tratados de forma desumana e opressora dentro das celas, vivendo sem boas condições oferecidas pelo governo e apresentando um mal convívio no âmbito carcerário. Desse modo, é indispensável que sejam encontrados subterfúgios a fim de findar este quadro, visando melhoria ao sistema prisional brasileiro. 
+
+Em primeira instância, vale salientar a má infraestrutura dentro dos presídios brasileiros. De acordo com o Ministério da Justiça, o Brasil teve um aumento de 267% na população carcerária nos últimos quatorze anos. Percebe-se assim,  a superlotação nas celas e a falta de recursos à saúde do indivíduo. Em diversos aspectos pode-se perceber que a maneira em que são tratados socialmente são totalmente insensíveis. Dentro outros problemas relacionados à infraestrutura e ao convívio social está a falta de água potável, o não tratamento especial à mulher e a ausência de boa alimentação. 
+
+Ademais, faz-se mister ainda,  relacionar as causas das prisões e julgamentos realizados pelo Ministério Público. Em um documentário “Justiça”  de Maria Ramos , é retratado diversos acontecimentos em relação ao processo de admissão a uma penitenciária. Pode-se, portanto, perceber a grande quantidade de detentos que cometeram roubo, furto e fizeram uso de drogas, realizando também tráfico em comunidades do Rio de Janeiro. E durante suas jornadas no cárcere,  são tratados como iguais mesmo se houver um entre eles que seja inocente. Sobretudo, são vistos e tratados de forma horrenda, sem pena e compreensão das autoridades. 
+Portanto, faz-se necessário a atuação do Governo Federal para que sejam feitas reivindicações e sejam tomadas providências  a fim de melhorar a infraestrutura. Através de investimentos em maiores construções de cadeias, tratando este assunto como prioridade. E também, que sejam elaboradas formas de extensão aos presídios já existentes através de palestras e reuniões como forma de organização e planejamento para um benigno sistema carcerário. Assim, findaríamos  as torturas e opressões dentro das cadeias, formando um excelente e agradável convívio social de forma humana. 
+# C0: 100
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 100

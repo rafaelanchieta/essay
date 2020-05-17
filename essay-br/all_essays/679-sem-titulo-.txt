@@ -1,0 +1,12 @@
+# prompt: e-certo-ou-errado-leiloar-a-virgindade-por-que
+# score: 3,0
+# title: (Sem título 028)
+Leiloar a virgindade pela internet é um ato muitoinpensável,pois, além de
+        incentivar jovens de classe média baixa de todo o país , também é um ato imoral e uma atitude sem ética, um ato totalmente intolerável pela sociedade. Uma atitude que não contribuinadacom a sociedade e com certeza irá
+        despertar o interesse de muitos jovens alienados pelo sistema capitalista. Algumasatitudescomo a da jovemcatarinenseenvolve muito mais que o direito de fazer o que quiser com o próprio corpo, pois envolve o nome de uma nação toda. Afinal a notícia percorreu omundolevando o nome do nosso país (brasil), a virgindade é dela, o país é nosso.Obrasilprecisa ser visto lá fora como um país de pessoas que contribuem para a evolução da humanidade, não como um país exportador de prostitutas,
+        de bens do setor terciário , da corrupção, de desigualdades sociais ,etc.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

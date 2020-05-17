@@ -1,0 +1,11 @@
+# prompt: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao
+# score: 6,0
+# title: Política para o povo
+Uma observação pertinente sobre o sistema político brasileiro utilizado nos últimos anos é que eletem se tornandocada vez mais confuso.
+        Ao invés de facilitar o acesso do povo às questões políticas, tem transformado a tarefa de escolher representantes uma missão impossível de dar certo . Inúmeros candidatos surgem nas épocas eleitorais, sem dar chance aos votantes deanalisaremaqueles que realmente lhesinteressa, o que acarreta na eleição de muitos candidatos incapazes para exercer seus cargos.
+        É fato notório que muitos dos políticos que hoje estão no poder passam despercebidos, pois mal se sabe o que fazem em seus gabinetes. Projetos e leis que surgem e são aprovados não fazem parte das decisões conhecidas pelo povo. É preciso estreitar as relações entre olegislativoe a população. Dianteaum leque de perspectivas nota-se a ideia de uma reforma na política atual, voltada para tornar o voto distrital. A ideia é uma das mais viáveis, pois assim seriam eleitos políticos para o povo e pelo progresso comum, e não líderes desconhecidos dos liderados. No que se refere a uma forma de política mais concentrada em resolver os problemas do país, não caberia uma proposta melhor. Exemplos desses problemas são a corrupção e os investimentos altíssimos em projetos faraônicos e que não possuem o objetivo de auxiliar o povo da nação diretamente, sanando suas necessidades básicas. O estreitamento de áreas de influência assegura o direito da população de ter representantes que lutem pelos seus ideais e solucionem suas dificuldades.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

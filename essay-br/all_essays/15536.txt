@@ -1,0 +1,11 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Alta taxa de analfabetismo funcional
+O analfabetismo funcional é a incapacidade de interpretar textos e resolver cálculos matemáticos mais elaborados. Embora a taxa de analfabetismo funcional ter  tenha diminuído na última década  o seu efeito está bastante presente na nossa   sociedade, principalmente em classes mais baixas  reduzindo oportunidades de inclusão social e empregabilidade. 
+Dados de 2018  divulgados pelo Inaf , um estudo feito pelo Instituto Paulo Montenegro , a ONG Ação Educativa e o Ibope Inteligência, mostrou que 29% da população com idades entre 15 e 64 anos são analfabetos funcionais, revelando um aumento de quase 2% comparado com 2015. Apesar desse número ter diminuído 9% desde 2004 continua sendo uma enorme porcentagem de analfabetismo funcional . Pode - se dizer que esse crescimento de 2% está diretamente relacionado com a condição social e educativa das pessoas que pode ter sido agravada nos últimos três anos, além do desemprego e difícil acesso à cultura e lazer colaborando na piora da situação. Devemos   observar também que a ausência de políticas públicas corrobora para o alto índice de analfabetismo funcional, pois sem a iniciativa do governo de querer mudar esses dados não haverá mudança alguma. 
+Em vista disso o analfabetismo funcional só acabará se houver investimentos em educação, aumento de escolas em tempo integral, além da adesão de programas próprios para alfabetização criados pelo MEC  como, por exemplo, o Mais Alfabetização, que depende exclusivamente da vontade de Estados e municípios. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

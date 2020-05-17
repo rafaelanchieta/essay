@@ -1,0 +1,13 @@
+# prompt: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco
+# score: 5,0
+# title: A sociedade do preconceito
+Uma das questões mais polêmicas que deve ser discutida na nossasociedade,a discriminação racial, que existe desde tempos remotos e perdura até os dias de hoje, apesar de agora,
+        infelizmente , ele ser visto de uma forma camuflada, ou seja, não se deixando transparecer como realmente é manifestado dentro de cada ser humano. Sabe-se que a abolição da escravatura se deu em 1888, com o intuito de erradicar as diferenças entre as pessoas, para que o negro deixasse de ser visto como um ser inferior, obrigado a trabalhos forçados, que não tinha nenhuma garantia trabalhista e que possivelmente, por causa da cor da pele,eram negociados como objetos, vendidos ou trocados. Muitos não aguentavam os trabalhos e fugiam, acarretando assim muitas guerras, isso na época do Brasil colonial. Os negros se uniam, organizando-se em grandes grupos chamados "quilombos", elegiam alguns líderes e lutavam contra seus senhores. Dentre os líderes dos quilombos, teve umquegrande destaque pela sua coragem: Zumbi dos Palmares,no qual dedicaram-lhe um dia especial no calendário em sua homenagem, 20 de novembro: Dia da Consciência Negra.
+          Embora tenha acontecido toda essa reviravolta , ainda assim não é dado o devido respeito ao cumprimento de diversas leis de proteção aos seres humanos, aos conhecidíssimos"Direitos Humanos". E queindependente de cor, raça, religião, somos todos iguais, ninguém sendo melhor que ninguém.
+            O erro maior de todos reside no fato deveras injustiças e desigualdades e nãofazernada para amenizá-las. Se conseguirmos
+              enxergar um palmo diante do nosso nariz, entenderemos que a solução é comum a todos. Basta que cada um faça sua parte, a começar compreendendo que o negro não pode ser visto de maneira preconceituosa.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

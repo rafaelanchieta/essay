@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 4,0
+# title: Usando e não conservando
+Sabe-se que para melhorar as condições de vida, o homem foi automaticamente criando, inventando e consumindo cada vez mais grandes quantidades de energia. As energias podem ser renováveis, ou seja, aquelas cuja quantidade é quase inesgotável como o Sol, vento, água e as não renováveis, aquelas em quantidade limitadas, como o carvão, petróleo, gás natural, etc e que estão se esgotando ao serem consumidas sem a menor preocupação. Todos os dias se consomem cada vez mais as energias renováveis e não-renováveis, mas nunca se parou para perguntar de onde sai a energia que se consome, e assim através de relatos de cientistas sobre o aquecimento global e que com tantas agressões sofridas a natureza está cada vez mais respondendo com grandes catástrofes; que os mares terão seu nível elevado pelo derretimento das geleiras e idades costeiras desaparecerão, o clima modificado, muito se falou mas quase nada ou nada se fez, atitudes não tomadas pelo homem deixou o mundo em que precisamos de fontes alternativos de energia e soluções imediatas o que já foi modificado não tem como ser renovado, assim o que se espera para um futuro distante, se bem próximo já sabe-se que muitas espécies de flora e fauna e talvez o ser humano estão sujeitos a se modificar ou até desaparecer. Acredita-se num mundo de esperança, pois se o homem foi capaz de modificar para o seu bem e estragou, porque não criar, inventar para corrigir e melhorar com a união de todos que fazem parte do planeta.
+# C0: 1,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

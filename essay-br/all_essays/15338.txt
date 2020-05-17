@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 500
+# tittle: A gravidez na adolescência e as influências da sociedade
+É fato de que a cultura da mulher dona de casa e cuidadora dos filhos ainda é muito presente na sociedade - apesar dos avanços da atualidade, em todos os aspectos. É um modo de vida machista cultivado ao longo de vários anos e da história, em diversas realidades, religiões e modos de vida. Esse fator acaba se agravando quando as mulheres tornam-se maduras antes do tempo, por meio de uma gravidez precoce, por exemplo. 
+Uma gestação na adolescência pode ser ocasionada por diferentes motivos. Um deles é a falta de educação sexual nas escolas, que garante o entendimento por parte dos alunos sobre a importância da proteção durante as relações , dos riscos que a falta do uso de métodos contraceptivos pode causar, o conhecimento à respeito das Doenças Sexualmente Transmissíveis , além de outros aspectos. 
+Outro motivo é a hipersexualização de menores , na qual as crianças acabam por amadurecer mais rápido - na maneira de se vestir e de agir - por conta de influências por parte dos amigos, família e, principalmente, pela internet. Acabam sendo persuadidas a agir de tal forma, mais adulta, por acharem mais interessante do que realizarem atividades de crianças propriamente ditas . Nessas condições, tendem a ter relações sexuais mais cedo, sem o mínimo conhecimento do assunto, resultando na gravidez. 
+Muitas vezes, o pai do bebê não assume seu devido papel na situação, deixando a mãe sem apoio paternal, na maioria das vezes tendo que esquecer-se dos estudos e focar-se somente na realidade de ter um dependente para cuidar. O fato de não ter concluído a escola acarreta na difícil procura por emprego, ainda mais com um recém-nascido - o que complica mais ainda. 
+Levando-se em consideração esses aspectos, é necessário que a educação sexual seja algo imprescindível nas escolas públicas e privadas, e que o apoio e suporte dos pais nessa fase de transição de pré-adolescência para adolescência seja muito forte . A sociedade também precisa mudar como um todo , não tolerando mais a ausência do pai na vida dos filhos .  
+# C0: 150
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

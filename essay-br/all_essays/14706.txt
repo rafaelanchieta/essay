@@ -1,0 +1,13 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: [Redação sem título]
+No momento em que se fala sobre sistema carcerário,  é necessário admitir que - no cenário atual - importante pontuar algumas questões atuais sobre segurança pública. Nada pode ser mais urgente em vista da grave crise que se instaurou nos presídios brasileiros. 
+O primeiro ponto de atenção em relação ao problema é a superlotação das penitenciárias brasileiras. Esse não é um fenômeno recente. Ele está relacionado à política de encarceramento que ocorrem no Brasil. Em vez de uma gestão mais coerente das vagas nos presídios, o hábito cultivado é tão somente apartar o indivíduo da sociedade. 
+O resultado de uma população ingressante de sistema já inchado é a possibilidade de recrutamento por parte de facções criminosas que se estabeleceram no país. A título de exemplo, podem ser citados grupos como: o comando vermelho e o Primeiro Comando da Capital, organizações criminosas que ampliam se  o poder de atuação à medida que recrutam novos internos dos presídios ao longo do território nacional. 
+A situação fica ainda mais complexa frente ao fato de que a falha no processo de ressocialização do apenado . Isso se aplica por duas razões igualmentes poderosas a oferta de "emprego" do mundo do crime e a omissão do Estado relativo a garantia de alguns direitos fundamentais do cidadão que se encontra encarcerado. Diante da falta de opções melhores, escolhe viver à margem da sociedade, pois o crime parece oferecer o que o Estado dele parece negar. 
+A solução para um problema dessa magnitude não é tão simples, depende de ações integradas do "ministério da justiça e segurança pública" e departamento penitenciário brasileiro , visando a eficientes políticas de ressocializacões e garantir a incomunicabilidade dos chefes de organizações criminosas, afim de amenizar o problema persistente no Brasil. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

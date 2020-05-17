@@ -1,0 +1,12 @@
+# prompt: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens
+# score: 3,5
+# title: Os sintomas de um grande problema
+ApesardoSUS ser um exemplo no mundo, a saúde pública brasileira é bastante frágil. Existem inúmeros
+         problemas e com isso a preferência são os hospitais particulares e os dois têm problemas com a grande quantidade de pacientes. Para evitar uma visita ao médico, mais e mais brasileiros estão se automedicando sem uma orientação profissional, podendo trazer vários malefícios à saúde. De 160 milhões de brasileiros, 120 nãotemconvênio de assistência à saúde e o sistema público é conhecido por ser saturado e, por vezes, ineficaz.
+         O governo está tentando resolver implantando o programa Mais Médicos e requerimento de estudantes recém-graduados no SUS, porém ainda estão em fases de teste e representam uma parcela do problema dainfra estruturada saúde pública. Em vez de ter que esperar horas numa fila de um hospital ou pagar caro no sistema de saúde privado para receber a notícia de uma virose simples, as pessoas preferem a orientação popular e se baseiam pela bula do remédio. Somente os médicos conseguem diferenciar as doenças simples das complexas e isso faz a automedicação se tornar um risco. Se as pessoas conseguissem fazer um diagnóstico efetivo de uma simples gripe, elas identificariam se uma consulta fosse necessária ou não, assim não implicaria na grande demanda de pacientes.
+          Algumas medidas provisórias são necessárias até ser possível proibir a automedicação. Os remédios que possam ser adquiridos sem prescrição devem conter orientação médica indireta, em panfleto ou na bula mesmo, e a regulação da sua compra. As campanhas de vacinação para doenças como virose e gripe e até mesmo de outras mais complexas, desde que a população tenha fácil acesso e sejam periódicas, elas podem até mesmo diminuir o problema.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 350
+# tittle: Quando vai parar?
+Perda da biodiversidade, empobrecimento do solo, poluição dos rios; Estas são consequências do processo de desmatamento que vem ocorrendo há anos na floresta amazônica. 
+
+Devido a atividade agropecuária na região,  são feitas queimadas em áreas de pastagem,  para enriquecimento do solo, pobre em nutrientes e eliminação de ervas daninhas, preparando-o para o próximo plantio de pasto, o que causa diversos focos de incêndio..Porém, em Agosto de 2019 a ação do homem excedeu aos anos anteriores, considerando que a seca no mês não foi tão severa quanto os mesmos , ocorrendo um aumento de 60% de focos de calor,segundo o IPAM . 
+A floresta amazônica possui a maior bacia hidrográfica do mundo,contendo 20% da água doce do planeta , bem como sua biodiversidade,  que são ameaçadas pelas queimadas e constantes desmatamentos,uma vez que afetam o ciclo hídrico do local, trazendo a ameaça de extinção a diversas espécies. 
+
+O problema pode ser minimizado com constantes fiscalizações, aplicações de multas e penalidades em conjunto ao trabalho preventivo, visando coibir a prática, bem como procedimentar alternativas de fertilização e manutenção do solo, de forma que não haja prejuízo ao bioma. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

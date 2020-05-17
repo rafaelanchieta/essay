@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: [Redação sem título]
+É de ciência de todos,  que a violação dos direitos indígenas aportou em nossas  terras com os portugueses, estes os primeiros a desrespeitarem a etnia mais pura do Brasil , com brutalidade e ignorância fez-se uma nação que até a contemporaneidade não dá o devido valor as suas origens. Nesse âmbito, cabe destacar: o retrocesso na agilidade de leis que resguardam esse povo e a escassez de políticas de enaltecimento aos apanágios dos mesmos . Portanto, cabe ao Estado desenvolver métodos para sanar a problemática, uma vez que,  esta envolve raízes históricas do país. 
+
+Segundo Barão de Montesquieu, ao adentrar-se num país,  não deve-se procurar boas leis, porém observar o cumprimento das que lá existem, porque boas leis têm-se em todo lugar. Análogo a isso, cabe refletir a omissão do Governo quanto à relevância da efetividade da legislação que assegura os direitos daqueles que são as bases da sociedade, a qual lhes é temerária e preconceituosa. Por conseguinte, uma etnia, na sua grande maioria, teme perder sua luta e dignidade ao povo que estes deram princípio. 
+Outrossim, mas não menos notável,  observa-se,  que a inópia de cultura de prestígio às atribuições garantidas na jurisprudência impulsiona a problemática. ´´Nada é mais assustador que a ignorância em ação´´, ressalta Goethe. Visto que,  é notória e recorrente a ineficiência do Estado,  quanto ao desenvolvimento de políticas que assegurem os direitos indígenas. Dessarte, percebe-se um povo desamparado e isolado da classe que detém regalias de um país que ignora uma etnia que deveria ser enaltecida. 
+
+Diante das alegações aludidas, medidas devem ser tomadas para assegurar os direitos indígenas no Brasil. Assim sendo, o poder público deve pôr em prática as leis já existentes de proteção as tribos indígenas, garantindo que lhes serão concedidas todos os benefícios previstos na legislação. Ademais, o Governo deve investir na educação, a fim de formar cidadãos conscientes do respeito e do valor que deve-se atribuir aos índios . Por fim, cabe ao povo indígena  aliado ao restante da população cobrar atitudes dos detentores do poder para resolver a problemática.Com esses atos, molda-se uma sociedade justa, consciente e preparada para preservar e prezar os direitos dos povos indígenas no Brasil. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

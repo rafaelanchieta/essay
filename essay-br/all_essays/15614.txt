@@ -1,0 +1,15 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 450
+# tittle: Viver é uma arte um oficio só que agora precisa cuidados porque o Coronavírus pode está do seu lado
+Coronavírus: a realidade superou a ficção. O mundo inteiro procura a cura, quem salvará a humanidade. Esse vírus é rápido, contagiante e mortal. A única maneira eficaz de se proteger é ficar em casa com um rígido controle de limpeza e total isolamento social. Mais de um milhão de infectados no planeta. Uma guerra foi declarada, o inimigo desconhecido, invisível, ágil e letal. No comando, os cientistas, os médicos, os enfermeiros e os governantes. Os guerreiros serão todos. Humanos e desumanos presos a mesma corrente de salvação. 
+
+ Desumanos, pois mesmo com esse imenso caos de epidemia.  Grandes nações chorando seus mortos.   China, Itália, Espanha, França, Reino Unido e Estados Unidos têm os maiores números de mortos. Tem gente que acha que é só uma gripezinha,  e que cura,  com suco de laranja e canja de galinha . Só que não é gripe, é pneumonia e pode matar bem depressa como um choque elétrico . Não se pode fazer pouco caso dessa que já é considerada a terceira guerra mundial  só que todos são aliados contra o mesmo inimigo. O Covid 19. 
+. 
+Não existe a cura ainda, mas,  graças à ciência há prevenção o isolamento social é tudo de mais eficaz que se tem sabido para combater com segurança esse vírus que não respeita fronteiras, idades, cor, raças nem religiões.   Mas,  ataca mais severamente as pessoas maiores de 60 anos. Somos  todos agentes biólogos involuntários sem querer podemos contaminar outras pessoas, e elas podem não ter a mesma força para se livra da contaminação e morrer. Não podemos nem devemos de maneira nenhuma brincar com a nossa vida e nem com a vida do outro, É de fundamental importância o cuidado. 
+
+Nesse momento de catástrofe universal, a Organização Mundial da Saúde,  , órgão que promove o desenvolvimento da saúde no mundo . O presidente da OMS, O Dr. Tedros Adhanom, fala todos os dias nas redes de Tvs abertas mundiais, que sem o isolamento social não será possível evitar o crescimento exponencial das mortes no planeta. Os cientistas estão lutando sem parar, os médicos cuidando e a humanidade só precisa se consciencializar e colaborar. Nesse momento o local mais seguro do mundo é a nossa  casa. Nesse momento a ciência é o farol.  E só todos juntos ajudaram  ajudarão o farol brilhar para todos! Fiat Lux .
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 0

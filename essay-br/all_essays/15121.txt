@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: Projetadas para benéfico.
+As vacinas foram projetadas unicamente para benéfico da população, fármacos manipulados e minuciosamente pesquisados com o objetivo de prevenir e se possível erradicar doenças . As primeiras vacinas criadas combateram a Varíola, doença que outrora matou muitas pessoas, mas hoje podemos  dizer que esta praticamente “não existe”. É importante sabermos que as vacinas podem ser de duas classes: já conter os anticorpos contra determinada doença ou ser do tipo que contém antígenos para estimular o nosso corpo a produzir essas defesas. 
+
+Recentemente temos nos deparado com um movimento retrógrado que tem por objetivo desacreditar a população a cerca acerca dos benefícios da vacinação, movimento que tem embasamento em notícias falsas propagadas com velocidade pelas redes sociais, esses grupos estão influenciando os índicies de vacinação induzindo parte dos cidadãos a não se vacinar, como consequências trazem risco não apenas as pessoas que optam por não receber o medicamento, mas também a população de toda uma região  visto que uma pessoa infectada com determinada doença pode transmiti-la a todo o seu meio social e assim sucessivamente. 
+A nível nacional podemos dizer que o Brasil possui um bom índice de vacinação, e cada vez mais o Programa Nacional de Imunização  tem sido aperfeiçoado e enriquecido com descobertas científicas  ou seja  novas vacinas estão sendo ofertadas a população, sendo isso sinônimo de diminuição de doenças contagiosas. Atualmente temos vacinas destinadas a crianças, adolescentes, adultos e idosos, achando-se raros os efeitos adversos graves em todas as faixas de idade. É importante que saibamos que um povo sem vacinas está exposto a doenças de fácil propagação  podendo haver epidemias irreversíveis em um curto espaço de tempo. As vacinas são instrumento de prevenção tanto individualmente quanto coletivamente, ajudando a evitar inúmeras doenças, não existe nada mais recomendável do que as vacinas, sem dúvida é mais fácil prevenir as doenças do que trata-las quando já infectado. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

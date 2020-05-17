@@ -1,0 +1,13 @@
+# prompt: Criptomoeda: tecnologia e revolução econômica
+# score: 80
+# title: Revolução econômica moderna
+
+Com o passar dos anos a tecnologia cada vez mais toma espaço em setores da vida cotidiana, o dinheiro não ficaria fora disso. A criação do bitcoin em 2009 está abrindo portas para uma revolução econômica moderna.
+A criptomoeda chega para ultrapassar os bancos convencionais onde o governo exerce um forte controle estatal , através da emissão de moedas tradicionais no sistema financeiro atual . Por sua independência, os governos de todo o mundo ainda não sabem como regulamentar esse tipo de moeda, visando que tornaria seu controle obsoleto.
+Contudo, sua anatomia é o que conquista, agilizando transações econômicas, o sistema "blockchain" é formado por uma cadeia de blocos trancados por uma forte camada de criptografia, que torna impossível invadir esses recipientes, assegurando também que as moedas não sejam utilizadas mais de uma vez e cheguem ao destino certo.
+Esse sistema, uma espécie de livro contábil registra as transações de recebimento e envio de valores da criptomoeda, garantindo a segurança desejada pelos consumidores. A criptomoeda ainda não tem uma definição exata, mas veio para divergir o sistema financeiro mundial.
+# C0: 80
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

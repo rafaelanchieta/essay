@@ -1,0 +1,13 @@
+# prompt: Criptomoeda: tecnologia e revolução econômica
+# score: 600
+# title: A Utopia da Liberdade Financeira
+A tecnologia tem avançado de forma que o sistema financeiro também poderá ser afetado; como no filme "Valerian", que se passa no futuro e é protagonizado pela atriz Cara Delevingne, onde existe um mercado interdimensional visitado por humanos, as evoluções tecnológicas podem contribuir - bem ou mal - para a economia. O mais recente avanço é o bitcoin, moeda protegida por criptografia e completamente digitalizada, que pode enfraquecer instituições bancárias as quais poderão tomar medidas para evitar o prejuízo.
+A criptomoeda vem com a proposta de um menor controle financeiro estatal em relação a transações financeiras, além disso, tornará a existência das atuais instituições bancárias desnecessária ou pouco eficaz. Diante desse dilema, essas instituições não aceitariam as circunstâncias e encontrariam alguma forma de participar da economia, através da modernização dessas instituições - tornando-as completamente digitalizadas .
+Por conseguinte, uma revolução econômica poderia ser gerada, onde os bancos iriam falir (gerando consequências catastróficas) ou haveria uma grande transformação do sistema vigente através dessa digitalização completa. Ou seja, os bancos não fechariam, mas sim utilizariam apenas criptomoedas nas operações. E a privacidade monetária que o dinheiro virtual propõe, seria apenas uma ilusão.
+Para comprovar esta tese, podemos citar o Blockhain, um registro virtual de transações que, embora seja seguro e, de certa forma, eficaz na organização desses processos, é um exemplo de controle. É complicada a existência de um sistema financeiro onde não haja fiscalização, pois na falta dessa fiscalização haveriam problemas relativos a crimes, golpes e outras situações; isso dá abertura, facilmente, a um controle por parte do Estado.
+Portanto, a ideia de que a moeda virtual não será controlada é ilusória, pois esse tipo de avanço tecnológico ainda está se iniciando. Com uma possível revolução, as instituições financeiras encontrariam uma forma de lidar com esta problemática . Para evitar colapsos financeiros, uma alternativa seria, como citado anteriormente no texto, a modernização dessas instituições de forma gradual e com o consentimento de cada indivíduo.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

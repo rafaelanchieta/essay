@@ -1,0 +1,16 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 350
+# tittle: O agravamento da fome
+A fome no Brasil é um quesito muito discutido , pois a população ainda passa fome  há muitos casos de pessoas que não têm o que comer e isto é preocupante porque o Brasil é um país subdesenvolvido, no qual as pessoas não deveriam passar fome, porém a desigualdade social faz com que esta atrocidade. 
+
+Esta desigualdade social faz com os mais beneficiados comam o que quiserem, quando quiserem e para os mais necessitados é uma grande luta, pois eles têm de fazer de tudo para tentarem comer alguma coisa  o que é muito difícil,  pois trabalham o máximo para comer o mínimo e muita das vezes tem a família para sustentar e os pais acabam ficando com fome para dar alimento para seus filhos. 
+
+Mas também há outro problema não é a pessoa passar fome porque ano tem dinheiro para comprar o alimento, mas sim é o desperdício de alimentos que afetam a sociedade , pois as pessoas quem têm uma renda alta não ligam se estarem desperdiçando o alimento porque elas terão dinheiro para comprar mais alimento, porém quem não tem dinheiro não desperdiça comida pois sabem que precisam se alimentar muito bem. 
+Um exemplo no qual você pode perceber o desperdício de alimento que é uma atitude horrenda das pessoas é na escola onde os alunos desperdiçam muita comida onde essa comida não pode ser reutilizada , isto é uma grande falta de respeito pois com essas atitudes vamos  ficando sem comida cada vez mais. 
+
+Com as observações apresentadas acima podemos  perceber que algumas pessoas não têm consciência dos atos e fazem este tipo de atrocidade   o que é uma pena pois se não pensarmos e agirmos   agora daqui alguns anos não teremos  comida para as gerações futuras com isso devemos prestar mais atenção nas nossas atitudes. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

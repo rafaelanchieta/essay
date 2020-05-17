@@ -1,0 +1,11 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Li, mas não entendi
+O analfabetismo funcional é um problema que vem acometendo cada vez mais pessoas no mundo todo, independente de classe social, idade, gênero ou origem. É o que caracteriza alguém que, embora alfabetizada e apesar de reconhecer números, letras e palavras, não consegue compreender um texto simples, responder questões de interpretação relacionadas àquele texto ou ainda tem dificuldades ou incapacidade para realizar pequenos cálculos matemáticos . Causada por falta de atenção, leitura superficial, falta de incentivo, interesse ou técnicas apropriadas de interpretação, leitura e aprendizado. 
+Esse problema também é, muitas vezes, responsável por notas baixas em vestibulares. Porque mesmo em questões que não são sobre Língua Portuguesa, com frequência, é utilizada a interpretação de textos. Quem é analfabeto funcional não consegue ao menos entender as perguntas,  principalmente se forem extensas. Além disso, impede e é o motivo de, muitas vezes, as pessoas não lerem livros, por não conseguirem compreender o que está escrito e facilmente se perderem. 
+É necessário uma maior atenção e maneiras mais eficientes de se trabalhar com esses perfis. Também é preciso muita prática, utilizando de exercícios e maneiras diferentes de interpretar um texto. Embora seja complicado, a leitura é indispensável e deve ser treinada constantemente. Sobretudo, é essencial a atenção e empenho do governo, familiares, educadores e alunos, para frear esse problema. A situação é urgente e está se agravando, por isso, precisamos  agir agora. 
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

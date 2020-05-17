@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Ciência: Uma necessidade social
+Desde os primórdios da humanidade , o ser humano busca maneiras de lidar com seu meio, seja combatendo  doenças, ou sobrevivendo  em ambientes hostis . Atualmente tais práticas se tornam ainda mais necessárias, especialmente em função do terror que vem sendo causado pelo coronavírus no Brasil.  Posto isso, é inquestionável a colaboração do governo quanto ao direcionamento de verba aos laboratórios, e a atuação de grandes empresas de eletrônicos na fabricação de equipamentos para combater a doença. 
+ Primeiramente, o governo mais que ciente do que está prestes a enfrentar ,   deve disponibilizar capital às áreas da ciência responsáveis pelo estudo de vírus e meios de combatê-los , que são de extrema importância para o povo. Fato é que: uma doença viral apenas é vencida quando a população está imunizada contra a mesma , o que conhecido como a imunidade de rebanho.  Ou seja, antes de tudo é necessário a descoberta de uma vacina. Logo, é substancial a intervenção por parte do estado com incentivo da área científica. 
+ Ademais, a ciência não anda sozinha, é preciso também o uso da tecnologia para efetivar as descobertas. Posto isso, as grandes empresas de eletrônicos devem suprir não somente os laboratórios, mas também as necessidades hospitalares, que são principalmente os respiradores, cumprindo  assim sua importância para com o povo. Isso se constata quando uma vacina não pode ser tão facilmente disseminada em função de necessitar altíssima tecnologia para ser criada e manipulada, o que a torna inviável a muitos laboratórios. 
+ Portanto, é como diria Esopo,  “Do mesmo modo que a união traz a força, a discórdia leva a uma rápida derrota”. É preciso união em prol de um objetivo, sendo ele,  combater o Coronavírus. Isso somente será possível através de parcerias entre governo, laboratórios e empresas como Embraer, capazes de produzir equipamentos para atender hospitais e laboratórios. O sistema de saúde brasileiro deve ser visto como um meio de tratamento, e não agonia. Com parcerias,  será possível suprir demandas hospitalares, e consequentemente,  amparar a população. 
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 150
+# C4: 100

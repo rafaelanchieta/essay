@@ -1,0 +1,20 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 370
+# tittle: Preservação da amazônia
+Amazônia abriga mais de 15% das espécies do planeta , está sendo ameaçada pelo forte desmatamento e,  exploração ilegal e tráfico de animais silvestres. 
+
+Essa exploração começou desde a colonização Brasil em 1500 com a exploração da madeira do Pau Brasil pau-brasil e colonização dos índios, seu habitat natural era explorado e sua caça e pesca ameaçada. 
+
+Nos dias atuais preservação é essencial, não só para o Brasil que têm 60% desse patrimônio e para economia mundial.. 
+
+Muitas ONGs  têm sido criadas com intuito ajudar a preservação, forma de cobrar do governos atuais providências para patrimônio que é rico em diversidade, fauna e flora . 
+O objetivo da cobrança é de uma fiscalização mais rígida e controle das indústrias ,  que explora os produtos. 
+
+E incentivar as empresas utilizar os produtos naturais que não agridam a natureza, e conscientizar a polução da importância da preservação, e denunciar qualquer exploração tanto ambiental como animais silvestres em cárceres. 
+
+Essencial que o conceito da preservação comece já pela educação na família e na sala de aula .  com intuito de futuras gerações ter conceito de sustentabilidade. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

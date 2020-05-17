@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Analfabetismo funcional no Brasil: quem é o responsável?
+Nos últimos tempos, o analfabetismo funcional tem crescido cada vez mais, tornando  um problema comum entre nós brasileiros.  Principalmente com a evolução da tecnologia, onde  o ser humano passou a parar de ler e praticar a escrita, isso acaba afetando  muito no desenvolvimento do português . Não só afeta no desenvolvimento do português, mas quando o indivíduo for procurar um emprego, participar de vestibulares, etc. 
+ O uso de abreviações e gírias é algo que atrapalha no avanço da aprendizagem, pois assim você acostuma com essa facilidade e começa a esquecer como se escreve. Com o celular na mão quem é que vai querer pegar em um livro ou treinar a escrita?, por causa disso várias pessoas no mundo inteiro passa dificuldade na questão da interpretação de texto e de realizar operações matemáticas. Muitos estudantes carregam esse problema desde o ensino fundamental, porque o Brasil valoriza mais a pontuação do aluno do que o conhecimento, não só a escola deve ter o papel de ensinar o letramento mas os pais também, visto que a primeira educação e aprendizagem vem de casa. 
+Como atualmente a tecnologia está bastante evoluída  a concorrência entre os livros e celulares fica maior ainda, hoje em um aparelho que quase todos possuem,  é possível ler um livro, assistir uma aula de português, baixar algum conteúdo entre várias outras funções . Então fica mais difícil convencer os úsuarios do celular de que o melhor a se fazer é desapegar do aparelho e ler alguma coisa ou escrever . Se ninguém intervir a pessoa crescerá com esse problema nas costas . Eu penso que se no Brasil nas provas fossem cobradas mais o conhecimento do que a quantidade de pontos o aluno aprenderia melhor, pois assim ficaria mais específico saber no que ele possuí mais dificuldade. 
+Os pais e as escolas do Brasil inteiro juntos conseguem enfrentar essa barreira e acabar com o analfabetismo, porque eles são os responsáveis por cuidar disso . As escolas deveriam impor mais ensinamento de redações por exemplo.  Fazendo  com que os estudantes compreendam mais os gêneros textuais, enquanto os pais dos alunos dediquem a leitura dos filhos  tirando  a dificuldade da interpretação de texto. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

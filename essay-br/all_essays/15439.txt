@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Gravidez precoce no Brasil atual
+No Brasil atual, os jovens costumam a ser rebeldes, e muitas vezes costumam a sair da linha, causando problemas e entrando em situações complicadas e constrangedoras , e uma dessas situações,  é a gravidez na adolescência. (Reelabore as discussões. Apresente a tese
+Antigamente, era comum as pessoas terem filhos muito cedo, pois isso não afetava tão drasticamente a vida do casal e a dos familiares , assim como na cultura indígena, que com 13 anos de idade,  uma menina se torna uma mulher e já pode, ou,  deve  ter filhos. 
+Porém, a idade mínima, emposta  imposta pela sociedade, para que uma pessoa possa ter filhos  é de 18 anos, quando ela se torna um adulto e deve assumir total responsabilidade pela suas ações, assim como pela sua vida, focando ainda mais nos estudos, para que possa ter uma profissão melhor, ou então, já começar a trabalhar, para que possa pagar ou ajudar nas despesas de casa. 
+O problema é que,  quando um casal tem filhos antes dessa idade, isso é considerado gravidez infantil , o que é mal visto pela sociedade, tornando isso uma situação desagradável para o casal e seus familiares, pois estarão sendo julgados pela sociedade, e isso, pode fazer com que o casal fique muito deprimido, principalmente a "mãe", que pode acabar entrando em depressão, devido a tal situação. 
+Além disso, muitos jovens largam a escola,  para poderem trabalhar e sustentar o futuro filho, prejudicando todo o seu futuro acadêmico e,  provavelmente, a sua vida adulta também, fazendo com que não consigam obter a vida satisfatória que queriam. 
+Portanto, os pais e profissionais devem orientar e prevenir os jovens , fazendo com que usem métodos contraceptivos, prevenindo a gravidez, além de doenças como a ais , por exemplo. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

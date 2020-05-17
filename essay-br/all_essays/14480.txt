@@ -1,0 +1,12 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: A importância de valorizar e garantir os direitos dos indígenas no Brasil
+O Brasil é um país multicultural ,ou seja, é um país com diversa culturas , desde os tempos que os europeus chegaram. Por essa razão é importante termos  um governo que garanta os direitos de todas as pessoas , mesmo com suas diferentes culturas, etnias, religiões e classes sociais, todas têm seus direitos e deveres como cidadãos. 
+
+Atualmente no Brasil vivem 896.917 indígenas, o que corresponde aproximadamente a 0,47% da população total do país .De acordo com a Constituição os indígenas têm direito à diferença,isto é: de serem índios e permanecerem como tal indefinidamente  e também tem direito à terra, ou seja, eles têm posse permanente da terra que ocupam e só eles podem usufruir dela. A LEI N° 6.001, DE 19 DE DEZEMBRO DE 1973 garante a proteção de seus direitos. 
+Os índios não devem ser lembrados apenas no dia 19 de abril, mas sempre deve ser contado sobre sua importância na colonização brasileira , seja nas escolas, nas faculdades ou até mesmo na televisão, é relevante falar, prezar e respeitar as diferenças e lutar através de ações sociais pelos direitos de todos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 5,0
+# title: Humanidade, Terra e futuro
+Fica claro que erramos, a terra (natureza) já foi ignorada tempo suficiente. Enquanto houve tempo autoridades e indivíduos fingiam-se desavisados, agora que não há a corrida exigirá de nós talvez mais do que somos capazes. Vivemos em um meio mais quente, o crescente buraco da camada de ozônio já nos afeta, raios ultra-violeta já estão mais presentes para nós do que estiveram para nossos avós. Nunca o homem teve que lidar com tamanha perspectiva negativa. Hoje sabemos que sofreremos e precisamos agir, não mas para futuras gerações mas para nós e ao mesmo a natureza nos serve de lindos paraísos para fortalecer os descrentes e enganar os que querem crer que existe mais tempo. Isso tudo torna o problema muito mais difícil de encarar, enquanto antes não era necessário cuidar porque não nos atingiria hoje não é necessário pois não há meios de mudar. Nunca em toda a história humana o desgaste da Terra foi tão claro só hoje graças aos avanços científicos sabemos que a natureza responde; sofremos consequências de uma Terra mal tratada e parece tarde demais.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

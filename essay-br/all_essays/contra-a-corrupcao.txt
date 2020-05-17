@@ -1,0 +1,12 @@
+# prompt: Impeachment: a presidente deve perder o mandato?
+# score: 950
+# title: Contra [a] corrupção?
+No ano de 2014, o Brasil parou como para em todo ano de eleição, principalmente quando chegou o momento do segundo turno, onde  brasileiros tiveram que escolher entre Aécio Neves, do Partido da Social Democracia Brasileira (PSDB) e Dilma Rousseff, do Partido dos Trabalhadores (PT). O país ficou tão dividido que poderia ser facilmente comparado à URSS e Estados Unidos nos anos da Guerra Fria.  A presidenta Dilma, saiu  vitoriosa de uma disputa acirrada e lendária, levando o PT para mais quatro anos na presidência do Brasil.
+Quase dois anos depois da eleição, começaram os protestos pró-impeachment. Brasileiros – a maioria de elite – foram às ruas exigir a saída da presidenta, em um movimento contra a corrupção. Em resposta, a parte do país que não concordava com tal situação foi às ruas em defesa da democracia, pois o Impeachment  não passa de um golpe.  O Brasil é um país democrático, logo, Dilma ganhou democraticamente, mas seguindo as ideias de Platão, não é porque a maioria decidiu algo que isso passa a ser certo. Então novamente têm-se o país dividido em dois: aqueles que acreditam que a presidenta tem que sair do poder, e aqueles que, por ela ter sido escolha de muitos brasileiros, defendem que o governo deve continuar sendo dela.
+O que é fato – e contra fatos não há argumentos – é que o partido atual fez muito pelo país.  Protestos contra a corrupção não devem ser partidários, se o brasileiro quer lutar para que haja políticos honestos, não tem que ignorar partido, o que vale para um tem que valer para todos. Além do mais, nos atos contra a presidenta, muitas pessoas apresentavam opiniões misóginas, dizendo que o país estava um caos porque era governado por mulher, entre outras falas ofendendo todo o gênero feminino. 
+Dilma é, portanto, a única que pode ficar na presidência. Quem deseja o PT longe do governo deve aguardar calmamente o ano de 2018, quando uma nova eleição acontecerá. Enquanto esse ano não chega, a mídia poderia parar de alienar os telespectadores, tornando-se totalmente imparcial.  Poderiam mostrar na televisão atos bons e ruins de todos os políticos, sem bajular ou culpar totalmente um único partido, pois o papel do jornal é mostrar a notícia, a opinião cada um cria.
+# C0: 200
+# C1: 200
+# C2: 150
+# C3: 200
+# C4: 200

@@ -1,0 +1,12 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 6,5
+# title: De adaptações a clássicos
+Simplificar a linguagem dos clássicos é uma solução para mudar o cenário atual no que diz respeitoaleitura.
+         Em geral , a população brasileira não tem interesse pela leitura e isso pode ser corroborado por pesquisas que demonstram que o brasileiro lê em média 4 livros por ano.Geralmenteao se deparar com textos de difícil compreensão, como as obras de Machado de Assis, os leitores optam por realizar outras atividades.
+         Adaptações dos textos clássicos, como os do escritor supracitado, com uma linguagem mais acessível, poderiam despertar o desejoemconhecer mais da literatura brasileira. No entanto, essas adaptações não podem descaracterizar as obrasa que se referem, muito menos ferir o estilo de escrita doautor permitindoque, aos poucos, o leitor se acostume com tais características.
+         Em conclusão, percebe-se a importânciado uso dasadaptações de clássicosliterários, comoferramenta para incentivar a leitura. É importante salientar que o leitor deve ser instigado a ler outras obras, inclusive as decomplexa compreensão.Destaforma, adquirirá para si o hábito da leitura e se tornará um cidadão mais crítico e informado.
+# C0: 2,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

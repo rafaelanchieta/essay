@@ -1,0 +1,12 @@
+# prompt: O que é mais importante para vencer na vida?
+# score: 840
+# title: Fé: essencial para a vida em geral ou para vida espiritual
+Com a atual crise que os cidadãos brasileiros estão enfrentando é comum questionar qual o principal fator para ter uma vida melhor. A maior parte dos brasileiros considera a fé religiosa mais importante do que estudar ou trabalhar, levando em consideração a situação precária que se encontram as instituições públicas que atendem as necessidades básicas da sociedade é indispensável afirmar que somente a fé não vai garantir uma boa qualidade de vida.
+É compreensível que as pessoas coloquem a fé em primeiro lugar, pois a fé proporciona sim uma melhora na qualidade de vida espiritual, trazendo motivação e ânimo para conquistar as demais necessidades, porém saber separar uma coisa da outra é muito importante. A fé segundo algumas pessoas religiosas,  traz felicidade, algo considerado indispensável para se ter uma vida boa pela maioria, no entanto, não garante tudo que é preciso e importante para vencer na vida em todos os aspectos.
+Para se ter uma boa qualidade de vida é preciso: obter acesso a atendimento médico, uma boa educação para também garantir um bom emprego no mercado de trabalho, dinheiro para sustento e conforto, entre outros. Sem estudo e trabalho é impossível adquirir estas coisas primordiais para viver, e sendo assim impossível ter uma boa vida.
+Nos dias atuais em que o descaso na saúde pública, escolas e saneamento básico tem sido cada vez mais frequentes , convém citar o trabalho como fundamental para uma boa vida, visto que não se pode mas contar com as instituições públicas. Os estudos também são muito importantes, principalmente para os jovens que mais tarde se tornaram adultos e obteram maior satisfação com sua vida profissional e financeira.
+# C0: 160
+# C1: 200
+# C2: 200
+# C3: 160
+# C4: 120

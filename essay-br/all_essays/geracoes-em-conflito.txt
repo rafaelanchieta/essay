@@ -1,0 +1,13 @@
+# prompt: Você faz parte da turma do "eu me acho?"
+# score: 0
+# title: Gerações em conflito
+O iluminismo, movimento intelectual que surgiu no século XVIII, fez o ser humano ter uma visão diferenciada de si mesmo, reconhecendo suas habilidades e fraquezas. Este  autoconhecimento se fortificou com o passar dos anos, tornando a sociedade mais autoconfiante.
+Por conseguinte, nos tempos atuais surge  uma nova concepção  por parte dos adultos e idosos, quanto aos adolescentes e jovens atuais  que são considerados arrogantes e confiantes demais. Diversos motivos são apresentados para a geração mais nova ter obtido tanta confiança em si, como por exemplo  o mimo dos pais e as diversas oportunidades que os jovens e adolescentes possuem para ampliar o conhecimento, diferente  do que era disponível à geração anterior. Essa forma de se ver melhor do que os outros acaba por gerar problemas aos mais novos, como por exemplo  sentir que seus talentos não estão sendo devidamente reconhecidos.
+Estudos recentes comprovam que os adolescentes e jovens atuais realmente se sentem melhores do que as pessoas mais velhas, entretanto  percebe-se que há um conflito de gerações. É célebre que a tecnologia mais avançada e a maior disponibilidade de universidades e escolas fizeram a geração mais nova obter conhecimentos mais rapidamente. 
+Se compararmos em termos intelectuais a população mundial atual, com a de pessoas da idade média , veremos que há uma grande diferença de conhecimento.
+É notável a arrogância da geração mais nova, porém é perceptível o descontentamento das pessoas mais velhas em aceitar que os jovens e adolescentes estão aprendendo mais rapidamente.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

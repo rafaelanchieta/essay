@@ -1,0 +1,14 @@
+# prompt: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo
+# score: 2,0
+# title: [Faltou título]
+Inocentes mortos, pais desesperados, crianças feridas, fatos ocorridos no de07de abril de 2011, no Rio de Janeiro, por Wellington Menezes de Oliveira com uma calibre 38 contra os alunos da Escola Municipal Tasso da Silveira.
+        Alguns especialistas afirmam que a causa de tudofoi por transtornos mentais, já outros por sofrer bullying,mas ninguém sabe ao certo o que foi quelevou a elecometer esses assassinatos.Wellington , estudouna escola Tasso Oliveira, seus amigos afirmam que ele sofria bullying, principalmentepelasgarotas, e que seu único amigo
+          era um garoto estranho onde os colegas da sala chamava ele de ?bixa?. Eraórfã, antes de falecer sua mãe sofria de esquizofrenia,
+          ficando apenas com a companhia de sua irmã adotada, primos, avôs e tiasmas ele dizia que após a morte dos seus pais ele não tinha mais ninguém.
+          A tragédia ocorrida estava sendo planejadaamais de6meses, sobre grande influência da internet, falta de comportamento social e fácil acesso asarmasilegais, essessão os únicos fatos que especialistas podem afirmar, porqueas outrasnão passamque merahipóteses que não foram comprovadas.
+            Porémse ele não tivessetido domínio nessasarmas, talvez tudo poderia ter sidodiferente,se o bullying já fosse crime na época dele, talvez tudo poderia ter sidodiferente,se a policia evitasse essas armas sendo vendidas ilegalmente, talvez tudo poderia ter sidodiferentee sepelo ao menos o Brasil fizesse sua parte, talvez tudo poderia ser diferente, poupando vidas devariaspessoas inocentes que saem de casa com a esperança de voltar e talvez tudo poderia ser diferente.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

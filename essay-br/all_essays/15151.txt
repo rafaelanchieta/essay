@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 650
+# tittle: [Redação sem título]
+Na obra ''Utopia'', do escrito inglês Thomas More, é retratada uma sociedade perfeita, na qual o corpo social padroniza-se pela ausência de conflitos e problemas. No entanto, o que se observa na realidade contemporânea é o oposto do que o autor prega, uma vez que o índice decrescente de vacinação,  apresenta barreiras para a sociedade, as quais dificultam a concretização dos planos More. Esse cenário antagônico é fruto tanto dos pais desinformados, quanto da falta desses aspectos , a fim do pleno funcionamento da sociedade.
+
+Mormente, é valido ressaltar que a dificuldade na vacinação deriva da baixa atuação dos setores governamentais, no que concerne à criação de mecanismos que coíbam tais recorrências. Segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto,  isso não ocorre no Brasil. Devido a ausência de atuação das autoridades, a falta de informações para a sociedade, pais deixam de levar seus filhos a unidade de saúde, assim, aumentando o risco de sequelas irreversíveis, como exemplo, cegueira, surdez e paralisia infantil. 
+
+Em segunda análise, é imperativo ressaltar o desabastecimento de vacinas essenciais nos postos de saúde e a falta de recursos municipais para a gestão de programas de vacinação como promotor do problema, a não imunização representa retrocesso e impossibilidade do governo de zelar pela saúde pública de sua nação. Partindo desse pressuposto a porcentagem da população vacinada vem caindo ano pós ano, assim trazendo novamente doenças já erradicadas, como o sarampo. Tudo isso retarda a resolução do empecilho, já que a falta de atuação do governo contribui para a perpetuação desse quadro deletério. 
+Em suma, são necessárias medidas para conter o avanço da problemática na sociedade brasileira. Dessarte, com o intuito de aumentar o índice de vacinação no Brasil, necessita-se urgente,  que o Tribunal de Contas da União direcione capital que, por intermédio do Ministério da Saúde, será revertido em,  programas de incentivo a vacinação,  através da mídia esses projetos devem apresentar os benefícios da imunização e as consequências de não vacinar-se. Desse modo, atenuar-se-á, em médio e longo prazo, o impacto nocivo da não vacinação, e a coletividade alcançará a Utopia de More. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: Por que não há novas manifestações nas ruas?
+# score: 800
+# title: O poder do povo
+As manifestações públicas se mostraram um fator decisivo ao longo da história do Brasil e do mundo, uma vez que representam o poder que o povo tem dentro da política . Entretanto, devido aos intermináveis escândalos envolvendo  país, os protestos passaram a diminuir, em quantidade e intensidade, o que tem piorado cada vez mais a situação política e econômica brasileira.
+Um exemplo desse fator é a Revolução Francesa. O povo não estava satisfeito com a monarquia absolutista que governava e, por isso, mesmo sendo de uma forma violenta e drástica, lutou para alcançar uma  nação mais justa, transformando-a em república, sendo que até hoje esse sistema prevalece . Casos assim também ocorreram no Brasil, como no período da Ditadura Militar , no qual, apesar do conceito de liberdade de expressão não ser algo permitido , muitos eram os que iam às ruas para protestar contra o governo e lutar por um país melhor, o que gerou resultados na época.
+Nos últimos tempos, desde que os esquemas de corrupção foram revelados ao público, um certo sentimento nacionalista surgiu entre o povo, como foi possível perceber através das manifestações que assolaram  todo o território brasileiro. Entretanto, cada vez mais corruptos foram sendo revelados, e esse  fator acabou levando muitos a perderem sua fé no país e/ou em sua reestruturação econômica. Em outras palavras, a quantidade de escândalos políticos levou a população a um estado de apatia, no qual o “tanto faz” passa a ser uma expressão dominante.
+Portanto, percebe-se que a população tem um papel fundamental no desenvolvimento da política e economia do seu país. Ela tem o controle dos eventos que ocorrem, mesmo que isso seja exercido de forma indireta. Dito isso, cabe aos que não se deixaram abater a promoção de manifestações públicas, que reunirão todos que querem ver uma mudança nos atuais parâmetros que o Brasil tem seguido e, dessa forma, mudar a nação para a melhor.
+# C0: 150
+# C1: 200
+# C2: 100
+# C3: 150
+# C4: 200

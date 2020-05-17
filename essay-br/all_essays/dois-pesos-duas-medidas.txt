@@ -1,0 +1,12 @@
+# prompt: Epidemia alimentar: sobrepeso e obesidade
+# score: 380
+# title: Dois pesos; duas medidas
+Segundo Zygmunt Bauman, sociólogo polonês, a falta de solidez nas relações sociais, políticas e econômicas é característica da "modernidade líquida" vivida no século XX. Com isso, a epidemia alimentar, quando se refere ao sobrepeso e à obesidade, seja por discriminação social, seja por falta de instrução alimentar, reflete essa realidade.
+É indubitável que o governo federal  bem como as aplicações de leis esteja  entre as causas do problema. De acordo com Aristóteles, a política deve ser utilizada de modo que, por meio da justiça, o equilíbrio seja alcançado na sociedade. De maneira análoga, é possível perceber que, no Brasil, a discriminação social contra indivíduos que sofrem de distúrbios alimentares - os chamados "gordinhos" -, rompe essa harmonia, haja vista que, embora existam grandes avanços em projetos de leis, há lacunas que permitem a ocorrência dos crimes, como as muitas vítimas que sofrem por não ter acessibilidade adequada nos transportes públicos coletivos. Desse modo, evidencia-se a importância do esforço da regulamentação como forma de combate à problemática.
+Outrossim, destaca-se a falta de educação alimentar como elemento marcante ou impulsionador da  epidemia alimentar. Segundo Paulo Freire, se a educação sozinha não pode transformar a sociedade, tampouco sem ela a sociedade muda. Seguindo essa linha de pensamento, observa-se que a inexistência instrucional alimentar pode ser encaixada na teoria do filósofo, uma vez que, se a família, que é a grande responsável por gerir e formar o indivíduo, não ensinar a sua descendência bons hábitos alimentares, a tendência é a pessoa ser influenciada a adotar o mesmo comportamento. Assim, enquanto existir a mentalidade de que a escola é responsável por 100% de todo o ensino que pode ser transmitido para uma criança, o problema continuará se agravando no Brasil. 
+O combate à liquidez citada inicialmente, a fim de conter o avanço da epidemia alimentar, deve torna-se efetivo uma vez que a discriminação social e a falta de educação alimentar continuam intrinsecamente ligada  à realidade do país. Sendo assim, desde que haja parceria entre governo, comunidade e família, será possível amenizar o sobrepeso e a obesidade, construindo uma sociedade mais fiel aos princípios fundamentais da constituição .
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 20

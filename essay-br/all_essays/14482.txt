@@ -1,0 +1,12 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: A cultura indígena na sociedade brasileira
+Na história do Brasil, os portugueses encontraram em nosso  país um povo que habitava há anos, com uma cultura,  e costumes bem peculiares, o que foi uma total novidade, esse povo hoje é um patrimônio nacional no caso os povos indígenas . Algumas pessoas dizem que devem ocorrer a integração dos índios e outras concordam com a preservação da cultura, cerca de 700 mil pessoas se declaram como indígenas, grande parte vive integrada nas cidades. 
+
+Os povos indígenas lutam tanto a favor quanto contra o desenvolvimento da indústria, pois assim como podem atrapalhar rituais,  e eventos religiosos  quanto os ajudar a evoluir perante a sociedade, a integração dos índios é algo frequentemente discutido em sistemas sociais, econômicos e políticos, pois a grande parte das matas pertencem aos índios, há uma grande quantidade de pessoas que tentam frequentemente dominar os territórios indígenas, para ali plantar árvores que são utilizadas para vários fins lucrativos. 
+Os índios têm uma cultura rica, como caça, pesca e aproveitamento de plantas silvestres  como medicamentos e alimento, tempos atrás haviam várias tribos, hoje infelizmente com o dêem,atamento desmatamento e a falta de preservação algumas delas estão extintas  Isso nos  faz com que a maior parte das ongs  ONGs  se mobilizem em prol desse povo  ajudando-os a garantir seus direitos, e garantira tanto a preservação quanto sua integração. Deveríamos  nos preocupar mais em relação a cultura indígena no Brasil  aliás ela é uma das principais formas de conhecimento sobre nosso país . 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

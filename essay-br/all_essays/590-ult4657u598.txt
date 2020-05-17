@@ -1,0 +1,14 @@
+# prompt: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao
+# score: 3,5
+# title: Um simples erro ou uma chance de aparecer?
+Um caso de tamanha proporção como esseinstigou a váriaspessoas a se perguntarem o que realmente aconteceu.O que porquede tamanha revolta que levou a toda essarepercusãonacional.
+        Seria o vestido?A forma de se comportar ou agir? Qual foi o real motivo? É claro que podemos usar a roupa que quisermos, em qualquer lugar que seja. O que sempre se espera é o bom senso de cada um. Existe roupas adequadas epropíciosa todos os lugares.
+            Mas como ela disse estaracostumacom esses trajes não imaginou que criaria tanta polêmica. Seriamoshipocritossedizermosque nãopossuimosum vestido mais curto, uma blusa mais decotada ou uma calça mais justa.
+              O problema todo está em como agir, como se comportar e como saber usar. Não é um simples vestido que dá o direito de julgarmos uma pessoa, não é o vestido que vai dizer o que ela é ou não é. Os alunos se revoltaram, se indignaram com ela por causa de sua roupa. E ela seaxouinjustiçada, envergonhada e até discriminada. Será mesmo? Uma pessoa que acreditou estar sendo discriminada sairia dando entrevista? Sairia nua depois de um fato como esse? Teria coragem de estar se aproveitando da situação como ela parece estar?
+                  O fato é que ela causou polêmica ao ser humilhada e expulsa da faculdade e logo depois aparece como uma "celebridade" e não como aquela garotaa qualapareceu primeiro como ingênua e humilhada.
+                    Cada um pode se vestir como quer, falar o que quiser. O que determina o que ela é realmente são suas atitudes e seu caráter.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

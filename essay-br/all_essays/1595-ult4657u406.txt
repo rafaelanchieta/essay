@@ -1,0 +1,11 @@
+# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
+# score: 10.0
+# title: A Decisão é da Mulher
+Legalizar o aborto significa que nenhuma mulher poderá ser presa por esta prática e que o Estado estará obrigado a garantir assistência à saúde desta mulher na rede pública. Porém muitas pessoas e principalmente entidades religiosas acreditam que aprovar determinada lei significa um crime contra a vida e fazer apologia ao aborto. A criminalização do aborto faz com que as clínicas clandestinas lucrem no comércio ilegal de abortamentos e milhares de mulheres morram por ano ao realizarem o aborto naclandestinidade, sehouvesse a legalização, poderíamos ter números oficiais de abortamentos e controlá-los paradiminuir esses números.São as mulherespobres, asmaiores vítimas da criminalização do aborto. São elas que morrem por não ter dinheiro para pagar por um aborto em clínicas clandestinas caríssimase acabampor realizar abortos em situações desumanas, sem terem um acompanhamento médico antes, durante e depois do aborto.
+            Legalizar o aborto não significa incentivá-lo e sim poder reforçar campanhas de educação sexual para evitá-lo. A maternidade só será plena se for voluntária, livre e desejada, por issoé preferível a mulher assumirque não está pronta para trazer uma criança ao mundodo que fazer esta criança passar por maus tratos e sofrer. Não faz sentido que pessoas em nome de princípios religiosos imponham proibições para pessoas que não pensem como elas.
+              O aborto é um direito das mulheres de decidirem sobre seu corpo e sua vida. Nenhuma mulher é obrigada a fazer um aborto e quem for contra poderá manter sua opinião, seguir seus valores e religião. Mas aquelas que tiverem uma gravidez não planejada devem ser respeitadas na sua decisão, e o Estado deve garantir a possibilidade destas de interromper a gravidez sem correr risco de morte ou ir para a cadeia. Nenhuma mulher deve ser perseguida, humilhada, condenada ou presa pela prática do aborto.
+# C0: 2.0
+# C1: 2.0
+# C2: 2.0
+# C3: 2.0
+# C4: 2.0

@@ -1,0 +1,13 @@
+# prompt: Escola no Brasil
+# score: 8,5
+# title: Lei da mordaça
+ O projeto de lei "escola sem partido" é um atentado a  educação brasileira, disfarçado de neutro o projeto se aprovado  retira a autonomia dos professores e  olhar crítico dos alunos perante a  sociedade.
+ O projeto acusa professores e até mesmo os livros didáticos de doutrinarem os alunos ao  pensamento  "esquerdista"  ou a ideologia do  "comunismo". Em meio a uma crise política e uma polarização do país entre esquerda e direita, esse projeto agravaria ainda mais a intolerância  pois retira da sala de aula o debate político, tão importante para formação cidadãos.
+ Faz  parte da grade curricular teóricos como Marx que tem uma grande influencia  até hoje com suas críticas ao capitalismo e à desigualdade, estudar  Marx não é uma doutrinação e sim uma compreensão crítica da sociedade.
+ O projeto além de autoritário  é mal elaborado pois não deixa claro como os professores abordariam temas hoje obrigatórios sem serem considerados doutrinadores pelo projeto. Em matérias de humanas,  entender a sociedade e a desigualdade social faz parte da grade curricular.
+ É preciso pressão popular no parlamento para que o projeto não seja aprovado, todo  professor merece liberdade para educar, todo aluno merece se tornar um cidadão critico , toda escola deve ser aberta a debates, não existe doutrinação comunista ou esquerdista, existe cada vez mais entre jovens uma preocupação com a igualdade social e isso esta  sendo visto como ameaça pelos criadores do absurdo projeto de lei "escola sem partido".
+# C1: 1,5
+# C3: 2,0
+# C5: 1,5
+# C7: 2,0
+# C9: 1,5

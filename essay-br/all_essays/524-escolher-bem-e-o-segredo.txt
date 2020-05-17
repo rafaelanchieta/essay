@@ -1,0 +1,11 @@
+# prompt: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao
+# score: 5,0
+# title: Escolher bem é o segredo
+Política é um tema que não agrada a todos os brasileiros, que na maioria das vezes nem, se preocupam em exercer seu papel de cidadão. A corrupção, a falta de contato entre os políticos e eleitores, a grande quantidade de candidatos para serem avaliados numa eleição são motivos de desmotivação para os eleitores.Nodecorrer deste ano, tanto os políticos quantoalgumas partessociais começaram a se envolver numadiscursãosobre o modelo eleitoral adotado noBrasil, que tem em pautao voto distritaleo voto proporcional misto.
+        Em um país como oBrasil aondecorrupção vem ganhando espaço a cadadiaé por esse lado que entendemos que o país necessita de uma melhor forma de eleição onde os candidatos sejam escolhidos de formaconcisa, mas tempessoas que procuram amenizar esses problemas como vimos no decorrer desse ano a presidenta Dilma derrubar cinco ministros corruptos acusados de desvio de verbas para o uso pessoal. O modelo de voto proporcional mistoem sua proposta esse modelo de voto regeque os eleitores terão direito a dois votos: no primeiro nós votamos em uma lista de candidatos de nossa escolha e no segundo voto escolhemos o candidato de nossa preferência, dessa forma o modelo de
+          voto proporcional misto talvez seja o melhor a ser escolhido já que tudo vai ficar nas mãos dos cidadãos e se forem eleitos políticos corruptos os culpados seremos nós mesmos. Então, essa é uma causa a ser pensada cuidadosamente e cabe aos cidadãos eleitores escolher seus candidatos precisamente já que quem vai sofrer as consequências da nossa má escolha seremos nós próprios.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

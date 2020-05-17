@@ -1,0 +1,19 @@
+# prompt: combate-ao-fumo-autoritarismo-ou-dever-do-governo
+# score: 3.0
+# title: Um pouco mais de oxigênio
+Creio que seja sim, este,um dever do Governo .
+      
+      Sou a favor da proibição desse ato , que não traz nenhum benefício à população. A proibição do fumo será uma garantia de mais saúde à populaçãoemmodo geral.
+      
+      Tem-se que pensar na saúde de cada cidadão, e esta é uma lei que só trará benefícios a nós mesmos , e ao meio ambiente.
+      
+      Cito aqui alguns exemplos deste benefício: Saúde bucal, saúde respiratória , e saúde ambiental... Menos lixo e também diminuirão os tocos de cigarros pelos chãos .
+      
+      " Haverá uma grande melhoraàvida de pessoas quecontémdoenças respiratórias e as demais pessoas terão um pulmão mais saudável, um planeta mais limpo e umsorriomais branco " !
+      
+      Quem quiser continuar ingerindo a "fumaça ilusória" que faça isso em casa, e de preferência que more sozinho!
+# C0: 0.5
+# C1: 0.5
+# C2: 0.5
+# C3: 0.5
+# C4: 1.0

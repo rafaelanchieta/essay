@@ -1,0 +1,12 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 500
+# title: Estupro
+Muitas mulheres, das quais  já sofreram assédio, não  denunciam tal crime, o que nos permite concluir que as taxas de abusos sexuais, na verdade, são bem maiores do que pensamos, fazendo disso um problema que deve ser combatido fortemente. 
+Dentre as causas principais, apontamos uma sociedade extremamente machista que age com normalidade e até mesmo estimula o cidadão a cometer atrocidades contra a mulher, uma pequena possibilidade do infrator sofrer as devidas consequências pelos seus atos, já que estes crimes são constantemente camuflados e ignorados, e um certo medo das mulheres em reagir ao crime. 
+Por conseguinte  cidadãs se sentem culpadas por serem vítimas, evitando sair às ruas, usar roupas de certa forma vulgares e também de "dar a entender" que a qual deseja algo similar.  Estas  também terão que lidar com este  trauma para o resto de suas vidas, evidenciando um grande atraso da sociedade neste aspecto. 
+Estupros devem ser combatidos e também prevenidos. As vítimas devem denunciar imediatamente após o ato, facilitando a prova contra o criminoso e, assim, causa um receio deste para realizar o crime.  Também é essencial uma educação, desde a infância, pregando igualdade entre os gêneros tanto em casa quanto em escolas  para que assim o indivíduo cresça sem ideias erradas de superioridade masculina ou feminina.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt: A influência dos meios de comunicação na sociedade brasileira
+# score: 400
+# tittle: As informações no Brasil
+A tecnologia trouxe diversos benefícios para a sociedade e um deles é a facilidade das pessoas poderem receber informações de qualquer lugar do mundo . Pessoas de diferentes classes sociais podem se informar e criar suas próprias opiniões. Mas, será mesmo que estas essas pessoas formarão sua própria opinião? Nada impede que a grande mídia, inclusive a brasileira, esteja aparelhada. 
+
+As pessoas hoje se informam de diversas maneiras : telejornais, jornais impressos ou digitalizados, podcasts e principalmente as redes sociais, que atualmente é o meio mais usado, visto que mais de 60% dos internautas a utilizam-a para se informar segundo um grande jornal de circulação nacional. E com toda esta democratização da informação, as redes sociais também influenciam a opinião política dos cidadãos como ocorreu na última eleição no Brasil em 2018. 
+
+Na eleição,  ocorreu um escândalo das chamadas fake news  ou notícias falsas em português, que gerou uma grande quantidade de disseminação de notícias falsas em massa nas redes sociais, prejudicando diversos candidatos que tiveram sua reputação abalada. A solução que o governo propôs foi a criação da lei da Fake News, no qual o estado iria regular o que seria notícias falsas e verdadeiras. Contudo, diversas empresas no meio de comunicação brasileiro se mostraram que tiveram uma boa relação com o estado quando ele o beneficiava e também que são mais a favor de ganharem um bônus do governo do que propagar notícias que são realmente verdadeiras ou de sua própria opinião, assim, as grandes mídias com seu alcance de público, elas podem aparelhar a informação que as pessoas recebem do jeito que lhe for mais vantajoso. 
+Casos assim são comuns quando o Estado, um grande propagandista nato, "revela" a população o que é verdade e o que é mentira. Para evitar este aparelhamento, deve-se ter mais oportunidades para pequenas mídias ganharem cada vez mais espaço na opinião pública e que sintam-se confortável para ter variadas opiniões e não apenas uma. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

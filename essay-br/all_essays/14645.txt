@@ -1,0 +1,12 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 550
+# tittle: A atual situação carcerária do Brasil. Como reverter essa situação.
+Há pouco mais de dois anos e meio, em 2017, a guerra das facções criminosas em prisões evidenciou a grave crise do sistema prisional brasileiro, mostrou sua fragilidade e chamou atenção mais uma vez para um dos principais problemas dos presídios brasileiros: a superlotação. Evidencia-se, portanto, que a diminuição do número de presos evitaria tragédias como rebeliões e mortes de detentos e agentes de segurança em cadeias  .
+
+Segundos estudos divulgados pela Pastoral Carcerária, o Brasil possui a terceira maior população carcerária, ficando somente atrás de China e Estados Unidos. Há quem pense que a despeito dos muitos presídios inaugurados o quadro da superlotação tende a se agravar, pois na realidade,  só fazem fomentar ainda mais a banalização das prisões e suas barbáries. Neste sentido, o intitulado movimento “luta antiprisional no mundo contemporâneo” tem-se mobilizado para frear o crescimento do número de presos e promover ações para reduzi-lo. 
+Por todos esses aspectos,  medidas são necessárias para resolver esse impasse. Através do sistema judiciário brasileiro, o estudo sobre a diminuição de presos provisórios que cometeram crimes sem gravidade e que poderiam esperar pelo julgamento em liberdade . Assim como o estudo pelo poder legislativo acerca da Lei das drogas, para aplicação de penas alternativas  tais como interdições temporárias de direitos, principalmente quando se tratar de presos que teriam atendido imposição ou pedido para levar drogas aos companheiros . Acreditando que, segundo Confúcio, filósofo Chinês, “não corrigir nossas falhas é o mesmo que cometer novos erros”. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

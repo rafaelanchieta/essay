@@ -1,0 +1,12 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: Perplexidade e resistência
+A reforma da previdência social no Brasil,  é uma mudança estrutural que visa a implementação de medidas legislativas que vêm alterar substantivamente substancialmente a legislação previdenciária no país. 
+Repercute-se na sociedade a forma com que a mesma  é instituída e elaborada. Desse modo, é de total importância salientar que este processo é refletido no meio social. Ainda convém lembrar,  que,  as reformulações previdenciárias são constituídas a partir de convicções partidárias e congressistas. Portanto, a população não tem poder de voto ou escolha sobre o dado assunto, que é de tamanha importância para a comunidade e para o país. 
+De acordo com o pai da psicanálise, Sigmund Freud,  “o novo sempre despertou perplexidade e resistência”. Sendo assim, enfatiza-se a forma com que as medidas legislativas são instituídas dentro da sociedade civil. 
+Em vista dos argumentos apresentados,  é plausível refletir sobre essa problemática e a forma com que as medidas legislativas são empregadas dentro da sociedade. A partir disso, entende-se que todas as medidas coletivas devem ser ponderadas a partir do princípio do bem comum de Platão . Logo, nesse pressuposto confere-se que todo poder emana do povo, e em seu nome deve ser exercido. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Direitos em conflito: liberdade de expressão e intimidade
+# score: 250
+# title: O conflito entre a liberdade de expressão e o direito à privacidade.
+O direito à livre expressão e a  intimidade são básicos  ao ser humano, e estão garantidos  (à base de duras lutas) na Constituição Federal do Brasil. No entanto, embora sejam fundamentais  ao ser humano, eles  não são absolutos , podendo transpor o limite entre a harmonia e o desrespeito, entrando, assim, em conflito. 
+Em tempos de  mundo conectado pelas mídias sociais, usamos nossos perfis da internet para apresentar, manifestar e traduzir quem somos e o que pensamos, desta maneira  nos tornamos pessoas públicas. Mas se a liberdade expressão se faz necessária para manutenção de uma personalidade própria, a privacidade preserva esse padrão de individualidade pessoal. 
+O mau uso do direito de se expressar livremente pode gerar injustiças, distorções e manipulação, ferindo o particular do outro, por isso deve ser feita com veracidade e neutralidade.  Do contrário, as diferentes manifestações podem virar hostilidades, como foi o caso do jornal Charlie Hebdo, atacado por um grupo extremista islâmico, após divulgar charges satíricas do profeta Maomé. Casos como esse comprovam que a liberdade de expressão não pode vir acompanhada do discurso de ódio. 
+Posto que, toda liberdade  não pode ultrapassar a liberdade do outro, regulamentar o direito a  expressão impediria que esta  fosse usada para ofender, discriminar e fomentar intolerâncias, preservando a propriedade mais importante do homem, si  mesmo.  Destarte, estabelecer limites a  liberdade de expressão não é censura-la , proibi-la é.
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

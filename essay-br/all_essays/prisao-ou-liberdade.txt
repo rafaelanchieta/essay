@@ -1,0 +1,13 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 640
+# title: Prisão ou Liberdade?
+O Brasil tem vivido nos últimos meses uma discussão a respeito da prisão ou não de réus condenados em 2ª instância. A decisão, que será proferida pelo Supremo Tribunal Federal pode mudar o curso da legislação criminal do país. As opiniões são divididas, porém, temos que definir o que é melhor para a sociedade visando à segurança e o bem comum.
+Por um lado, há a defesa da liberdade até o trânsito em julgado, como dita a nossa Constituição de 1988. Isso dá o direito ao réu de esgotar todas as possibilidades de recursos pelo contraditório e pela ampla defesa. Devemos nos colocar na situação de um réu, que se julga inocente, e que buscará provas para garantir sua liberdade. Não seria justo que o mesmo permanecesse preso sabendo que não cometeu o crime. Estaríamos privando um inocente de sua liberdade e contradizendo os princípios da Constituição Federal. Acredito que a condenação de forma errônea em 2ª instância pode até ocorrer por falhas da justiça, mas, em casos raríssimos que não representam a maioria. A condenação é feita por pessoas com elevado conhecimento de direito e que usam de provas concretas para tal.
+Por outro lado, como já houve a condenação em 2ª instância, tem-se a prova de que houve sim um crime e a pessoa precisa pagar por ele. Entendo que o julgamento pela condenação em 2ª instância já esgotou as possibilidades de inocência e a entrada de recursos seria uma mera tentativa de reduzir ou minimizar a pena. Se houve uma condenação, esta pessoa representa um risco para a sociedade, podendo cometer mais crimes e tentar fraudar informações para garantir sua inocência. E ainda, se tivermos um sistema judiciário sério e eficiente, como poderíamos condenar numa instância e inocentar em outra?
+A não prisão em 2ª instância requer mais tempo de recursos para o réu e consequente maior morosidade nas decisões da justiça. Esta morosidade pode acarretar danos à sociedade como aumento de crimes, fraudes e tentativas de escapar da justiça.
+Por fim, a condenação em 2ª instância em minha opinião é suficiente para a prisão do réu. Cabe ao Supremo Tribunal Federal decidir o que melhor atende ao interesse público e seja mais eficiente e eficaz para o combate aos crimes e à constante luta por um país melhor.
+# C0: 120
+# C1: 120
+# C2: 160
+# C3: 120
+# C4: 120

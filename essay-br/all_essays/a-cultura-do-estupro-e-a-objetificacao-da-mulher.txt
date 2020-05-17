@@ -1,0 +1,13 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 850
+# title: A cultura do estupro e a objetificação da mulher
+Recentemente um caso de estupro coletivo foi o principal assunto de várias manchetes brasileiras. Após tal atrocidade contra uma menina de 16 anos  a população se dividiu em dois grupos. O primeiro grupo busca uma forma de legitimar a violência ocorrida, rotulando a menina como drogada. Já o segundo grupo defende a ideia de que o estupro é um crime que independe da vítima e que os estupradores devem ser punidos imediatamente. 
+Nosso país precisa mudar a maneira com que lida com o estupro. Em vez de ensinarmos os homens a não estuprarem, ensinamos as mulheres a se defenderam . Essa atitude equivocada ainda está presente por conta da cultura do estupro.  Graças a essa cultura  a violência sexual se tornou normal.
+A cultura do estupro se origina da objetificação das mulheres que está presente, por exemplo, nos comerciais televisivos, onde mulheres aparecem como um simples corpo para agradar os homens. Além disso, outros fatores que favorecem a objetificação das mulheres é a disseminação de imagens, vídeos, músicas, comentários e piadas sexistas. É por conta dessa cultura que  muitas vezes  as mulheres preferem permanecerem  caladas do que reportarem o abuso, pois são tachadas de muitas coisas  exceto  vítima.
+Muitos aprovam como solução a castração química, pois baseiam-se no mito de que os estupradores são pessoas com problemas mentais. Contudo, o ato do estupro é muitas vezes originário de uma decisão consciente do indivíduo que o pratica, devido a  cultura do estupro. Assim, a solução está na mudança do pensamento da sociedade em relação a  mulher e não na inibição do  libido. 
+Fica clara, portanto, a necessidade de acabar com a objetificação da mulher e consequentemente a  cultura do estupro. Podemos alcançar tal objetivo educando nossas crianças, o futuro dessa nação. Enquanto isso, é de suma importância que as delegacias se adaptem melhor para receber vítimas de estupros, acabando com a discriminação enfrentada pelas mulheres que se encontram nessas situações. Esperamos, assim, acabar com o único crime no qual  a vítima é julgada junto  com o criminoso.
+# C0: 200
+# C1: 200
+# C2: 200
+# C3: 150
+# C4: 100

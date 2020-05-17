@@ -1,0 +1,12 @@
+# prompt: Violência e drogas: o papel do usuário
+# score: 500
+# title: Quanto mais rentável, mais violento
+É notável que a violência causada pelo tráfico de drogas, hoje, nas comunidades do Brasil, é um problema. Tal violência surge por conta dos consumidores, que mantêm esse comércio ilegal aquecido e tornam o tráfico de drogas uma atividade muito rentável.
+Prova disso, é  que, segundo a ONU, houve um aumento no consumo de drogas no Brasil nos últimos anos. A maior procura dos usuário  pelos tóxicos reflete na busca por mais territórios nas comunidades, por parte dos traficantes. Por vezes, as mídias retratam  cenários de guerra, onde  os grupos e seus líderes buscam dominar outras regiões para assim conquistarem mais espaço nesse mercado.
+Além da demanda, o tráfico é uma atividade rentável e que se transforma em oportunidade de renda para os jovens das comunidades. De acordo com o IBGE, a maioria dos moradores das periferias apresenta um baixo grau de escolaridade, fazendo com que o tráfico se torne uma atividade mais lucrativa do que empregos formais em que se exigem  uma instrução menor.
+Por fim, é importante que as leis se tornem mais severas  tanto para quem vende quanto para quem compra os tóxicos. Afinal, com a diminuição desse comércio  é possível que a violência no trafico  também diminua e que outras atividades - agora legais - se tornem também rentáveis.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

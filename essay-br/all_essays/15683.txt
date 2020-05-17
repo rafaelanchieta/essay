@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 350
+# tittle: Nem pandemia "global", nem isolamento "social"
+O que acabou viralizando  junto ao novo coronavírus foram expressões como "pandemia global", colocando  "pandemia" como sinônimo absoluto de epidemia, e "isolamento social",  como se se tratasse de um vírus social , expressões estas que mostram o quão distante estamos  da verdadeira ciência. 
+ Quem não sabe exatamente o que significa "pandemia", uma epidemia praticamente mundial , acha normal a expressão "pandemia global", sem perceber a redundância . Já "isolamento social", expressão desaconselhada pela Organização Mundial da Saúde - que deveria ser substituída por "isolamento/distanciamento físico", segundo a OMS -, continua a ser utilizada até mesmo por jornalistas. 
+O isolamento social, que pode levar até mesmo a transtornos psiquiátricos, não é o recomendado pela ciência, e sim o "isolamento/distanciamento físico". O isolamento físico não impede que nos socializemos , existem telefones, computadores;  o distanciamento físico não impede que conversemos , que nos cumprimentemos : apertos de mãos não são o único jeito de cumprimentar.
+ É momento de o mundo se unir, mesmo "isolado", confiar na ciência e deixar o achismo de lado, seguir as recomendações científicas e viver de um modo diferente, com muito mais uso de água e sabão e álcool gel  e de máscaras cirúrgicas, até que tudo volte à normalidade. 
+# C0: 150
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

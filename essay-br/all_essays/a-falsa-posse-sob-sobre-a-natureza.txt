@@ -1,0 +1,12 @@
+# prompt: Preservação da Amazônia: Desafio brasileiro ou internacional?
+# score: 480
+# title: A falsa posse sob [sobre] a natureza
+É de conhecimento geral, que é dever de todos cuidar do ambiente em que se vive. Visto que, a falta de cuidado e preservação, pode nos levar à ruína. No entanto, o número de queimadas e desmatamento no território amazônico, cresceu absurdamente devido a falta de conscientização e negligência governamental.
+A priori, não se pode tomar posse total da natureza, posto que é por meio dela que o oxigênio passa a ser mais purificado e nos dá ar fresco. Contudo, passaram-se mais de 10 dias de queima contínua no território da Amazônia, tal ato fizera  animais serem mortos, indígenas terem reservas atingidas, causando grande problema ambiental. Por conseguinte, tal celeuma tornou-se assunto internacional.
+Outrossim , os recursos usados pelo governo brasileiro foram mínimas . Entretanto, não faltou ajuda, o presidente da França propôs a ideia da Amazônia ganhar status internacional, tal atitude traria grande ajuda de preservação. Sobretudo, não há alguém que possa comprar a natureza, visto que sua vida independe da nossa, porém poderíamos prolongar seus dias recebendo ajuda até mesmo internacional.
+Depreende-se, portanto, que é necessário abrir mão de posses territoriais para salvar nossa fonte de vida. Logo, faz-se mister, que o governo brasileiro por meio do Ministério do Meio Ambiente, entre em acordo com o Governo da França, para receber os recursos necessários, com o fito de nos tornamos um país mais empático e humanitário.
+# C0: 80
+# C1: 120
+# C2: 120
+# C3: 80
+# C4: 80

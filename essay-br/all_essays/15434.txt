@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 370
+# tittle: Gravidez Precoce
+É de extrema importância que atualmente a sociedade comente o fato do número   de gravidez na adolescência estar em constante crescimento a cada ano, porém o que não é do conhecimento de muitos são as consequências geradas através dessa situação. 
+No Brasil o índice de nascimentos gerados por adolescentes é de 68,4, a cada mil meninas de 15 a 19 anos, diz o relatório da organização mundial da saúde ,  Outro ponto divulgado é que a América Latina é a única região do mundo com tendência crescente de gravidez entre jovens menores de 15 anos. 
+Além disso  uma gravidez precoce pode gerar diversos problemas como, de saúde devido ao corpo não estar totalmente desenvolvido,  a maioria deve-se deve se afastar dos ensinos fundamentais, médio ou superior por um certo período, há também maior chance de um parto prematuro, rompimento precoce da bolsa, aborto espontâneo entre outros. 
+Portanto  especula-se que para uma redução desses casos aconteça, seja dado aulas de educação sexual em instituições escolares ou hospitais públicos, com mais frequência, que jovens sejam orientados pelos pais e professores a todo tempo proteger-se, e tomar decisões conscientes. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

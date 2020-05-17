@@ -1,0 +1,16 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: Os direitos dos povos indígenas no Brasil
+Muitas eram as tribos indígenas quando da  descoberta do Brasil no ano de 1500 . Elas compunham a diversidade cultural, importante na construção da identidade brasileira. 
+
+Porém, hoje é importante a valorização e garantia dos direitos dos povos indígenas  já que sua população reduzida drasticamente tente a ser dizimada em decorrência das políticas de expansionismo agrícola e a inexistência de prestação de serviços básicos de saúde e educação. 
+
+O expansionismo agrícola decorrente da demanda capitalista avança cada vez mais sobre terras indígenas e de preservação permanente sob a ótica da monocultura de exportação, não valorizando a identidade agroecológica de preservação e cultivo simultâneos. 
+
+Em 2018, pesquisadores  na Amazônia identificaram a inexistência de prestação de serviços básicos de educação e saúde nas tribos indígenas. Esse quadro se agrava quando se observa que o isolamento geográfico tende a desenvolver o isolamento genético, incapaz de resistir a antígenos e de resposta imunológica igualitária em toda população. 
+Portanto, é importante que essas questões supracitadas sejam resolvidas . Para tanto sugere-se que o Ministério da Educação e Cultura, MEC, institua conteúdos interdisciplinares junto a Base Nacional Comum Curricular, BNCC, para pesquisa e ensino da cultura indígena nas escolas, pois parafraseando o filosofo Burke , uma sociedade que não conhece sua história está condenada a repeti-la . Do mesmo modo,  que o MEC garanta que indígenas tenham acesso à universidade  e principalmente que tenham incentivo em voltar para suas tribos levando o conhecimento adquirido . Ademais, que a Fundação Nacional do Índio, FUNAI, vinculada ao Ministério da Justiça, promova estudos de demarcações definitivas de áreas indígenas como de permanente preservação e patrimônio cultural. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

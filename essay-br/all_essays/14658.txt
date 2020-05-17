@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: A situação carcerária no Brasil
+A situação carcerária no Brasil é o reflexo de um sistema sem estruturas, agentes capacitados, equipe de saúde, e reeducação . Posto que,  é um ambiente caótico que alimenta o ódio e encontra-se ao abandono e ao descaso dos poderes públicos. Diante disso, torna-se premente analisar as causas, consequências e possível medida para mitigar esse desafio. 
+
+As autoridades abdicaram gradativamente suas responsabilidades de manter a ordem . O encarceramento em massa e presos detidos de forma provisória adjunto da lentidão na justiça é o ápice desse sistema ineficaz. Outrossim, pode-se relacionar o problema ao experimento da prisão de Stanford, feito pelo pesquisador Philip Zimbardo, ao concluir que os indivíduos são de acordo com os moldes que lhes são oferecido. Em face disso, é lamentável que a dignidade humana seja esquecida e ignorada. 
+
+Ademais, outro fator a salientar é que a princípio são homens jovens majoritariamente negros, de classe social baixa, famílias desestruturadas, e sem estudos- reforçando a ideia que a raiz desse fenômeno está na falta de oportunidades e de educação. Somado a isso, tendo em vista o preconceito enraizado na sociedade, expõe o jovem negro ás  as opções fáceis de subemprego e marginalização, pois o ócio fortalece a cultura do crime. Faz-se imprescindível, portanto, uma conscientização social sobre a conjectura deplorável desse sistema. 
+Em síntese, é um complexo desafio hodierno e precisa ser mitigado. Por conseguinte o Governo Federal, como instância máxima de administração executiva, deve investir na educação e em projetos sociais como: acessibilizar nas periferias do Brasil,  cursos gratuitos profissionalizantes para jovens de baixa renda, postos de saúde e emprego. Além disso, promover ações que reeduque o detento por meio de ensino de profissões e a parcerias de empresas privadas com incentivo fiscais que possam contratá-los. Com isso, espera-se promover um progresso social e aumentar as oportunidades para que o crime não seja a opção mais atraente aos jovens, futuro do Brasil.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

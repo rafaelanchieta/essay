@@ -1,0 +1,13 @@
+# prompt: a-sociedade-brasileira-e-os-conflitos-no-transito
+# score: 3,0
+# title: Pressa: o egoímo [egoísmo] ganha vez
+O trânsito brasileiro, cada vez mais aglomerado devido a grande frota decarrostornou-se um dos
+        braços da violência, marcada pelo desrespeito, egoísmo e estresse. A agressividade faz parte da natureza humana, através dela o homem libera sua ira, porém as proporções que tal agressividadetoma como no trânsito, tornam-sealarmantes.
+          Essa violência poderia ser evitada por partes dos motoristas, que na correria dodia-a-diaquerem sempre tomaràfrente no trânsito, comoumacompetição desenfreada. Se parte desses motoristas respeitassem a sinalização, os pedestres e os ciclistas, já seria um progresso.
+            Apesar de na maioria dos casos a violênciaestar atribuida aagressividade pessoal e ao estresse dos motoristas, o governo também poderia usar meios para diminuir essas tensões, com um melhor planejamento do trânsito, mais sinalização, maior fiscalização e multa para os infratores. Outra medida eficiente seria uma
+              potencialização dos meios de transportes públicos, o que aliviaria o inchaço do trânsito. Assim, os indivíduos se veem cada vez mais como únicos na sociedade, desrespeitando o próximo, levando a problemas como a violência no trânsito, contudo medidas governamentais seriam eficazes, assim como a visão de uma sociedade mais aberta ao próximo.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

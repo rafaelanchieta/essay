@@ -1,0 +1,16 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 420
+# tittle: Preservar
+Preservar a floresta amazônica das queimadas e desmatamento é dever imperativo que não deveria nem ser discutido . É responsabilidade para seres humanos que têm respeito pelo planeta. É prioridade que não deveria ser flexionada por nenhum outro interesse. Infelizmente, um retrocesso tem se consolidado quanto a estes objetivos por três fatores: o descaso do governo, o abuso do capitalismo e o não reconhecimento das riquezas amazônicas. 
+
+O governo que traz consigo uma responsabilidade oficial pelo cuidado com os recursos naturais tem entendido que afrouxar as regras do desmatamento e não fazer vista grossa com as queimadas vai garantir o desenvolvimento . Se os números a respeito do desmatamento são altos, o próprio governo os questiona e é capaz de demitir o presidente do instituto que apresentou tais resultados. Se algum país quer intervir para ajudar no combate ao desmatamento é levantado o discurso da soberania nacional. Mas será que se mantém essa soberania quando se trabalha contra o próprio país? 
+
+Quanto ao abuso do capitalismo, este tem confrontado a proposta de desenvolvimento sustentável que seria crescer zelando pelos recursos do planeta. Na Amazônia, o agronegócio quer se beneficiar com o prejuízo da natureza. Se o governo consente com a prática, falta limites para quem quer apenas faturar. Sem consciência ambiental, qualquer lucro que ferisse a natureza deveria ser considerado erro. 
+E  por fim, falta reconhecer a riqueza da floresta amazônica. Riqueza diferente do lucro capitalista, mas também riqueza. Tanta flora e fauna, algumas ainda nem registradas . O ecossistema que existe ali influencia em outras partes do país e também do mundo. Algumas pesquisas que começaram a ser desenvolvidas a partir dali - como remédios para controle da pressão arterial - podem beneficiar o mundo todo. São muitos recursos que o desmatamento e a queimada não podem dizimar. 
+
+Portanto, os desmatamentos e as queimadas são injustificáveis. A importância de preservar os recursos naturais da Amazônia deve ser prioridade diante de qualquer desenvolvimento econômico. Deve-se garantir a preservação em prol do país, do mundo, do futuro e das próximas gerações. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 20

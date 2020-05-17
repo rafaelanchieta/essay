@@ -1,0 +1,10 @@
+# prompt: gravidez-fora-de-hora-adolescencia-em-crise
+# score: 5,5
+# title: Gravidez: uma questão relativa
+Engravidar na adolescência é de fato um dos mais graves problemas que podem afetar a vida de um jovem. Grave, pois ter um filho envolve implicações seríssimas capazes de abalar até mesmo adultos que já possuem vida razoavelmente estável.Por isso, o estrago que tal fato pode trazer àqueles que não têm responsabilidade nem para cuidar de si mesmos, é, muitas vezes, catastrófico.
+        Vários são os motivos que levam meninas a engravidarem precocemente. Mas na grande maioria dos casos, a principal causa consiste na falta de informação, a qual pode estar associada à marginalização social e sua conseqüente exclusão ao acesso á educação sexual, ou até mesmo à falta de discussão sobre o tema, ainda tabu nas conversas entre pais e filhos. Já as adolescentes que engravidam acidentalmente, mesmo tendo conhecimento sobre métodos anticoncepcionais, podem creditar o erro a sua total irresponsabilidade, e essa falta de responsabilidade trará conseqüências. Consumado o fato, poucas são as opções aos futuros pais: decidir criar o bebê (com ou sem ajuda), doar a criança para adoção, ou realizar um aborto. Qualquer uma destas, trará traumas que afetarão para sempre suas vidas.Criar um filho requer tempo, dinheiro, e dedicação, exigências que a maioria dos jovens não poderá cumprir, pelo menos sem sacrifícios. Doar um recém-nascido à adoção além de exigir tremenda frieza, pode causar futuros arrependimentos. No caso do aborto, proibido na teoria, porém muito realizado na prática, a mulher pode ter várias complicações no procedimento e ser impossibilitada de engravidar novamente. E ainda terá de enfrentar a questão moral que envolve o aborto.Como se pode perceber, engravidar, como quase tudo, exige um planejamento antecipado. Um bebê pode ser tanto um presente na vida de casais que o desejam e estão preparados para criá-lo, como uma enorme fonte de contrariedades para aqueles que o geram apenas como fruto de uma irresponsabilidade.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

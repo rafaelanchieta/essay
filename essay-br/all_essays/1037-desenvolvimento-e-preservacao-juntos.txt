@@ -1,0 +1,11 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 3,5
+# title: Desenvolvimento e preservação juntos
+Tento imaginar o Brasil e o resto do mundo nas condições que os cientistas descrevem - que poderá ser daquiáalguns anos - se continuarmosápoluir, desmatar, queimar e ter atitudes que destroem o meio ambiente. E eu tenho muitomedo, queeles estejam certos sobre o futuro do mundo, sobre um mundo cinza e semalegria, étão bom ouvir os pássaros cantarem sem que estejam em umagaiola ou,ver o verde em meioátanto caos em que nós estamos vivendo ultimamente.
+         OBrasil nas ultimas décadasevoluiu muito; a vida está melhor para uma boa parte do país, mas priorizar somente isso e esquecer que também dependemos do meio ambiente para sobreviver é um grande erro. Teríamos mais índices de doenças causadas pela poluição do ar, água e terra. As fumaças exaladas pelas fábricas e indústrias já nos afetam ecausacomplicações no pulmão e até mesmo napele, ocalor em dias mais quentes se torna pior, pois a camada de fumaça acima dos prédios prende o ar poluído e o calor, que as paredes de cimento refletem.
+         Podemos crescer economicamente e junto com isso preservara natureza -que comparando com o que havia-restou muito pouco,pensar em um país economicamente evoluído junto com uma taxa de preservação relevante, este sim seria um país bom de viver.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

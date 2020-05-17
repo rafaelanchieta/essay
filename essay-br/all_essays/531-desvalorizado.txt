@@ -1,0 +1,12 @@
+# prompt: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao
+# score: 5,5
+# title: Poder desvalorizado
+De quatro em quatro anos, a sociedade brasileira toma o poder de volta às mãosparaas eleições. Poder esse que sempre foi entregue tão facilmente para um tipo de político que sempre trouxe discórdia, empobrecimento e vergonha para nosso país.
+        Devido ao grande número de partidos, candidatos edesinteresse por parte da maioria da população,
+          quem vence é a propaganda . Candidatos cômicos ou já conhecidos são privilegiados em horário político e campanhas do partido aumentando suas chances de serem votados por uma pessoa sem perspectiva de voto. É preciso analisar que, com a implantação do modelo distrital, minimiza-se a quantidade de candidatos oportunistas e maximiza-se a visão do povo sobre eles. O foco dos partidospartiriasomente para um candidato por distrito,
+            melhorando suas campanhas tanto no marketing como nas propostas. Além disso, uma decisão bem tomada só fortalece o país. Com uma visão mais ampliada sobre cada político do nosso distrito, podemos votar com mais consciência e ter certeza de que cada um que for escolhido vai fazer sua parte como prometido. Fica claro, então, que a falta de comprometimento tanto da população quanto dos políticos é grande, o poder que temos nas mãos não pode continuar sendo trocado por espelhos. Para isso, uma reciclagem de conceitos políticos deve ser feita pelas escolas para que os jovens desde cedo mantenham seu ponto de vista sobre o assunto, ONG?s juntamente com a mídia poderiam criar programas para explicação de como funciona o governo e do que ele é capaz de fazer por todos. Garantir um futuro próspero e de primeiro mundo é simples e começa pelo voto.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,14 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 750
+# tittle: A importância da ciência no combate a doenças
+O filme  lançado em 2011  “Contágio”, autoria de Steven Soderbergh, retrata, através do campo científico, os desafios de conter uma epidemia que leva à morte de milhares de pessoas. Saindo  do contexto cinematográfico para a atualidade, percebe-se que a produção científica brasileira exerce um papel fundamental  na criação de vacinas no intuito de combater a pandemia,  Covid-19 . Assim, cabe discutir as causas e os efeitos negativos provocados nas áreas da ciência e tecnologia.
+
+Nota-se, de início, que o Brasil vem sofrendo  um declínio sucessivo nessas áreas  desde 2014, devido ao contingenciamento de recursos nas universidades públicas . Cabe destacar que essas representam mais de 95% do que é produzido no meio científico brasileiro, conforme consta na base de dados internacional. Assim, isso tem prejudicado os pesquisadores tanto na prevenção quanto no combate de doenças, a exemplo o Covid-19, vírus com grande capacidade de transmissão. 
+
+ Ademais, vê-se que a desvalorização profissional e a infraestrutura inadequada,  têm levado a saída de jovens pesquisadores brasileiros para outras universidades fora do Brasil, como as de Oxford, Yale, Harvard, Stanford, entre outras. Assim, nota-se a dificuldade de encontrar uma droga  capaz de amenizar os efeitos causados pelo Covid-19, como também uma vacina para a cura do vírus. Com isso, a sociedade brasileira vem sofrendo  nos hospitais pela falta de profissionais, equipamentos em más condições, falta de máscaras, ventiladores - levando  à morte de várias pessoas. 
+Logo, percebe-se a necessidade de investimentos por parte do governo, através dos Ministérios da Economia e Ministério da Ciência, Tecnologia, Inovações e Comunicações, na valorização profissional, no sentido de manter os pesquisadores no Brasil , e na parte de infraestrutura adequada para a realização de estudos nas áreas científica e tecnológica, pois essas são as fontes de saídas científicas para combater problemas relacionados a doenças, sobretudo o coronavírus. Com isso, levando  ao desenvolvimento de uma vacina que possa ser usada contra o Covid-19, evitando  a morte de milhares de pessoas, como retratado no filme “Contágio”.
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

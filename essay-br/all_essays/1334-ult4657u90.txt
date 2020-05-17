@@ -1,0 +1,10 @@
+# prompt: por-que-as-pessoas-mentem-pela-internet
+# score: 3,5
+# title: Mentira, agora até pela internet?
+Atualmente a internet vêm se tornando o maior meio de comunicação entre pessoas,pois com estaas pessoas trocam informações sobre trabalho, estudos e diversos assuntos.
+        Um dos maiores problemas da internet é que as pessoas podem mentir, e a outra pessoa nem saberá se é verdade ou não. O melhor exemplo de que isso acontece é o "bate-papo". A pessoa entre no "bate-papo" começa a conversar com outra pessoa e daí pode começar a mentir, às vezes sobre sua aparência, o que faz da vida ou o que fez e outras mais mentiras.Um "porquê" é meio difícil de se saber, às vezes a pessoa é insegura sobre si mesma ou sonha em se tornar tudo o que contou a outra, ou até mesmo só para impressionar ou " tirar um barato com a cara da pessoa".Uma coisa é certa mentir não leva a nada, a pessoa está mentindo para a outra, mas na verdade está se enganando sobre si mesmo.Pôrpior que seja a verdade é melhor assumimos, e mentir pela internet é totalmente ridículo e sem justificativa.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

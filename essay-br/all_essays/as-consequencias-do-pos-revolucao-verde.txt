@@ -1,0 +1,14 @@
+# prompt: Agrotóxicos ou defensivos agrícolas: dois nomes e uma polêmica
+# score: 0
+# title: As consequências do pós-revolução verde
+É perceptível os efeitos do agrotóxico na produção em larga escala, produtos que em tese deveriam ser produzidos em certas épocas do ano são produzidos, consumidos e exportados indecente do clima, época e temperatura, mas qual seria o preço a se pagar para consumir produtos que em circunstâncias naturais não seriam produzidos?
+O uso de agroquímicos ao longo dos anos vem sendo estudado e diretamente ligado a doenças como câncer, infertilidade e danos ao fígado, produtos que não estão apenas contaminando as pessoas que consomem e aplicam o veneno, mas prejudicando também rios, solos e toda a biodiversidade a sua volta.
+O atual presidente da república, Jair Bolsonaro aprovou recentemente 62 novos tipos de pesticidas, que comprova um total descaço com a saúde da população e biodiversidade brasileira, apenas visando o lucro.
+Apesar da economia brasileira também ser composta pela exportação de alimentos da agricultura familiar não é viável permanecer num sistema que coloca a população e a natureza em risco.
+Tendo em vista que em circunstâncias naturais alguns alimentos não podem ser produzidos em qualquer época do ano é necessário um incentivo em pesquisa para elaborar meios de produção que não contaminem as pessoas e o ambiente.
+A produção de alimentos sem agroquímicos, respeitando o ambiente propício das frutas, legumes e hortaliças pode incentivar o conhecimento da população em relação à alimentos brasileiros em sua época do ano, impedindo a falta de produtos no mercado consumidor.
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

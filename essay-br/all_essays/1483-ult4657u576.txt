@@ -1,0 +1,14 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 5,0
+# title: Represália à hipocrisia brasileira
+Atualmente, com o "envelhecimento" da população brasileiraas questões referentes ao idoso e seus privilégios sociais têm angariado uma enorme repercussão. A pergunta que se faz é: o idoso, no Brasil, é valorizado, desrespeitado ou privilegiado?
+        É indubitável dizer a importância do idoso, seja no progresso econômico do passado, seja pelo conhecimento e sabedoria acumulados ao longo dos anos. É inerente ao homem a consciência disso, da mesma forma que a preferência nos bancos, cinemas e filas, é antes de um direito, uma gentileza, simples ato de educação, cordialidade e reconhecimento. É hipocrisia considerar que a sociedade brasileira valoriza a terceira idade,quando o que se vê pela televisão são asilos cada dia mais saturados, aposentadorias minguadas e reclamações. De um lado, adultos, fartos dos " abusos" de privilégios por parte de indivíduos que se julgam "sessentões"; do outro, idosos fragilizados que precisam lembrar todos os dias do respeito que se deve ter para com eles e apesar de munidos de tantas leis, sevêemdesamparados diante da negligência e discriminação.
+            Não estamos a salvo de "espertalhões" que tentam e até se dão bem ao utilizar as regalias destinadas aos mais velhos, assim como acontece em diferentes setores da sociedade. E não podemos privar pessoas que necessitam receber uma maior atenção, justamente porque alguns não honram a classe. Os brasileiros, diferentemente das sociedades indiana e japonesa, não resguardam a dignidade, o respeito e a valorizaçãoaosseus progenitores.
+                Aliado à desvalorização , oestatuto do idoso, se melhor pensarmosnãoretratanada além dos direitos comuns defendidos e reconhecidos como essenciaisàtodo ser humano.
+                Seriam então privilegiados por necessitar de uma reafirmação do que já deveria ser cumprido pela constituição? Antes de tudo, é preciso perceber o quanto, mesmo posterior à idade ativa, a terceira idade é uma etapa de aprendizado e enriquecimento de uma sociedade extremamente dependentemoral-economicamentedestesantecessores. Os "não-velhos" precisam entender que um dia chegarão a essa etapa e reclamarão por tudo que hoje julgam desnecessário. Nossos "homo sapiens" brasileiros precisam urgentemente se tornar mais " sapiens" e assumir que nossos idosos são extremamente desvalorizados.
+                  A partir daí, com certeza teremos uma indagação (e um problema) a menos.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

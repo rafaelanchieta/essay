@@ -1,0 +1,11 @@
+# prompt: o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor
+# score: 3,0
+# title: Horário Apolítico
+O horário político ingressou na cultura brasileira, mesmo que ainda não haja muitos adeptos. Essa questão é muito discutida principalmente no âmbito de sua efetividade , já que uma boa parte da população não se interessa pelas propagandas. Propaganda é o termo ideal para definir o lapso político na televisão, pois ela utiliza de meios cativantes e chamativos, é como se estivesse vendendo um produto. A ideia é atingir aquele público raso, que não se aprofundou nos estudos de um candidato que minimamente atingiu seus anseios . A televisão não é o único canal para se obter contato com oexercíciosdapolítica, hojea
+         geração ativa usaa internet para tal fim, a qual leva o eleitor a uma pesquisa minuciosa, obtendo informações mais relevantes para sua decisão, desde que o interessado saiba peneirar as informações.
+         Saindo da órbita territorial , nos Estados Unidos da América o horário político obrigatório não existe, gerando aos partidos gastos com a introdução de propagandas . Essa medida gera dois benefícios: reserva de tributos e votos mais concisos. Sendo assim, a partir desse cenário, fica fácil avaliar o teor do espaço reservado à propaganda eleitoral: ineficiente. Parareverteresse problema, debates deveriam tomar o lugar do espaço dado aos partidos para o marketing eleitoral. Debates que exponham aquilocujocandidato pretende.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

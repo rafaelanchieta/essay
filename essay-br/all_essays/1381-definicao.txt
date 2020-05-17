@@ -1,0 +1,15 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 3,0
+# title: Pré Definição
+Nesses últimos meses tem se registrado uma proliferação de manifestações,a qual temtido como objetivo principal a busca pela igualdade por parte daqueles que se encontramamargem da sociedade. Por outro lado,existeas classes superiores, que reagem de forma preconceituosa e violenta aose debaterem comessa situação.
+         A elite, na maioria das vezes, não reconhece sua postura discriminante, no entanto seus atos evidenciam a existência de uma mentalidade escassa e cheia de valorespróprios, elanão aceita o fato de ter que se misturar com pessoas “inferiores”,
+         dessaforma,contribuindo com a normalidade dos acontecimentos.
+         A intolerância é a maior resposta para essas pessoas , quetemse visto “predestinadas” a serem reprimidas esemanteremsilêncio, a policiautiliza-se de sua
+         força e status para justificar o poder demasiado, o que demonstra novamente a diferenciação que se cria, socialmente e racialmente, para com a classe pobre. Não existe mudança quando não há uma reavaliação e renovação deideias, énecessário que aconteça um diálogo entre as classes dominantes e as classes que visam a integração na sociedade,
+         para que se cumpra aconstituição, e consequentemente garantindo os direito de ir e vir de cada um
+         .
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

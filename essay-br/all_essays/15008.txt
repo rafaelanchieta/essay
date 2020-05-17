@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 320
+# tittle: Desmatamento da floresta amazônica e queimadas
+É de conhecimento geral,  que nos últimos tempos,  há muito desmatamento no Brasil, inclusive queimadas na floresta amazônica. Na Amazônia sempre abrigava inúmeras espécies de animais, e até mesmo índios, que inclusive já lutaram muito para conseguir o seu território salvo . Muitas pessoas iam para a floresta em  à procura de terem sucesso com a quantidade de espaço, pois a Amazônia possui um vasto território, mas,  acabaram voltando para cidade natal  pois na Amazônia não tinha o que realmente eles esperavam. 
+
+Foi constatado que este ano não possui  chuvas de dias consecutivos em comparação ao ano de 2016 e 2018  e no mundo atual o ser humano não respeita tanto a natureza , sempre desmata e fazem muitas queimadas, no qual prejudica o meio ambiente fazendo com que haja poluição no ar. 
+
+Em conseqüência disso, vê-se, a todo instante, alguém tendo problemas com saúde por conta do tempo seco, e pelas fumaças de queimadas que  inclusive, tem tudo a ver com desmatamento . O homem desmata a floresta para fazer 'limpeza' em seu território ou para que abra passagem, e quando ele pratica a queimada, ele coloca em risco vida de animais, e até mesmo de pessoas que ainda habitam por lá, deixando-os preocupados sem saberem o que fazer. 
+Outro fator existente,  são é os riscos que causam em nós seres humanos   quando contém grande quantidade de queimadas, com isso, o tempo fica seco, afeta-se o ar, causando problema em grande parte das pessoas. Dessa forma, quem pratica esses atos,  deveria ter conceitos e noção dos males que ele está cometendo, pois estará afetando a si próprio, afetando ao meio ambiente,  e a todos seres humanos a sua volta, por isso,  deveria se conscientizar de suas ações e práticá-las somente quando muito necessário ou não praticar mais. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

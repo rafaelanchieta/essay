@@ -1,0 +1,13 @@
+# prompt: o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico
+# score: 2,5
+# title: Barreiras que impedem de educar
+A sociedade vem colocando barreiras e limitando a forma decomo seeducar uma criança,permitindo então o descontrole de crianças, jovens, que nãoobtiveram umaeducação privilegiada por seus paise hoje são adultos que não sabem lidar com situações quevácontra suas vontades.
+        Hoje em dia com meios deeducaçãocomo televisão mostrando jovens rebeldes e ensinando crianças e jovensaterem o mínimo de respeito com os pais, educar fica cada vez mais difícil, e o governo tenta dificultar ainda mais a situação implantandoleisqueao invés de ajudarvai prejudicar ainda maisospais.
+          Palmadas na hora certa não fazem mal a ninguém, muito pelo contrário,ensinaa criançaa criar seuslimites eevitaque estas se tornemlá na frentejovens rebeldes. O
+          governo quer amordaçar os país e deixar que os filhos tomem conta da situação, pois é muito fácil na teoria dizer queé errado, "osbeliscões, as palmadas pedagógicas", mais na praticado dia a dia é que se vê o quanto
+          é difícil lidar com uma criança. Quem ama cuida e um pai vai sempre querer o melhor para seu filho, seja com ou sem "tapinhas". Todo pai quer educar seu filho apenas conversando e ensinando, masaté adultos hoje em dia, commaturidade suficiente, tem atitudes tão erradasqueprecisariaumas belas palmadasquanto mais uma criança.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

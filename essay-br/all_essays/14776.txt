@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 600
+# tittle: [Redação sem título]
+A desigualdade social no Brasil é um fato que infelizmente vem crescendo a cada ano. Com as crises recorrentes no país aumentando o índice de desemprego e as propostas  atuais para a Reforma da Previdência podem colaborar com o desenvolvimento desse problema social. 
+
+Pode-se afirmar que a grande expansão territorial que o Brasil apresenta promove uma variedade de realidades sociais existentes, ficando assim difícil que seja justo os decretos apresentados pela Reforma da Previdência. Com o atual governo Bolsonaro umas das propostas seria igualar, independente da classe social, a idade mínima de contribuição para o recebimento do benefício, sendo 65 anos para homens e 62 para mulheres  ou 35 e 30 anos, respectivamente, de contribuição com mínimo para ambos de 20 anos. Dessa maneira, não sendo justo com as classes menos favorecidas ou populações de zona rural, que provavelmente não conseguiriam atingir essa meta devido ao grande esforço físico e carga horária que apresentam, aumentando o índice de miséria nacional. 
+Além disso, outro decreto da Reforma da Previdência que contribui com a desigualdade,  é a redução percentual de pensão por morte. A expectativa de vida atual do brasileiro, segundo o IBGE , é em torno de 76 anos, sendo que a maior taxa de mortalidade são de homens, comparada com com a de mulheres. Por consequência disso, é evidente que na maioria dos casos muitas famílias perdem o principal meio de sustento, e com isso reduzir o valor da pensão para os familiares pode dificultar o desenvolvimento social, por exemplo, de um indivíduo dependente da renda para continuar os estudos e ingressar no mercado de trabalho futuramente.
+
+Portanto, conclui-se   que determinar regras generalizadas para a Previdência em país amplo como o Brasil não é uma maneira justa com todos. Dessa forma, é necessário a reformulação do projeto e discussões construtivas entre responsáveis pela Previdência com Governo Federal e representantes regionais que possam apresentar a realidade atual de cada Estado  e assim desenvolver soluções que agregam a todos de forma justa.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 150

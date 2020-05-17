@@ -1,0 +1,12 @@
+# prompt: a-questao-do-lixo-nas-sociedades-de-consumo
+# score: 5,5
+# title: Educação: a solução para o problema ambiental
+O mundo atualestavivenciando um grande panorama em relação ao meio ambiente, vive-se a geração do desenvolvimento tecnológico e científico, tendo como resultado um ocioso descarte de materiais das mais diversas espécies. Todo esse avanço não está sendo acompanhado pela sociedade em relação ao que fazer com os materiais que foramdescartados, surgindo assim a questão: O que fazer com o lixo na sociedade de consumo atual?É inerentedo individuoatual o consumo e descarte excessivo, a publicidade
+          cada vez mais estimula essa atitude; crianças, jovens, adultos estão se tornando cada vez mais compulsivos. A geração atual é fruto de uma outra que já sabia dos danos ao meio ambiente que o descarte excessivo poderia causar no futuro, mas não houve a educação consciente do individuo. Torna- se cada vez mais difícil para o governo criar soluções adequados que a curto prazo setorneeficazes, assimpoliticas publicasineficientes são criadas, para sanar o grande problema ambiental e social que está sendo gerado, desagradando a
+            população que não possui uma base para aceitar que é preciso mudar essas atitudes. O lixo é um problema de todos, pois ele afeta a sociedade atual e a futura.Destemodo, o destino do lixo atual
+              deve ser a reciclagem que deve obter mais incentivo governamental, e também criar projetos de conscientização eestimulopara toda a população, soluções que a longo prazo terão uma grande eficiência e aceitação das gerações futuras.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,11 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 190
+# tittle: Analfabetismo
+Como dito no artigo sobre ''analfabetismo funcional'', ainda hoje em dia, temos   uma grande redução de analfabetos no Brasil, porém ainda,  existem aqueles que tem têm problemas com interpretação de textos . A dificuldade é grande e atinge vários Brasileiros, outrossim, estudantes que frequentam o ensino superior.  Como já é dito ''devido ao baixo nível de escolaridade'', tendo esse argumento invalidado, de acordo as estatísticas, foi dito. 
+São necessárias atividades que priorizem o letramento, com a finalidade de acabar com tamanho problema que tanto perseguem os estudantes , por a pratica  prática de leitura em casa é uma boa forma de iniciar o ataque ao analfabetismo. Detalhando que de acordo a leitura de livros e revistas é possível desenvolver a opinião própria e criticas  críticas sobre vários assuntos do cotidiano. 
+De acordo a todas a opiniões acima, feito todas da forma correta, podemos universalizar a alfabetização, 
+# C0: 100
+# C1: 20
+# C2: 20
+# C3: 50
+# C4: 0

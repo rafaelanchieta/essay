@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 300
+# tittle: .
+Atualmente existem cerca de 68,4% de adolescentes de 15 a 19 anos tendo filhos, muitas pessoas não fazem ideia dos problemas que isso pode proporcionar, tendo por exemplo, abandono aos estudos, doenças como DST's, irresponsabilidade, gastos para a família e abandono de criança, entre outros. 
+Encontra-se um grande déficit na educação sexual brasileira , muitos adolescentes não têm este tipo de orientação que deveriam ter em casa , pois alguns pais não dão a abertura de conversar sobre isto com seus filhos, e sem este conhecimento do assunto acabam fazendo,  sem pensar nas consequências ou estupidez. 
+Decorria que muitos adolescentes não tinham maturidade suficiente para ter um filho ou ele não era planejado, então de súbito abandonavam, como diz Sandra Bullock "Ter um filho é um ato de egoísmo . Há muitas crianças abandonadas no mundo". A principal causa disso é a insensatez, existe uma ampla variedade de métodos contraceptivos, sendo que mesmo tendo camisinha em postos de saúde, eles não desfrutam deste benefício. 
+Contudo, para conscientizar nossa   população, deveríamos   ter palestras pelas cidades e estados e pelo mundo a fora informando as pessoas,   e mais variedades de contraceptivos em postos de saúde e em hospitais, "O conhecimento se não determina a ação está morto para nós" como diz Plotino. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

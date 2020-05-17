@@ -1,0 +1,11 @@
+# prompt: o-voto-nulo-e-um-ato-politico-valido
+# score: 5,0
+# title: Tenha a liberdade no voto
+Inúmeras vezes escutamosdas pessoasao nosso redor que o voto nulo de nada adiantaria , que seria como jogar aos ventos nossa escolha sobre a política brasileira , e que de qualquer forma um candidato seria eleito. De certo modoelesestão certos, mas não por completo. O voto nulo é uma forma de protesto mais válido que sair quebrando tudo nas ruas ou ofendendo os políticos. Ele é de extrema importância para quem acredita em um novo Brasil. Muitas vezes votamos em candidatosque não estamos satisfeitos, quetalvez, dos piores seja o melhor, e isso sim seria jogar nosso voto fora. Como podemos votar em uma pessoa que nos representará de forma justa nosenado? E por que reclamamos tanto dos políticos e mesmo assim continuamos a votarnos mesmos? Seria mesmo o voto nulo inválido e eleger um corrupto uma proposta válida?
+         A mídia incentiva tanto as pessoas a escolher um candidato que nos sentimos na obrigação de fazê-lo, mesmo contra a nossa vontade. Se na televisão há espaço para os políticos exporem suas ideias, por que não ter uma bancada com um defensor do voto nulo também? Se temos o direito de conhecer a política do nosso país, que tenhamos também o direito de expor o voto nulo à sociedade. Talvez se parássemos de reclamar um pouco, ecolocassemais a nossa ideia sobre esse tipo de voto para cada um dos eleitores, com a ajuda da mídia e até mesmo de
+         candidatos justos que ainda existem no nosso país, conseguiríamos um Brasil mais justo e democrático.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

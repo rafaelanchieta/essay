@@ -1,0 +1,13 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 320
+# tittle: [Redação sem título]
+O Brasil é um país riquíssimo em muitos aspectos, com seus recursos naturais, cultura, diversidade, e quando se diz respeito à produção alimentícia, é o 4° maior produtor de alimentos do mundo . Nesse sentido é difícil imaginar que ainda há pessoas passando fome, mas o problema não é na produção e/ou falta dela  mas o acesso, muitas dessas pessoas não têm condições financeiras de comprar seu alimento. 
+Com isso deve-se pensar que a falta de alimentos não é o problema, a produção no mundo é mais que suficiente, e parte dela ainda é desperdiçada. São hoje 13 milhões de desempregados no país, são trabalhadores que não têm uma ocupação formal e que vivem de "bicos" para se manter  mas para muitos não é o suficiente, além de ganharem pouco na informalidade não há garantia de seus direitos. 
+Contudo não se pode associar a fome apenas aos dias atuais, e com o desemprego, a desigualdade social no país é um agravante e que vêm de muito antes. 
+Dessa forma deve-se uma preocupação e maior atenção em como dar poder de compra à essas pessoas, por meio de políticas afirmativas, acesso ao estudo para qualificação e mais possibilidades no mercado de trabalho. 
+
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

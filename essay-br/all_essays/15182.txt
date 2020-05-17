@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: [Redação sem título]
+Desde a Revolta da Vacina no Rio de Janeiro  em 1904, tem-se claro para o governo que,  a melhor estratégia para a prevenção de doenças é através da propagação da informação sobre as patologias e a sua prevenção, bem como o fácil acesso da população Unidades de Pronto Atendimento. 
+
+Devido a falta de conhecimento sobre o que é a vacina e como ela age, muitos pais temem a existências de efeitos colaterais , e esta idéia  ideia é grandemente fortalecida por falsas notícias rápida circulalão . E visto que raros são os casos de contaminação e divulgação de alguma doença já erradicada, deu-se a população uma falsa sensação de segurança, esquecendo-se assim de sua gravidade e do papel da vacina para a sua prevenção. 
+Por outro lado, segundo o site G1 de informação, muitos pais, apesar de quererem,  deixam de vacinar os seus filhos por não haver uma UPA perto de sua residência ou pelo fato do horário de atendimento da unidade não ser acessível devido a sua jornada de trabalho , que muitas das vezes é dupla. 
+
+Diante disto é imprescindível que o governo relembre a gravidade e o risco a que se expõem quando deixam de imunizar-se, explique-os sobre a vacina e seu funcionamento através de campanhas e propagandas em horários nobres, para que,  notícias falsas não tenham efeito e seja realizado mutirões de vacinação em horários e dias flexíveis, para que assim tenhamos   uma população mais consciente e livre de doenças. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

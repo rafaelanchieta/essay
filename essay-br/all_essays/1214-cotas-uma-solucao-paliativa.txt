@@ -1,0 +1,11 @@
+# prompt: cotas-para-universidades-federais-solucao-ou-problema
+# score: 4,5
+# title: Cotas: uma solução paliativa
+Enquanto o Brasil se importar com as respostas mais que com os questionamentos, nossa educação será mesquinha e vil. Num mundo globalizado em que o presente faz-se ultrapassado em milésimos de segundo, a educação brasileira se perdeu no passado e tenta superar sua defasagem a trancos e barrancos . Corre, pula, tropeça em si mesma por um futuro imediato. As cotas seriam bem-vindas se viessem acompanhadas de investimentos prioritários na educação básica. Esta se fortaleceria, aquelas aos poucos sairiam de cena e o Brasil exultaria por ter superado a crise educacional. Porém, não é o que acontece, o que deveria ser momentâneo, tem-se tornado permanente porque o governo sóvisaresultados. O processo, que é o mais importante, tem-se deixado de lado.
+         O sistema de cotas veio para camuflar uma educação frágil que, desde os tempos coloniais, vem sendo tratada com descaso, não conseguindo acompanhar as revoluções e evoluções de nosso tempo. Tapa-se o sol com a peneira . Porém, não tem mais o que esconder, a situação é crítica e só não vê quem não quer ou faz questão de se enganar. Maior é a frequênciaemque vemos nos noticiários agressão a professores, tamanha a violência nas escolas.
+         O professor sai pela manhã com objetivo único: voltar bem para sua casa. Aonde chegará nossa educação com profissionais cansados, mal remunerados, sem saber se voltarão com vida para sua família? É esta a educação que presenciamos, a “educação de cotas”, pois a base que deveria ser prioridade está sendo tratada como algo secundário. É a educação básica que precisamos melhorar, é o professor que precisa ser valorizado, qualificado, bem remunerado para se sentir feliz com sua profissão, pois já chegamos ao pontodesteprofissionalestámigrando para outras áreas e, cada vez menos, futuros universitários escolhem o magistério como profissão. Nossa educação clama por medidas efetivas que resolvam de fato os problemas, não disfarces...
+# C0: 1,0
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,13 @@
+# prompt: o-que-muda-no-pais-apos-as-manifestacoes-populares
+# score: 3,5
+# title: Ninguém pode calar a voz do povo
+Oprotesto expressa uma reação, solitária ou em grupo, contra ou a favor de determinadoevento. Nesse contexto e conforme aconstituiçãobrasileira, a população tem o direito de se manifestar em relação à garantia dos direitos sociais, os quais englobam asaúde, aeducação,dentreoutros.
+         Os protestos no Brasil não trazem tantas mudanças quanto as desejadas. Para isso, deve-se protestar sempre, mesmo que objetivo principal ainda não tenha sido atingido. No Brasil a educação está ficando cada vez mais esquecida. O poder político investe em coisas menosimportante, como acopa das confederações, quando deveria investir em educação. Por mais que a população se manifeste,
+         as autoridades fazem o mínimo possível para que os protestos acabem e não para solucionar os verdadeiros problemas.Os manifestosdevem continuar, mostrando assim que os brasileiros não desistem tão facilmente.
+         Os hospitais públicos do nosso país estão em situação alarmante. Os profissionais de saúde são desqualificados , a fila de espera é enorme e não existem macas suficientes para todos os pacientes. No entanto, os assentos domaracanãsão os melhores e mais confortáveis e as autoridades policiais fazem a segurança commaiseficiência possível. Percebe-se aí o descaso do governo com a saúde pública.
+         Manifestar-se contra essas atitudes indevidas e clamar por saúde são formas de pedir mudanças no país. Por conseguinte, é fato que as manifestações populares não mudam muitas coisas no Brasil. As autoridades não se importam com os reais objetivos dos protestos, elas querem acabar com a “bagunça” que eles proporcionam. Porém, a população não deve se calar, ela deve persistir nos objetivos das manifestações para que eles tragam benefícios ao povo brasileiro.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

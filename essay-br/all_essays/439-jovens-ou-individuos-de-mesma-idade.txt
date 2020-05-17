@@ -1,0 +1,10 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 6,0
+# title: Jovens ou indivíduos de mesma idade?
+Na década de sessenta, o regime militar entrou em vigor e junto dele protestos motivados por estudantes também vieram à tona. Naquela época a fome de liberdade estava presente entre a população brasileira, principalmente entre os jovens. Mas atualmente o que os motiva a lutarem? Por ter sido conquistada após a ditadura, a democracia foi uma vitória para os brasileiros. A partir daí o povo enxergou o quanto era importante sua união em prol dos interesses sociais. Porém a economia, em ascensão, implicounaformação da atual geração. Fez com que os jovens focalizassem seus interesses apenas nos jogos eletrônicos e em seus “status” nas redes sociais,
+         formando então indivíduos e não participantes de uma mesma nação. “Afastados entre si” nossos adolescentes não enxergam motivos para se unirem, e quando isso acontece os protestos são pequenos e isolados. Essa parcela da população que vai às ruas é ínfima perto dos problemas políticos que enfrentamos. Deste modo podemos concluir que nossos jovens não visualizam motivos para protestar.
+# C0: 2,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 0,0

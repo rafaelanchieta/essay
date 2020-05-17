@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 500
+# tittle: O Problema da Gravidez Precoce
+Segundo a OMS , quando  quanto mais pessoas têm informação sobre o tema , mais tarde iniciam sua vida sexual. Sendo assim, evitam a gravidez precoce, que além de afetar o emocional dos envolvidos, afetam também a socioeconomia. 
+Ademais, a gravidez precoce é um problema de saúde pública, por muitas vezes o corpo da adolescente não está  estar preparado para gerar outra vida . Logo, gera riscos à gestante, tanto físico, como emocional, pela opressão da sociedade com este delicado assunto, com medo de contar aos seus pais, por exemplo, podendo até levar ao suicídio como forma de solução, abortos clandestinos, entre outros . Além disso, o bebê também pode ser afetado, como muitas adolescentes escodem de seus pais não fazem o pré-natal corretamente. 
+Certamente, terá impacto socioeconômico, pois as adolescentes param de ir à escola, não terminando-a  e consequentemente irá  irão apresentar dificuldades de conseguir um emprego. Portanto, gerará um ciclo que se repetirá na próxima geração, onde   um dos motivos da gravidez precoce é baixa escolaridade, baixa renda, dificuldade à acessos contraceptivos  e uma tentativa de mudança de vida, como o desejo precoce de ser mãe. 
+Em suma, a gravidez precoce é um problema e deverá ser solucionado. Com grande envolvimento das escolas, com a inclusão da disciplina educação sexual, onde tratará sobre os métodos contraceptivos, abordando temas relacionados, “cada um tem seu tempo”, por exemplo . Ainda mais, implementando psicólogos e aumentando a relação com a família nas escolas, com palestras. Por fim, o apoio da mídia e profissionais da saúde para disseminar a informação, pois a esta é essencial para a solução do mesmo .
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: [Redação sem título]
+A vacinação é um ato extremamente necessário pois protege de doenças virais e bacterianas . Porém nos últimos anos houve uma queda significativa no número de pessoas vacinadas. Isso deve-se à falta de informação da população sobre as vacinas e também à falta de monitoramento sistemático da distribuição e aplicação das vacinas.
+
+No Brasil algumas doenças já estiveram erradicadas, como por exemplo,  o sarampo. Mas, por falta de informação algumas pessoas pensaram que a doença não existia mais e deixaram de se vacinar, ou de vacinar seus filhos. Isso deixa todo o país vulnerável, pois esta doença pode não estar erradicada em outro país e no contato com imigrantes, a doença retornar ao Brasil . 
+Outro grave problema é a falta de monitoramento da cobertura vacinal no país. É este monitoramento que indica as áreas que a vacinação atingiu ou não as metas estipuladas e, consequentemente, que áreas ou regiões necessitam de ações para cumprimento da meta de vacinação. 
+
+Portanto, para que o número de vacinações deixe de cair e a população perceba a importância da prevenção é necessário que sejam feitas campanhas pró-vacinação pelos órgãos de saúde, nas mídias de informação e notícia . Além disso, para que haja um monitoramento adequado da cobertura vacinal é necessário que estes mesmos órgãos criem e efetivem mecanismos que facilitem este monitoramento. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

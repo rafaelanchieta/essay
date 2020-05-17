@@ -1,0 +1,12 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 450
+# tittle: Reforma da previdência para a sociedade idosa: um problema ou uma solução?
+Desde o início do século XVI, com a chegada oficial da colonização portuguesa ao Brasil, cultiva-se a ideia de que nossos  recursos naturais são infinitos . Frente a atual crise econômica em todo o território nacional, nota-se que não é verdade. A reforma da previdência é um problema, pois afeta diretamente a classe idosa na saúde, não apenas isso como também  tem-se como prova a mortalidade entre homens e mulheres. 
+A medida que o corpo envelhece torna-se frágil, surgem diversos problemas de saúde,  como fraqueza, enfado, dores nas costas, entre outros que dificultam a mão de obra no mercado de trabalho. Segundo Clement Atllee a democracia não é apenas a lei da maioria, mas a lei da maioria respeitando o direito das minorias . Se por um lado melhora a economia do país, por outro se torna um grande obstáculo para a minoria idosa. 
+Somado a isso pode-se destacar também a taxa de mortalidade, pois o índice de morte entre homens é maior que entre mulheres. Isso reduz o número de homens idosos acima da idade estabelecida  pela reforma da previdência. De acordo com a socióloga Emile Durkhein, a sociedade pode ser comparada a um "corpo biológico" por ser, assim como esse, composta por partes que interagem entre si . Desse modo, nota-se um déficit na conexão dos fatos. Se poucos homens conseguem adquirir uma boa aposentadoria não deveria ser essa a preocupação nos cortes de gastos no Brasil. 
+Dessa forma, portanto,  o governo deve agir coeso com a realidade atual vivenciada no país, reduzindo a idade de direito à aposentadoria por meio de uma votação entre deputados federais e senadores para definição de nova idade de aposentamento  visando melhoria para o cidadão brasileiro. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

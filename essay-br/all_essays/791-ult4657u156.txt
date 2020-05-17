@@ -1,0 +1,10 @@
+# prompt: leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro
+# score: 3,0
+# title: Sem título
+As fabricas estão entupindo o Brasil com 3 milhões de carros por ano. Como vai ser daqui a dez anos????Uma grande porcentagem destas pessoa que compraram seu primeiro carro não sabem nem de que lado sentar nele imagina dirigir.Não se tem educação no transito. Só multas que é o que interessa para o governo. Se o governo estivesse interessado nas mortes não deixaria centenas de pessoas morrerem nas filas do SUS pelo Brasil a fora. E tem mais:A alguns dias estava no DETRANesperando para fazer exame de vista e comecei a assistir a prova de estacionamento. Teve uma pessoa que levou uns 10 minutos para estacionar o carro. E deve ter saído de La com a carteira.
+        Agora ele chega no centro e leva dez minutos para estacionar o carro e quem estiver atrás de vai ter que esperar.Eu acho o fim da picada. A lei tem que mudar. Não pode ficar multando só que ultrapassa a velocidade mas sim tomar a carteira de quem atrapalha no transito. Três multas por esse motivo e esta sem carteira. E esse governo que ai esta em vez de sumir com todo o dinheiro dos impostos deveria urgentemente começar a fazer estradas de ferro para tirar esse absurdo de caminhões que temos nas estradas hoje atrapalhando o transito, encarecendo as mercadorias, provocando acidentes e estragando todas as estradas. E começar também a implementar estradas novas pois se continuar desse jeito logo o pais vai estar parado. Outro absurdo: pedágio. Pedágio quem tem que pagar são os caminhões pois são eles que destroem as estradas.É isso ai...
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

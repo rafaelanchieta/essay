@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: A importância das vacinas para a sociedade
+Na obra ´´Utopia´´, do inglês Thomas More, é retratada uma sociedade perfeita, na qual o corpo social padroniza-se pela ausência de conflitos e problemas. No entanto, o que se observa na realidade brasileira é oposto do que o autor prega, uma vez que a importância das vacinas ainda não foi compreendida, apresentando, assim barreiras as quais dificultam a concretização dos planos de More. Esse cenário antagônico é fruto tanto do descompromisso do Estado quanto dos movimentos antivacinas. Diante disso, torna-se fundamental a discussão desses aspectos  a fim do pleno funcionamento da sociedade. 
+
+Inicialmente, é fulcral pontuar que a falta de conscientização das pessoas em relação a importância das vacinas deriva da baixa atuação dos setores governamentais,  no que concerne a criação de mecanismos que elucidem a população sobre esse assunto. Segundo o pensador Thomas Hobbes o Estado é o responsável por garantir o bem-estar da população, entretanto, isso não ocorre no Brasil . Devido a a falta de compromisso do Estado na criação de campanhas que alertem sobre a importância das vacinas a sociedade deixa de se vacinar, o que corroboram para a volta de doenças erradicadas, isso tudo afeta o bem-estar do corpo social e, assim, não cumprir o conceito de Hobbes. Desse modo faz-se mister a reformulação dessa postura estatal de forma urgente. 
+Ademais, é imperativo ressaltar o movimento antivacina como promotor do problema. De acordo,  com Zgymunt Bauman as redes sociais são uma armadilha, pois podem manipular a maneira de pensar . Partindo desse pressuposto, percebe-se que os movimentos antivacinas influenciam as pessoas por meio das redes sociais, visto que nesse meio é comum a divulgação de ´´ Fakes News ´´ que contribuem para a alienação das pessoas no que tange a importância das vacinas  e consequentemente devido a isso as pessoas deixam de se vacinar. 
+
+Assim, medidas exequíveis são necessárias para conter o avanço de tal problemática na sociedade brasileira. Dessa forma, com intuito de mitigar a desvalorização das vacinas, necessita-se urgentemente,  que o Tribunal de Contas da União direcione capital, por intermédio do MEC , que será revertido na criação de campanhas, através de palestras e atividades lúdicas para os alunos e os pais  a fim de que esclareça para toda a sociedade a importância da vacinação na prevenção de doenças e dessa forma as pessoas entenderão a importância das vacinas e não serão mais manipulados pelo movimento antivacina . Desse modo, atenuar-se-á, em médio e longo prazo, o impacto nocivo da desvalorização das vacinas, e a coletividade alcançará a utopia de more. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

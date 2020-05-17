@@ -1,0 +1,11 @@
+# prompt: o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que
+# score: 9,0
+# title: Jovens decidindo os rumos do país
+O movimento estudantil atingiu grande amplitude durante o período de fim da ditadura e início da redemocratização do país. Nesse momento histórico, os jovens, impulsionados pela abertura política, maior liberdade de expressão e emendas constitucionais que os inseriam mais facilmente na esfera política, como por exemplo o voto facultativo aos 16 e 17 anos, demonstraram todo o seu desejo por mudanças e uma profunda capacidade em realizá-las. Atualmente, apesar de não haver restrições quantoaliberdade de expressão e desercada vez maiscomumos escândalos midiáticos acerca da péssima conduta da política brasileira , observa-se um distanciamento dos jovens frenteaparticipação eleitoral. A verdade nessa informação é comprovada pelos dados que apontam que nos últimos cinco anos houve uma redução de 19% dos jovens entre 16 e 17 anos que optaram por não exercer o seu papel de cidadão
+          em potencial . Ora, se a situação democrática do país melhorou, ou seja, não há mais repressão e podemos exprimir nossas opiniões abertamente, uma das possíveis causas para este posicionamento dos jovens é a falta de estímulos em participar de uma esfera social que está com sua imagem e reputação tão denegrida. Essa falta de estímulos leva o jovem a se acomodar no papel de cidadão impotente ante a corrupção política. Porém, atitudes comoestaapenas agravam a situação, pois, se não há cidadãos queprotestam, a roubalheira e os escândalos continuam.
+              Desse modo, os adolescentes de 16 e 17 anos se excluem da oportunidade de escolher os rumos do país ao optar por não votar. E em momentos como esses, a forte atuação de órgãos estudantis como a UBES (União Brasileira de Estudantes Secundaristas) configura-se essencial, pois, auxilia o jovem a refletir sobre a importância de sua voz ativa na sociedade.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,5
+# C3: 1,5
+# C4: 2,0

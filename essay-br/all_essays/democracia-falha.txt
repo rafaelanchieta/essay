@@ -1,0 +1,12 @@
+# prompt: Escola no Brasil
+# score: 3,0
+# title: Democracia falha
+ Os professores brasileiros não possuem tantos direitos como deverião ter. Alem do mais  há um projeto de lei que quer acabar com o posicionamento desses profissionais sobre assuntos importantes da sociedade brasileira. Os defensores dessa lei esquecem-se que o Brasil é um país democrático onde a liberdade de expressão é, no mínimo, direito de qualquer indivíduo.
+ Ser docente não é uma das tarefas mais fáceis , pois a maioria deles enfrentam  péssimas condições de trabalho. A remuneração não condiz com o esforço deles para levar conhecimento a dezenas de alunos por dia. As vezes passa nos telejornais, reportagens  sobre professores fazendo sorteios tentando  arrecadar dinheiro para comprar material para  fazer prova .
+ Enquanto isso, há pessoas que elaboram propostas de lei que miniminizam  o professor diante de seus alunos. Sendo assim, por exemplo: quando um professor de história for explicar os sistemas facistas, tal como ocorreu na  da  Itália e  Alemanha, fundados, respectivamente, por Mussolini e Hitler, certamente ele irá posicionar-se sobre tal fato, ora a favor ou contra. Isso fará com que seus alunos posicionem-se da mesma maneira. O mestre não está dentro da sala de aula para elogiar ou criticar partido, religião e  sim para formar cidadãos comscientes sobre a realidade da sociedade .
+ Portanto, o Brasil é uma república onde sua  democracia possui falhas. Desse modo, se tal lei for aprovada, infelizmente, será mais um ponto negativo da  educação brasileira. Cabe ao governo aumentar os direitos e não diminuir os mesmos, dos professores. 
+# C1: 0,5
+# C3: 1,0
+# C5: 0,5
+# C7: 0,5
+# C9: 0,5

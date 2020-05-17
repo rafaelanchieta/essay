@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Ciência: ferramenta importante, porém esquecida pela sociedade
+O Filme "A quinta onda"  da Sony Pictures,monstra uma realidade distópica,  na qual o Planeta Terra é invadido por alienígenas,causando  várias destruições, divididas por ondas;  a terceira onda é a "contaminação" surgindo  um vírus aéreo desconhecido, provocando  o caos por não haver vacina. Fora das telas, isto é um fato global, com o advento do novo coronavírus,  a necessidade de ajuda científica cresceu para a criação de uma vacina ou antídotos,porém é um problema a escassez de recursos financeiros destinados a tal . 
+Hodiernamente ,a ciência avançou ao decorrer dos anos, juntamente com a sua aliada:a tecnologia . Em períodos de crises mundiais o auxílio da comunidade científica é imprescindível,  para  assim como os médicos  salvarem vidas,  com pesquisas e experimentos tendo o objetivo de criar remédios diretos para combater as doenças, além do desenvolvimento de vacinas. 
+ Além disso,a verba financeira investida no Campo da ciência é escassa, sendo uma área que necessita de fundos para evoluir.  Ademais, em situações críticas como uma pandemia em que há o perigo de vidas serem ceifadas,é preciso de capital para fornecer um ambiente seguro e protegido para os cientistas realizarem seus estudos. 
+ Portanto, é necessário medidas para resolver o impasse.Para que haja uma melhora na qualidade no local de trabalho dos cientistas ,  urge que o Ministério da Economia,  faça um fundo de investimento próprio ao Ministério da Ciência, aumentando  assim o número de descobertas e evoluções neste campo, pois como disse o filósofo Immanuel Kant "A ciência é conhecimento organizado". 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: A educação na construção da sociedade ideal
+"Educai as crianças e não será preciso punir os homens" - Pitágoras. 
+Em virtude do cenário atual, analfabetismo funcional é quando pessoas alfabetizadas apresentam dificuldades ao interpretar textos simples, ou mesmo não conseguem resolver equações matemáticas consideradas nível fácil. 
+Evidentemente, o assunto tratado é mais problemático do que imaginasse . Analise inicialmente que apenas 8% da população é capaz de entender e se expressar corretamente . Vários motivos podem contribuir para esta porcentagem, como,  ausência de campanhas ao incentivo à leitura;  ensino básico de baixa qualidade, dentre outros. 
+Ademais, o governo também está relacionado às causas deste analfabetismo, ressaltando,  seu descaso na educação e a falta de políticas públicas para esta melhoria  focando em cursos e oficinas. 
+Retomando o que disse Pitágoras, é preciso considerar os projetos educacionais para solucionar este problema, e não precisar punir os homens. Ações voltadas ao bem da comunidade tem têm potencial de transformação da realidade, gerando ganhos para todos os envolvidos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

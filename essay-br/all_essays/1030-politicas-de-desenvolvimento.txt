@@ -1,0 +1,14 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 5,5
+# title: Políticas de desenvolvimento
+Recente pesquisa aponta que o Brasil cresceu economicamente, mas esse crescimento tem gerado grande impacto ao meio ambiente. Os recursos naturais não renováveis e o desenvolvimento acelerado sem controle são preocupações que o paísteveenfrentar.
+        A extração desenfreada dos recursos traz prejuízos incalculáveis para anatureza, umexemplo de destruição é o assoreamento do rio São Francisco causado pelo desmatamento próximoasmargens para a expansão da pecuária extensiva.
+          O governo deve adotar mais ações de fiscalização ecriaçõesde leis rígidas.
+          ?Nunca se cresceu tanto? disse o presidente Lula, essa afirmaçãoestacorreta, porém, há no país
+            inúmeros problemas relacionados, a riqueza é uma delas, pois, não há distribuição justa para a população, gerando miséria. Além disso, o consumoindiscriminadamentede produtos é o principal causador do aumento da utilização dos recursos naturais. Com isso, cada vez mais será necessário encontrar fontes de matéria prima para as indústrias reabastecerem o mercado queestaem expansão.
+              Para que haja equilíbrio entre o meio ambiente e o homem deve, portanto, haver políticas de desenvolvimento sustentável, atitudes devem ser tomadas pelo governo, sociedade e cidadãos.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

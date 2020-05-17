@@ -1,0 +1,13 @@
+# prompt: Direitos humanos: em defesa de quem?
+# score: 350
+# title: Direitos humanos vs. Opinião humana
+Os direitos humanos constitui  a base de toda sociedade que pretende ser justa. Atualmente no Brasil ver-se  que a população tem questionado de forma explicita  e crescente que os direitos humanos tem  sido descumpridos. Porem  por outro lado  percebe-se que a falta de conhecimento dos direitos humanos por parte da sociedade tem sido superficial permitindo assim que prevíeis e errôneos pensamentos influenciem de forma negativa eles e aos demais desprovido  de conhecimento. 
+Em primeiro lugar  observa-se que muitas pessoas que desconfiam da autenticidade dos direitos humanos querem que a justiça seja feita a seus próprios ponto  de vista, porem esta  visão posiciona-se de forma errada perante os direitos humanos visto que é levada para o lado pessoal onde o pior dever advir como consequência para o infrator sem nenhum resguardo ao infrator, esquecendo-se assim de que os direitos humanos é  para todos. logo  tal infrator tem direito de ser resguardado por lei.
+Em segundo lugar fica claro que a falta de conhecimento dos direitos humanos influencia grandemente para a formação de conceitos errôneos em relação ás  aplicabilidades das punições  haja vista que a população prefere seguir o conceito “olho por olho dente por dente” onde  quanto mais desumana as consequências, mais justa é  em suas visões.
+Em decorrência da falta de conhecimento dos direitos humanos e as respectivas consequências da quebra destes  é de suma importância que intervenções sejam feitas.
+Cabe ao ministério da defesa  juntamente com ONGs especializadas promover conhecimento dos direitos humanos à população através de programas de TV e Radio , além de promover palestras em centros públicos para que as pessoas cheguem ao completo conhecimentos dos direitos humanos, 
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

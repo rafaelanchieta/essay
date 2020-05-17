@@ -1,0 +1,13 @@
+# prompt: qual-e-o-limite-entre-o-trote-e-o-crime
+# score: 3,5
+# title: Trote: as boas vindas dos Homo sapiens.
+O trote universitário é umapraticatão antiga, a qualatepassou a ser um ritual de passagem: da vida escolar para o mundo universitário.Masem vez de ser amigável e realizar uma interação entre veteranos e calouros, passou aseremmanchetes de jornais por suaviolência,eamedrontar futuros calouros.
+         O objetivo principal dos trotes são as boas vindas aos novos universitários, que após anos de dedicação, concentração e desafiossuperadosfinalmente ingressam no curso e universidadesonhadas.Porem, infelizmente,estanão é a realidade de algunstrotes. Eles aproximam-seda tortura, humilhação, ferem os direitos humanos, induzindo o calouroadesistência ou na pior das hipótesesamorte.
+         Destaforma, vemos o exemplo destabarbárie constantemente noiniciodas aulas. Como o ato de racismo dos estudantes de Direto da UFMGque disponibilizaram fotos online de uma caloura pintada de preto, acorrentada e com uma placa pendurada no pescoço com os seguintes dizeres: “caloura Chica da Silva”; um gestopreconceituosopraticado por estudantes que deveriam mais que qualquer um saber a gravidade de tal ato.
+         Diante dos fatos analisados conclui-se que a abolição dos trotes nas universidades não solucionaria o problema e nem oreduziria, noentantoa introdução dos trotes solidários queintroduzemo estudante na colaboração para sociedade e também o comprometimento de tais instituições na fiscalização e máxima punição dos envolvidos em trotes violentos. Não é uma forma de extinção completa de atos desrespeitosos e violência dos trotes, mas uma diminuição considerável.
+         E semduvidasé a melhor forma de tranquilizar os futuros ingressantes na tão sonhada faculdade.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

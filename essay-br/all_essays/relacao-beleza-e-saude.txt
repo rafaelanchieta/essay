@@ -1,0 +1,9 @@
+# prompt: Forma física, corpo perfeito e consumismo
+# score: 500
+# title: Relação beleza e saúde
+É preciso, inicialmente, observar, que  a sociedade busca um corpo perfeito devido os  padrões estabelecidos pela média , que exibe mulheres em plena forma física que gastam a maior parte dos seus salários com produtos de beleza, roupas e sapatos virando consumistas.Não se pode esquecer, do  exagero no  qual as famosas se submetem, rostos são deformados, aplicações de produtos por todo o corpo, como no caso da modelo Andressa Urach que fez a aplicação de uma substancia chama  hidrogel nas coxas e  após 5 anos  causou uma serie  de problemas, antes o que era para dar volumes em suas pernas, causou manchas e dores, ela teve que passar por várias cirurgias para a retirada do produto e seu estado de saúde ficou delicado, após muitos tratamentos a modelo se recuperou. Deve-se frisas , por outro lado, que se cuida  e se sentir bem é importante , porém , ter cuidado para não virar uma doença  uma compulsão pelo corpo perfeito, beleza  é resultado de saúde, então é necessário ter um equilíbrio, ser feliz consigo mesmo, pois a insatisfação corporal pode causar doenças como anorexia, bulimia, depressão entre outras consequências. Com isso, a família e a escola  que juntas são responsável  pela formação das futuras gerações tem  que ser reeducada  passar para as futuras gerações a ideia correta de beleza, mostra as  crianças o que é realmente importante, para que elas não sejam manipuladas nem virem consumista , ou seja, desenvolvam a criticidade para serem cidadãos conscientes de suas escolas e ações.Consequentemente, seguir padrões de beleza pode causar sérios problemas, ter saúde e se sentir bem é o mais importante, cada pessoa deve criar seu próprio padrão de beleza.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

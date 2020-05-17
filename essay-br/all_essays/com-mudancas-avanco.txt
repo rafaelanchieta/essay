@@ -1,0 +1,13 @@
+# prompt: Terceirização: avanço ou retrocesso?
+# score: 450
+# title: Com mudanças: avanço
+No atual cenário econômico do país, as empresas, como forma de redução de custos, optam pela tercerização , esquecendo do bem-estar financeiro dos funcionários.
+É notório  a dificuldade financeira em que o país está. As demissões alcançando índices alarmantes, segundo a divulgação nos  meios de comunicações e noticiários. Toda a população fica à mercê da atual realidade, principalmente os trabalhadores.
+As empresas tercerizam mão-de-obra  cada vez mais, com o intuito de conter os custos e lucrarem o máximo possível. Mas se esquecem que "atras" de mão-de-obra  barata, há o trabalhador que necessita de uma remuneração dígna  para sustentar a si próprio e à sua família.
+Avanço seria se houvesse uma mudança na forma de terceirizar , mantendo o salário e os benefícios iguais aos de quem trabalha diretamente para uma empresa. Com essa possível mudança na tercerização , a qualidade dos serviços oferecidos às outras empresas, melhoraria, e , consequentemente, o consumidor seria, até, melhor atendido, por exemplo.
+Por fim, para que a tercerização  seja um avanço e passe a beneficiar o bem-estar financeiro do trabalhador, será necessário que ocorram mudanças. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

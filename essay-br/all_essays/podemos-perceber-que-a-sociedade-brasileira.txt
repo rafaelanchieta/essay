@@ -1,0 +1,12 @@
+# prompt: Como melhorar a educação, sem valorizar o professor?
+# score: 450
+# title: Podemos perceber que a sociedade brasileira
+Podemos perceber que a sociedade brasileira enfrenta um grave problema no que diz respeito a  valorização do professor, visto que países com IDH (índice de desenvolvimento humano) elevado atribuem grande importância a esse tipo de profissional. É  necessário que o docente seja valorizado 
+Frequentemente professores, especialmente de escolas públicas, são agredidos dentro de  seu ambiente de trabalho. Segundo a OCDE (Organização para Cooperação e Desenvolvimento Econômico), a República Federativa do Brasil atingiu a marca de 12.5% no que se refere a  violência contra o magistério  maior porcentagem do mundo.
+Desde o século VIII, mais precisamente na sociedade romana, a figura do docente revela-se extremamente importante. Patrícios solicitavam que seus filhos fossem educados pelos gregos antigos. Convém lembrar ainda que países com o maior número de prêmios Nobel, como  Estados Unidos e  Reino Unido, consideram o professor  peça fundamental de seus sistemas educacionais.
+Desse modo, é necessário que o governo proporcione valorização ao professor  fornecendo maiores subsídios salariais  bem como, um  canal de fácil acesso para um feedback de como está  o processo educacional; a mídia também deve promover campanhas de conscientização sobre a importância do docente e a sociedade deve participar ativamente sobre o  desenvolvimento de um determinado cidadão atentando-se  ao que o magistério tem a dizer.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

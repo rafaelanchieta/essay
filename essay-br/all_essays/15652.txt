@@ -1,0 +1,14 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 350
+# tittle: Pandemia- Covid19
+É um fato que a contaminação ocorreu por meio de vários fatores como não lavar as mãos ou tossir sem a devida precaução, resumindo , sem a higiene básica. 
+O vírus Covid19 foi descoberto em 2019  na China, porém o mesmo  foi ignorado , resultando  na grande pandemia registrada neste ano, no  a qual em um curto espaço de tempo houveram houve mortes em grandes quantidades, aonde   não há local adequado para suportar a demanda de corpos enviados a cada hora . Na Itália, os cemitérios estão em níveis críticos, pela falta de caixões ou espaço para os caixões, em alguns casos o recolhimento do corpo só ocorre em 24 horas, caminhões militares tiveram que serem  ser utilizados para enviar os caxões  caixões a outras cidades. 
+ Está sendo essencial a utilização de crematórios para combater esse problema, no  o qual o mesmo registrou diversas incinerações por dia. 
+Há um grande risco de contaminação na área da saúde, de transporte e no comércio, ,  na saúde pela grande demanda de infectados pelo vírus, no transporte por falta de máscaras e luvas aonde   os motoristas não recebem auxilio do governo , viajando  pelo Brasil sem a proteção básica  e no comércio porque a população não dá ouvidos, indo ao mercado, loja, farmácia entre outros locais com a família. 
+ Na parte da economia , muitas empresas estão necessitando  mandar embora , dar férias para alguns funcionários ou até mesmo fechar temporariamente, pois o mercado não esta movimentando e não há dinheiro em caixa, o governo ira  irá começar a auxiliar os autônomos e desempregados, porém não pode continuar desta forma. 
+Para não continuar a piorar , é uma prioridade movimentar o mercado, entretanto para isso as empresas precisarão abrir, mas com esse vírus a solta não há garantia   de não contaminação ou proliferação do mesmo  por meio dos funcionários ou clientes. Concluindo , quando  quanto mais demorar para achar a vacina, maior será o impacto global. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 0

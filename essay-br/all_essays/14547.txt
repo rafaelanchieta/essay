@@ -1,0 +1,18 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: O cidadão também é índio!
+Ao se discutir sobre a importância de valorizar e garantir os direitos dos povos indígenas no Brasil é interessante destacar que a chegada da colônia portuguesa no Brasil é um acontecimento o qual ocorre depois da chegada dos índios, e que estudos recentes divergem sobre se sua origem vem  da Oceania ou da Ásia. Entretanto, mesmo sem saber de onde eles vieram ao certo, a história dos povos indígenas no Brasil tem ligação com a de tantos outros povos nativos das Américas. 
+
+Inicialmente, percebe-se que os ameríndios que habitavam as Américas antes da chegada dos colonizadores viviam de forma simples, baseada em atividades como a caça, pesca e agricultura, porém com a invasão dos colonizadores essa população de indígenas diminuiu ao longo do tempo, por meio da tentativa de escravização, da destruição do meio ambiente e de suas tradições culturais, genocídio deliberado e também da disseminação de doenças em contato com o homem “branco”. 
+
+Nota-se,  que diante desta diminuição na quantidade populacional indígena no continente, a desvalorização dos índios e de sua cultura no Brasil tem traços marcantes nas características de sua colonização pelos portugueses e do seu vasto território, já que acentuou o caráter violento e explorador e que foi o determinante para agravar esta situação dos nativos em terras brasileiras. 
+Contudo, a contribuição cultural da população indígena na formação do povo brasileiro vai da miscigenação, passando por hábitos e costumes, tais como sentar de cócoras, banhar-se todos os dias, cultivar plantas tropicais, como a mandioca e o milho  e que apesar dessas inúmeras contribuições para sociedade brasileira, os índios ainda têm que lutar para ter direito a serviços básicos de qualidade, a um pedaço de terra para que possa prover o seu desenvolvimento familiar e produtivo. Por outras palavras, o nativo tem que deixar de ser nativo e se tornar um cidadão . 
+
+Portanto, é necessário salientar que a cultura indígena não é estática, e está em constante mudança como qualquer outra. 
+
+Por isso é preciso respeitar forma de vida dos indígenas, preservar a sua cultura e a natureza  e para isso é fundamental que blocos econômicos, a sociedade e grupos ativistas do mundo inteiro se unam para pressionar o governo brasileiro por leis que buscam acabar com a impunidade contra os povos indígenas. Através de campanhas online, ferramentas, possíveis sanções e base de dados  a fim de chamar atenção e mostrar a realidade da situação. Logo, respeitar, garantir e evitar o retrocesso de direitos já adquiridos é essencial e progressivo a qualquer um. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: Educação transforma
+No período colonial brasileiro, milhões de escravos, vindos da África, enfrentaram condições insalubres e a hiper lotação dos navios portugueses. Dessa forma, é possível relacionar a situação das embarcações portuguesas com os presídios brasileiros, em que o detento é submetido ao descaso público e a condições precárias de saneamento, assim como a superlotação e as diversas disputas entre organizações criminosas que culminam nas altas taxas de mortalidade dentro das prisões. 
+
+A priori, o descaso público em relação aos presídios permite que esses locais fiquem à mercê da marginalização dos direitos humanos. Uma pesquisa realizada pela Human Rights Watch mostrou que o Brasil possui um montante de presos que ultrapassam os 840 mil, todavia, a capacidade carcerária brasileira é inferior a 400 mil, mostrando que os presídios violam as garantias de dignidade do homem e que, devido ao desinteresse público em integrar os detentos na sociedade, os números de pessoas apreendidas tende a aumentar. 
+ 
+Convém ressaltar,  que os presídios brasileiros tornaram-se locais insalubres e possuidores de altas taxas de mortalidade. Em todo o Brasil diversos casos de revoltas carcerárias ocorrem, como a de Manaus, e culminam na morte de dezenas de pessoas. Os massacres ocorridos nas penitenciárias devem-se são resultantes, principalmente, das rivalidades entre facções criminosas, que dividem as prisões entre aliados e inimigos. Além disso, a ausência de saneamento básico adequado e o superlotamento possibilitam a proliferação de diversas doenças e, consequentemente, o aumento de mortos. 
+Assim sendo, o cenário carcerário no Brasil é problemático devido, principalmente, a violência interna e as condições impostas aos presidiários. Para apaziguar essa problemática, torna-se necessário o apoio da população e a ação do Ministério Público em diminuir as altas taxas de mortalidade e melhorar as condições de inchaço populacional nas prisões, por meio da criação de programas destinados à educação e a integração do detento na sociedade, além de investimentos na manutenção dos presídios. Dessa maneira, será possível observar a diminuição da criminalidade no país e, analogamente, o decréscimo do montante de presos, além da humanização e o investimento intelectual e cultural do presidiário. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 150

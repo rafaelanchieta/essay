@@ -1,0 +1,12 @@
+# prompt: Perigos do universo digital
+# score: 500
+# title: Perigos do universo digital
+A tecnologia, se não usada corretamente, pode trazer efeitos negativos na vida de uma pessoa. Isso se evidencia pelo grande número de perigos oferecidos pela rede , que podem ser  desde problemas psicológicos, até práticas que colocam a imagem e segurança do indivíduo em risco.
+Em primeiro lugar, é necessário haver uma maior atenção às crianças e adolescentes. O cyberbullying, também conhecido como "assédio virtual", é comum entre os jovens, a  prática consiste em fazer piadas e brincadeiras ofensivas, a qual leva  o indivíduo a desenvolver doenças como a depressão e muitas vezes pode  levar ao suicídio. 
+Ademais, com a facilidade existente em compartilhar arquivos, é muito simples divulgar imagens e vídeos pornográficos, podendo ser feitos como forma de vingança por parte de antigos cônjuges. 
+Portanto, para resolução do impasse , cabe aos pais maior atenção em relação ao conteúdo acessado por seus filhos. Para  pornografia e ao  cyberbullying, é necessária uma intervenção governamental, o Ministério dos Direitos Humanos deve promover uma maior fiscalização a este tipo de crime, juntamente com penas mais rígidas. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

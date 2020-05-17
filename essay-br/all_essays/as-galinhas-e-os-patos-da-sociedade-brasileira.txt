@@ -1,0 +1,12 @@
+# prompt: Redes sociais e manipulação política
+# score: 450
+# title: As galinhas e os patos da sociedade brasileira
+Segundo o grande líder do movimento dos direitos civis dos negros, Martin Luther King, “a injustiça num lugar qualquer é uma ameaça à justiça em todo lugar”. Dessa forma, vê-se que a manipulação política nas redes sociais contrariam  essa ideologia, pois  mesmo após  avanços constitucionais, o cenário de iniquidade permanece na sociedade brasileira, devido a devastação de notícias falsas sobre a política e o debate de eleitores.
+Primeiramente, é preciso constar  que a questão constitucional e a sua aplicação estão entre as causas do problema. De acordo com Aristóteles, a política deve ser utilizada de modo que, por meio da justiça, o equilíbrio seja alcançado na sociedade. Nesse sentido, percebe-se que no Brasil, a manipulação política por meio das redes sociais rompe essa harmonia, visto que exista  o uso de notícias falsas para influenciar o eleitor a apoiar tal candidato. Além disso, tais informações divulgadas por essas redes, são  na maioria das vezes opressivas e difamatórias com outros candidatos ao mesmo ou  diferente cargo na política.
+Em segunda análise, destaca-se  os debates agressivos nos meios digitais. Essas discussões abrangem conteúdos de ódio de eleitores contra algum político ou até mesmo outro eleitor. Isso acontece em virtude da má educação política e social, no qual os jovens utilizam suas redes sociais para discutirem essa questão, já que possuem acesso fácil a essas redes e de terem um índice de influência maior .
+É evidente, portanto, a necessidade de resolver o impasse. Destarte, o Ministério das Comunicações  em parceria com a mídia, precisam banir tais informações das redes sociais, para que essas informações não cheguem e influenciam  os eleitores. Ademais, como já dito por Kant, “o ser humano é aquilo que a educação faz dele”. Logo, o Ministério da Educação deve instituir nas escolas palestras de educação política, ministradas por sociólogos e educadores, a fim de construir jovens separados e éticos. Ação que, iniciada no presente, é capaz de seguir a ideologia de Martin Luther King.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 50
+# C4: 100

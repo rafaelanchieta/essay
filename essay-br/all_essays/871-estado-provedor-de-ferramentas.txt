@@ -1,0 +1,14 @@
+# prompt: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes
+# score: 7,0
+# title: Estado: provedor de ferramentas
+Em um período de grandes instabilidades, não só econômicas como tambémsociais nos vemosdiante de uma grandequestão, já debatidaporém ainda longe de ser solucionada: qual o papel do Estado na sociedade atual?
+         Durante a Revolução Industrial, uma guerra ideológica começou e perdura até hoje,fazendo nosquestionar a importância de um governo e seus limites. Chegar a conclusão que o homem não vive sem algo ou alguém queoimponha limites não é tarefa difícil, mas esclarecer até onde vai o poderdesteórgão é que tornaestauma questão tão complexa.
+         O ser humano ao nascer deve ter direito a uma condição mínima de sobrevivência, para que possaassimconstruir o seufuturo, sendoassim, parafraseando JohnLockeé
+         direito do homem a liberdade, o direitoavida eamoradia
+         . O que passardeve caber ao homem ansiar e conquistar,poisdelegando as demais coisas na mão deum órgão este passaraa tomar conta não só das necessidades dohomem masde suavidaretirando dele o direito de fazer o seu próprio futuro.
+         Cabe ao homem e a mais ninguém construir a sua história e é papel do Estado fornecer as ferramentasnecessáriapara queestapossa ser construída.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

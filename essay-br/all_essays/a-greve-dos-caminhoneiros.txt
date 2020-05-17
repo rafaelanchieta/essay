@@ -1,0 +1,13 @@
+# prompt: O Brasil paralisado: o que você pensa sobre a greve dos caminhoneiros?
+# score: 350
+# title: A greve dos caminhoneiros
+É evidente que a greve dos caminhoneiros, ocorrida no final de maio do presente ano, causou grande transtorno no país. Uma das  reivindicações mais importante  era a redução no preço do diesel  que tem subido diariamente.
+A paralisação começou através de circulação  pelas redes sociais e teve como consequência o desabastecimento de produtos nas cidades, como alimentos, combustíveis e remédios, e  a inutilização de produtos perecíveis como o leite, advindo das fazendas para as indústrias. Estes  foram descartados devido a  falta de transporte e muitas cidades sentiram a falta daqueles .
+Houve muitas críticas por parte da sociedade, principalmente de políticos e da mídia, mas teve  também muitos apoiadores da greve. Entre várias manchetes de jornais jornais houve a do Diário de Pernambuco, em que na capa principal constava a frase  “Brasil refém dos caminhoneiros”, palco de muitas críticas por parte da população apoiadora da reivindicação.
+Os motoristas de caminhões fizeram uma greve pacífica e de acordo com a lei. Em uma  pesquisa realizada pelo Datafolha mostra  que 87% da população apóia a parada . Muitas pessoas e outras categorias de transportes, destacando-se as de táxis e  escolares, foram para as ruas também protestarem . Ruas ficaram desertas, sem carros, e postos que ainda tinham combustíveis com filas enormes.
+Entende-se que um acordo entre o Governo pode ser uma melhor solução a ser tomada, a diminuição de impostos abusivos, tanto nos combustíveis como em muitos produtos, em que às vezes passam de 50% os impostos embutidos, tornando caro o preço final. Torna-se necessário também a construção de mais ferrovias no País, pois em muitas regiões não existe, tornando o transporte rodoviário o principal meio para a chegada de produtos em outras regiões. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 100

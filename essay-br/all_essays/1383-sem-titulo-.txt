@@ -1,0 +1,12 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 6,5
+# title: (Sem título 052)
+Naçõestemse levantado com o objetivo de por fim a governos autoritários e ausentes. Manifestações, rebeliões e revoltastemestado presente nos noticiários mostrando um novo começo ou simplesmente a luta por uma sociedade mais justa, menos corrupta e com mais oportunidades.
+         Desde 2013temocorrido manifestações no Brasil com váriosobjetivos e em sua maioria é paracriticar a realização dacopa do mundono país. Já no início de 2014 houve maismanifestação contra a realizaçãodesta, e houvemais polêmica sobre a atuação da políciasobreos manifestantes. De umladomarginais se infiltram entre estes comobjetivo de depredar patrimônios públicos e privados, furtar e espalhar o caos. Por outroladoa polícia tentarealizara sua função de protegeros bensmateriais evidas quenem sempre é realizado da maneira correta, pois frequentemente évistoa falta de preparodepoliciais quando estão de frente com questões como estas. A situação ganha proporções mundiais quando são divulgadas pelas mídias internacionais passando uma imagem negativa do país.
+         Manifestar e expressar a opinião é um direito proporcionado pelaconstituiçãobrasileiraque no entantodeve ocorrer da maneira adequada, semviolência e para issoé necessário haver mais organização por partedo grupo organizadorda manifestação e um preparo adequado e especializadopara os policiaisparaqueem situações comoestaeles possam agir e garantir a segurança
+         para ambos . Portanto, havendo a realização destas medidas épossívelsim, haver manifestações pacíficas e saudáveis para o bem da cidadania, cumprindo com seus objetivos e direitos sem causar prejuízos públicos e privados para que assim haja uma sociedade um pouco mais justa e igualitária.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

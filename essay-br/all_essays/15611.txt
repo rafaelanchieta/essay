@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 350
+# tittle: Corona vírus: a importância da ciência para a sociedade.
+A Covid-19 é uma doença infecciosa causada pelo corona vírus coronavírus da síndrome respiratória aguda grave 2 . Os sintomas mais comuns são: febre, tosse e dificuldade em respirar. A transmissão é feita ao espirrar ou tossir, pois essas gotículas  podem ser inaladas ou atingir a boca, nariz ou olhos de pessoas em contato próximo. O aparecimento dos sintomas ocorre de 2 a 14 dias após o contágio. 
+Todo o planeta tem de se mobilizado para conter a pandemia do corona vírus coronavírus . Uma pandemia é um termo utilizado para designar quando uma doença infecciosa se torna uma ameaça em uma grande região, seja ela um continente ou todo o planeta. 
+Em 2009 houve uma pandemia de gripe A , de uma variante de gripe suína  cujos primeiros casos ocorreram no México. Essa pandemia ocorreu em abril de 2009, tendo fim em 10 de agosto de 2009  deixando 18.036 mortos e 700 milhões-1,4 bilhões de casos. 
+Para conter a pandemia do Covid-19, a orientação do atual governo foi deixar toda a população em quarentena para evitar a propagação do vírus . Também foi dada a ordem de utilizar álcool em gel para desinfectar as mãos caso tenha contato com o mundo externo. Essa ordem foi dada porquê porque a maior fonte de contágio está sendo pelas mãos e espirros. 
+Ainda não há vacinas contra a Covid-19, porém está sendo desenvolvida pela ciência em várias partes do mundo. Para prevenir o contágio,  foram distribuídas vacinas contra gripe para o grupo de risco  que são idosos acima de 60 anos, portadores de doenças crônicas como diabetes, hipertensão e asma. 
+# C0: 150
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

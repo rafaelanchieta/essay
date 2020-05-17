@@ -1,0 +1,12 @@
+# prompt: Epidemia alimentar: sobrepeso e obesidade
+# score: 560
+# title: Sobrepeso e obesidade: uma realidade que pode ser acabada
+A obesidade é uma realidade enfrentada por cerca de 20% da população brasileira, e  o sobrepeso  atingiu mais de 54% da  população, ou seja, mais da metade dos brasileiros sofrem com peso inadequado para seu biótipo. A cada cinco brasileiros, um é obeso. Segundo pesquisas realizadas pelo Ministério da Saúde, nos últimos 10 anos  a prevalência da obesidade no Brasil aumentou em 60%. Isto são  números  preocupantes  já que o acúmulo de gordura elevado  interfere na saúde e no bem-estar dos seres humanos. 
+O sobrepeso e a obesidade estão ligados diretamente à economia. Muitas empresas e comércios investem em alimentos com alto teor de gordura e açúcar, porque são alimentos altamente consumidos e com preços menos elevados, já que alguns alimentos da área "fitness'' possuem valores altos e sabores desagradáveis. Com esses preços elevados, alguns alimentos se tornam inacessíveis para a população mais pobre, fazendo com que os mesmos se alimentem  de produtos industrializados e com pouco  índice nutritivo por serem mais baratos e mais saborosos.
+A maioria dos brasileiros são sedentários, isto é, não fazem nenhum tipo de atividade física, facilitando o aumento de peso e problemas de saúde, como índice de gordura alto , pressão alta, colesterol alto, e outros fatores que surgem devido ao peso alto e a  falta de praticar esportes. Também é comum a falta de acompanhamento médico para as pessoas que são  acima do peso, dificultando o emagrecimento e a reeducação alimentar. 
+Portanto, medidas devem ser tomadas para reduzir o número de pessoas acima do peso. As indústrias devem mexer o mínimo possível no alimento que chega das fazendas para que se mantenha  os valores nutritivos conservados; os comércios podem reduzir os preços dos produtos para que se tornem acessíveis à toda população e as prefeituras devem fornecer atividades físicas em áreas públicas e também devem oferecer acompanhamento médico aos cidadãos uma vez por mês, gratuitamente, para garantir a saúde de todos. 
+# C0: 160
+# C1: 120
+# C2: 80
+# C3: 120
+# C4: 80

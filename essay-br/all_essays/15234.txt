@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 350
+# tittle: [Redação sem título]
+No filme 'O Auto da Compadecida' , o enredo baseia-se, basicamente, na história de uma família nordestina que, para assistir ao seu filme favorito , viaja para a capital de São Paulo em busca de um cinema que pudesse reproduzí-lo. Fora das artes cinematográfica, o acesso à cultura proporcionada pelo advento do cinema tem sido cada vez mais elitizada pela concentração capital e industrial nos grandes centros urbanos; causando, assim, um déficite no que se refere à infraestrutura de disponibilização desse recurso de lazer e cultura. 
+
+Divulgado pelo G1.com, nos últimos 5 anos, mesmo com o crescimento de quase 50% , apenas 170 a cada 1000 pessoas frequêntam o cinema;  Dessas, a maioria reside em áreas de maior renda per capita. A Ancine, em consonância, afirma que, das  regiões menos favorecidas com esse bem, as principais estão em áreas do Norte, Nordeste e periferias urbanas;  dentre outras. Ou seja, mesmo sendo garantido o direito de igualdade a todos,  sem restrição de qualquer natureza no artigo V da Constituição vigente, nota-se, portanto, que o Estado não é infalível perante todas situações. 
+Ademais, pensar que o problema está a caminho de uma solução é um ledo engano . Problemas que têm, como origem, dinâmicas de outro setor da sociedade, como o industrial, geralmente, não reverbera com o primeiro, visto que esse, no Brasil, por conta da cultura de estatização, é - ainda - arcaico em sua maneira de fazer gestão. 
+
+Medidas que envolvem boa gestão, portanto, se fazem necessárias para a resolução do impasse. A biologia ensina, com Darwin, que nem sempre o mais forte sobrevive, mas, sim, aquele que tem a capacidade de adaptar-se a novas transformações . Dessa forma, o Governo Federal  em parceria com a Ancine e a Receita Federal, deve, com viés, concedeer indultos governamentais para empresas do   ramo cinematográfico que contribuírem com a infraestrutura de disponibilização de acesso ao cinema em áreas menos favorecidas, por meio da abrangência de filiais nessas áreas e por incentivos a outras. Não obstante, estabelecer ppps  com cinemas virtuais para reprodução de filmes na íntegra para aqueles que mais se identificam com suas TVs em cinemas domiciliares. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

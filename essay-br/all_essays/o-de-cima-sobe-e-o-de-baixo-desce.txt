@@ -1,0 +1,12 @@
+# prompt: Universidade em crise: quem paga a conta?
+# score: 600
+# title: O de cima sobe e o de baixo desce
+Diante da decadência educacional que se espalha pelo Brasil, devido à má administração oriunda do governo federal, fica claro que é bem provável que jovens de áreas periféricas a partir de agora terão mais dificuldades do que o comum para poder ingressar em universidades e institutos federais e, além disso, as falhas lacunas na política de cotas atual do Brasil prova que os mais privilegiados educacionalmente continuarão tendo acesso a à educação.
+Em 2016, a USP aprovou apenas 34,6% dos alunos de escola pública, sendo que apenas 2,1% se referem a estudantes pretos, pardos ou indígenas (PPI). Com o congelamento de verbas para as redes federais de ensino, fica claro que estudantes de escolas particulares terão maior facilidade para entrar, uma vez que a vagas serão menores e a concorrência irá aumentar, aqueles que carregam uma maior bagagem educacional terá uma maior destreza para ingressar em tais institutos.
+Na  portaria da política de cotas atual do Brasil, mostra que para se ter direito as cotas de escola pública, diz que para ter direito, o aluno deve ter estudado no mínimo três anos em escola pública, o que faz muitos pais tirarem os filhos que estudaram toda a vida acadêmica em instituições privadas, para colocá-los em escola públicas no ensino médio. Uma família que a vida inteira pagou educação privada, tem totais condições de contribuir com a universidade, e não tem motivos para querer tirar a vaga de alunos de escola pública.
+Diante dos fatos apresentados, essencial que o governo crie maneiras de fazer melhorias das políticas de cotas de universidades, mudando para maneiras mais rígidas de identificar pessoas com necessidades reais de estar lá.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

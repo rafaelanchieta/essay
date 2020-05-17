@@ -1,0 +1,12 @@
+# prompt: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes
+# score: 8,0
+# title: O Estado e nós, cidadãos
+Quando nascemos, nascemos em algum lugar, um território, cercado por pessoas também nascidasnesteterritório, que trabalham, estudam, ficam doentes, se movimentam, tentam ganhar a vida, casam-se, têm filhos e assim por diante. Está aí a Nação. No meio disso tudo, faz-se essencial haver algo ou alguém que esteja preparado para servir e ajudar a organizar todo esse processo. Eis o Estado.
+         O Estado nada mais é que umserviçoque teria como propósitos manter a paz e a ordem entre os cidadãos da Nação,
+         administrando os conflitos que surgem naturalmente em qualquer sociedade, por meio da Justiça, nos limites de seu território . Para que isso aconteça, os cidadãos pagam ao Estado tributos, visando a receber em troca um ambiente social em que cada indivíduo possa adquirir com os frutos de seu trabalho aquilo que lhes proporciona satisfação e bem-estar. No entanto, alguns Estados tentam interferir em atividades que nãolhecompetem, como criação dos filhos de seus cidadãos,
+         suas relações afetivas e até suas escolhas políticas. Quando o Estado se intromete em atividades que não lhe dizem respeito, quem se beneficia não é o cidadão nem a Nação, mas os servidores públicos, eleitos ou não. Sendo assim , torna-senecessáriouma educação mais abrangente e competente que mostre aos cidadãos qual o papel de cada um dos setores em um território, fazendo com que os dois se fortaleçam naquilo que lhes compete.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,0

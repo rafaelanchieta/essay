@@ -1,0 +1,13 @@
+# prompt: O Brasil paralisado: o que você pensa sobre a greve dos caminhoneiros?
+# score: 200
+# title: Problemas causados pela greve dos caminhoneiros
+Observa-se que o  Brasil é um dos países com grande carga tributária isso  acabou desencadeando um grave problema  a greve dos caminhoneiros  que trouxe várias complicações para a população  como a dificuldade de viajar para trabalhar alimentos como frutas e verduras e até mesmo a chegada de medicamentos para os hospitais.
+Durante a greve em alguns estados  não foi possível nem o direito de passar pelos bloqueios para ir trabalhar prejudicando inclusive algo tão importante e constitucional que é o direito de ir e vim .
+Grandes cargas de alimentos como leite verduras frutas estragando além da perda da carga viva na estrada por não poder passar e a falta deles que acabou aumentando o valor dos produtos e trazendo mais gastos para as pessoas.
+Outra situação que foi dificultada durante a greve foi a chegada de medicamentos para os hospitais que prejudicou bastante a vida e a saúde das pessoas que precisam, pois, o  uso continuo  desses remédios é imprescindível para continuar vivendo bem.
+Mediante a situação descrita acima é possível afirmar que  apesar da  greve ter acontecido por motivos justos ela  ajustiçou grande parte da população. A greve precisa ser feita de forma pacifica  para que resolva de forma objetiva a situação tributária do pais. 
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 0

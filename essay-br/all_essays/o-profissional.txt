@@ -1,0 +1,11 @@
+# prompt: Como melhorar a educação, sem valorizar o professor?
+# score: 400
+# title: O profissional
+Não é raro encontrar vídeos, relatos e matérias jornalísticas onde  professores são ameaçados ou até mesmo sofrem algum tipo de agressão. Infelizmente, tal profissão no Brasil é considerada uma “segunda opção” para quem não consegue “fazer mais nada” . Porém  como uma profissão tão necessária para a nossa formação como cidadão seja  tratada de tal forma?
+No Brasil, se preza muito pela  melhoria na educação, sendo que os professores são extremamente desvalorizados, tanto pelos alunos quanto pelos pais. Uma pesquisa aponta que no continente asiático, os professores são mais renomados e possuem maior status, enquanto no Brasil, os profissionais recebem um tratamento oposto, onde  nem os responsáveis querem ver seus filhos como professores.  Um país onde um professor não consegue exercer o seu trabalho sem que se sinta ameaçado ou ridicularizado é realmente preocupante. Professores não só deveriam ser mais valorizados economicamente, mas também deveriam ser valorizados profissionalmente, como profissionais da educação e formadores de cidadãos. Todo profissional precisa ou já precisou de um professor.
+Uma possível maneira de, aos poucos, melhorar tal situação, seria transmitir materiais publicitários e televisivos a respeito da profissão, exaltando sua importância em nossas vidas ou até mesmo em palestras fornecidas pelas escolas, onde os professores poderiam debater de maneira mais ampla diversos assuntos com os alunos e seus respectivos responsáveis. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Educação sexual
+A gravidez na adolescência se tornou um problema social e de saúde pública, pois a puberdade gera novas descobertas sobre o corpo e a vida, resultando em uma gestação imprópria que afeta a mãe  e muitas vezes o bebê, já que esta não tem o corpo totalmente formado ou resistente. 
+Entretanto, métodos educacionais precisam ser desenvolvidos para uma melhoria na vida de muitas adolescentes , porém a educação sexual é de extrema importância para os meninos, que tendem a ser irresponsáveis no momento da relação sexual. 
+Um fator importante a ser ressaltado é a desestruturação familiar,  tanto do bebê, quanto da mãe que se vê abandonada pelos seus pais  e muitas vezes pelo seu parceiro no qual teve a relação não "assumir" o filho,  pois ambos não possuem uma vida financeira para cuidar de uma criança. 
+Portanto, deve-se priorizar a educação sexual no ensino de crianças e adolescentes para obter resultados satisfatórios de saúde pública na sociedade e manter o emocional de jovens seguros e conscientes do quão perigoso é ter um filho precocemente e a importância de métodos contraceptivos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

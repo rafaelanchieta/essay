@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Analfabetismo Funcional e a Crença de Incapacidade
+Segundo Immanuel Kant, "o homem não é nada além daquilo que a educação faz dele". E  infelizmente  a educação brasileira se mostra falha na tentativa de erradicar o analfabetismo funcional, dando  um sentido negativo à citação . A persistência desse nível de analfabetismo se deve a fatores educacionais e culturais .
+O sistema educacional brasileiro ainda tem muito a desenvolver , especialmente em se tratando sobre incentivo à leitura. Os alunos são ensinados a ler, e não a interpretar; aprendem a ler livros por obrigação, e não por diversão, tornando o processo de aprendizagem mais desgastante. 
+Ademais, através da perspectiva cultural, acreditam que são incapazes de absorver conhecimentos em geral . Até familiares reafirmam isso às vezes, ao dizer que, para ser capaz, é necessário nascer inteligente. 
+Em síntese, para que a citação de Kant possua sentido positivo, precisa-se desenvolver a educação , adicionando   mais aulas de interpretação de texto no currículo escolar  e até mesmo na faculdade, pois saber interpretar é essencial durante toda a vida. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

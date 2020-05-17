@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: [Redação sem título]
+O Brasil é considerado o quinto país desigual  do mundo  de acordo com dados da ONU , sendo a desigualdade parte constituinte de um problema gritante no Brasil, a diferença econômica. É de conhecimento geral que no regime capitalista os detentores dos meios de produção se tornam uma pequena parcela da população que é favorecida economicamente, enquanto o proletariado se torna uma massa de menor renda, como apresentando por Karl Marx. Todavia, isto se torna um problema quando a maior parte da população se encontra em uma situação financeira precária, como o que ocorre no Brasil. 
+
+Vale-se citar que as diferenças salariais e de oportunidades de emprego muitas vez tem base em preconceitos raciais e de gênero  gerando uma baixa renda e desfavorecendo estas pessoas a vidas dignas . No Brasil dados apresentam que a maior parte da população de baixa renda ou em situação de extrema carência é constituída por pessoas negras e transexuais que em conseqüência disto vivem em condições precárias, com menor – ou nenhum- acesso a saúde, alimentação de qualidade e educação. 
+Diante disto, na situação de pobreza a fome se torna uma das conseqüências mais dolorosas desta desigualdade, sendo esta uma necessidade básica que entra em necessidade, os seres humanos tomam medidas drásticas na busca de sua saciedade e da sobrevivência, acarretando em delitos como roubo, violência e formas ilegais de obtenção de dinheiro, dado vez a mais problemas sociais e se tornando uma grande bola de neve. 
+
+Portanto, em prol da sociedade, o governo deve visar políticas que diminuam substancialmente os privilégios as oportunidades e as rendas, com leis mais assertivas quanto a igualdade social e um estimulo maior ao acesso a educação de qualidade para crianças crescidas em situação de miséria, dando maiores chances de empregos. Em conjunto disto, cabe a população estimular as campanhas que propiciem ajuda aos necessitados como a doação de alimentos e roupas, e mesmo as campanhas educacionais. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

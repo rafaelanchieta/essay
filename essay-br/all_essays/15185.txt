@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 500
+# tittle: [Redação sem título]
+Diante ao acúmulo de toneladas de lixo, junto a ratos e mosquitos ajudando na transmissão de doenças fatais, nas ruas do Rio de Janeiro, em 1904,  o prefeito Pereira Passos decidiu reurbanizar a cidade, expulsando a população pobre de suas casas para os morros e iniciou a medida da vacinação obrigatória que teve grande oposição em forma de protestos, surgindo assim a Revolta das Vacinas . Contudo, atualmente, é enfrentado cenário similar, onde   a vacinação não é tratada com importância. 
+
+Pode-se observar,  o avanço da tecnologia nas redes sociais nos últimos anos, porém, ironicamente, acaba sendo um retrocesso em alguns áreas.Como o crescimento das notícias falsas, as chamadas “fake news” . E as vacinas não escapam desses rumores, visto que existem milhares de pessoas no Brasil, e fora, que acreditam em vários efeitos colaterais da vacina, como o autismo. Situação essa,  que compromete o bem-estar social de toda população. 
+Ademais, a falta de tempo dos responsáveis e os horários limitados de atendimento nos postos de saúde, junto a falsa sensação de segurança dos pais que esquecem de levarem os filhos para a segunda dose, segundo a Coordenadora do PNI , contribuem para a diminuição de pessoas vacinadas. Tal fato,  acarreta a possibilidade do surgimento de doenças já erradicadas, tornando-se urgente a ação governamental. 
+
+Logo, para manter o direito constitucional e o bem-estar dos brasileiros,  é necessário o envolvimento entre o governo e a mídia, onde  essa por meio de propagandas e programas, como as novelas, visam conscientizar a população sobre a queda de pessoas vacinadas, suas consequências e importância. Somado a isso, é necessário o envolvimento municipal para manter todos os postos de saúde abertos em horários flexíveis, visando aumentar o número de pessoas vacinadas. Assim, será possível o aumento de pessoas vacinadas e consequentemente,  a erradicação de doenças.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

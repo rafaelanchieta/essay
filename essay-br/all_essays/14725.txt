@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: Crise no Sistema carcerário do Brasil
+É possível afirmar que a situação carcerária no Brasil enfrenta uma grave crise. Isso se evidência não só pelas rebeliões nos presídios  muitas vezes com mortes amplamente divulgadas pela mídia, como também pelo número de fugas e aumento da reincidência de ex-detentos ao mundo do crime. 
+
+Primeiramente, podemos  destacar que as rebeliões e mortes nos presídios e instituições para menores infratores se dá na maioria das vezes devido à superlotação e as condições insalubres desses espaços. Segundo,  o portal de notícias G1  a superlotação e as condições precárias nos presídios do país têm favorecido que facções criminosas recrutem cada vez mais presos  aumentando a violência dentro desses ambientes, o que favorece as rebeliões e as mortes nesses locais;  Além disso, muitas vezes os indivíduos não têm onde dormir e quando tem está infestado de insetos e roedores. Tal realidade é, portanto, inadmissível, visto que o país tem em sua Carta Magna  a igualdade de direitos, e ainda assim o Estado não vem sendo capaz de garantir aos detentos esses direitos com condições mínimas de saúde e bem estar. 
+
+Somando-se a isso, tais condições degradantes acabam por propiciar tanto as fugas nos indultos  quanto a reincidência pós-cumprimento de pena ao mundo do crime. Em parte isso ocorre devido à falta de políticas públicas que reintroduzam o ex-detento ao mercado de trabalho e ao convívio em sociedade, o que o tiraria da criminalidade. De acordo com publicação do G1, o preconceito e a baixa escolaridade dificultam que indivíduos que deixaram o sistema prisional sejam introduzidos no mercado de trabalho, deixando-os à margem da sociedade e propensos à regressar a vida de crime. É inaceitável que o Governo Federal não dê suporte e amparo ao ex-detento, com adoção de medidas públicas que não visam apenas à reinserção deles ao convívio em sociedade, mas também favoreceriam a diminuição da violência em todo o país. 
+Dessa forma, o sistema prisional brasileiro mostra-se caótico   e para reverter o cenário da atual situação carcerária do Brasil,  é necessário que o Governo tome medidas urgentes. Assim, o Ministério da Justiça e Segurança Pública,  deve promover uma melhora na condição de vida do preso por meio da redução do número de presos por cela, com adoção de uma infraestrutura prisional melhorada de modo que permita ao  o detento trabalhar e estudar durante o cumprimento de sua pena, contribuindo para que ao sair da cadeia ele possa encontrar uma menor resistência a sua contratação. Espera-se, com isso, promover uma melhora na condição de vida prisional e reverter tanto o número de rebeliões e mortes quanto o número de evasões e regressão a criminalidade. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

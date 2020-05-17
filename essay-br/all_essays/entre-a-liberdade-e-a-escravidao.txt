@@ -1,0 +1,12 @@
+# prompt: Escravizar é humano?
+# score: 650
+# title: Entre a liberdade e a escravidão
+Embora a escravidão tenha sido abolida em 1888, com a Lei Áurea, ainda hoje percebe-se a continuidade do trabalho escravo no Brasil.  Tal persistência tem relação com a ineficiência das políticas públicas destinadas a combater os diversos tipos de escravidão no país. Sob essa perspectiva, nota-se que, para melhor coibir as práticas escravistas, o governo deve investigar as causas e consequências desse tipo de crime na sociedade brasileira.
+A princípio, pode-se relacionar a continuidade do trabalho análogo à escravidão ao interesse capitalista das grandes empresas. Na prática, isso significa que, para tornar seus produtos mais competitivos no mercado, as indústrias diminuem seus preços. Dessa forma, para manter o lucro, as fábricas recorrem à mão de obra barata, instalando unidades de produção em locais onde usufruem de leis trabalhistas brandas, possibilitando, assim, a exploração do trabalhador.
+Além disso, é importante notar que a pobreza e a baixa escolaridade contribuem para aumentar o número de escravos no Brasil. Nesse cenário, muitos trabalhadores, por serem empobrecidos  demais ou dependentes de seus exploradores para sobreviverem, acabam não denunciando as condições insalubres a que estão submetidos. Prova disso, são os imigrantes haitianos que vêm para o país. Sem perspectivas trabalhistas , muitos desses cidadãos acabam sendo escravizados no Brasil.
+Por tudo isso,  é fundamental que o Estado adote medidas efetivas para diminuir os índices do trabalho escravo no Brasil. Para tanto, o governo deve não só intensificar as leis já existentes, punindo com rigor os criminosos, como também ampliar o sistema de educação para um maior número de jovens e adultos. Ademais, é importante que a mídia crie campanhas incentivando a população a denunciar os casos de trabalho escravo. Com isso, poderá ser formada uma sociedade mais justa e igualitária, respeitando os direitos humanos.
+# C0: 150
+# C1: 100
+# C2: 150
+# C3: 150
+# C4: 100

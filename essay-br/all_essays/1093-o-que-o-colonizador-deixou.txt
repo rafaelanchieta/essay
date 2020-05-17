@@ -1,0 +1,14 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 5,0
+# title: O que o colonizador deixou
+Diferente depaíses do Oriente Médio, a intolerância religiosa nãoteveconflitos armados no Brasil. Contudo,não anula a gravidade dessa situação. Enquanto aconstituiçãocondena a intolerância de cunho religioso, líderes de algumas denominações religiosasdefendem a intolerância contraateus e praticantes de religiões de matriz africana.
+         Com o avanço do pentecostalismo e neopentecostalismo no Brasil, a influência dessasreligiosasse manifesta na sociedade brasileira.
+         O proselitismo religiosoépresente no Brasil, a bancada evangélica é uma prova disso.
+         Deputadosque sãoeleitos porestes fiéis, para privilegiar esse mesmo grupo com leis discrepantes ao estadolaicoque é institucionalizado no Brasil.
+         A perseguição dos praticantes de religiões de matriz africana é sistemática desde a época do Brasil colonial, quando o país ainda era considerada uma "nação cristã".Nos libertamosdas mãos do colonizadore mantemos maus hábitos e preconceitos do colonizador.
+         A intolerância religiosa, como todo preconceito, é fruto da ignorância. Este quadro vergonhoso é, também, culpa do não cumprimento das leis que são bem claras. O preconceito é a parte mais abjeta da mente humana.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

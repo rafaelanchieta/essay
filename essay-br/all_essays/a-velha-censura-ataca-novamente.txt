@@ -1,0 +1,12 @@
+# prompt: Escola no Brasil: com partido ou sem partido?
+# score: 950
+# title: A velha censura ataca novamente
+Segundo Hanna  Arendt, o objetivo dos regimes totalitários não era  imprimir convicções na população, mas destruir a capacidade de formá-las. A organização Escola sem Partido apresentou recentemente uma proposta para o sistema educacional que restringe a liberdade de expressão no país, destruindo a capacidade dos alunos e professores do ensino público de formar suas próprias convicções.
+O projeto desta  organização, que supostamente criaria “escolas sem ideologia e sem partido”, na realidade busca inibir apenas ideologias bem específicas: aquelas que  em maior ou menor grau  são influenciadas pelo pensamento marxista. Os alunos teriam acesso a “canais de comunicação” para denunciar professores que expressassem apoio a estas  ideologias, mas o projeto nada diz a respeito da ideologia do livre mercado ou da ideologia da igreja católica, o que mostra que, longe de ser imparcial, o projeto é bastante tendencioso.
+Contudo, a Constituição de 1988 garante a liberdade de expressão a todos os brasileiros, tanto política, quanto religiosa ou cultural. É importante notar que o descumprimento desta  garantia constitucional abriria espaço para a perseguição seletiva de diversas minorias, sejam elas adeptas de religiões ou partidos políticos. Este tipo de perseguição não se limitaria, a longo prazo, aos professores “esquerdistas” e representaria um atentado à democracia.
+Portanto, observa-se  que o projeto educacional da Escola sem Partido é tendencioso e não deve ter espaço em uma sociedade democrática. É necessário entender que cada pessoa ocupa uma posição concreta na sociedade, com acesso a diferentes meios materiais e intelectuais. Cada um observa o mundo a partir de um ponto de vista único, determinado por sua classe social, religião e cultura e, por isso, é impossível esperar imparcialidade de opinião tanto de alunos quanto de professores.
+# C0: 200
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 150

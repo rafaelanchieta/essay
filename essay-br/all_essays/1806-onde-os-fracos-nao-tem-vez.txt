@@ -1,0 +1,14 @@
+# prompt: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade
+# score: 7,5
+# title: Onde os fracos não têm vez
+"A vida se contrai e se expande proporcionalmente à coragem do indivíduo." Com essas palavras a escritora francesa, Anaïs Nin, deixa clara a importância das pessoas serem capazes de resistirem às adversidades que se apresentam diariamente nas suas vidas; a covardia , ao contrário , fragiliza o indivíduo que, por sua vez, fica inerte e não demonstra reação. Na própria história do Brasil e do mundo é notória a relevância da coragem como fator preponderante em ações que desafiaram ou desafiam a ordem vigente. No Brasil, por exemplo, se não houvesse Romantismo e Modernismo, ambos movimentos literários, possivelmente até hoje não existiria uma literatura verdadeiramente brasileira e sem influências externas. No mundo, entre vários heróis, pode-se citar a figura de Nelson Mandela como líder rebelde contra o Apartheid, na África do Sul. No entanto,vêemse tornando rotineiros os casos em que os seres humanos acovardam-se ao correto e preferem praticar o errado ao certo. Assim,
+         muitas das mazelas que persistem no mundo como pobreza, fome, corrupção,advémde muitas atitudes covardes,sejaelas de
+         governantes ou civis, que não reagem e permanecem na inércia,prevalecendoações paliativas que não são eficazes e não atingem a raiz do problema.
+         Sendo assim, qualquer atitude corajosa - que atualmente não faz parte dopadrãoda sociedade - como a verificada na Itália, em que ocorreu o naufrágio do Costa Concórdia,
+         consagrando herói o comandante Francesco Schettino, que exigiu o retorno do comandante ao navio, faz com que a população descrente ou mal acostumada com essasações,perceba a importância deserem corajososem momentos como esses.
+         Diante de tudo isso, deve-se exaltar a coragem como uma virtude que não pode ser reprimida, abolindo a covardia, facilitando a reconstrução moral da sociedade, baseada em valores autênticos. Assim, os heróis dos gibis deixarão de ser mera ficção e serão personificados nas pessoas comuns que, por sua vez, se tornarão exemplos a seguir.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 190
+# tittle: O mundo interdisciplinar arruinado pelo homem
+Durante o século XV  após a colonizacao dos portugueses no Brasil, os povos indígenas já habitavam em regiões do país, explorando suas culturas . Porém mesmo com suas origens eram vistos como ''seres inferiores'' pelos colonizadores, tratando os como escravos, como o maniseamento do pau brasil pela troca de especiarias .
+
+No periodo colonial,  os nativos deram origem na econia  do país, pois com o desenvolvimento lucrativo com os próprios vegetais, abrangeu outras áreas,  como a venda para o mercado externo, ou seja, os índios foram a basepara base para o acréscimo de renda, pois até hoje no mundo atual essa técnica é utilizada por agricultores. 
+
+Vale ressaltar, que mesmo esses fatos históricos terem sido importantes para a populñao atual, os índios ainda sofrem desigualdade social, pois a grande maioria depende de acoes ações sociais governamentais, como a FUNAI ''Fundacao Nacional do Índio'' que garante a implementação ploitica política para cada tribo existente. Portanto mesmo com a invencao  dessa fundação, indios ainda são excluentes excluídos, como aponta pesquisa da ONU ''nacoes unidas''  mais de 18% dos índios estão inclusos na piramede pirâmide de extrema pobreza, o que explica o quanto há precisões de reformas previdencias. 
+Isto posto, relata graves situcões sociais que a modernidade enfrenta, pois nem a lei existente está sendo sustentável para os indígenas  deixando-os sufocados com tanta discriminação. Sendo assim, para que essa realidade seja contraditoria é preciso um mecanismo que assegure esses grupos de forma adequada, como auto estradas , e hidrelétricas exclusivas  pois garantindo direitos a mais ,  irão se sentir confortáveis ao ver que sao prioridades ao mundo que se originaram. 
+# C0: 50
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 20

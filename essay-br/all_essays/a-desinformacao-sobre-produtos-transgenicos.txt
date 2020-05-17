@@ -1,0 +1,12 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 300
+# title: A Desinformação sobre Produtos Transgênicos
+Não é possível falar sobre produtos transgênicos sem fazer uma reflexão a respeito do símbolo ostensivo impresso nesses alimentos. Por isso, é necessário considerar que se deva usar um rótulo comum, contendo as informações necessárias e não a letra “T” de forma e aparência depreciativa, desvalorizando assim esses alimentos.
+Um fator a ser analisado em relação a situação em  questão é que esses produtos geneticamente modificados, em dez anos de uso,   não foi registrado algum dano negativo  à saúde de quem se alimenta deles. Entende-se então que apesar de ainda não ser um produto amplamente aceito pela população em geral, o ingrediente transgênico não representa riscos ao bem-estar das pessoas.
+Outro fator importante é que os consumidores devem ser informados se determinado ingrediente de um produto é modificado geneticamente ou não, porém, essa informação do rótulo não precisa ser depreciativa ou passar a imagem de que se trata de algo perigoso ou prejudicial. Pode se verificar um exemplo disso nas embalagens atuais dos alimentos transgênicos.
+Entende-se com isso, que  um dos maiores problemas da informação dos rótulos citados é que os mesmos, do jeito que se encontram, com aparência de produto perigoso, prejudicam o comércio dos mesmos. Uma das soluções para isso seria manter a informação de que naquele alimento há ingredientes modificados geneticamente, porém, utilizando um símbolo normal, com explicações esclarecendo a população sobre os benefícios que esse produto pode proporcionar.
+# C0: 100
+# C1: 0
+# C2: 50
+# C3: 50
+# C4: 100

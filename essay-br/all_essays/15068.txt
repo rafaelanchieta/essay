@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: Até que ponto a ganância irá nos consumir?
+A floresta Amazônica cuja maior floresta tropical do mundo está frequentemente sendo alvo de desmatamento devido sua grade riqueza em recursos.  e ainda uma grande armazenadora de carbono ajudando no equilíbrio climático. 
+
+Porém, a Amazônia anda sendo foco de muitos indícios de desmatamento , podendo ser mostrado através do INPE  dados apostando 4,6 KM2 de área com desmatamento em 2018. 
+
+Por motivos como esse o Brasil perdeu acordos com países como Alemanha e Berlim que visavam fundos para Amazônia. E ainda havendo a exoneração do diretor do INPE após expor dador que evidenciavam números alarmantes sobre as queimadas. 
+Assim, devendo ser mais rigorosas as leis protetivas do Código Florestal, busca pelos direitos através de protesto e abaixo assinado , reivindicação por uma cultura que se proponha mais a buscar a preservação ao meio ambiente ao invés das ganância pelo dinheiro, na qual será uma busca fútil visando que daqui alguns anos se não houver mais recursos não teremos como viver, e assim colocando em pratica todas as ideias e lutando por um mundo melhor.. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

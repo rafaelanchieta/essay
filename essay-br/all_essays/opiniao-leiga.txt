@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 440
+# title: Opinião Leiga 
+Olhando para o passado vemos que em Atenas, na Grécia Antiga, berço da  uma vez por ano era feita uma reunião, em praça, na qual decidiam qual político estava sendo mais destrutivo a Cidade-Estado esse era exilado. Voltando ao presente, notamos que grande parte da população, caso pudessem, fariam de modo semelhante com os ministros do Supremo Tribunal Federal. Mal visto pela grande maioria do povo.
+Primeiramente, é importante destacar que a imagem criada para o STF se dá pelo entendimento popular formado em sua maioria em conjecturas leigas. Uma pesquisa do Datafolha mostrou que cerca de 39% da população julga ruim a atuação do órgão, apenas 19% afirmou que era boa ou excelente. Assim, tal fato confirma que a maior parte das pessoas não entendem como funciona o apoderar Público. Isso se deve, sobretudo, a uma má educação que é ofertada, no Brasil, principalmente, em escolas públicas, a respeito do funcionamento político da nação.
+Concomitantemente, como dito por Pitágoras  devemos educar as crianças para que não nos preocupamos com os adultos. Ademais, é possível ver que as organizações devem atender a critério da sociedade com um todo, já mais, acatando interesses de pequenos grupos ou pessoas e isso desagrada a alguns. De tal modo, juntando o desagrado de tantos que não têm suas intenções pessoais atendidas pelos parlamentares, resulta nos números já apresentados.
+Com base nos dados já apresentados, observamos que a opinião pública a respeito do Supremo Tribunal Federal é extremamente ruim, fato que se deve a falta de conhecimento dos indivíduos acerca de assuntos políticos. Logo, para amenizar essa situação urge que o Ministério da Cidadania em parceria com o INEP(Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) inclua o funcionamento dos órgãos e instituições públicas nos assuntos abordados nas questões do Enem(Exame Nacional do Ensino Médio), fazendo com que um grande número de jovens venham a entendimento do assunto. Dessa forma, levando conhecimento aos jovens não será preciso nos preocupar com os adultos.
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 80

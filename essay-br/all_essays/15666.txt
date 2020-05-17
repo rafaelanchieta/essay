@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: CUIDADO COM A PANDEMIA
+A obra cinematográfica “ Eu sou a lenda”  do gênero ficção científica,  o personagem principal Robert Neville é relacionado pela descoberta de uma epidemia que pode se transforma em uma pandemia, o cientista Robert corre contra o tempo para combater o vírus  e graça aos estudos em ciência a cura é encontrada . Embora seja uma obra ficcional, o filme apresenta traços que se parece ao atual contexto brasileiro, pois, o Brasil já enfrentou vírus como A H1N1, Dengue, Zika e atualmente  em 2020  o coronavírus. Nesse sentido, a falta de pesquisa científicas e a ausência educacional contribui para problemática .
+Em princípio, cabe analisar o papel da ciência na guerra da pandemia,  Conforme surgiu o primeiro caso no Brasil, o instituto Aldofo Lutz  da Universidade de São Paulo  em conjunto com a Universidade de Oxford, os pesquisadores tiveram a capacidade de compreender como o vírus se muta  o que facilitou a busca por uma vacina isso tudo em apenas 48 horas . Nesse contexto, é importante aumentar os número de pesquisa no país, para que os cientistas consigam dar respostas para o combater de qualquer ameaça invisível. 
+ Ademais, a influência da tecnologia para o avanço educacional nas universidades públicas de pesquisa se faz necessária para os pesquisadores, ao trazer equipamentos avançados tecnologicamente melhor para que as buscas tenham resultado . Conforme a geógrafa Mait Bertollo, a busca para disseminar a pandemia do coronavírus está em andamento, apesar de não estar recebendo mais verba para a produção científicar.Nesse sentido, a conexão entre Governo Federal, Estado e municípios precisa seguir a mesma linha oferecendo  mais recursos para busca de pesquisas. 
+ Portanto, faz-se necessário a atuação do Ministério da Economia   em parceria com o Ministério da Educação   para desenvolver o projeto “ auxílio ciência” onde  pesquisadores teriam que apresentar projetos de pesquisas que tenham alcance nacional, tendo assim direito de receber dinheiro para seus estudos científicos a favor da população . Além disso , o MEC precisa criar o “ Futuro ciência”, onde  laboratórios de estudo científico parceiro contribua com estágio para esse jovens estudantes de doenças virais, essas vagas deveram deverão ser disputadas atrás vez atravez de provas na instituição . Dessa forma, diferente do filme “Eu sou a lenda” teremos  mais cientistas preparados para lutar contra a pandemia.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

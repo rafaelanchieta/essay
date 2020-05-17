@@ -1,0 +1,14 @@
+# prompt: agua-aprenderemos-com-a-atual-crise-hidrica
+# score: 2,5
+# title: Água: aprendemos com a atual crise hídrica?
+Como muito vem a ser discutido, a falta de água no Brasil está gerando polêmica, problemas sociais e principalmente reflexão. Relatos de falta de água ou presença delapolúida, cada vez mais lotam os meios decomunicações. Hoje muito se tenta fazer
+         a respeito , mesmo sendosábido queseestapreocupação fosse anterior, o problema talveznaoseria tão abrangente.
+         O brasileiro é um povo que se preocupa muito com o presente, popularmente falando: com o "pão de cada dia", mas nãoprocurampensar se haverá "pão no dia seguinte".Estaatitude invasivatrasum total prejuízo,
+         pois, como na falta d'agua, é refletido somente se terá para aultilizaçãomomentânea, e nãohálongo prazo.
+          Se o brasileiro aprende com a atual crise hídrica? Sim, aprende, pena que, porexemplo: muitodos estudantes no 3° anodecolegial, já não se lembram de aproximadamente
+         67% do que se foi aprendido no 8°defundamental. E é isso que ocorre com a maior parte do povo brasileiro, a maior parcela do que se vivehoje, é esquecidocom o passar do tempo.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

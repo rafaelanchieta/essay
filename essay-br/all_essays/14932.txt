@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 270
+# tittle: DESIGUALDADE NA HUMANIDADE
+Convivemos  em uma sociedade desumana, com vários fatores desigual desiguais, o principal dele é o econômico, que leva o ser humano a fazer possibilidade erradas. 
+
+O labutador que mais sofre os diversos preconceitos, miséria . Muitos trabalham no seu cotidiano, porém depois de poder pagar suas contas financeiras, pobremente se tem para o seu alimento saudável. 
+Levando muitos a rua à procura de algum. Em nosso PAÍS o consumo não gira o suficiente de cada família envolvendo a fragilidade e muitos à beira da morte. 
+
+Diante isso o governo deve implantar apoio da mídia por meio de divulgar apoio a projetos sociais o qual pode ser mensalmente, a fim de reduzir a subalimentação da população. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

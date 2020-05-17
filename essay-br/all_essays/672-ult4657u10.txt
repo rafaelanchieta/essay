@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 6,0
+# title: Vingança natural
+A natureza, desde o início do planeta, foi abundante e diversificada. Fornecia alimentos, água fresca e tudo necessário para a sobrevivência de seres vivos. Os animais irracionais viviam de acordo com o que a vida lhes cedia, mas o ser humano sempre foi ganancioso. Por nunca ter sofrido ausências de florestas e recursos hídricos, o homem desmatava e poluía o meio ambiente. Agora é hora de ele sofrer as consequências. Na última década, ocorreram fenômenos naturais que não se viam frequentemente, como furacões e tsunamis. O encontro de estudiosos sobre os efeitos da natureza na Terra no dia 2 de janeiro deste ano mostra que há 97% de chance desses fenômenos serem de causas humanas. O desrespeito contra a natureza está sendo refletido e o homem tenta desfazer o erro. O protocolo de Kyoto foi assinado por alguns países para reduzir o gás carbônico emitido em mais quantidade por indústrias e veículos. A temperatura irá aumentar e teremos que lidar com o novo ambiente terrestre. O uso da energia elétrica tem que diminuir, ao invés de muitas lâmpadas, a absorção de luz solar o substituiria. Uma outra medida sendo desenvolvida é trocar a gasolina do carro por uma substância mais ambiental. Portanto, medidas poderiam ser usadas para reduzir o impacto natural e tentar voltar ao início do planeta, quando a natureza não era ameaçada. Podem ocorrer conseqüências da destruição do verde, mas o ser humano está aprendendo a controlar-se, e com medidas mas efetivas seu lado ganancioso não está presente em assuntos ambientais.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

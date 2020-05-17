@@ -1,0 +1,12 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: [Redação sem título]
+A grilagem foi amplamente utilizada por proprietários de grandes terras no Brasil.A concentração de terras pelos latifundiários é um dos grandes agravadores da fome e da desigualdade social no Brasil, especialmente no campo, pois restringe o acesso à terra- para pequenos produtores - e a alimentos com preços acessíveis. A fome pode ser combatida através de mobilizações de âmbito federal, municipal e comunitário. 
+
+Segundo o senso de 2006, o mais recente, os latifundiários representam 0,91% do total de proprietários rurais e concentram 45% de todas as terras cultiváveis brasileiras. Tal fato expressa uma ampla desigualdade no meio agrário,  que dificulta o acesso e o mantimento de terras para pequenos produtores que vivem e alimentam suas famílias do que provem da terra . Entretanto é possível amenizar tal disparidade por meio da distribuição de terras obsoletas, confiscadas e distribuídas pelo ministério da agricultura, para famílias que vivem em regiões de extrema pobreza, sendo essas terras um lugar onde   possam viver e produzir seu próprio alimento. 
+Os latifúndios afetam também muito o acesso a comida no meio urbano,  pois,  produzem, quase que, apenas para a exportação de alimentos que servem como matéria-prima para a produção de outros alimentos, como a soja, e ao mandá-los para o exterior, onde são industrializados  retornam ao país superfaturados, ou seja, o preço aumenta e fica de difícil acesso as pessoas de baixa renda que acabam por passar fome, que no meio urbano pode ser reduzida por meio da criação de hortas comunitárias, onde caberia as prefeituras cederem os espaços e as hortaliças, já a comunidade caberia mobilizar-se para planejar e fazer a horta, além de mantê-las, visando o consumo próprio e não mercantil. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

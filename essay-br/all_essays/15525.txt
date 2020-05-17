@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 600
+# tittle: Analfabetismo funcional e sua relação com o governo.
+Apesar dos avanços gradativos na educação do país, o Brasil ainda lida com altos níveis de analfabetismo, principalmente o chamado "analfabetismo funcional", onde   o indivíduo possui certo   conhecimento sobre as letras e números, porém é incapaz de compreender e interpretar um texto simples ou realizar operações matemáticas elaboradas. Sabe-se que esse fator é decorrente da precariedade e falta de atenção às escolas públicas do país, além do modelo arcaico e monótono das mesmas , causando aos alunos desmotivação para os estudos. 
+A falta de investimento em educação não é novidade . Muitas vezes o dinheiro público é desviado para outros fins - como esportes ou corrupção por parte dos políticos, por exemplo -, e acaba fazendo uma falta enorme para as instituições de ensino que dependem disso . A falta de pagamento de salário aos professores e funcionários, escassez de dinheiro para a compra de alimentos, manutenção da escola, uniforme e materiais do alunos,  são exemplos das consequências desta ausência de importância para esta área tão essencial para o desenvolvimento do país. 
+Além disso, o padrão definido pelos colégios já é considerado algo maçante para os dias atuais . Toda a cobrança e pressão em cima dos estudantes acaba fazendo com que se sintam inferiores e humilhados. As aulas tediosas e sem inovação fazem com que eles percam a motivação e, na maioria das vezes, desistam dos estudos sem mesmo concluí-los. Isto ocorre com frequência nas escolas municipais e estaduais, os alunos decidem abandonar o aprendizado e focar na área trabalhista, porém, sem a conclusão do Ensino Médio,  não conseguem grandes empregos e  consequentemente, não conseguem obter uma vida financeiramente estável. 
+Todavia, o Ministério da Educação está começando a focar neste problema,  e em uma maneira de saná-lo. O programa Brasil Alfabetizado foi uma proposta que ajudou muito a elevar os níveis de alfabetização, pois garantiu recursos para o aprimoramento escolar, com auxílio dos estados, Distrito federal e municípios. Segundo o MEC, entre 2008 e 2012, cerca de 6,7 milhões de jovens e adultos foram beneficiados com o programa. Espera-se que este número possa aumentar significativamente nos próximos anos, até a taxa de analfabetismo no Brasil permanecer a mínima possível. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

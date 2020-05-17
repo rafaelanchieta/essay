@@ -1,0 +1,12 @@
+# prompt: Política X Ciência: a "pílula do câncer"
+# score: 250
+# title: Ciência em primeiro lugar
+A pressão dos pacientes vitimas  do câncer deliberou a questão da eficacia  da fosfoetanolamina, mais conhecida como "a pilula  do câncer", que promete a cura da doença. Com isso veio a reação do Estado em relação ao problema. 
+Não existem pesquisas que comprovem o que a pilula  promete. Testes foram realizados em laboratórios apenas em animais, apesar de que o remédio não tenha resultados satisfatório provados em seres humanos,   existe uma grande quantidade de pessoas que lutam pela liberação a fosfoetanolamina, por uma questão de esperança para a cura da doença.
+A presidente Dilma Rousseff portanto sancionou  a lei 13.269 no dia 13 de abril de 2016, autorizando o uso da substancia. Porem,   a presidente foi precipitada na sua decisão, sem leva  em conta a opinião dos cientistas. Alguns admitem que é errado a aceitação do remédio no mercado farmacêutico pois sem testes comprovados os resultados , é perigoso para pacientes que apenas alimentam uma chance de cura irreal em um tipo de tratamento alternativo. 
+Portanto  medidas são necessários  para resolver o impasse. A presidente da Republica  deve imediatamente retirar as pilula do comercio , e junto com uma equipe farmacêutica começar a realizar todos os testes necessários para a confirmação do remédio.  Como disse Martim Luther King "Toda hora é hora para fazer o que é certo" o  Ministério da Saúde deve realizar pequena palestras em postos de saúde direcionada ao publico alvo  com doutores, cientistas e farmacêuticos alertando  os riscos que o remédio pode causa  tanto físico quanto mental.
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 0,5
+# title: (Sem título 068)
+É incontestável que haja tanta violência na escolas do nossopaís, épor isso que vemos tantos casosdeque jovens e até mesmo crianças sofrem agressão epreconceito, éde conhecimento geral que acada dia crescecolocando medoasociedade.
+         Percebe-se então que isso não vem só de agressão verbal,maissim por sites da internet, redes sociais, vídeos comprometedores e até mesmo agressãofísica, em consequente dissovê se a todo instante
+         essefato, eas pessoas ainda não viram que pode prejudicar o futuro dos jovens. Em vez de apontar só os erros, temos que ter uma solução,
+         isso sim e um direito de nós cidadãos honestos que batalhamos para um futuro melhor de ensino e conforto para nossos filhos devemos impor e juntamente fazer com que nosso governo nos ajude a ter um país sem violência a todos jovens brasileiros .
+# C0: 0,0
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

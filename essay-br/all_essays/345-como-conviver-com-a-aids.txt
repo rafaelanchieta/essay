@@ -1,0 +1,15 @@
+# prompt: a-aids-nao-e-mais-a-mesma-por-que-diminuiu-o-medo-da-doenca
+# score: 1,5
+# title: Como conviver com a Aids
+A Aids, ésem dúvida, uma das doenças que tem causado grande índice de mortes,
+         onde milhares de pessoas são infectadas aqui no Brasil. Muitasdelas, nãosabem que estão com oVírus,e acabam contaminando outras pessoas,
+         entretanto não seprotegecom preservativos, ao saírem com seus paceiros sexuais.
+         Todos os dados mostramqueaqui no Brasil,
+         estima-se que 600 mil infectados . Os jovens de hoje em dia não sepreocupaem se proteger contraesta doença, podemosobservar que cada vez mais cedo adolescentes de 13 anos de idade estão iniciando, relações mais cedo que o esperado, sem prevenção. ÉConsensoque conviver com Aids, hoje emdiatem tratamentosmaisainda não tem cura
+         , entretanto a melhor forma de se proteger é usar preservativos em todas as relações sexuais que tiverem . Em suma o governo deve criar campanhas queincentivea toda população, para que possam entender o risco da Aids, para que tenham um maior cuidado com suas vidas.
+         Porém a melhor forma de seproteger, éusando preservativos, só assim iremos combater o HIV, entretanto a melhor forma é não se descuidar.A nós outros, cabea consciência devemos nos conscientizar que a Aids pode matar, em caso de contaminação, caso odiagnosticoseja tardio. No entanto pode ocorrer complicações da Aids, sendo assim o teste que detecta o vírus deve ser feito cada vez mais cedo, pois só assim combateremos à doença.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,5

@@ -1,0 +1,12 @@
+# prompt: Patrimônio histórico e cultural brasileiro: um caso de descaso
+# score: 500
+# title: Incêndio cultural: culpado é quem culpa
+No Brasil contemporâneo, o descaso com o patrimônio histórico e cultural é alvo de inúmeras ações sociais teóricas em que as pessoas se eximem de praticar suas propostas. O incêndio no Museu Nacional eclodiu  uma onda de manifestos  que chamou a atenção da população para este  descaso.
+Muito se fala em preservação da história do Brasil por parte do poder público, colocando-se a culpa na falta de estrutura, falta de investimentos e na política precária sobre a  preservação do passado da população. Muita dessa culpa não é infundada, visto que vivemos em um período de crise em diversas áreas públicas, mas não é desculpa para se isentar da defasagem cultural cultivada na sociedade.
+Viemos de uma cultura sem cultura, da falta de estímulo a  resgatar a história brasileira. Obviamente não se deve viver no passado, a modernidade se faz necessária para a evolução da sociedade, o futuro toma o lugar do passado, e este  nos diz de onde viemos e indica para onde vamos. As pessoas estão deixando sua história no passado e delegando a responsabilidade de protegê-la para o próximo, deixando de construir um futuro melhor.
+O incêndio no Museu Nacional foi uma tragédia que acendeu o questionamento de quem é realmente a culpa e levou a apontar inúmeros culpados. Mas a responsabilidade pode ser daquele que aponta o próximo. Incêndios posteriores poderão ser evitados para proteger o patrimônio histórico e cultural se todos entenderem seu papel na  história do país.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

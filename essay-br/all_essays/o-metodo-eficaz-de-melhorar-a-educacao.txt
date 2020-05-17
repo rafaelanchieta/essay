@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 600
+# title: O método eficaz de melhorar a educação
+Nos dias atuais, a falta de respeito, a indisciplina e outras inúmeros problemas tem  feito parte da rotina nas escolas. Muito se discute se o ensino  visando a autoridade e disciplina  colabora para  melhoramento na  educação,  formação de cidadãos mais responsáveis e se o ensino militar, que visa  ao máximo essas características, favorece uma melhor educação.Atualmente  a preguiça e a falta de respeito estão fazendo parte nada vida escolar de muitos estudantes, que podem variar de um simples fato de não fazer suas tarefas avaliativas, até o desrespeito e agressões contra seus professores.  Os problemas citados, ocorre  muitas vezes  por falta de cobrança e rigidez nas escolas, logo, gerando  estudantes com baixos desempenhos  e sem perspectivas para o futuro.Inúmeras pesquisas vem  apresentando que  escolas militares  que visam  cumprimento rigoroso das regras e disciplina excessiva, geram estudantes com ótimos desempenhos escolares  e boas notas em concursos e vestibulares. Além disso, também mostra  que o ensino militar contribui para  decisão na escolha de profissões na vida futura dos estudantes.Pode-se concluir que a junção de disciplina e responsabilidade dentro da  educação colabora para a mesma , formando estudantes mais responsáveis, educados, e com melhores desempenhos . Por todos esses aspectos seria beneficioso que a educação brasileira se objetivasse em inserir a disciplina e responsabilidade dentro das escolas.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 400
+# tittle: Amazônia contemporânea
+A Amazônia é a maior floresta tropical do mundo, estende-se pelos países Brasil, Colômbia, Peru, Bolívia, Equador e Venezuela, com uma área total de 7.584.421 km2. 
+No Brasil a floresta abrange 59% do território nacional  distribuído por 775 municípios. Representa 67% das florestas tropicais do mundo, aproximadamente um terço das árvores do mundo estão na região e contém 20% da água doce segundo a BBC. 
+
+Nos últimos meses ela tem sido o centro de vários debates por conta das queimadas e do desmatamento que sofreu um aumento significativo em relação aos anos anteriores. A maior taxa de desmatamento foi em 1995 com 29 mil km2, e a menor em 2012 com aproximadamente 4 mil km2, de agosto de 2018 a julho de 2019 os alertas indicaram que 6,8 mil km2 estariam sob desmate segundo o G1. 
+
+Esta floresta é essencial para o equilíbrio ambiental do planeta, o governo através do Ministério do Meio Ambiente  deveria normatizar regras mais rígidas em relação ao desmonte da Amazônia e fortalecer cada vez mais institutos como o INPE  e o IBAMA , juntamente da conscientização da população. Para garantir assim uma fiscalização e proteção eficaz para a amazônia. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 100

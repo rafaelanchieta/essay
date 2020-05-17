@@ -1,0 +1,11 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 270
+# tittle: [Redação sem título]
+O assunto que mais está preocupando parte dos brasileiros é a reforma da previdência, que continua em debate no Congresso nacional. Segundo a PEC  a mudança traz igualdade na aposentadoria ou seja  a idade mínima para mulheres é de 62 anos ,homens 65 anos e a desigualdade de contribuição. 
+Em primeiro lugar cabe estudar se a sociedade vai se apropriar futuramente de um problema ou uma solução antes de conseder conceder essa nova reforma. Com base nisso e a proposta, futuramente a população terá sua aposentadoria tardia em relação ao atual , profissionais que trabalham sobre sob más condições como os rurais terão que contribuir 20 anos de atividade em campo e uma contribuição miníma de R$600,00 por grupo familiar. 
+Somando a isso e outros vários fatores, convém a possibilidade de ter grandes problemas futuramente , pois a saúde e a flexibilidade do trabalhador poderá ser afetada. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

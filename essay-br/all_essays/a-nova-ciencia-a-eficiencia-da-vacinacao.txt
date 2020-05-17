@@ -1,0 +1,12 @@
+# prompt: A ciência na era da pós-verdade
+# score: 400
+# title: A nova ciência: a eficiência da vacinação
+Desde o grande avanço da tecnologia, tem surgido algumas dúvidas e questionamentos em relação à ciência, que sempre tem sido contestada por muitas pessoas.
+Um dos assuntos mais questionados tem sido a eficiência das vacinas que varia de um ano para o outro.
+De acordo com a organização Mundial da Saúde, o impacto das vacinas de baixa eficácia em nível populacional não foram determinadas , por outro lado, a falta de informação e a divulgação de informações não científicas tem contribuído para a reemergência de diversos países do mundo e põe em risco planos globais.
+Deste modo a população deve estar bem informada quanto aos riscos e benefícios da vacinação e os profissionais da saúde devem assumir o papel de divulgar informações verídicas, com compromisso ético e profissional junto à sociedade.
+# C0: 80
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 80

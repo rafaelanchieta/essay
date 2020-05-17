@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: [Redação sem título]
+"[...] olha [...] que floresta [...] vê que vida há no céu [...] vê que vida há nos ninhos [...]"   Publicado em 1904, o poema "A Pátria", de Olavo Bilac, exaltava o privilégio dos brasileiros,  por possuírem ambientes naturais amplamente diversificados,  que, segundo o poeta, eram capazes, até mesmo, de transmitir sentimentos. Infelizmente, pouco mais de cem anos depois, o desejo de obter cada vez mais capital, aliado ao crescimento da sociedade consumista, tem tornado práticas ilegais como o desmatamento e a queima dos solos cada vez mais recorrentes.
+
+De acordo com o IPAM, Instituto de Pesquisas Ambientais da Amazônia, somente no ano de 2019,  já foram registrados mais de trinta mil focos de calor. O ato criminoso de atear fogo em matas, florestas e afins,  visa, mormente, aumentar as áreas de plantio e criação de animais, que buscam promover incrementos nos campos da pecuária e da agricultura. Todavia, esse meio ilícito de aumentar a receita econômica prejudica os ecossistemas e reduz a biodiversidade, interrompendo pesquisas que, segundo a revista "Veja", poderiam contribuir para o avanço das ciências biológicas. 
+Em seu poema, Olavo Bilac também revelou "[...] Criança [...] não verás país nenhum como este [...]", referência à grande biodiversidade e à sensação de "vida" que estar em contato direto com a natureza proporciona. Entretanto, de acordo com o site Brasil Escola, a ausência de cuidado com a Amazônia, verificada no Brasil hodierno, pode acarretar em sua total extinção ainda nos próximos quarenta anos. 
+
+Diante desse panorama, cabe ao Ministério do Meio Ambiente promover ações efetivas no combate ao desmatamento e às queimadas,  que devem figurar,  na parceria com bombeiros e equipe necessária para apagar atuais incêndios e preservar a ocorrência de futuros. Ademais, em conjunto com o poder Legislativo, devem ser criadas  leis coerentes a esse tipo de infração, garantindo a punição dos envolvidos. Além disso, o Ministério da Educação  pode auxiliar através de palestras e debates a garantir que a nova geração aprenda, ainda na escola, a importância de preservar a floresta amazônica. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

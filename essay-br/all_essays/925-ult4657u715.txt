@@ -1,0 +1,12 @@
+# prompt: o-que-e-ser-homem-nos-dias-de-hoje
+# score: 6,5
+# title: O primitivismo em pleno século XXI
+Ao longo dos anosa mulher da sociedade ocidental tem deixado de se dedicar apenaspara osafazeres domésticos para disputar com o homem um lugar no mercado de trabalho. Acreditava-se então que com essas diversas mudanças a repercussão no papel do homem também sofreria diferenças bruscas. O homem deixaria seu lado primitivo e machista esquecido para se tornar uma pessoa mais civilizada. Porémmesmosdepois de séculos de evolução socioculturalparece que esse lado animal não foi esquecido.
+        Estima-se hoje que cerca deuma em trêsmulheres no Brasil já sofreram com agressões físicas de seus companheiros.
+          Essa ideia de que o homem deve ser superior e a mulher frágil é uma ideia ultrapassada e que deve ser severamente punida pela sociedade.E que oshomens quepratiquemesse tipo de ação criminosa devem ser presos e passar por análise para entender o que levaa alguémem pleno século XXIa agir com tanta ignorância e insensatez.
+          Em muitas escolastanto particulares como públicasainda existem diversas brigas por disputa de namoradas, esportes e por um menino se achar melhor que o outro. Deve haverum tipode prevenção e ação para que esse tipo de situação não continue sendo um hábito na nossa população. Os professores e pais devem alertar e punir seusfilhos,alunos sobre esse assunto e mostrar que as diferenças de sexo e força física não tornam os homens seres melhorese superiores as mulheres.Portanto a fonte para chegar ao problema é a informação, que deve ser dada a toda a populaçãoe demonstraçãoqueem caso de acontecimentos desse tipo de violênciaas autoridades agirão severamente na punição desses agressores.E que as mulheresnão devem se sentir submissas nem demonstrar medo de irapolícia relatar o abusoa qual foi submetida
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 0,5
+# C4: 1,5

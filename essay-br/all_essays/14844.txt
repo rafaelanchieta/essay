@@ -1,0 +1,26 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: Fome em meio a desigualdade
+De acordo com a Constituição Federal brasileira, promulgada em 1948, é garantido a todos individuo o direito à liberdade, à alimentação e à igualdade perante todos. No Brasil, entretanto, a fome retrata uma desigualdade enorme entre muitas pessoas, no qual levanta o surgimento de uma novo problema social em nosso  meio. Sob esse viés, convém analisar e perceber as principais causas, consequências e possíveis soluções a essa barreira. 
+É notório pontuar,de início, o como a fome é um problema passado, observado desde o século XVIII com a escravidão, no qual escravos eram mantidos na miséria e na fome , que no entanto é observado até os dias atuais . A falta de distribuição de alimentos e a falta de trabalho são as principais causas de desse fato, que levam a milhares de pessoas a viverem na decadência todos os anos em nossa nação. É inaceitável,  que a população não se mova contra esse mal, deixando a situação congestionar em vez de colaborar na doação de alimentos que é tão dispensado por todos. 
+
+
+
+
+Ressalta-se, também, notícias do portal de informação G1,  que mostram o como o número de pessoas em situação de rua aumentaram nos últimos anos. Esse entre outros pontos como a desnutrição e à falta de recursos básicos,  são uma das principais consequências da desigualdade no Brasil, que em maioria dos casos a fome é presente de forma devastadora, com relatos de muitas mortes por ano referente a esse fato. É inadmissível, nosso  país, dito signatário dos direitos humanos, não se mova a frente de malefício, usando de todos tributos pago pela população para uma distribuição de alimentos a essas vítimas. 
+
+
+
+
+Então, para que os direitos de todos sejam reivindicados, e que a fome tome outro rumo, autoridades devem se mobilizar de forma mais eficaz a essa problemática. As ONGs , portanto, deve junto ao governo desenvolver projetos comunitários socioeducativos à fome, por meio de arrecadação de alimentos de todas as comunidades para uma ajuda imediata a esses necessitados, com ressalva na desigualdade da distribuição de alimento para uma ação do Estado sobre esse ponto crucial. Espera-se, com isso , que o índice de fome  diminua, e que a desigualdade seja apenas conhecida  mas não praticada. 
+
+
+
+
+
+
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

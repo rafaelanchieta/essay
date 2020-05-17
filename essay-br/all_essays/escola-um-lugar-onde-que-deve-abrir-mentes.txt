@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 400
+# title: Escola, um lugar onde [que] deve abrir mentes!
+A escola tem uma importância fundamental na sociedade, colocando em prática o aprendizado e  formação de profissionais do futuro. Sendo assim, os recursos utilizados e formas praticadas nas instituições de ensino podem prejudicar ou ajudar.O papel da escola seria ensinar e adaptar o aluno a sociedade, colocando como base inicial a pratica  de cidadania. Que  poderia ser demonstrada com os colegas e superiores da escola. E também ensino de matérias didáticas, colocando, assim, a formação dos profissionais, adequação de ideias, ideologias, entre outros. Metodologias rígidas, poderia  trazer desconforto ao crescimento de intelecto do aluno. Assim, Antônio Gramsci deixa como estilo de como deve ser uma escola citando que “A tendência democrática de  escola não pode consistir apenas em que um operário manual se torne qualificado, mas em que cada cidadão possa se tornar governante”. Colocando em pauta um estilo de pensamento a ser seguido, mostrando que o papel da escola é deixar e ensinar o caminho para cada aluno.  Poderia uma escola com militância almejar uma construção de escolha ao aluno?Utilização dos recursos adequados, como:   salas de aulas, materiais didáticos e conteúdos de ensinos com uma metodologia aberta com os alunos  poderia ser a forma que esperaria uma educação com qualidade. Para pode  ajudar na linha de raciocínio de cada jovem e deixa-lo  livre sobre  suas escolhas.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 100

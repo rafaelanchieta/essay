@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: [Redação sem título]
+A vacinação é muito mais do que apenas medida preventiva de doenças, trata-se de questão de saúde pública ,  Logo, é dever do Estado não só garantir sua ampla distribuição para todas as camadas da sociedade, mas também a difusão de informações explicando sua importância para a sociedade. 
+
+Segundo dados da OMS   em conjunto com a Unicef , a cobertura vacinal no Brasil vem decaindo a cada ano, o que sugere o ressurgimento de doenças como o Sarampo  por exemplo, constituindo problema gravíssimo de saúde pública, visto que é uma doença de fácil alastramento, sem muitas formas  de tratamento  além da própria vacina e que pode levar à morte .
+Ainda, de acordo com a Constituição Federal de 1988, “é garantido a todos o acesso à saúde”, por isso, não só o Estado deve garantir que hajam vacinas suficientes para toda a população, como também verificar e fazer com que elas sejam de fato aplicadas. 
+
+Portanto, é imperioso  que o Ministério da Saúde invista em campanhas publicitárias sobre a importância das vacinas, alertando assim a população sobre as complicações decorrentes da não vacinação. Além disso, é urgente que as secretarias de saúde municipais e estaduais façam um mapeamento das áreas em que a população tem mais dificuldade de acesso à postos de saúde, e em conjunto realizem mutirões de vacinação através de postos de saúde móveis, com vistas a garantir a ampla aplicação das vacinas, consequentemente, o aumento da cobertura vacinal no país. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

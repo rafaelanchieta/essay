@@ -1,0 +1,11 @@
+# prompt: bicicletas-e-ciclofaixas-estao-chegando-para-ficar
+# score: 6,5
+# title: Bicicletas: econômicas e suntentáveis
+O uso de transportes alternativos, como as bicicletas, é bastante comum em alguns países europeus, diferentemente do Brasil. Os ciclistas brasileiros sofrem com o pouco espaço disponível e com o desrespeito de algunscondutores. A implantação de ciclovias é bastante
+         viável ,poisalém de inserir esses ciclistas no trânsito, amenizaria alguns problemas de mobilidade urbana e alguns problemas ambientais.Optar pelas bicicletas é sempre uma boa opção, pois além de ser um ótimo exercício aeróbico, o ciclista economizaria bastante no tempo no trânsito caótico das capitais. Sem falar na economia de dinheiro, uma vez que o custo e a manutenção de uma bicicleta é muito mais barata que a de um carro.
+         Importante também salientar a questão ambiental. As bicicletas são veículos de propulsão humana, por isso não precisam de combustíveis fósseis para funcionar, diminuindo consideravelmente a emissão de gases poluentes. Alguns apressados podem argumentaràfavor dos biocombustíveis e dizer que ousode bicicletas é desnecessário. De fato, ousode biocombustíveis é bastante importante para o meio ambiente, porém sabemos que eles sozinhos não resolvem o problema, precisamos de mais alternativas, como as bicicletas. Ousode bicicletas mostrou-se bastante benéfico, ajudando no trânsito, na saúde e até no bolso do brasileiro. Para tanto , é importante o governo estimular ousodesse transporte, implantando ciclovias e atéusandodos meios de comunicação, como a televisão, para convencer os brasileiros através de campanhas publicitárias.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

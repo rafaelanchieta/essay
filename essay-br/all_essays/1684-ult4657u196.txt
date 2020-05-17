@@ -1,0 +1,10 @@
+# prompt: fomos-dominados-pelas-maquinas-que-inventamos
+# score: 8,5
+# title: A tecnologia a nosso favor
+Nas últimas décadas a tecnologia invadiu nossas vidas. Seja no trabalho, na rua ou em casa, estamos constantemente em contato com aparelhos como televisões, DVDs, microondas, celulares, computadores etc. Todos esses recursos trouxeram bastante agilidade na execução de nossas tarefas: das mais simples,como preparar uma refeiçãoàs mais complexas, como elaborar o projeto de um avião.
+        A grande maioria da população absorveu rapidamente todas essas inovações, especialmente os mais jovens, que cresceram na era da informática. Fazem pesquisas, compras, ouvem música, trocam mensagens, namoram, tudo pela internet. No entanto, muitos se tornam excessivamente dependentes dessa rede de comunicação. Eles se habituaram tanto a essa realidade virtual que se esqueceram como é viver no mundo real. Há também aqueles que utilizam a internet para práticas criminosas, como é o caso de pedófilos, fraudadores e os chamados "hackers", que invadem sistemas de segurança extremamente complexos para roubar bancos e outras instituições. Contudo, a tecnologia não agrada a todos. Muitas pessoas não se adaptaram a toda essa modernidade e optam por fazer suas atividades de modo tradicional. Há quem prefira ouvir música nos velhos discos de vinil ou ainda escrever uma carta e enviá-la pelo correio a um amigo distante. Porém, essa "aversão" à tecnologia pode trazer problemas, como é o caso daqueles que não conseguem sacar dinheiro num caixa eletrônico e para isso tem o constrangimento de precisar pedir ajuda, muitas vezes a estranhos. A tecnologia estará cada vez mais presente em nosso cotidianocom o objetivo nos poupar tempo. Portanto, é necessário que todos tenham a chance de aprender a lidar com ela, de forma responsável e consciente. Caso contrário, agravaremos ainda mais problemas sérios em nosso país como a criminalidade e a exclusão social.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,5

@@ -1,0 +1,12 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 480
+# title: Condenação em 2ª instância
+Ao se falar de condenação em 2ª instância o assunto traz um grande impasse, e que coloca, sobretudo, uma questão de inconstitucionalidade. As decisões sobre essas condenações vão de encontro a uma cláusula pétrea da Carta Magna, a presunção da Inocência .
+Segundo levantamento realizado pelo Ministro Lewandowski, um terço dos recursos de habeas corpus, ao Supremo Tribunal de Justiça, tem suas penas revistas, partindo desse pressuposto, entende-se que as diversas possibilidades de recursos existentes no código penal brasileiro auxiliam na correção de possíveis injustiças.
+Contudo, é evidente, em muitos casos, que recursos servem para postergar a penalidade do réu. Se há evidências e provas de sua autoria, não existem razões pelas quais protelar tal decisão, visto que os recursos aos tribunais superiores não tem por objetivo o julgamento individualizado do mérito. Ainda que a condenação em 2º instância venha causar inconformidade e julguem-a inconstitucional, é possível demonstrar o modo como ela vai de encontro a outros princípios constitucionais e favorece, se não aplicada, a impunidade. A exemplo desta temos o caso do jogador Edmundo que em 95 causou a morte de três pessoas em um acidente de transito , por conduzir seu veículo em alta velocidade. Após 4 anos, do fato, ele foi condenado em 1ª e em 2ª instancia . Porém, contestou novamente da decisão e interpôs recursos diversos, tantos foram que, somente depois de transcorridos mais dez anos foram concluídos .
+Assim, conclui-se que a condenação em 2ª instância traz créditos positivos a justiça brasileira e o reconhecimento de que ela é efetiva, célere e colabora com a paz social.
+# C0: 120
+# C1: 0
+# C2: 160
+# C3: 120
+# C4: 80

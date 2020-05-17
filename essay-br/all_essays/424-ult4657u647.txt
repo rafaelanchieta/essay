@@ -1,0 +1,15 @@
+# prompt: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet
+# score: 1,5
+# title: "Bullying": comportamento ridículo
+Atualmente, o "bullying" vem crescendo muito,em contra partida, devido aesse crescimento,o "bullying"está cada vez mais chamando a atenção da nossa sociedade.
+        O "bullying" é uma prática que não está somente relacionada a ambientes educativos, tais como: escolas, universidades, etc.
+        Esse problema afeta de uma certa forma a sociedade como um todo ,levando em consideração, que o "bullying"pode ocorrerem locais, como:em ambientes de trabalho, em uma vizinhança, entre outros. O "bullying" pode causar transtornos irreversíveisnavítima,tantos transtornosfísicoscomo transtornospsicológicos, fazendo com quea vítimaperca totalmente a sua auto-estima, muitas vezes correndo o risco de até entrar em uma profunda depressão.
+        As escolastemque impor regras rigorosas para inibir esse tipo de comportamento, vistoque, oo "bullying" ocorre principalmente em locais escolares e acadêmicos.Estescomportamentos de violência edescriminação, em um localque a suafinalidade é educar, não são justificáveis. A partir do momentoque um aluno passa a ser motivo de piadasatéagressões mais profundas, como violência física, a escola tem que intervir diretamente, punindo os agressores e dando exemplo para que outros alunos não venham cometer o mesmo erro. Impondo regras rigorosas contra esse comportamento e fazendo o acompanhamento psicológico dos alunos envolvidos, vítima e agressor, a escola pode evitar tragédiasque futuramente podem ocorre.
+          A vítima pode perder totalmente o interessepelo osestudos, entrar em depressão emuitas vezes chegamao ponto extremo,se suicidando. Para o agressor asconseqüênciassão mais leves, mesmo assim não deixam de ser preocupantes.
+          O agressor futuramente podese tornaviciado em drogas,pode também se tornamuito agressivo, praticando a violência explicitamente em meioasociedade. Para acabarmos com o "bullying", esse comportamento ridículo, que vem atrapalhando a vida e o aprendizado de crianças, adolescentes, jovens eadultos. Devemosrepreender
+            qualquer abuso físico e psicológico de umindividuosobre outro, levando em conta, que independentemente de nossa classe social, somos todos humanos.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,5

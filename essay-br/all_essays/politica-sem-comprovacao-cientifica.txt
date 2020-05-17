@@ -1,0 +1,12 @@
+# prompt: Política X Ciência: a "pílula do câncer"
+# score: 300
+# title: Política sem comprovação científica
+Vemos que, após o senado  aprovar a produção da substância fosfoetanolamina sintética, não tinha em mente a privatização da saúde dos cidadãos. A ciência indica que os tratamentos de radioterapia, quimioterapia e cirurgia, não sejam trocados pela “pílula do câncer”  
+Podemos dizer que a política não está se colocando a favor dos portadores da doença, embora os mesmos estejam querendo, a qualquer custo, a produção e distribuição da pílula.  Isso iria causar, futuramente, mais problemas à ser resolvido  em relação à doença, pelo fato de não ser comprovado a cura, plena, do câncer.
+Foi mostrado nas redes sociais, uma  paciente contanto  sua experiência com a pílula do câncer , através do Noticiário PE, onde a mesma  dizia estar sentindo uma grande diferença após o uso da pílula, garantiu  que não houve mais a perda de cabelo, anemia, náuseas e etc. Porém, essa suposta melhoria, possa  ter sido desenvolvida através do seu psicológico , assim como antigamente as mães diziam que o chá de boldo serve para dores estomacais. São apenas senso comuns  desenvolvido através da certeza psicológica, pois, como foi citado, não há comprovação científica  que o consumo da pílula cause a plena cura da doença. 
+Conclui-se que, obtendo o uso da pílula sem o total apoio científico, causará complicações à  mais, extraídas do próprio câncer.  Deve-se  haver um reforço , através  da mídia, mostrando  que a fosfoetanolamina precisa passar por mais estudos, para que não haja preocupações científicas tendo que desenvolver métodos que previna as supostas complicações da própria pílula. 
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

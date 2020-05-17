@@ -1,0 +1,12 @@
+# prompt: eutanasia-quem-decide-a-hora-certa-de-morrer
+# score: 2,5
+# title: Eutanásia: O direito de morrer?
+A eutanásiapor lei éuma técnica proibida em muitos países, quetem como legado deanteciparàmorte do pacienteque se julga morto.Isso seria o correto a se fazer nessa situação? Nesse caso a família do paciente deve decidir?
+         O Brasil possui uma lei que proíbe a prática daeutanásia,seriaruim você ver seu familiar abdicando da sua vida com tanta tecnologia na área da saúde. Holanda e Bélgica são a favor da eutanásia, a liberação dessa prática pode estarenvolvidocom a ética da sociedade, como a vontade de cada um continuar vivendo.
+         Sua vida pode não ser importante para você,maispara as pessoas que vivem ao seu redor, pode fazer muita falta,
+         por isso a eutanásia deveria ser proibida em todos os países. O correto a se fazer é procurar tratamentos e medicamentos, porque com o avanço da medicina, tudo é"possível", e tambémdeixe que seus familiares cuidem de você e optem por você, pelo simples fato de você não estar preparado mentalmente para certas escolhas. Muitos pacientes que possuem o emocional fraco são pessoas com maiores tendências pela antecipação da morte, por isso evite ficar sozinho e também procure sempre companhias que valorizem a sua presença , uma pessoa que vive em um ambiente "prazeroso" possui um pensamento mais consciente, ou seja, pensa no bem estar das pessoas que vivem ao seu redor.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

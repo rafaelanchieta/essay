@@ -1,0 +1,11 @@
+# prompt: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia
+# score: 5,0
+# title: O MMA e a violência do ser humano
+Nos últimos anos, o MMA vem crescendo muito e mexendo bastante com o imaginário, o bolso e o tempo da população mundial. Nos anos 90, o UFC, hoje MMA , foi se massificando e mudando suas regras, deixando sua essência (artes marciais), tornando-se um esporte popular. Sua filosofia de saúde do corpo e da mente foi se perdendo com a profissionalização, tornou-se um show, uma exploração mercantil. Atualmente arrasta multidões de fãs em busca de saciar seus anseios diversos,assistindodois homens se digladiando em um cercado chamado de octógono, que lembra as arenas da antiga Grécia. Milhões de dólares,reais....são gastos em investimentos publicitários. Redes de TV são mobilizadas,realities showmostrados, em busca de mais e mais expectadores.
+          Um arsenal de parafernálias é montado a cada evento, academias vão nascendo em cada esquina, lutadores surgindo de ?hora em hora e em toda parte?. Seria a violência do bem e do mal? Violência é violência. Será que vale a pena os nossos filhos, nós, recebermos este tipo de programação em nossos lares? A popularização do MMA é uma realidade, a banalização da violência é fato, pois vivemos em uma guerra diária, financeira, urbana, rural, doméstica, individual. Há violência em toda parte, desde a reação a um pisão no pé em uma condução lotada até a manifestação a uma fechada casual no trânsito. Todos têm queexaminar-sea si mesmos
+              , só assim seráencontrada a resposta:se o MMA é violento ou a violência faz parte da natureza do homem a ser domada.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

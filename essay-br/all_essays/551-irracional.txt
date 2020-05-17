@@ -1,0 +1,12 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 4,0
+# title: Irracional
+Animais deestimação ou também determinados como mascote,sãoanimais dóceis com tal função de companheirismo ou divertimento para o ser humano. Estudos revelam que sua companhia propiciabem estarpsicológicoem seus donos eum melhor convívio interpessoal.
+        A relação do homem com o animal deve manter certos limites, respeitando seu espaço , tais como:não maltrata-los, cumprir corretamente comsuasnecessidadesedaratenção. Mas diariamente vemos extrapolamentos.
+          Pessoas gastam fortunas com animais, um absurdoincontestante,enquantopessoasmorrem defome com medo de 1 real por dia , outros gastam milhões com futilidades do tipo.Por falta de consciência dessas pessoas, deveria surgir uma lei queproíbetais ações, como deixar fortunas como herança para animais.
+            Oras! A diferença entre o homem e o animal é a sua capacidade racional, e como o animal sendo irracional poderá administrar bens materiais!?
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

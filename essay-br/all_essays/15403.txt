@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 350
+# tittle: Gravidez precoce, um problema a ser resolvido
+O número de mães adolescentes e pré-adolescentes vem aumentando assustadoramente em todo o mundo.  No Brasil está  essa realidade não é diferente, em 2015 foram registrados cerca de 574 mil ocorridos de crianças nascidas de mães de idade ente 10 e 19 anos , isto ocorre por diversos fatores,  sociais, emocionais, pouca perspectiva escolar, e principalmente imaturidade e falta de orientação. 
+Em uma pesquisa publicada pelo site G1 é citado o caso de uma menina de apenas 14 anos que está grávida de cinco meses, ela relatou que não sabia que era necessário tomar a pílula anticoncepcionail todos os dias. É extremamente relevante a orientação aos adolescentes, pois como visto, quando esta falta buscam conhecimento em si mesmos, entretanto devido a pouca idade ainda nao conseguem pensar e arranjar soluções sozinhos. 
+Outrossim é que mães adolescentes sofrem muito após o nascimento do bebê , devido ao fato de não estarem prontas para serem mães. Uma pesquisa realizada pela USP aponta que a maioria dos casos de depressão pós-parto são decorrentes de mães adolescentes. 
+Portanto  faz-se se faz preciso estar mais alerta em relação aos adolescentes, pois ainda são imaturos e necessitam de orientação que deve ser feita através de campanhas feitas pelas escolas;  hospitais públicos oferecerem palestras gratuitas para adolescentes para os informar sobre gravidez precoce e doenças sexualmente transmissíveis ; os prefeitos disponibilizarem psicólogos para irem às escolas duas vezes por semana,e assim, controlar os números de gravidez precoce. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 0

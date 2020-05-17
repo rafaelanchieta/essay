@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Analfabetismo funcional no Brasil
+Entende-se por analfabetismo funcional o fato da pessoa não compreender textos simples, embora saibam decodificar as letras, frases ou textos. O Plano Nacional de Educação tinha uma meta para 2015 de baixar o índice para 6,5%, a fim de acabar com o analfabetismo até 2014. 
+Os últimos dados publicados em junho de 2019 pelo IBGE revela a existência de 11,3 milhões de pessoas com mais de 15 anos analfabetas. No mundo são mais de 750 milhões. 
+O Índice Nacional de Analfabetismo Funcional , feita  em parceria com o ibope, apontou em 2018 que cerca de 30% dos brasileiros entre 15 e 64 anos são analfabetos funcionais. Significa dizer que o número de pessoas com dificuldade de interpretar é maior se comparado com as pessoas sem letramento. 
+Neste caso o problema não é por falta de condições financeiras para poder tem um ensino qualificado,  nem por motivos familiares ou religiosos, mas, por causa da dificuldade para se concentrar e conseguir absorver o que foi lido ou ensinado. Por causa dessa dificuldade muitas pessoas aprendem até a ler e escrever mas  dificilmente consegue interpretar a colocação de um texto ou frase em determinados momentos e locais. 
+Por este motivo hoje em dia existe as vídeos-aulas onde   boa parte dos alunos conseguem entender, absorver e interpretar a matéria através do ouvir. As inovações na forma dos professores ensinarem também pode ajudar, como por exemplo: explicar o assunto por meio de parodias, peças teatrais, exemplos do cotidiano. Todos estes meios podem se tornar eficazes se colocado em prática por todos os professores e também pela própria pessoa em questão. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

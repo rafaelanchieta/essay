@@ -1,0 +1,10 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 3,5
+# title: Herói, anti-herói ou vilão?
+No mundo em que vivemos, sabemos que o capitalismo selvagem tem cada vez mais adeptos. Isso traz váriasdualidadesquando se fala de igualdade e justiça social.Na verdade, progresso e justiça social são tão antagônicos quanto superávit e déficit. Sabemos também que problemas fazem parte da vida de qualquer ser humano, problemas que podemos solucionar facilmente, dependendo de nossa capacidade, e alguns problemas que estão além da nossa capacidade.
+         Herói, anti-herói e vilão tem uma coisa em comum, suas capacidades vão além das nossas. Então, o que os diferencia? Um herói usa sua capacidade para resolver os problemas do mundo, das pessoas, mesmo que precise se sacrificar para isso, mas sem ser injusto ou ir de encontro aos valores que defende.  Um anti-herói é como o herói exceto pelo fato de não se preocupar com os meios que utiliza para atingir seu objetivo . Um vilão usa sua capacidade para se beneficiar, ele pensa em si mesmo acima de tudo. Nós não temos a coragem de enfrentar  tais problemas e por isso sonhamos com o herói que nos salve e mantenha seguro, é a nossa esperança. Infelizmente, existem pessoas que se aproveitam de nossa esperança e nos enganam visando benefício próprio. Sem essa esperança, nossa força fraqueja. Não nego a importância dos heróis, mas devemos procurá-los em nós mesmos, só visando um alvo acima de nossas capacidades é que podemos transpor nossas limitações. Todos temos um pouco de herói,de anti-herói e de vilão em nós mesmos , somos o que escolhemos ser.
+# C0: 1.0
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

@@ -1,0 +1,12 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 600
+# title: Cultura do estupro?
+A sociedade feminina vem sofrendo com a opressão do estupro há muito tempo. Não é desde agora que vemos notícias de mulheres sendo violentadas por homens  na maioria das vezes machistas. Desde a época da escravidão  a mulher já sofre com esse mal.
+Por mais que o mundo se desenvolva, isso não para. O machismo muitas vezes não deixa o homem enxergar tamanha gravidade do assunto. 
+Algumas pessoas alegam que a culpa do estupro é da mulher, por usar roupas curtas, ou se comportar de uma maneira sensual. Nada justifica estupro. A vitima  não tem culpa se o estuprador só enxerga a vontade de próprio se satisfazer , mesmo que para isso tenha que tratar a mulher como lixo.
+Os pais deveriam instruir seus filhos desde pequenos  a maneira como devem tratar as mulheres, apesar de sua classe social, racial... Toda mulher tem o seu valor e deve ser respeitada. As penas pra  esse crime deveriam ser mais severas, mas ainda assim acho que a “cultura” do estupro continuaria. Será esse o futuro dos nossos descendentes? Continuar vivendo a cultura do estupro?
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 200

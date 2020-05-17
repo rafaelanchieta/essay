@@ -1,0 +1,12 @@
+# prompt: Como melhorar a educação, sem valorizar o professor?
+# score: 350
+# title: De acordo com o pedagogo Paulo Freire
+De acordo com o Pedagogo  Paulo Freire “Educação não transforma o mundo. Educação muda pessoas. Pessoas transformam o mundo”. Desse modo  é possível refletir que sem educação não há pessoas para transformar o mundo, e mundo e o essencial da educação  a chave que abre  portas é o professor  que nos transmite o conhecimento. Porém nos dias atuais a valorização e o respeito que muitas pessoas tem  pelo o professor é zero. 
+A vontade de lecionar como professor  está diminuindo cada vez mais, nas escolas já há uma frequente falta de mestres e os motivos são quase os mesmo  licença medica , cargo vago, a falta de respeito e a desconsideração, o baixo salario  para um cargo tão atarefado também diminui a vontade de ensinar, e com isso pode definir-se que  daqui  uns 30 anos anos, os professore ficaram  totalmente escassos. As escolas publicas  brasileiras estão começando a ficar como os presídios, os presos mandam na prisão, como os alunos estão começando a mandar na escolas e ninguém coloca um ponto final nesse desrespeito.
+Segundo o site de pesquisa O Dia.Ig  o Brasil é líder Mundial  em agressões aos professores de 100% só 13% são valorizados e respeitados. O site também relata o caso do mestre de biologia Carlos Cristian que levou cinco tiros de um aluno de 17 anos a justificativa foi a  nota baixa que Carlos deu ao aluno . Outro caso foi o do  professor de Sociologia que apos barrar  o uso do celular durante aula  foi agredido pelo  aluno.
+Entende-se que o desrespeito, desconsideração as agressões nas escolas não estão sendo solucionadas, as pessoas parecem estar de olhos fechados para isso.  Faz-se necessário que o Ministério da educação  reveja as politicas educacionais e tente criar um âmbito  escolar de respeito, o aumento do salario  seria favorável, e colocar o professor em primeiro lugar, por que realmente sem ele não haveria nenhuma outra profissões profissão.
+# C0: 50
+# C1: 100
+# C2: 100
+# C3: 50
+# C4: 50

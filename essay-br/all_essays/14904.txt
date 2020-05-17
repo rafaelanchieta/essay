@@ -1,0 +1,15 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: [Redação sem título]
+A fome é um problema mundial, principalmente no continente africano, no asiático e na América do Sul. Nos últimos anos o Brasil conseguiu melhorar suas estatísticas. Principalmente de 2003 ha 2013;  período em que o governo Lula criou programas sociais que ajudaram no combate à pobreza e a fome. Contudo  em 2015 começou a sofrer uma crise econômica que afetou o emprego da população. Uma população sem renda ou com uma renda muita tem dificuldade no acesso aos alimentos. Hoje estamos  num governo em que o presidente, em uma fala descabida  comunica que não há pessoas passando fome em nosso  país. Contudo as estatísticas dizem outra coisa . Em tamanha ignorância é difícil acreditar que as coisas melhorem. 
+
+Retomando a principal causa da fome não é falta de alimentos produzidos e sim as dificuldades no acesso . Nas grandes cidades o acesso se dá principalmente na aquisição de renda através de um emprego. Já no interior acontece da alimentação estar associada ao plantio  e neste caso precisa haver uma terra para plantar, uma terra fértil. Assim em ambos as políticas são bastante relevantes no que diz respeito a geração de empregos, a manutenção dos empregos e o suporte no caso da perda do emprego. Já no cultivo de terra,  também precisam haver políticas  que amparem nos momentos de seca e demais circunstância. 
+Outro fator bastante relevante na erradicação da fome, como as pesquisas mostram, é o acesso da população de baixa renda a programas sociais. Como o bolsa família, que se tornou referência mundial no combate a pobreza. Hoje ainda existem famílias, principalmente no nordeste, que dependem deste programa para garantir pelo menos uma refeição  por dia a cada pessoa. Infelizmente o atual governo vem restringindo cada vez mais o acesso a este programa. Creio  que dificilmente conseguiremos  retomar números melhores com a atual ideologia política no governo que trata com descaso um assunto de tamanha importância. 
+
+Contudo, apesar das políticas e programas sociais  a fome é questão essencialmente de desigualdade social. A sociedade civil como um todo precisa continuar se mobilizando a fim afim de virarmos  esta página. Só com intolerância zero a fome venceremos  esta luta. Não da pra tapar o sol com a peneira, a fome existe e precisa ser encarada. A população precisa se nutrir de novo sentimento de humanidade e tratar como inadmissível o descaso a tal assunto. Sejam na fiscalização e cobrança de nossos  governantes por atitudes mais efetivas, seja na doação de cestas básicas, seja na distribuição de renda a união de todos cidadãos se faz necessária. 
+
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

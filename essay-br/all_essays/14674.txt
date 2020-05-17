@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 650
+# tittle: Em combate à visão punitivista
+Em maio de 2019,  o Brasil testemunhou outra rebelião nos presídios de Manaus, a qual acarretou a morte de mais de 50 presos, em meio a disputa entre facções criminosas. Essa não é a primeira vez que o país presencia um massacre em presídios, o que evidencia a decadência desse sistema e o completo desrespeito aos direitos humanos. Nesse contexto, seja por superlotação dos presídios, seja por falta de oportunidades aos detentos para sua reabilitação, o atual cenário da situação carcerária brasileira tornou-se extremamente nociva para a sociedade.
+
+Em primeira análise, nota-se que a superlotação dos presídios brasileiros - a qual chegou a 175% em 2018, segundo o Conselho Nacional do Ministério Público  - é agravada pela alta quantidade de encarceramentos provisórios. De fato, o mesmo órgão aponta que,  embora a Lei preveja a execução da audiência de custódia em até 24 horas para prisões em flagrante, cerca de 35% dos presos estão em detenção provisória no aguardo desse julgamento. Assim, sobrecarrega-se o sistema e impossibilita-se a separação por gravidade de delitos, estratégia apontada pelo filósofo Michel Foucault  como determinante para a completa reabilitação. 
+
+Além disso, o pensador também aponta outro pilar para a reabilitação social: a oferta de oportunidades de estudo e trabalho, também prevista na lei brasileira e, ainda assim, ausente na maioria dos presídios . Dessa forma, abre-se brecha para que facções criminosas recrutem e dominem outros detentos,  que não possuem alternativas de sobrevivência num ambiente de alta periculosidade, transformando a prisão em uma escola do crime. Ao mesmo tempo,  urge a mudança de visão da sociedade contemporânea, a qual ainda clama pela prisão punitivista e não reabilitadora, motivo pelo qual mesmo Foucault  era cético em relação ao novo modelo prisional do século XX.
+Portanto, medidas são necessárias para reverter o cenário da atual situação carcerária no país. Sendo assim, cabe ao Ministério da Justiça, em conjunto com Governos de Estado, a implementação de projetos de educação e trabalho, por meio de aulas suplementares do ensino básico, cursos profissionalizantes e encaminhamento de trabalhadores reabilitados para vagas de emprego, a fim de que o detento, ao sair da prisão, possa se reinserir na sociedade e não mais recorrer ao crime. Ademais, cabe ao Sistema Judiciário,  garantir a execução da lei penal,  por meio das audiências de custódia feitas no tempo previsto, a fim de evitar prisões injustas e diminuir a superlotação carcerária. Dessa forma, em proveito de toda a nação, será possível transformar o cenário das prisões não para punir e humilhar quem se desviou da lei, mas para reabilitá-los.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 150

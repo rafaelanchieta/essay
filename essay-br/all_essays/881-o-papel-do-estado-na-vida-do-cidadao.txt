@@ -1,0 +1,12 @@
+# prompt: o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes
+# score: 1,5
+# title: O papel do Estado na vida do cidadão
+O cidadão almeja que o papel do Estado sejade, supriras suas necessidades, manter a ordem e garantir os direitos do cidadão, sem que sua liberdade seja restrita pela força,
+         o Estado assume posição conservadora, só o Estado pensa, só o Estado define o que é cultura para o cidadão, o seu papel perante o cidadão de organizar politicamente e atender as expectativas nele depositadas, através dos representantes eleitos pelo voto, mas deve haver liberdade para o cidadão também faça suas escolhas. Portanto, aocontrario do que, espera se,os constantes conflitos e manifestações vivenciados no país, os cidadãos clamam por justiça, melhores condições transportepublicoe outrasreivindicações, o fatoé que poucos levantam a voz e vãoasruas em protestodosseusdireitos, oEstadoestaausente no cumprimento do seu papel de garantir que o cidadão seja assistido com dignidade.Por isso, que,o cidadão está indoasruas expor sua opinião e a insatisfaçãodamá qualidade dos serviços que cabe ao Estado,transparênciasnas contas, jáque, acobrança de taxas e impostos não tem o destino certo de beneficiar os contribuintes, e sim de enriquecer uma minoria controladora do poder, que se diz representar os interesses do cidadão.
+         Portanto, espera-seque, todaessa mobilização, não seja emvão, oEstado tem o dever de atender o cidadão: na saúde, educação, subsídio de desemprego, previdência e segurança.
+         O que falta ao cidadão é a informação dos seus direitos, e maiscobrançafiscalização perante o Estado, jáque, oEstado é formado por um conjunto de instituiçõespublicas, para atender os interesses da população.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,0

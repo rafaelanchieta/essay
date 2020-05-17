@@ -1,0 +1,11 @@
+# prompt: Carta-convite: discutir discriminação na escola
+# score: 150
+# title: Escolhas e suas consequências
+No mundo atual, observamos que a sociedade apresenta diferenças de aceitação social em vários aspectos como homofobia, sexismo, racismo, religião, peso  entre outros. Mas a questão abordada é sobre a homofobia porque a  essas pessoas sofrem tanto para serem aceitadas no mundo de escolhas.  
+Nós  seres humanos racionais  temos a oportunidade de fazer escolhas em todos aspectos, mas temos também a responsabilidade de arcar como  nossas escolhas, quando  temos que decidir sobre algo, geralmente levamos em considerações se é o que desejo ou que  agrada quem eu respeito. Quando decidimos algo mas simples exemplo  vou torcer para x teme e outro  diz que  time y é melhor, já existe um certo conflito de  qual time é melhor e vemos hoje no Brasil que partidas chamados de clássicos do futebol levam até  brigas porque o ser humano não aceita perder.
+Mas , em casos com impacto maior como a homofobia que  vemos casos de pessoas com opção sexual diferente sofrerem com agressões graves  levando a traumas e revoltas, com isso essas pessoas buscam seus direitos de aceitação com protestos e campanhas. Em conclusões própias toda pessoa tem que respeita  a outra independente do seu peso, cor, religião e sexo  mas não se deve provocar os diferentes pontos de vista com a religião tem e os homossexuais tem.
+# C0: 50
+# C1: 0
+# C2: 50
+# C3: 0
+# C4: 50

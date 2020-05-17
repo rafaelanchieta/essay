@@ -1,0 +1,11 @@
+# prompt: nacional-ou-importada-qual-a-cara-do-brasil
+# score: 2,5
+# title: Geração Influenciada
+Há muito tempo o Brasil vem diluindo suas culturas com outras.Sendo influenciado tanto nomodo de vestisse, quanto as música e estilos musicais que fizeram e fazem sucesso até hoje.O famoso "jeitinho brasileiro", surgeda mescla de culturasque somada as nossas heranças culturais, transforme-seem uma explosão de criatividade e poder de misturar coisas distintas.
+           A cultura brasileira é uma das mais diversificadas do mundo, porque se pode misturar facilmente elementos de outras culturas as nossas. Por décadas, o nosso povo vem sendo influenciado por costumes e tradições de outros paises. Exemplos destas combinações é a mesa de natal com tantas comidas e frutas típicas de paises com inverno rigoroso, e também artistas como Elvis Presley, que inspirou Roberto Carlos e Erasmo Carlos a formarem a "Jovem Guarda". Os jovens e adolescentes de hoje não tem culpa em ter preferências por coisas estrangeiras, ainternetemostra aos jovens que Bossa Nova não é tão atraente quanto um Pop-Rock, os filmes brasileiros são legaismaisfaltam mais efeitos especais, as roupas e marcas do exterior são mais sofisticadas e assim por diante.
+                 Até clubes de futebol do exterior estão ganhado a preferência dessa nova geração.O brasileirotem várias identidades, eé um país multirracialque se importa também com outras culturas e conhecimentos que acrescentar de forma positiva para com a nossa.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

@@ -1,0 +1,12 @@
+# prompt: Brasileiros têm "péssima educação argumentativa", segundo cientista
+# score: 200
+# title: Conhecimento e leitura: a chave para a argumentação
+O conhecimento é fundamental para que haja uma opinião crítica sobre um determinado assunto, esse é o ponto de partida de um argumento num debate. Sobretudo há um grande problema com grande parte da população brasileira, que é a falta de leitura.
+O Brasil é um país com uma baixa taxa de leitores, de  acordo com pesquisas, muito  dos brasileiros tem  deixado os livros em segundo plano, isso porque o uso de celulares, tabletes  e notebooks são os maiores concorrentes com o  popular e conhecido livro.
+A leitura proporciona, além do conhecimento, novos horizontes para que as pessoas possam ter opiniões formadas e entender sobre  diversos assuntos. Assim  num debate, ou  numa discussão, não haverá aquele velho discurso que todos usam e que ninguém nem sabe o que realmente significa, mas que compartilham em redes sociais como se fossem os próprios autores.
+Um debate que gera resultados satisfatórios é feito por pessoas com habilidades adquiridas através da leitura, da busca pelo conhecimento e pela criticidade, debater  não significa brigar, é  modo de cada um mostrar com argumentos válidos seu posicionamento, é uma conversa que pode gerar controvérsias, mas que é aceita e no final agrega sabedoria.
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 0

@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 3,0
+# title: A incerteza do futuro
+O planeta Terra sempre foi o bem mais precioso do homem, porém com o desenvolvimento da sociedade, o homem ficou cada vez mais egoísta não percebendo que tirando vantagem para si de certas coisas que prejudicam a natureza, ele estaria prejudicando a si mesmo. Mas agora que a natureza resolveu se manifestar sobre nossos ataques, não há mais nada que o homem possa fazer, a não ser preservar o que nos resta. O dano já está feito, daqui a algum tempo o clima e as paisagens serão modificados e há até risco da extinção da raça humana mas para que não seja uma situação tão catastrófica é preciso se empenhar, informando a população para cuidar do que é nosso agora e que no futuro será dos nossos descendentes. Porém, não basta só uma parcela da população se conscientizar. Os países de primeiro mundo teriam que se redimir ao poder da natureza e assim, serviriam de exemplo para todos os outros. A realidade está na nossa frente, tudo que um dia parecia pura ficção irá acontecer, o que nos basta é aceitá-la e com ela tentar fazer o melhor para que o futuro exista!
+# C0: 0,5
+# C1: 0,5
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

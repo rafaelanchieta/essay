@@ -1,0 +1,15 @@
+# prompt: toque-de-recolher-protege-juventude-e-sociedade
+# score: 6.5
+# title: Começar Pelo Começo
+A crescente criminalidade em Santa Catarinafizeramalgumas cidades do
+        estadoimplantarem o toque de recolher para menores dedezoitoanos. Tal atitude tem gerado grandes discussões entre pais, conselheiros tutelares e o ministério público.
+        O envolvimento de crianças e adolescentes na criminalidade e nas drogas é um fato ,porém, na maioria dos casoseles são influenciados por pessoas mais velhas. Não adianta deixar os
+          mais inocentespresos em casa e os culpados andando pelas ruas.
+          O tráfico começa pelo produtor e/ou manipulador de drogas, sendo o usuário a parte final desteciclo. O problema não deve ser resolvido pelo final, mas sim pelo começo. O toque de recolher
+            simplismenteesconde o problemaao invés de buscar soluções para resolvê-lo. Pode ser eficaz em muitos casos, contudo não permite a liberdade para a parcela
+            mais inocenteda população. Não se pode generalizar a situação.Deveria haver essa lei para traficantes, criminosos, estupradores e não para suas vítimas.
+# C0: 1.0
+# C1: 1.5
+# C2: 1.5
+# C3: 1.0
+# C4: 1.5

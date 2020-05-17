@@ -1,0 +1,11 @@
+# prompt: o-que-voce-acha-do-novo-acordo-ortografico
+# score: 6.0
+# title: Não será ruim após a adaptação
+Mais uma vez a ortografia portuguesa é alterada. Muita gente é contra a mudança que ocupa 0,5% de nossas palavras, pois nãovisualizamnenhuma vantagem. Com essa alteração, a economia dos países que adotam a línguaportuguesa, teráum grande gasto com edições de livros didáticos. Apesar de os livros para os próximos anos já estarem prontos com a velha ortografia, serão editados conforme aNova. Softwares de computadores também terão que ser atualizados.
+        Assim como adaptações de cem anos atrás, essa também será lenta. Com o passar dos anos, todos se acostumarão com ela.O modo mais fácil e rápido para adaptação, é na leitura de notícias já com a mudança, além de obter informações sobre o mundo, estaremos ao mesmo tempo adquirindo conhecimento sobre a nova ortografia.
+          Não será muito fácil, ainda haverá aqueles com mais idade que irão escrever do jeito que aprenderam. Os alunos queaoentrarem na escola aprendendo a nova ortografia terão maior facilidade na adaptação,mas sepegarem um livro que está guardado nas gavetas dos pais e forem ler, podem achar engraçado o velho jeito da ortografia, ou podem se confundir.As opiniões de Milton Hatoum podem ser comparadas com as de Alexandre Fontes e Teixeira de Pascoaes, porém em diferentes épocas. Os mesmos questionam a nova ortografia do seu tempo, achando estranho ter que escrever do novo modo.Os criadores desseacordo, que obviamente são especialistas nessaárea defendemque essa mudança facilitará os intercâmbios além de facilitar a vida de quem tem dificuldades com acentos e outros.Resta-nos, com o passar do tempo, se adaptarda melhor maneira possível, e compartilhar conhecimento para melhor aprendizado.
+# C0: 1.5
+# C1: 1.5
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

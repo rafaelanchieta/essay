@@ -1,0 +1,9 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 8,5
+# title: Licença para cuidar
+As pessoas não devem humanizar os animais . Projetar neles características humanas não é apenas ingênuo, mas também nocivo. Em geral, cães e gatos tratados como ?filhos? de seus donos passam a exibir comportamentos exagerados e ficam muito agitados, medrosos ou agressivos. Como não se pode culpar os animais, a responsabilidade é mesmo das pessoas e de suas instituições. Na Itália, por exemplo, uma senhora de 94 anos deixou toda sua fortuna para o gato de estimação. Talvez ela nem tivesse mais consciência da proporção de seu gesto (ou apenas não tivesse herdeiros). No entanto, o absurdo está em a lei italiana permitir esse ato. No outro extremo, há quem maltrate seus próprios animais. Mas animal algum precisa ser maltratado. Qualquer bicho ? seja ou não de estimação ? costuma seguir seus instintos, indiferente às complexidades humanas. Um pet não necessita muito mais do que comida, abrigo e atenção. Portanto, quando alguém o violenta, não age para ?educar?, mas para expressar suas frustrações de maneira sádica ou irracional. Um vídeo recente da internet mostrou uma enfermeira espancando um pequeno cachorro até a morte. Obviamente, é preciso diminuir as chances de pessoas assim criarem um animal. Para tanto, assim como é necessária uma licença para dirigir um automóvel, deveria ser igualmente necessária uma licença para cuidar de um animal de estimação. Afinal, a licença pressupõe um treinamento prévio, que deve preparar as pessoas para as futuras situações.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,5

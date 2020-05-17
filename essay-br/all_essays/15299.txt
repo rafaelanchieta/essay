@@ -1,0 +1,14 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 450
+# tittle: O suicídio no setor de segurança no Brasil
+O suicídio é um problema muito grave que ocorre em todo mundo e nestes últimos anos ocorreu um grande aumento de pessoas que tiraram sua própria vida. O suicídio é considerado por muitos estudiosos uma maneira da pessoa que lida com um ou mais problemas que atinge intensamente seu psicológico e tentam escapar através da morte . Vários são os fatores que fazem uma pessoa cometer suicídio, ainda mais em casos de pessoas que em sua profissão estão expostas a situações perigosas e que possam impressionar seu psicológico. Este é o caso dos policiais. 
+
+Ser policial no Brasil não é fácil, pois está sujeito a vários riscos que podem ser fatais e também precisam lidar com diversos casos que trazem uma série de problemas mentais como estresse, depressão, ansiedade, síndrome do pânico, ente outras . E além de tudo isso, a vida pessoal e familiar destes profissionais pode estar conturbada, ajudando a agravar o processo. 
+No ano passado,  houve um grande aumento no número de policiais que cometeram suicídio, sendo até maior do que os casos de policiais que morreram em confronto segundo uma revista de grande circulação nacional. Este processo se dá por causa da falta de interesse destes órgãos militares em realizar assistência psicológica a estes policiais e também são causadas por um acúmulo de tempo que precisam se dedicar a suas funções. São horas e horas dedicadas a um trabalho que na maioria das vezes não são bem remunerados e além do mais são muito cobrados pelos seus superiores. 
+
+Esse mal que afeta o setor de segurança no Brasil precisa ser urgentemente corrigido, pois a polícia é um órgão de suma importância para a nação. Diante do problema, ele pode começar a ser combatido com a iniciativa destes órgãos militares a prestarem mais assistência mental aos policiais com a contratação de mais psicólogos na polícia, ocorrer maiores divisões de escalas, melhor remuneração, incentivos e também ocorrer uma melhor capacitação psicológica em seus treinamentos. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

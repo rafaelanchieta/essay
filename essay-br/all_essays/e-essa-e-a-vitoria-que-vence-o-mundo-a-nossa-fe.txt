@@ -1,0 +1,16 @@
+# prompt: O que é mais importante para vencer na vida?
+# score: 720
+# title: “E essa é a vitória que vence o mundo: a nossa fé”
+O "vencer na vida" pode ser interpretado como algo relativo e particular de cada indivíduo, população e cultura. Entre os inúmeros fatores que interferem no ponto de se considerar um vencedor na vida vem o fator fé.
+A bíblia relata a fé como "certeza das coisas que se esperam, convicção de fatos que não se vêem ", e, de fato, é algo subjetivo e invisível, mas que influencia objetivamente na vida das pessoas, ajudando-as a enfrentar seus desafios pessoais, que muitas vezes são grandes.
+A ciência já constatou que pessoas com fé (independente de suas religiões) são mais felizes, têm melhor recuperação de doenças e possuem um grau de superação maior em relação à quem diz não acreditar em nada.
+A Universidade de Duke (EUA), em parceria com a Santa Casa de Porto Alegre (Revista Exame, 2014), chega a mostrar em suas pesquisas os benefícios biológicos de indivíduos submetidos à procedimentos cirúrgicos, apresentando menor resposta inflamatória exacerbada em relação aos demais indivíduos que afirmavam ser ateus.
+A oração, por exemplo, já é compreendida como fator de bem estar psíquico, já que permite à mente entrar em um estado de maior tranquilidade, promovendo liberação de endorfinas, além de colaborar em melhora nos níveis de pressão arterial desses indivíduos , diminuição de dores e de insônia.
+O livro "Revolução Espiritual", do psiquiatra Harold Koenig, também aborda sobre a influência da fé no bem estar e saúde mental das pessoas, de modo positivo .
+Assim, quando respondemos à questionamentos como "o que é mais importante para vencer na vida?", a fé, sem dúvida, é o principal motivo, a base, já que por meio dela conseguimos o essencial para nos fortalecer e dar o próximo passo na vida, sejam em nossas relações amorosas, viagens, curas físicas e emocionais, obtenção de sucesso nos negócios e estudos.
+Não há quem vença na vida sem que primeiro tenha acreditado que venceria, ou seja, houve fé.
+# C0: 160
+# C1: 120
+# C2: 160
+# C3: 160
+# C4: 120

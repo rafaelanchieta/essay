@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 550
+# title: Educação libertária
+Colégios militares têm ganhado muitos destaques  por seu bom desempenho no Enem e na disciplina dos seus alunos, porém existem muitos questionamentos sobre a rigidez impostas  e quais são os impactos  no aprendizado,   na construção da identidade e dos valores de cada educando.A imposição no aprendizado através do autoritarismo foge dos padrões pedagógicos, os alunos aprendem pelo método da rigidez e do medo, parecem verdadeiros “robôs” que executam as tarefas pré-estabelecidas pela instituição, onde o senso crítico e o incentivo a criatividade praticamente não têm espaço. Assim como argumenta a professora Pilar Lacerda na frase "A escola de educação básica é o lugar da formação de valores, de conhecer e respeitar o outro. Do diálogo e da construção de normas comuns. Que cidadão está sendo formado neste modelo militar? A não ser que o jovem queira seguir carreira militar".A escola não pode ser um lugar burocrático  é local para discussões e aprendizado, os alunos precisam se expressar e saber respeitar uns aos outros, é  possível disciplinar os alunos de várias maneiras, apresentando desafios, despertando interesse pelas atividades pedagógicas e muitas vezes ouvi-lo para  a partir de um interesse ou dificuldade dele  desenvolver um trabalho, e  assim ver seus avanços.Justificar que as escolas militares tem  um bom desempenho no Enem não é um bom argumento, pois muitas escolas que não utilizam o método militar conseguem alcançar bons resultados como exemplo é o Colégio Objetivo que são destaques nas provas,  olimpíadas  e na  melhores universidade do país. O que podemos concluir é que o modelo militar é mais fácil para ter controle sobre os alunos, pois se for indisciplinado  as consequências realmente surgiram .
+# C0: 150
+# C1: 200
+# C2: 100
+# C3: 100
+# C4: 0

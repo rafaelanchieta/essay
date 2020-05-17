@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: [Redação sem título]
+A floresta amazônica é a maior floresta tropical do mundo. Ao afirmar, “Se queres prever o futuro, estuda o passado” o filosofo polonês Confúcio faz, de certa maneira, uma relação do futuro e do passado . De fato, ele estava certo , pois o desmatamento não é um problema atual. Assim como,  hoje em dia o desmatamento e as queimadas persistem e o capitalismo se torna cada vez maior, um ponto negativo, mas também,  a importância da floresta se torna essencial. 
+
+Primeiramente, evidencia-se que de acordo com o INPE  em 2019 a Amazônia sofreu o maior número de queimadas dos últimos 9 anos. Dessa maneira, estão desmatando para investir na pecuária e no plantio, com isso,  ressalta-se prejuízos para o meio ambiente. Assim, a biodiversidade da natureza vai entrando em extinção ,pois ,com isso os animais vão morrendo não tendo condições de viver nesse habitat. 
+Convém salientar, outrossim, que a floresta amazônica é de grande importância. Desse modo, quanto mais árvores tiver  melhor para a atmosfera que funciona como um reator para o equilíbrio da estabilidade ambiental do planeta.Pelo contrário, com o desmatamento e queimadas na região,  as árvores liberam milhões de toneladas de carbono por ano. 
+
+Infere-se, portanto  , ações são necessárias para resolver o impasse.Diante dos fatos supracitados faz-se necessário que o Ministério do Meio Ambiente  em parceria com o IBAMA, promova melhorias na fiscalização das áreas ambientais por meio de satélites e visitações anuais  e também escolas e a mídia promovam campanhas e palestras de conscientização para a sociedade. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

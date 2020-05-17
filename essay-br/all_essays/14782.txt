@@ -1,0 +1,16 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 370
+# tittle: O Amanhã
+Nos últimos meses,  houve um acréscimo ascendente nos debates sobre a reforma da Previdência proposta pelo atual governo. Com diversas opiniões que se divergem, muitos são contras e muitos,  a favor. A tal reforma prevê, dentre outras coisas, o aumento do tempo de contribuição e a criação da idade mínima para aposentar-se. 
+Além disso, pelo lado bom, pretende fazer com que quem recebe mais contribua mais, e quem recebe menos contribua menos, portanto, um sistema mais justo.
+Mesmo com os pontos positivos, isso faz com que muitos contribuintes fiquem indignados, com toda razão . Porque o governo estará mexendo em algo que é deles por direito. 
+Porém, o trabalhador deve tentar compreender e não pensar só em si mesmo, pois, atualmente, há um rombo na previdência e, se nada for feito, a situação econômica do país pode piorar drasticamente. Sendo que o governo já gasta a maior parte de sua receita com essa, e, em 2018, 57% das despesas foram com pagamento de Previdência e benefícios. 
+Em 2060, a população brasileira com mais de 65 anos será de 25%, três vezes a proporção atual. Dessa forma, terão menos jovens para trabalhar e mais aposentados para receber, portanto, a conta não fechará. 
+Por isso é necessário que haja uma reforma que, consequentemente, evitará grandes problemas futuramente e também haverá um afrouxamento nos gastos públicos, que poderá ser investido em saúde e educação, por exemplo. 
+Quem está indignado hoje deve pensar no amanhã, visto que até mesmo os seus sucessores poderão enfrentar algo pior no futuro.
+E todos devem refletir no que é melhor para a nação, mesmo que isso custe fazer sacrifícios, se não há outra solução. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

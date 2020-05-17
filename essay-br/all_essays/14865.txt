@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: Fome: uma realidade brasileira.
+Desigualdade social no Brasil gera diversas desfasagem na sociedade , causando problemas como o analfabetismo e o desemprego, que consequentemente gera a fome e a miséria. 
+
+A fome ao contrario do que o atual presidente da republica, Bolsonaro diz ainda existe sim no Brasil . Segundo dados do IBGE  de 2013, 3.6 % dos brasileiros passa por situações de fome, valor este que atualmente deve ter aumentado. 
+
+Tudo isto é culpa de uma política que o Brasil vem desenvolvendo ao longo dos anos, uma política que quer apenas mistificar um Brasil perfeito para a sociedade, e corromper o dinheiro que por direito deveria ser investido justamente em educação e emprego. 
+A única solução deste mal é fortalecer a sociedade,  para que abram os olhos para a política escassa e lutem pela minoria que passam por tais situações, pois enquanto uma sociedade inteira não se importar, uma ou outra doação não irá salvar vidas para sempre. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

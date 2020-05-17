@@ -1,0 +1,13 @@
+# prompt: Um réu deve ou não ser preso após a condenação em 2ª. instância?
+# score: 440
+# title: Não ao aumento da impunidade
+O mês de novembro iniciou-se com grande discussão, pois o Supremo Tribunal Federal (STF) está definindo se o réu deverá ficar preso ou permanecer solto até recorrer às últimas instâncias. Atualmente a legislação brasileira, em consonância com leis de países que inspiram nosso sistema criminal, possibilita as prisões de réus após condenações de segunda instância.
+Esse debate é característico do STF, que sendo órgão máximo da justiça do país discorre sobre questões jurisprudenciais, ou seja, os aspectos referentes às decisões, aplicações e interpretações das leis.
+A Corte Suprema pode mudar esse posicionamento, permitindo que os encarceramentos somente ocorram após o esgotamento das possibilidades recursais ao Superior Tribunal de Justiça (STJ) e ao próprio STF. A base legal para mudança, caso aconteça, é a Constituição Federal que diz "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória".
+Percebe-se um grande impasse, por um lado a mudança do atual posicionamento acarretará aumento de criminosos às soltas aguardando julgamento - julgamento esse que já é moroso-, uma vez que a condenação só poderá acontecer após o julgamento do STJ e STF. Por outro lado, a conservação do entendimento em vigor pode ser compreendida como violação de um direito constitucional, já que haverá possibilidade de recursos às 3ª e 4ª instâncias.
+Luiza Cristina Frischeisen, do Ministério Público Federal, considera que "se o STF decidir que a decisão ocorra somente após o trânsito em julgado (esgotados todos os recursos), o Brasil ficará extremamente isolado, em matéria penal, entre outros países democráticos. Uma decisão nesse sentido favorece a impunidade", infelizmente a impunidade é bem conhecida no país, e aumentá-la fará com que o brasileiro desacredite ainda mais na justiça do país.
+# C0: 120
+# C1: 80
+# C2: 80
+# C3: 80
+# C4: 80

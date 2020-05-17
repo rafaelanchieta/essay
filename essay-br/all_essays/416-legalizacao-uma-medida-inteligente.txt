@@ -1,0 +1,12 @@
+# prompt: maconha-manter-proibicao-legalizar-descriminalizar
+# score: 5,5
+# title: Legalização: uma medida inteligente
+O uso da maconha não deve ser ato punível, nem mesmo marginalizado. O problema acerca da erva é muito mais social que prejudicial. Há muito tempo ouve-se que a droga é prejudicial, acarretando problemas de memória e pulmonares , o que pode ser verdade, porém, é fato que existem drogas tão danosas quando a maconha, ou até mesmo piores – como é o caso do álcool e a nicotina – que são licitamente comercializadas. Além deque, quenão há casos de morte em decorrência daCanabis, diferentemente das bebidas alcoólicas e cigarros, que colecionam episódios fatais, como acidentes de trânsito e câncer.
+         A legalização da maconha traria muitos benefícios à saúde pública e à segurança nacional . O tráfico de drogas enfraqueceria à medida que os usuários de maconha encontrariam a substância com mais acessibilidade e livre de impurezas que são misturadas à droga quandoobtidaspor meios ilegais.
+         Portanto, descriminalizar e legalizar o uso da substânciaseriamum grande passo para a sociedade brasileira, assim como jáo sãoem outros países -como a Holanda erecentemente o Uruguai - que aderiram a isso.
+         Descentralizando assim, o comércio ilegal e grande parte da alimentação do tráfico.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

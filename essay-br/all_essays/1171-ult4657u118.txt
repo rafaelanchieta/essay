@@ -1,0 +1,11 @@
+# prompt: a-gramatica-facilita-ou-dificulta-a-comunicacao
+# score: 6,5
+# title: Gramática: importante para a comunicação com as gerações futuras
+Muitos discutem sobre a real utilidade da gramática:seria a gramática cheia de normas desnecessárias ou a comunicação seria afetada pela falta ou desvios dela?De fato, a língua portuguesa é repleta de jeitos de falar; é comum perceber as pessoas com novas palavras, novas gírias, muitas vezes fugindo das regras gramaticais. É o caso, por exemplo, dos modismos iguais àqueles que vieram com o filme"tropa de elite". Esses fatores não afetam claramente a comunicação, de forma a trazer a suspeita de que, mesmo com enormes desvios em relação à gramática, o povo brasileiro se comunica bem.
+          No entanto, na hora de escrever vem o problema.As faltas de cadência, coerência, coesão oriundas do desconhecimento de regras gramaticais tornam muitos textos simplesmente impossíveis de serem lidos.Muitos alunos, que se viciaram em gírias e outras linguagens alheias ao padrão culto, não conseguem se expressar de forma adequada; em muitos casos, conseqüentemente, acabam até perdendo boas oportunidades profissionais.
+            Entretanto, não é só pelo fato acima que a gramática é importante. Há um fator mais importante ainda: a transmissão do conhecimento da geração presente às vindouras. Não obstante os avanços tecnológicos, a história escrita é um veiculo de transmissão muito importante; um texto sem normas ficará muito difícil de ser compreendido daqui a muitos anos. Assim, regras não podem ser abandonadas ou haverá o risco de se perder completamente o sentido dos escritos atuais. Portanto, a gramática talvez não seja um facilitador para o diálogo do cotidiano, mas é muito importante em textos, principalmente naqueles que devem sobreviver por um bom tempo.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,5
+# C3: 1,0
+# C4: 1,5

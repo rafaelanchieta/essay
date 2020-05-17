@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Redação:Tema: Coronavírus: a importância da ciência para a sociedade
+A ciência é algo fundamental para a evolução e para a resolução de diversos problemas, os quais surgem em meio a sociedade, como o coronavírus, e tendo em vista que a ciência está evoluindo  e nos proporcionando  meios de vida mais avançados e seguros, devemos  ressaltar a importância do investimento em estudantes cientistas , pois desta forma podemos  incentivá-los, além de alertarmos  sobre a importância de vacinas para que possamos  nos proteger de doenças. 
+Pode-se observar que a ciência nos  fez avançar para onde atualmente estamos , e agora devemos  incentivar os cientistas e pesquisadores para que possamos  evoluir e nos  proteger ainda mais,  Ronald Shellard, diretor do  Centro Brasileiro de Pesquisas Físicas  afirma que “caro é justamente não investir em ciência e tecnologia, e que o Brasil nunca teve um programa de criação de institutos de ciência”  evidencia-se através da afirmação que é realmente necessário o alto investimento na ciência e tecnologia, podendo  assim usá-lo para que possamos  descobrir e resolver os problemas que torneiam  nossa  sociedade como o coronavírus. 
+É notório que a ciência esta  está há a anos melhorando  consideravelmente a nossa  qualidade de vida, como exemplo a expectativa de vida das pessoas idosas, o  Instituto Brasileiro de Geografia e Estatística a expectativa era de entorno de 61 anos e agora no ano de 2020 aumentou para 76 aos,  o que significa um aumento de 15 anos, e umas da coisas que nos  fez melhorar foi o aumento de pessoas vacinadas contra diversas doenças como catapora, caxumba, dentre outros, porém ainda há pessoas que não se vacinam por medo ou acham que é uma forma do estado controlá-los , pensamento causado por falta de conhecimento ou ignorância. 
+Em suma dos argumentos citados , necessitamos  de uma forma de resolução dos problemas citados, o  Ministério da Ciência, Tecnologia, Inovações e Comunicações deverá criar um programa de criação de institutos de ciência para a maior valorização dos mesmos , o   deverá criar campanhas de conscientização sobre as vacinas para as pessoas de baixa renda e interiores. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 420
+# tittle: .
+Em 1904 ,  ocorreu a revolta da vacina,movimento de caráter popular, onde   a falta de informação e a obrigatoriedade de se tomar a vacina da varíola,  influenciaram para que houvesse essa manifestação. Porém,ao comparamos   esse fato histórico com a atual sociedade brasileira,percebe-se que há uma negligência muitas vezes ocasionada por esquecimento ou baseando-se em notícias falsas. Tais ações geram grandes impactos no sociais e na economia do país. 
+
+Primeiramente, devemos   ressaltar a importância das vacinas, que ao longo do tempo conseguiram erradicar e prevenir várias doenças , segundo organização mundial da saúde , elas evitaram entre 2 a 3 milhões de mortes por ano. No entanto, nos últimos anos têm ocorrido uma redução no número de crianças vacinadas , isso mostra que a nova geração de pais , que provavelmente não vivenciou os casos antigos  , tende a esquecer a relevância delas . Além disso ,há movimentos antivacinas, onde   usam mentiras e notícias manipuladas para gerar pânico na população .
+Consequentemente, essas ações geram amplos obstáculos, seja a volta de doenças erradicadas, como o surto de sarampo no estado do Amazonas , onde   tiveram mais de 10 mil casos, com a morte de 13 crianças.Também podendo afetar aqueles que não são capazes se imunizar, ocorrendo assim uma circulação de agentes infecciosos . Ademais, há prejuízos no turismo, onde transcorre uma queda no número de pessoas que deixam de visitar o país , fazendo com que passasse a ter menos circulação de dinheiro. 
+
+Diante disso, tendo em vista os aspectos apresentados, é necessário que se realiza-se  realiza uma melhoria nas campanhas de vacinação proporcionadas pelo ministério da saúde, por meio informações mais explícitas sobre as prevenções e vantagens de se tomar a vacina . Como também palestras e oficinas direcionadas aos pais nas escolas , para que haja esclarecimento de dúvidas e fazer com que eles não acreditem em notícias sem fundamentos. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 20

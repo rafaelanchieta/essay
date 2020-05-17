@@ -1,0 +1,12 @@
+# prompt: qual-e-o-limite-entre-o-trote-e-o-crime
+# score: 7,0
+# title: Trote: O momento é para diversão e não para tristezas
+Após meses de estudos e privações, preparando-se para o vestibular ou ENEM, eis que é chegada a hora da recompensa por tamanhadedicação, tero nome na lista dos aprovados é uma alegria sem precedentes para o jovem que conseguiu seu objetivo de ingressar em uma universidade.Porém hojetal alegria vem muitas vezes acompanhada de apreensão, pois é sabido que os calouros serão recepcionados pelos veteranos que lhes aplicarão o conhecido“trote”, considerado um rito de passagem para aquele que sai do ensino médio e ingressa na faculdade.
+         Atualmente acompanhamos nos telejornais notícias que trazem à tona a violência implícita nos trotes aplicados a muitos calouros das universidadesbrasileiras, perdeu-sea essência do rito de passagem, o que era para ser um momento de boas vindas, de confraternização entre os estudantes, está ganhando espaço nas páginas policiais com notícias trágicas. O que se observa é que esses“trotes”estão cada vez mais violentos, com consequências cada vez maissérias, estudantessão internados, alguns em estadogravee outros até mesmo perdem a vida nessas brincadeiras.
+         É necessário que a prática do"trote"nas universidades seja revista, esses eventos devem ser monitorados pela universidade, deve haver limites para que esse rito de passagem seja uma forma salutar de boas vindas, não se pode mais aceitar que uma mãe ou um pai receba a notícia de que seufilhoque está em êxtase por ter conseguido uma vaga na universidade e saiu para encontrar com seus novos colegas, está em uma unidade médica, entre a vida e a morte ou até mesmo morto.Por tanto, a proibição de uma pratica que já está enraizada na cultura acadêmica não parece ser a solução mais sensata, mas o seu monitoramento pelas universidades, com o apoio do poder público através das policias, corpo de bombeiros e guardas civis, visando manter a ordem e preservar a integridade física de todos os participantes, deveria ser analisada, oque não pode acontecer étransformaresse momento de alegria em tristezas e frustrações,permitirque o trote
+         seja visto como uma prática criminosa.
+# C0: 1,0
+# C1: 2,0
+# C2: 1,0
+# C3: 1,0
+# C4: 2,0

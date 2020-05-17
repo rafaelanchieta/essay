@@ -1,0 +1,11 @@
+# prompt: qual-o-papel-da-imprensa-numa-sociedade-democratica
+# score: 3,5
+# title: Uma ferramenta nacional
+Estamos vivendo em uma sociedade cada vez mais democrática, onde a mídia tem papel primordial em se tratando de formar opinião. Desde 1808, quando a família real veio ao Brasil, a imprensa não para de aumentar e expandir-se. Hoje, são vários os tipos de meios de informação acessíveis em nosso país. Hácontroversasque indicam o mau uso desses órgãos em benefíciosaopoder público, mas nós temos o direito à liberdade de opinião. Somos cada vez mais influenciados pela imprensa, ecom o aumento do uso da internetela ganha valor e poder.Uma figurinha carimbadada mídia nos últimos anos são os políticos pérfidos, que enganam a população em benefício próprio e abusam do poder quelhe são atribuídos. Diversos meioscomo jornais, sites e a televisão trazem à tona essa realidadeque era atribuída à Brasília. Mas, na verdade,ganhou o país e assume grandes proporções.
+          Portanto, não só de denúncias vive a imprensa, mas de fatos concretos quevisaminformar o leitor/telespectador acerca de informações ali contidas. Um papel insubstituível que mostra a realidade da nação sobre os fatos do dia-a-dia. Em nosso cotidiano, estar bem informado
+            não é apenas uma vantagem sobre os demais,todavia éuma obrigação de todos, visando conhecer o mundo e poder interagir com ele.
+# C0: 1,0
+# C1: 0,5
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

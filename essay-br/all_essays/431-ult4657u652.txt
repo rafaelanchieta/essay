@@ -1,0 +1,14 @@
+# prompt: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet
+# score: 4,0
+# title: Brincadeiras ou "brincadeiras"?
+"Cadê o dinheiro da minha merenda'rato'? Não trouxe?! Não quero nem sabervai apanhar!", diz o valentãorodeado de colegas. Cenas assim são comuns principalmente em escolas e são consideradas "bullying".
+        O "bullying" é a prática da violência física e/ou psicológicaaalguém, sendo as crianças e os adolescentes as principais vítimas. Precisamos ficar atentos para saber quem sofre disso e quem são os agressores,afimde cuidarmos dos envolvidos e evitarmos que isso continue a acontecer.
+        Mas isso acontece também em outros lugares, como em casa e no trabalho. Os agressores, geralmente, têm ajuda de outros colegas, e as vítimas costumam ser diferentes dos demais: são fracas, nojentas, ridículas, pobres, uns "caminhões de ossos"(magras), baleias, girafas, anões; segundo os valentões. Quem sofre é ameaçado para não dizer nada a ninguém, o que dificulta descobrir tais práticas.E quando é descobertojá é tarde demais. No EUA é frequente casos em que a vítima assassina com arma de fogos os agressores, mata os professores, alunos esuicida logo após. O que nos deixa claro que esses atoscausam traumas, humilhações e são perturbadores.
+          Além disso, tais práticas atrapalham e incomodam o ambiente deEstudo. Os alunos são intimidados, ficam com medo de ir à escola eaprendizagem é prejudicada, uma vez que as mentesdestessão tomadas por pensamentosque poderão ser as próximas vítimas a qualquer hora.
+            Os agressores também sofrem as conseqüências dos próprios atos. Achamdivertidos"brincar" de dar tapas, socos e colocar "nicknames", acabam acostumando com isso. Já adultos se tornam alcoólicos ou viciados em drogas. Isso porquequando criançaou adolescentenãotevelimites e nemfoi educadoadequadamente,
+              percebe-se ao desrespeitar os outros quando xinga ou bate . Ou seja, todos são lesados por essas práticas maldosas. Portanto, cabe a toda sociedade ficaratendae proibir essas "brincadeiras".
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 300
+# tittle: Perdendo a vida desde cedo
+Declarado pela Organização das Nações Unidas , em 1948, a Declaração Universal dos Direitos Humanos, todo o indivíduo tem direito à saúde e educação. Porém a gravidez precoce mostra que parcela da sociedade não desfruta desses direitos. 
+A educação pode ser considerado um dos pilares na formação do ser humano  , é normal acreditar que todos usufruem desse direito, mas é claramente contrastante com o reflexo de gravidez na adolescência . Segundo a OMS  um em cada cinco bebês nascem de uma mãe de 10 a 19 anos, isso é prejudicial a criança e aos país. Algo que subsiste como herança social na Índia. 
+Há de se ressaltar que no século XIII a. C.  na Roma Antiga, isso era incentivado através de casamento permitido a partir dos 14 anos para homens  e 12 para mulheres, podendo ser prometido ao cônjuge aos 7 anos de idade. O principal objetivo era criar filhos legítimos para herdar propriedades. 
+Medidas cabíveis são necessárias para conter tal problema, um dos principais métodos seria nas escolas com o reforço na educação de práticas sexuais usando materiais específicos para a área, com finalidade de aumentar o uso de métodos contraceptivos . Dessa forma, espera-se a diminuição da taxa de natalidade na adolescência. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

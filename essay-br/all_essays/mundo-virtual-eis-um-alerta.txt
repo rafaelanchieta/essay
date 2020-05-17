@@ -1,0 +1,14 @@
+# prompt: Perigos do universo digital
+# score: 300
+# title: Mundo Virtual: Eis um Alerta!
+Quando a internet ainda estava começando a ganhar espaço na sociedade, eram poucas pessoas que tinham acesso a ela.  Mas  com o decorrer dos anos, o número de usuários da web têm  crescido desesperadamente, tanto quanto idosos, adultos, jovens e até as crianças têm tido acesso ao mundo virtual.  
+Como consequência desse crescimento, tem-se  os perigos que também não param : Preconceitos, bulliyng,  pedofilia, golpes, pornografia, vício virtual... entre outros 
+Mas como proteger as crianças e adolescentes desses riscos?
+O ensinamento dos pais é de suma importância, desde criança até a juventude , pois é preciso que as crianças e jovens aprendam a serem  moderados quanto ao mundo virtual, para que eles não se tornem nomofóbicos, que é o medo de ficar sem celular, ou não ter acesso á  internet. Outro exemplo é a amizade, se os pais são amigos dos filhos, porque se algum dia, eles se depararem com qualquer tipo de situação eles não terão dificuldade nenhuma de chegar aos pais e expor o que estiver acontecendo, para que ambos possam ajudá-los.
+Contudo, apenas o aconselhamento em si, não  deixa os filhos imunes desses  perigos. Eles devem ter bastante cuidado com o que fazem na internet.
+Para que se tenha uma geração conscientizada sobre os  perigos do universo digital, é viável  que o Governo implante em todas as escolas palestras de conscientização virtual, com o objetivo de alertar pais e alunos sobre o assunto. 
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

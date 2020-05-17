@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 350
+# tittle: Um agravante problema emergente
+No filme "Simplismente Acontece", Rosie, uma adolescente de 16 anos, está com seu futuro planejado para fazer sua faculdade em Boston, contudo engravida de seu melhor amigo Alex , e se desestabiliza,  Fora da ficção é um problema crescente no mundo, onde prejudicam a própria adolescente e seu bebê  como também aumentam as desigualdes sociais. 
+Nesse sentido, de acordo com a OMS , a adolescência é um período que vai dos 10 até os 19 anos, sendo assim, onde o corpo está sofrendo diversas mudanças. Dessa forma, ter um filho,  poderá acarretar em mau desenvolvimento , problemas de saúde, além de abalar psicologicamente e fisicamente, muitas famílias excluem a adolescente ou mandam abortar. 
+Ademais, segundo a OMG , a cada dia 20 mil jovens dão a luz em paises emergentes, número dez vezes maior do que em nações desenvolvidas, esses dados revelam as preocupantes desigualdades, pois os governos não são capazes de disseminar informações suficientes e quebrar o tabu tanto aos assuntos sexuais. Outrossim, há falta de preservativos as adolescentes em geral. 
+Evidência-se, portanto, uma preocupação maior em paises emergentes. Desse modo, os governos precisam criar campanhas em parceria com a mídia, para que todos saibam o quão perigoso se torna ter um filho na adolescência. Também é preciso distribuir preservativos em postos e hospitais, afim a fim de todos se protegerem, e assim, diminuir as desigualdades para que o caso de Rosie se torne raro. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 100

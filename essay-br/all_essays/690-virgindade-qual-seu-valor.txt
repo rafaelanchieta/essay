@@ -1,0 +1,12 @@
+# prompt: e-certo-ou-errado-leiloar-a-virgindade-por-que
+# score: 2,0
+# title: Virgindade: Qual seu valor?
+Noultimomês, uma moça leiloou sua virgindade nainternet, issopercorreu
+        todas as redes sociais e até jornais e TVs, por não ser muito comum e promover certa indignação da sociedade,cadapessoa tem sua opinião sobre oassunto, pode se notasque as pessoas mais velhas nãoaponham esta está situação vêcomo sendo um atoinadmissíveluma falta de educação com simesma, já as pessoas maisjovemnão demonstram muito interesse pelo assuntooque chama mais atençãodeste publico foio dinheiro que ela conseguiucomoo leilão.
+        Vendo por um outroladoo dinheiro que ela vaiconsegui peloleilão, apósserconsumado,foibem gratificante,com estedinheiro vai poder pagar um faculdade, comprar uma casa e se manter financeiramente por um bom tempo, sem falar na sua fama que ficou nas mídias que com certeza vai lhe renderum bomfrutos.Umados pontos negativos de tudo isso e o mais importante foi a exposição da imagem da moça e de sua família, como ela falou em entrevista para opânicona TV, ela tratou tudo como umnegocio maispara muitosnão é visto destaforma,eprovável que ela sofra algum preconceito poreste fato, por estárazão
+            eu não faria um leilão de minha virgindade, e por ser muito pessoal e envolver sentimentos não teria coragem de ter esta intimidade com uma pessoa que não conheço. As pessoas são livres e devem ser responsáveis por suasescolhas maisantes de tomar umadecisão develevar em consideração as consequência quepodeatrair comestaescolha.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

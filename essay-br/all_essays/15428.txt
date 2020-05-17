@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: .
+O assunto gravidez na adolescência vem sendo muito discutido recentemente na sociedade, é também do conhecimento de todos os riscos de gerar uma criança tão precocemente. 
+Essa fase conhecida como a puberdade  que compreende-se entre os 10 a 19 anos , é quando os hormônios sexuais começam a ser produzidos , com isso as mudanças,  físicas, emocionais e sociais . Muitas vezes pelo mal relacionamento com os pais,  os jovens passam a se questionar, já não querem aceitar tão facilmente conselhos dos mais velhos ou nem conversar sobre. 
+É a idade em que querem fazer normalmente o que os colegas fazem pois acham legal ou se sentem excluídos por não fazer as mesmas coisas.
+É importante que os pais conversem com seus filhos sobre esse tema pois pode evitar não somente uma gravidez como também as DSTs. 
+Portanto é necessário que haja um diálogo nas casas das famílias para que os jovens não se sintam sozinhos e sem apoio, como muitas vezes ocorre .Cabe também à escola oferecer palestras de educação sexual, porque esse assunto precisa ser tratado, não é ocultando esse problema que eles vão desaparecer, "O conhecimento lhe dará a oportunidade de fazer a diferença", Claire Fagin.  Portanto, se a comunidade colaborasse transmitindo os conhecimentos a taxa de gravidez precoce diminuiria cada vez mais. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

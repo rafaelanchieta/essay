@@ -1,0 +1,12 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 600
+# tittle: [Redação sem título]
+A sociedade moderna  vive uma constante evolução, que por meio de recursos naturais, muitas vezes  deixam de lado o fato de que há um desgaste por parte dos mesmos . Hodiernamente, quando se trata do desmatamento nas florestas brasileiras, percebe-se que o problema está cada vez mais fora de controle. O que pode ser facilmente evidenciado e agravado, seja pela pouca fiscalização no corte ilegal da madeira, seja pela falta  de controle das empresas no que é produzido anualmente.
+Em primeiro plano,  vale ressaltar que nos últimos 10 anos,  cerca de 40% da Floresta Amazônica foi vítima de desmatamento, sendo nítida a falência de seus recursos. O qual está relacionado à pouca vigilância, onde em que a mesma  deveria ser feita para que problemas como este não viessem a ter acontecido. Um problema  que poderia ser evitado se as autoridades responsáveis estivessem atentas, retardando ilegalidade nos cortes. 
+Segundamente , é bem notório  que as empresas estão evoluindo, e consequentemente as gastos e a exploração estão na conta. Os recursos naturais sofrem drasticamente com este desequilíbrio na produção do homem,  que tem como objetivo,  suprir uma sociedade consumista e muitas vezes inconsequente. Quanto mais as pessoas consomem, mais as empresas gastam recursos na produção de material, tornando a natureza uma vítima que não pode se defender. 
+O desmatamento é obviamente algo a ser combatido, sendo que é um dos principais problemas ambientais decorrentes . Infere-se portanto , que na busca por acabar com esta problemática,  é necessário que o Governo entre com projetos de combate, investindo em bases de fiscalização q que possam minimizar o corte de madeira ilegal. Os deputados devem aprovar leis mais severas a este tipo de crime. É necessário que haja um projeto de reflorestamento, pois esta é uma carência do meio ambiente. Ainda há tempo, e que pensemos  como Confúcio, " O sábio envergonha-se dos seus defeitos, mas não se envergonha de os corrigir". 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

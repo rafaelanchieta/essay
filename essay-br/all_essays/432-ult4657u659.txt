@@ -1,0 +1,13 @@
+# prompt: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet
+# score: 6,0
+# title: O "bullying" nas escolas
+"Bullying", "cyberbullying"palavras novas para atitudes velhas.
+        Quem na escolanãofoi apelidado de "quatro-olhos", "baleia", "Olívia Palito", "espanador da lua" ou "CDF"? Sempre houve diversas formas de constranger colegas de colégio. Hoje em dia, essas formas de agressões sofisticaram-se ficaram mais ofensivas. E como resolver? Primeiramente os pais devem estar sempre atentos a seus filhos, pois esse tipo de agressão faz com que a vítima mude seu comportamento. Passam a não querer ir à escola, caem no rendimento escolar, perdem o apetite, sofrem.A escola e principalmente ela, como co-responsável pela educação e formação de seus alunostem a obrigação de estar atenta a todo o tipo de manifestação agressiva dos alunos e implantar as medidas necessáriasde comoimpedir ou proibir atitudes violentas de determinados jovens para com aqueles suscetíveisaos"bullying".
+              Os pais devem interagir com a escola para juntos procurarem soluções que visem acabar com esses comportamentos. Criar atividades queumaa comunidade escolar, mostrar o quecausam as vítimasde suas agressões e as punições que podem ser aplicadas aos que provocam o "bullying" para queos mesmostenham consciência dos resultados de suas atitudes.
+                Quanto ao "cyberbullying", por estar registrado, é até mais fácil de controlar, apesar de a rede espalhar mais rápido, a vítima tem a oportunidade de se defender e provar. Fato que e torna difícil nas escolas com as do "bullying" porque muitas vezes é só vítima e agressor sem testemunhas ou quando estas existem são coniventes.Concluindo a soluçãopara o problema aindaéo diálogo e o
+                    esclarecimento para agressor e agredido, uma vezque,a criança ou o adolescente que pratica o "bullying" sabe o que está fazendosó não tem consciência dos resultados.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

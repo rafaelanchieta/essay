@@ -1,0 +1,18 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 270
+# tittle: Crise No
+Vivemos  em um mundo onde  as modificações são constantes, onde as mudanças são para ontem e onde os nossos   inimigos estão a espreita, acompanhando as evoluções da vida, prontos para nos atacar. 
+
+Quando tratamos do assunto vacinação vemos um grande exemplo da capacidade de conhecimento humana e suas inovadoras criações que visam sempre trazer melhorias e avanços tecnológicos no quesito de cuidados com a saúde. 
+
+Entretanto  nos últimos tempos estamos vivendo uma crise no "Sistema Vacinário', aonde doenças quase extintas estão regressando com força total, levando pessoas a óbito e se espalhando de forma assustadora entre os Estados do nosso país. 
+Mas será isso hipocrisia humana? ou o governo não presta os devidos serviços para conscientização das pessoas em relação a proteção de sua própria saúde? 
+
+Digamos  que ambos tem parcela de culpa nesse caso, pois muitas das vezes os que nos representam nos autos cargos políticos não proveem o necessário para á imunização e seu alerta mediante a uma população que não cumpre o seu dever como cidadão, que simplesmente é buscar sua proteção conta "agentes" biológicos ofensivos. 
+
+Para sanar esses problemas devemos nos conscientizar através de campanhas públicas e se mobilizando nas escolas fazendo com que os mais jovens sejam esse canal de comunicação e conscientização, para assim dizimar essas doenças que tanto nos assolam e nos abala de forma física e emocionalmente. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: Valor a Cultura!
+De forma geral, quando proferimos  a expressão ´´Povos Indígenas´´ logo vem o pensamento de cultura brasileira. Muito se sabe que no Brasil a população Indígena sofre com invasões de terras e falta de reconhecimento. A importância de valorizar e garantir os direitos dos povos indígenas vai além de sobressaltar leis que os mesmos  têm garantidas, mas assegurar que as mesmas  sejam devidamente aplicadas. 
+
+Preservar a população Indígena no Brasil,  faz com que,  não deixe morrer a cultura brasileira. Presentes desde o primórdio  do Brasil, possuem direitos que garantem seu espaço nas áreas em que habitam. Se por um lado se fala muito em preservação e conservação de terras indígenas  por outro vê-se o progresso do desenvolvimento chegar cada vez mais rápido. Conciliar a preservação e o desenvolvimento causa conflitos por parte da população urbana e os povos indígenas, deixando o Estado em uma situação embaraçosa. 
+Regularizar e registrar terras ocupadas pelas nações indígenas , promover políticas voltadas ao desenvolvimento sustentável e reduzir possíveis impactos ambientais promovidos por agentes externos em suas terras garantem aos povos indígenas direitos que permitem mostrar a devida importância voltada a quem é um símbolo no Brasil. A FUNAI ,órgão criado pelo Governo para garantir de forma justa os direitos dos Índios no Brasil, vem desenvolvendo um trabalho de acompanhamento e garantindo um acesso diferenciado aos direitos sociais e de cidadania indígena. 
+
+Em suma, é de extrema importância valorizar e garantir os direitos dos povos indígenas ,  que ao manterem a tradição, garantem o patriotismo no país. Pois eles são o símbolo de cultura para a nossa  nação, além de manterem a preservação ambiental do espaço onde habitam. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 50

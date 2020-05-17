@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 600
+# tittle: A vacina e o povo
+Em 1904,  ocorreu a Revolta da Vacina no Rio de Janeiro. Acarretado por uma série de eventos que geraram descontentamento popular , como a desapropriação urbanística de camadas mais pobres em prol da estética da urbe , o movimento tinha a falsa convicção de que a vacinação era supérflua e apenas mais um método de opressão governamental. Na atualidade, os índices de cobertura vacinal no Brasil têm apenas caído, e as autoridades começam a se alarmar. Dessa forma, faz-se necessário encontrar alternativas para contornar a desinformação popular acerca da vacinação e, assim, garantir a ordem na sociedade brasileira.
+
+Em primeira instância, é importante ressaltar a ascensão de movimentos anticientificistas que propagam inverdades baseadas em teorias da conspiração e crença popular . O movimento anti-vacina antivacina cresceu muito com o alcance das redes sociais, fazendo com que muitos pais adiram às ideias e deixem de vacinar seus filhos. Desse modo, o imaginário popular acerca da vacina, baseado em ideias errôneas, propicia uma queda nas taxas de vacinação da população, possibilitando o ressurgimento de doenças que já haviam sido erradicadas, como o sarampo  em 2018, de acordo com o Ministério da Saúde. Portanto , é imprescindível alterar esse quadro com a disseminação do conhecimento científico à população.
+Além disso, o ressurgimento e a ascensão de novas e já erradicas epidemias caracterizam um grave risco para a sociedade brasileira. Na Idade Média, a Peste Negra quase exterminou a população europeia, impactando seriamente na economia pós-epidemia, sendo até um dos motivos para a crise do sistema feudal . Apenas com a Revolução Industrial que doenças começaram a ser erradicadas e, assim, as taxas de mortalidade caíram vertiginosamente, fruto do desenvolvimento de técnicas científicas , sendo a criação das vacinas um dos principais fatores responsáveis para tal decréscimo. Logo, vê-se que a vacinação não apenas garante a saúde populacional, mas também, por consequência, estabelece a ordem da macroestrutura social, já que a falta de condições saudáveis para trabalho implica negativamente na economia. 
+
+Por conseguinte, faz-se necessário a implantação de medidas para alterar este alarmante quadro brasileiro. O Ministério da Saúde deve desenvolver políticas públicas de conscientização sobre a importância da vacina, de modo a desarticular influências distorcentes do saber científico. Além disso, devem ser intensificadas as campanhas de vacinação, juntamente com o aumento da área de alcance midiático destas. Tais tarefas serão realizadas com o auxílio de verba governamental , e apenas desse modo o Brasil estará destinado a grandeza. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

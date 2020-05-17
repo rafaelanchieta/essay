@@ -1,0 +1,9 @@
+# prompt: O sucesso vem da escola ou do esforço individual?
+# score: 250
+# title: (Sem título 085)
+A escola foi criada para trazer mais educação para as pessoas que a frequentam, mas não podemos deixar de lado que deve haver um pouco de interesse por parte dos alunos.A situação da escolaridade no Brasil não é nada animadora, há  alunos que mau  sabem ler e escrever e há professores que não se importam com alunos e dão qualquer atividade  mesmo sem explicar nada. Alunos de escola pública que querem estudar e ter "sucesso"  sofrem muito nos dias de hoje, pois não está fácil, é ônibus lotado, pessoas que moram em  roça ou em lugares perigosos demais. O "sucesso"  vem da luta e persistência que se deve ter, nas condições de vida de hoje, pra  quem é pobre querer alcançar algo é muito lamentável .Há projeto do governo para a educação, mas falta melhorar muito ainda as estradas, merendas, professores, segurança, transporte, e também o interesse do aluno é essencial, pois não se pode chegar ao sucesso se não correr atrás, os pais devem incentivar os filhos a lerem  mais, estudar em  devido horário para que seja alcançado o "sucesso"  tão desejado.
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

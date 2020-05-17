@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 240
+# tittle: [Redação sem título]
+Há mais de quase um século,  houve a primeira exibição do cinema em Paris, desde então o cinema vem passando de geração em geração, atraindo enormes plateias em todo mundo. O cinema são salas com telonas existente em vários locais, onde  são exibidos filmes produzidos por todo mundo. No Brasil, apesar de ter ocorrido o aumento do número de cinema e o aumento do número de brasileiros que frequentam a sala de cinema ainda uma grande parcela da população que não tem acesso ao cinema , e com mudanças da tecnologias,  vários telespectadores foram atraídos para este meio. 
+
+O número de telespectadores interessado por filmes é bem significativo,  pesquisa  mostra que grande parcela que assistem a filme na TV, porém a ida ao cinema e ainda baixa, muitos desses cinemas estão localizados em shopping centers que são construídos geralmente em áreas onde a renda é mais alta e de difícil acesso por ser distante das cidades pequenas, média do interior, por exemplo , onde população inteira são excluídas desse universo. 
+Com avanço da tecnologia vem surgindo vários meios de assistir filmes pela TV, o que tá   atraindo muitos da telona para telinha, isso se dá pela comodidade e preços acessíveis a uma vasta opção de filmes de todo mundo. 
+
+Conclui-se,  que apesar de interesse dos brasileiros por filmes ser grande, o acesso ao cinema ainda é pequeno, existem pessoas e até população que nunca foram ao cinema . O cinema é uma forma de disseminação de cultura e de lazer, que todos deveriam usufruir disso.  Os órgãos públicos deveriam haver interesse para que isso aconteça, levando o cinema para toda parte do Brasil, organizando projetos que democratizasse o acesso ao cinema, para lugares como periferia urbanas, e cidades do interior. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 20

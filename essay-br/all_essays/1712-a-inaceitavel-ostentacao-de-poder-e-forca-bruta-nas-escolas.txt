@@ -1,0 +1,14 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 8,0
+# title: A inaceitável ostentação de poder e força bruta nas escolas
+A violência escolar não surgiuagora, ecomo sabemos, está sendo gradativamente agravada. Os jovens estão cada vez mais violentos, ávidos por brigas, e encontram na forçafísica, umaforma de se sentir superior.
+         Um exemplo muito claro disso é a grande frequênciaemque os estudantes formam, na sala de aula, esteja o professor presente ou não,ringsou campos de batalha para enfrentarem uns aos outros em lutas.
+         Se quisermos encontrar as soluções, precisamos antes entender as causas desse problema. A ausência de pedagogos e psicólogos nasescolas, ea falta de punições severas, vinculadas à falta de conversas entre pais e filhos sobre o assunto, o que ocorre com a maioria dos jovens,fazcom queos mesmosnão entendam que isso é errado, que é uma atitude vergonhosa, ouquese elesofizerem,haverãoconsequências significativas. Além disso, o fácil acessoàarmas, assim como a formação degangs, sócontribuem para aumentar ainda mais os casos
+         relativos ao assunto em questão . Para erradicar o problema, são necessárias, além de tudo, medidas de longo prazo , como a mudança de mentalidade da população, por meio, principalmente, da implementação de um ensino de ética e moral de qualidade para as pessoas, desde os primeiros anos de vida . Também é importante que as punições se tornem maisrigorosas, enunca deixem de acontecer. Além disso, a mídia tem um papel fundamental, pois possui a capacidade de moldar concepções e formar opiniões.
+         Portanto, a violência nas escolas é um problema que possui diversascausas, esua solução exigirá tempo. Porém, ela tem de começar a ser combatida desdejá, ecom muitaavidez,
+         pois é de extrema importância .
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,5

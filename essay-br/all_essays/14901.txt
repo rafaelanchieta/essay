@@ -1,0 +1,16 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: Alimentação, um direito ignorado.
+A fome é um dos reflexos da ignorância do homem em relação a seu próximo . E também,  um aspecto do sistema capitalista, onde  boa parte das pessoas têm seus direitos básicos negados, tais como: equidade na educação, no trabalho, na alimentação, entre outros. 
+
+Por que a essas pessoas têm seus direitos negados? Os direitos humanos declarados pela ONU  expressam a intenção de buscar melhores condições de vida para todas as pessoas, sem discriminação. Sendo assim, o dever da direção de cada país é oferecer a todos as mesmas oportunidades, igualando os mais miseráveis aos mais ricos. Todavia, é explicito que a luta contra a desigualdade social não é um projeto prioritário, principalmente, no Brasil. Os administradores do país são cientes do problema, até ocorre um mínimo de esforço para solucioná-lo, embora, nada de acordo com a real necessidade é feito, mesmo existindo meios para tal . Portando, deixam de lado a opção de cuidar dos direitos do povo, o qual, consequentemente, estão negando. 
+
+Em vez do Estado,  disponibilizar emprego e investimento em regiões desfavorecidas como o nordeste brasileiro, ele deposita em média de 90 reais mensais na conta das famílias cadastradas no programa Bolsa Família, e essas são induzidas a se contentar com isso, por não haver outro meio no qual sobreviver . Em relação à alimentação, é produzido muito mais do que o país consome. Porém, o excesso desses alimentos, que pode ser usado como alternativa a fome de muitos, é desperdiçado em aterros, cria-se toneladas de lixo orgânico todos os dias, favorecendo  assim, o surgimento de bactérias e doenças, que por seguinte,  torna-se um risco a saúde humana. 
+Iniciativas devem ser tomadas. Criar empregos em regiões em estado de seca é possível se tratando das indústrias de bens de consumo, já que essas não necessitam tanto de água como a agropecuária e pecuária. Após haver emprego para essas famílias terem condição mínima para viver, é necessário o acesso igualitário à educação para o desenvolvimento destas sociedades. 
+
+É garantido que o homem tem poder mental para resolver problemas até piores do que a fome num país, no entanto, é necessário que tome para si as dores da vida alheia. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

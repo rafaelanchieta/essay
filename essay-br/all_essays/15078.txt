@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: Um futuro mais verde
+A floresta amazônica é o maior acervo tropical do mundo, que concentra uma grande biodiversidade que se compõe de uma enorme quantidade de especies da fauna e da flora, porem essa vasta riqueza natural corre riscos com o excessivo desmatamento e queimadas que sofre frequentemente, bem como a vários motivos para conscientizar e preservar esse bioma e o que a nele. 
+
+A Amazônia sofre constantemente com a exploração do homem, que ocasiona muitos problemas ambientais, alguns deles são: desmatamento, queimadas, criação de pastos, disputa de terras, caça e pesca ilegal. De acordo com o Imazon  informa que  “A pecuária para a criação de gado é a atividade que mais contribui para o desmatamento na Amazônia , ocupando 65% da área desmatada”, muitas vezes esse gado é criado de forma ilegal, além disso, estima-se que o desmatamento seja responsável por quase 20% do total das emissões anuais globais dos gases causadores do efeito estufa,ou seja, não só prejudica aqueles que moram na floresta ou o meio ambiente em si, mas também afeta o mundo inteiro, já que a poluição dos gases ,  tem como consequência a elevação das temperaturas e as mudanças climáticas. 
+Diante desses dados alarmantes, é fundamental buscar iniciativas sustentáveis para preservá-la e os motivos para isso são inúmeros, já que a Amazônia é considerada a maior bacia hidrográfica do país, também é lar de mais de 145 mil espécies de animais e há mais de 10 mil espécies vegetais que são usadas para a produção de medicamentos e cosméticos, além é claro de contribuir para a queda dos níveis de CO2, portanto a redução do desmatamento é a melhor ação para reduzir os níveis de emissão de gases e contribuir para a redução do efeito estufa  e consequentemente do aquecimento global. 
+
+Portanto deve-se garantir a preservação da floresta amazônica, colaborar para que haja um futuro mais verde, não só por meio da ajuda do governo, com leis mais rígidas e ações mais eficazes, mas principalmente com ONGs ambientais, pode se citar a SOS Amazônia e Fundação Grupo Boticário de Proteção à Natureza que tem com principal objetivo de promover a conservação da biodiversidade e o crescimento da consciência ambiental na Amazônia. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

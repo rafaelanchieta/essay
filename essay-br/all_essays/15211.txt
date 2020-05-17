@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 370
+# tittle: [Redação sem título]
+A vacinação é um método importante e eficaz de prevenção contra doenças.Entretanto a sociedade contemporânea brasileira,   demonstra uma despreocupação em se prevenir, já que nos últimos anos os índices de vacinação vem caindo, situação ocorrida pela ineficácia do governo  ,porém vale ressaltar que a sua falta pode ocasionar em uma vulnerabilidade a doenças e gerar epidemias que chegam até mesmo em níveis internacionais. 
+
+A problemática de vacinação no Brasil,  ocorre desde o século passado, pois a uma ruptura clara de comunicação entre o Estado com a população, iniciada em 1904 quando o médico Oswaldo Cruz,  propiciou uma campanha de vacinação obrigatória para a sociedade da época, porém não apresentou nenhuma fonte de informação sobre os benefícios da vacina , obtendo como resultado um movimento social contra a campanha, denominado revolta da vacina,onde   os integrantes denegriram patrimônios públicos para mostrar o seu descontentamento com a medida abordada pelo governo .Na atualidade a comunicação é ineficaz também, pois as campanhas de vacinação não possuem um amplo espaço nas mídias sociais , que por sua vez,  é onde encontrasse  encontra a atenção constante da população brasileira,gerando a desmotivação em buscar sobre o assunto. 
+
+Torna-se inevitável a preocupação com a problemática abordada, pois devido a globalização eminente,  o deslocamento de pessoas nunca foi tão facilitado. Entretanto entrelaçado a este fenômeno surge a decorrente preocupação,  em uma epidemia se espalhar rapidamente, pois mesmo que a ANVISA  tenha permissão por lei a barrar passageiros com doenças infectocontagiosas, como nenhum meio de transporte pede laudos médicos recentes, apenas a carteira de vacinação, muitas vezes o passageiro pode ser apenas um portador do gene da doença, e quando o mesmo chegar ao seu destino ocasionará a propagação do vírus, como ocorrido nos países da América Latina no ano de 2018 onde ocorreu a propagação da infestação da dengue, epidemia que precisou da ajuda das forças armadas brasileiras nas ruas para combater os focos da doenças. 
+Devido aos aspectos abordados torna-se evidente a intervenção do Estado em conjunto com os Ministérios da Saúde e da Educação.  para que a importância da vacinação seja relembrada a população, onde   o Estado cria um aplicativo que avisa quando houver campanha de vacinação nos municípios. Ademais o Ministério da Saúde cria páginas em redes sociais para alcançar e se comunicar com os cidadãos, enquanto o Ministério da Edução ofertará palestra em escolas de níveis fundamentais e médios, pois como o filósofo norte americano Ralph Emerson afirmou  a maior riqueza é a saúde .
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

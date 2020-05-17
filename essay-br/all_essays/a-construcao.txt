@@ -1,0 +1,12 @@
+# prompt: Cantar ou não cantar o hino nacional? Eis a questão...
+# score: 720
+# title: A construção
+No século XX, o Brasil vivenciou, após a Revolução de 1930, a ascensão e a queda do governo de Getúlio Vargas, cujas principais características foram a aproximação do governo getulista com a classe trabalhadora e o nacionalismo. Percebe-se que há décadas a busca por incitar a sensação de pertencimento do povo brasileiro ao país existe. Sendo assim, os esforços devem ser mantidos, por meio da valorização do hino nacional, visando estimular o nacionalismo de uma forma moderada.
+Engendrada a partir de um período colonial de jugo à Portugal, a sociedade brasileira está, de forma a desvalorizar a luta pela construção da identidade brasileira, cada vez mais preterindo os símbolos nacionais do país , o que exprime a necessidade de se propagar elementos importantes do país para os mais jovens de forma igual. Logo, visto que está sendo desvalorizado pelos jovens, e uma vez que se faz importante para estimular o nacionalismo e incentivá-los a se engajar políticamente , o hino nacional mostra-se uma ferramenta para o desenvolvimento pleno da cidadania.
+Contudo, o processo de retomada da valorização do hino deve ocorrer de forma cautelosa, tendo em vista a importância de tal símbolo. Sendo assim, não deve haver a associação de símbolos nacionais a partidos políticos e tampouco deve haver atos que exponham os jovens, como, por exemplo, a gravação não autorizada desses, pois tais atos representariam um projeto contrário ao desenvolvimento da cidadania e desrespeitoso aos cidadãos.
+Infere-se, portanto, que o hino nacional deve ser executado nas escolas do país, seguindo um projeto que vise apenas ao desenvolvimento do nacionalismo sem um caráter exacerbado. Desse modo, poder-se-á, finalmente, executar o hino nacional nas escolas, visando estimular o nacionalismo nos jovens e, por conseguinte, torná-los questionadores dos problemas e ordem existentes no país.
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 160
+# C4: 120

@@ -1,0 +1,13 @@
+# prompt: Internação compulsória de dependentes de crack
+# score: 750
+# title: Solução rápida, problema complexo
+Muito se fala acerca dos dependentes químicos e traficantes pela sociedade , mas pouco se conhece de fato. O crack e outras drogas podem ser encarados de várias maneiras, mas sua face mais conhecida é a de uma simples má escolha a que o indivíduo se submete. Porém, num país tão marcado por desigualdades e pobreza  a droga, muitas vezes, não é apenas uma escolha, é uma saída desesperada ou ainda o próprio sustento.
+Para a atual administração de São Paulo, a questão dos viciados é vista como problema de saúde pública e a aposta da prefeitura está nas internações compulsórias. Metaforizando, estão buscando curar os sintomas, mas não as causas da doença.
+Ademais, a longo prazo, um morador da cracolândia internado a contragosto, morador de rua e  que garante sua renda através de ações criminosas  teria alguma chance de se recuperar socialmente depois do devido tratamento? De conseguir um emprego, moradia e educação de qualidade para manter-se longe das drogas? Salvo alguns casos, a maioria retorna à estaca zero, levando consigo milhões de reais investidos.
+Assim, a internação compulsória, além de ser uma prática agressiva e que fere claramente os direitos humanos  já que nem todos os dependentes necessitam desse tipo de tratamento, se mostra eficiente apenas a curto prazo – enquanto o dependente está na clínica sendo controlado por medicamentos - e relativamente agradável às classes superiores que passariam a não mais temer a região do centro de São Paulo.
+Por fim, o primeiro passo para a redução do número de usuários e traficantes nos próximos índices  é garantir á  população menos favorecida da cidade e mais vulnerável à influência das drogas, os serviços básicos e principalmente educação e os programas preventivos como o Proerd, realizado pela PM nas escolas. Aos dependentes, a solução emergencial ainda é a internação, desde que  depois de recuperados  a prefeitura possa reintegrá-los na sociedade e não simplesmente lançá-los à própria sorte.
+# C0: 200
+# C1: 150
+# C2: 150
+# C3: 100
+# C4: 150

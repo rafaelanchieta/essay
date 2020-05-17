@@ -1,0 +1,12 @@
+# prompt: Cantar ou não cantar o hino nacional? Eis a questão...
+# score: 480
+# title: A importância do patriotismo
+Sabe-se que a valorização nacional é algo fundamental em uma nação, isso estimula os fundamentos ético morais do cidadão. O ato de cantar o hino nacional desperta um sentimento de amor à pátria e proporciona um efeito de responsabilidade, onde todos devem proteger as nossas riquezas e cuidar da nossa gente.
+Toda criança deveria ser estimulada a cantar o hino, desta forma, elas iriam crescer valorizando a nação e teriam uma formação educacional de qualidade, sabendo das suas obrigações e executando os seus deveres. Cantarolar a canção nacional é importante e deveria ser em todas as escolas, pois  ensina valores aos seus alunos.
+Um grande exemplo de patriotismo, onde se prega a valorização da responsabilidade e dos ensinamentos morais, são os militares. As instituições de ensino militar têm um nível de educação superior aos demais colégios, isso se deve ao aprendizado, que desde cedo são ensinados a ter respeito, demonstrando interesse na formação da cidadania.
+Portanto, é indispensável o cantar do hino nacional nas escolas, pois ele é importante para o futuro, onde as pessoas irão ter respeito umas com as outras e serão mais educadas. É essencial a formação moral dos cidadãos, e o hino ressalta a obrigação de cada um com a sua pátria.
+# C0: 120
+# C1: 120
+# C2: 80
+# C3: 80
+# C4: 80

@@ -1,0 +1,12 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 350
+# title: O grande medo das mulheres no século XXI
+O estrupo  crime que vem alcançando índices cada vez maiores ao longo dos tempos, ocorre desde a segunda  guerra mundial, quando russos estupravam mulheres alemãs e comunistas. Tal ato sexual afeta diretamente a vida da vítima, seja ela mulher ou criança, deixando marcas a vida inteira, como problemas psicológicos e afetando seu modo de viver. E poucas são as denúncias registradas no Brasil. 
+Apenas 35% dos casos de estrupo  são registrados no país, esse número  tão pequeno deve-se ao fato de que muitas das mulheres são ameaçadas pelos homens que ás  violentam, outras por vergonha e medo de como a sociedade possa julgá-la. Aquelas que denunciam, passam  por tratamentos psicológicos para conseguir viver normalmente. O medo de voltar a caminhar sozinha, de sair para trabalhar, e  até mesmo de ter um relacionamento amoroso com outro homem, são  as consequências causadas por tal crueldade.
+O número  desse crime contra crianças abaixo de 12 anos também são altos. essa  violência pode vim  de dentro de casa. Tios, cunhados irmãos, são  os principais acusados nas denúncias. Já existe uma lei em vigor contra o estrupo , o acusado pode ter uma pena de até dez anos de prisão, mas muitos ainda ficam impunes, outro fator que leva a vitíma a não querer denunciar.
+Esse é um problema que deve ser bastante discutido pela sociedade e por as autoridades responsáveis juntamente com o governo, investindo na educação da população,   levando informações em escolas e na televisão, com a ajuda de profissionais como professores, médicos e psicólogos. A família também tem que participar da vida da criança  ensinando valores morais desde pequenos . Essa é uma questão de moral e também de saúde pública. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 100

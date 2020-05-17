@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: A fome no Brasil
+Um dos problemas constantes que temos  no mundo,  é a fome, algo que afeta milhões de pessoas, esse número já foi muito maior, certa de 1 bilhão de pessoas passavam fome,  até os anos 2000.É uma problemática que também nos remete a desigualdade social, mesmo em meios de tantos avanços. 
+
+O Brasil  por sua vez, mesmo sendo um dos maiores produtores e exportadores de alimento do mundo, há brasileiros que sofrem coma fome e a subnutrição, isso não é algo inacreditável, até porque tal problema, não só no Brasil como no restante do globo, não está interligado com a quantidade de alimento que se tem e é produzido, já que toda comida produzida não só é mais do que suficiente para alimentar todos, como também 1/3 de todo esse alimento é desperdiçado e jogado no lixo, entretanto está ativamente vinculado com a sua distribuição, que desencadeia mais um infortúnio nem um pouco recente, a má distribuição de renda. 
+A população que sofre coma com a falta de comida também sofre a carência de saneamento básico, educação, e por sua vez, o subdesemprego e a marginalização, problemas que afetam nosso  país. 
+
+O que falta para os brasileiros reféns desta situação,  é a acessibilidade a oportunidades, a formação profissional, um emprego, um pedaço de terra para plantar, tal coisa depende integralmente de um governo defensor da igualdade. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

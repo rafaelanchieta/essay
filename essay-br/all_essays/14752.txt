@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: Forças Excludentes
+"No meio do caminho tinha uma pedra". Através deste verso do poeta modernista Carlos Drummond de Andrade,   percebe-se que a sociedade ao longo de seu desenvolvimento encontra obstáculos em sua caminhada. Talvez hoje ele percebesse que teria acertado em seu verso: a postura de muitos brasileiros e políticos frente à Previdência Social é um dos caminhos mais difíceis para uma pátria em progresso . Com isso, surge a problemática da reforma que persiste intrinsecamente ligado à realidade do país, seja pelo projeto proposto, seja pela herança cultural. 
+
+É importante ressaltar, em primeiro plano, que a reforma é necessária, mas que a atual proposta é injusta e cruel, sendo assim necessário discutir sobre . Conforme o filósofo alemão Karl Marx, na obra "O Capital", o trabalho no mundo capitalista está funcionando como forma de opressão, proporcionado pela falta de ideias. De maneira análoga, é possível perceber no Brasil,  a reforma previdenciária,  fortalece esse ideário:  haja vista que, embora esteja previsto na Lei Elói Chaves, marco da previdência social, no qual se garante a sobrevivência do trabalhador e seus dependentes quando da perda de sua capacidade, a proposta política está servindo como meio de exclusão social, privilegiando os mais ricos. 
+Em segundo plano, é inquestionável não afirmar que o passado retoma ao futuro. No período colonial brasileiro, na qual foi promulgada a Lei do Sexagenário, em que consistia a alforria para os escravos maiores de 60 anos, sendo que a maioria não chegava a essa idade. Ao seguir essa linha de pensamento, observa-se que a reforma da previdência caminha com esse comportamento, que tende a adotá-lo também por conta da diminuição da população ativa, além do aumento da expectativa de vida. Assim, a continuação do projeto,  funciona com base forte dessa forma de exclusão, perpetuando o problema no Brasil.
+
+Portanto, indubitavelmente, medidas são necessárias para resolver esse problema. Portanto, cabe ao Governo federal aliado ao Ministério da Fazenda  promover um novo projeto que mescla Estado, iniciativa privada e planos individuais, a fim de atenuar a crueldade do projeto. Apenas sob tal perspectiva,  poderemos  caminhar,  rumo ao progresso sem uma pedra no caminho. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

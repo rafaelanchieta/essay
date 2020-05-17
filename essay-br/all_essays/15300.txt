@@ -1,0 +1,14 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 400
+# tittle: Herois em Perigo
+O Brasil possui aproximadamente 425 mil policiais, e este ano atingiu uma marca histórica “mais policiais se suicidaram do que morreram em confrontos” . Algumas das causas são: excessivo grau de sofrimento pela função que exercem e a falta de assistência à saúde mental dos agentes. 
+
+O especialista em segurança pública Nelson Giraldi afirma que ser policial e altamente complexo, com um regime de trabalho totalmente diferente dos demais trabalhadores, não contam com número de horas para trabalhar, entram em serviço sem saber quando irão sair . Essas características ajudam a agravar o nível de stress, este fator inerente à função que exercem podem gerar vários riscos não só para o agente  como à sociedade em geral. 
+
+Em São Paulo uma ouvidoria feita pelo Fórum Brasileiro de Segurança Pública mostrou que a taxa de suicídio entre policiais é de 23,9  enquanto no total da população o número é de 5,8 por 100 mil habitantes. Nos  fazendo pensar como anda a assistência à saúde mental de nossos policiais que em um levantamento feito pelo G1 apontou 43 afastamento por dia por questões psiquiátricas. 
+Não é simples eliminar de uma corporação o stress que vem sendo proliferado a há muito tempo  mas com o planejamento de um plano estratégico com palestras e atendimento psicológico duradouro isso será possível. O mito do policial herói é outra barreira que precisa ser rompida  pois o policial não pede ajuda para não ser visto como um “fracote” , segundo a OMS  90% dos casos de suicídio estão associados a distúrbios mentais e, por tanto e, portanto, podem ser evitados com o tratamento correto. Evidentemente no Brasil há necessidade de ampliar o suporte à saúde mental dos agentes. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 400
+# tittle: Mudança de Mentalidade
+De acordo com os conhecimentos adquiridos ao longo da nossa trajetória escolar , sabemos  que os índios eram os verdadeiros donos das terras brasileiras. Nessa perspectiva, os portugueses não descobriram o Brasil, mas apenas o encontrou. E encontraram aqui,  um povo com seus costumes, suas crenças e culturas já internalizadas. 
+
+No entanto, as pessoas que aqui chegaram não souberam ou simplesmente não quiseram respeitar os povos que aqui viviam . Obrigando-os a tentarem se adequar aos costumes dos povos brancos. Infelizmente, de acordo com o que nos conta  a história  esse embate de culturas e costumes, esse embate de culturas levou a um extermínio de uma grande parte da população indígena que vivia no litoral brasileiro. 
+
+Ademais, isso também levou a uma grande mudança no modo de vida dos indígenas, algo que não deveria e não podemos permitir hoje que continue acontecendo . Uma vez que,  esses povos detinham e ainda detêm um grande conhecimento acerca da natureza que os cercam. Sendo esses conhecimentos de grande importância para encaminhar pesquisas científicas que levaram e ainda levam à descoberta de inúmeras doenças. 
+Portanto, não podemos permitir que as culturas e direitos desses povos sejam negligenciados . Pois,   invadir e obrigar um povo a viver de forma diferente dos seus costumes,  é uma grave infração dos Direitos Humanos, onde  se diz que,  cada ser humano tem o direito de viver da forma que melhor lhe convier. Que saibamos respeitar, valorizar e garantir a esses povos, seus direitos tantas vezes negado, para que fatos iguais aos ocorridos no passado não voltem a acontecer. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

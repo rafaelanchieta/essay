@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: A floresta amazônica pede socorro
+Adotada pela ONU  desde 1948, a Declaração Universal dos Direito Humanos visa a garantir o respeito à dignidade humana. No Brasil, entretanto, muitas vezes,  tais garantias,  não são verificadas em relação ao desmatamento e queimadas na floresta amazônica, uma realidade que a cada dia assusta os brasileiros. Nesse cenário, convém analisar as principais causas e consequências dessa problemática no país. 
+
+O desmatamento é uma prática que acontece no Brasil desde o seu "descobrimento" pelos portugueses. Esse comportamento iniciou-se com a exploração do pau-brasil, uma planta nativa usada pelos índios para a fabricação de corantes. Hoje, com a falta de fiscalização por parte do Governo Federal, aquelas atrocidades crescem desenfreadas por empresas clandestinas . Além de desmatar, o homem também coloca fogo no bioma mais biodiverso do mundo, levando várias espécies de seres vivos a extinção e a saúde humana em risco.
+
+Segundo dados do jornal O Globo, nos últimos dez anos foram descobertos por pesquisadores biólogos vários desmatamentos irregulares e focos de incêndio na floresta para a obtenção de lucro fácil no mercado, onde consequentemente,  leva ao aquecimento global desordenado, desequilíbrio da cadeia alimentar e perda da biodiversidade. Desse modo, é inadmissível que em pleno século XXI,  o Brasil ainda tenha impactos tão negativos devido ao problema da floresta amazônica. 
+Sendo assim, o desmatamento e as queimadas representam uma ameaça concreta a todos os cidadãos que figuram como vítimas do seu legado. Nesse sentido, o Governo do Estado deve fazer fiscalizações mais rigorosas e punir com longas prisões e multas as empresas que cometem tais ações. Além disso, a sociedade deve ir às ruas em favor da preservação do bioma, pois pressões populares sempre funcionam. Espera-se  com isso, que a população viva com mais tranquilidade, dignidade e saúde. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

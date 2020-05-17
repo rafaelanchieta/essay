@@ -1,0 +1,12 @@
+# prompt: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool
+# score: 5,5
+# title: O Problema do Consumo do Álcool
+O consumo de bebidas alcoólicas é um problema que a sociedade enfrenta, pois a bebida deixa o indivíduo que a consome sem a consciência de seus atos, além de causar vício. Músicas e até mesmo anúncios dizem que quando se consome bebidas alcoólicas a diversão é maior, servindo como um incentivo para quem busca divertimento. Mas, na maioria das vezeso que vem em seguida é desagradável,pois,a pessoa que consumiu a bebida pode causar brigas, incidentes e acidentes, afetando ela mesma e quem está ao seu redor. O governo criou leis queproíbeo consumo de álcoolquandoirá dirigir e também queproíbea venda de bebidas alcoólicasàmenores e em determinados locais,
+         visandoamelhoria da população
+         , para que quando, por exemplo, uma famíliavai[for] ao estádio ver um jogo, possa estar em segurança duranteo jogoe depois também, diminuindo o risco de acidentes no trânsito e brigas por pessoas alcoolizadas.
+         Conclui-seque,deve haver sim maior controle na venda de bebidas alcoólicas, pois a mesma afeta de forma negativa quem consome e quem não consome também. Aliás, as leis são criadas para a melhor qualidade de vida da sociedade e quem nela vive.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

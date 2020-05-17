@@ -1,0 +1,14 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 1,5
+# title: (Sem título 011)
+Os jovens estão tendo cada vez mais acesso àsinformãodo mundo inteiro, de tal formaqessaassecibilidadegera
+        soluções e conflitos. Para que se alcance a satisfação dapopulaçãoé preciso que todos tenham acessoasdecisões tomadas pelos governos,infelizmentenão é o que acontece.
+        Fica evidente a insatisfação da população devido a grande quantidade de manifestantes. Para que cotenha taisreinvindicações, é preciso, em decreto do governo, rever as leis e pesá-las com as críticas,
+         
+        
+        e assim realmente atender às necessidades sociais, não é certeza que as manifestações obtenham sucesso, mas garante uma visibilidadea rozões as quetõesenglobadas.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,5

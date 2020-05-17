@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 650
+# tittle: Analfabetismo funcional: um problema “empurrado com a barriga”.
+O analfabetismo funcional é a incapacidade que pessoas possuem para interpretar textos e realizar operações matemáticas, muitos, se formaram ou concluíram o ensino superior . Parece bizarro , mas é a realidade do nosso   país que tende aumentar ao longo dos anos se não for resolvido quanto antes. 
+O índice de analfabetismo no Brasil é grande, e suas consequências são maiores ainda . A falta de interpretação de textos pode atrapalhar a vida pessoal e profissional do indivíduo, e os levam a cair em golpes e nas famosas fake news, tanto quanto a dificuldade em realizar operações matemáticas, já que são elementos básicos usados no nosso cotidiano. 
+Podemos   considerar esse problema como um ciclo vicioso, pois se um adulto não possui a prática da leitura, não irá influenciar os mais jovens, e assim sucessivamente . Pode parecer “loucura” , mas existem professores que também possuem as mesmas dificuldades , e consequentemente,  não irão motivar seus alunos à essa prática, aumentando   cada vez mais o índice de analfabetismo no Brasil.
+Todo esse acontecimento é resultado da falta de investimento na educação do nosso   país, o governo “empurra com barriga” esse obstáculo, agem como se o mínimo que fazem fosse o suficiente , mas sabemos   que não, nosso povo precisa mais do que isso. 
+Investir nas bibliotecas será um ótimo começo para o avanço dessa causa, alunos ou não, terão acompanhamento adequado para suas leituras com bons livros que despertam suas imaginações, os ajudando no desempenho na interpretação de textos . Escolas integrais também são uma ótima solução, onde   os alunos terão um aproveitamento maior das aulas para aprender corretamente a fazer cálculos e praticar sua leitura. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,10 @@
+# prompt: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil
+# score: 8,5
+# title: A Energia Nuclear e o Brasil
+Apesar de muitos cientistas defenderem a energia nuclear, como se ela fosse a solução para o aquecimento global, ela não é a melhor solução para o problema energético brasileiro. Até mesmo ambientalistas, como o criador da teoria de Gaya, James Lovelook, defendem a energia nuclear, porém, parecem esquecer-se de dois aspectos negativos, extremamente relevantes: sempre haverá o risco de acidentes em usinas nucleares; e não poderemos armazenar cada vez mais lixo nuclear. Hoje, colocam-se os resíduos das usinas nucleares em antigas minas de sal, ou em grandes piscinas com água pesada. Mas quantos outros depósitos de lixo nuclear teremos ainda que construir no Brasil?Eles são seguros, garantem os defensores dos depósitos, que são geralmente seus responsáveis. Mas já não basta a quantidade de lixo doméstico e industrial, que se amontoa em aterros sanitários e lixões Brasil afora?
+           Não bastasse a necessidade crescente de locais para armazenar os resíduos destas usinas "salvadoras do planeta", há hoje, e sempre haverá, o risco de acidentes em uma ou outra usina. Questão de lógica, e muito simples: se com poucas usinas já aconteceram acidentes, certamente com mais unidades ocorrerão mais ocasiões em que o mundo ficará boquiaberto, temendo pelas conseqüências de um novo acidente. Se perguntássemos a um antigo morador de Chernobyl, será que ele apoiaria a construção de novas usinas nucleares? Será que esta é a nossa única saída?Infelizmente, talvez sejam necessários outros desastres como o de Chernobyl para que nosso país veja, finalmente, que esta não é uma boa saída para a produção de energia.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,0

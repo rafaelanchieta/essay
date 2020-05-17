@@ -1,0 +1,9 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 8,0
+# title: A geração revolucionária
+Os movimentos sociais são ações coletivas, em que indivíduos com interesses comuns se unem para mudar ou defender uma determinada situação existente. Essas organizações são essenciais para o desenvolvimento das sociedades, uma vez que, utilizando-se o conceito de dialética proposto por Marx e Engels, as ordens sociais existentes são superadas pelas suas contradições internas. As revoltas contra as ditaduras árabes, ocorridas no Oriente Médio, inspiraram diversas mobilizações ao redor do mundo, como por exemplo, o movimento norte-americano "Occupy Wall Street", que luta contra a desigualdade e os problemas gerados pelo sistema capitalista. Os jovens, apoiados pelas redes sociais, constituem a maior parte dos manifestantes, uma vez que estes veem seus futuros ameaçados pelas restrições e problemas de seus países. Os estudantes brasileiros, por sua vez, participaram de diversas reivindicações importantes, como por exemplo, a luta pelas "Diretas Já!", e a campanha dos "caras pintadas", que foi a responsável pelo impeachment do presidente Fernando Collor de Mello. Entretanto, atualmente, os jovens brasileiros lutam contra o preconceito racial e de gênero, buscam maiores investimentos para as universidades, e também combatem a corrupção do governo brasileiro. Portanto,para que a sociedade brasileira evolua, é necessário que esta elimine a concepção de que todo jovem é preguiçoso e inconsequente, e passe apoiar as reivindicações das novas gerações, já queestestêm atuado significativamente contra os problemas e injustiças sociais.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,0
+# C3: 1,0
+# C4: 2,0

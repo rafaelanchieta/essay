@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 270
+# tittle: A gravidez perante aos riscos e a cultura
+A gravidez no período da adolescência pode ocasionar problemas na saúde, além de existir cuidados com a nova vida que está sendo gerada;   O Brasil possui níveis altos de muitos casos de gravidez entre 10 a 20 anos  e somente obteve 17% de redução entre 2004 a 2015. 
+Um fator que influência muitas meninas novas são as culturas dos povos de onde elas se denominam, por exemplo, na Índia as meninas geralmente se desposam com um indivíduo mais velho, a fim de lhe dar um herdeiro ;  O casamento apenas pode ser feito com o consentimento da família e da noiva, porém, todas são preparadas desde o nascimento para o enlace, por isso, se casam e ser tornam mães muito cedo. 
+Os riscos de saúde da gestante que se encontra na fase da puberdade, e também ao bebê  são inúmeros, como o aborto espontâneo, morte no parto da mulher ou somente da criança  ou simplesmente dos dois, pode ocorrer o baixo peso ou subnutrição do feto, entre outros os problemas; A idade recomendada para se ter um filho está entre os 22 e 25 anos, abaixo ou acima desse parâmetro pode ocasionar problemas durante toda a gestação e no parto.
+Primordialmente , perante ao contexto, o corpo da adolescente está em constante desenvolvimento e por isso ainda não se encontra preparado para formar uma vida. Sendo, assim, a responsabilidade da jovem aumentará, e  com isso, algumas das moças acabam abandonando aos estudos, sendo no futuro difícil de cuidar do filho por não ter se adequado para o ambiente profissional; É importante cuidar da saúde e da alimentação, não fazer esforços para não haver complicações durante ao nascimento do filho.
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 50

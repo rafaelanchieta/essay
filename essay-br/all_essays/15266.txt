@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 400
+# tittle: Democratização do acesso ao cinema no Brasil
+Atenas, considerada uma das cidades-estado mais famosas na história da Grécia antiga, foi o cerne para o início da representação cineasta no mundo, já que o teatro e a forte influência cultural da época corroboraram para o surgimento das primeiras manifestações artísticas e o grande público alcançado ao longo do tempo. No entanto, em paralelo a realidade atual, percebe-se que o acesso ao cinema no Brasil tem ganhado grande atenção, pois, se por um lado existem benefícios no que tange ao avanço das plataformas digitais proporcionados para a exibição dos filmes, por outro,  rendem para o crescimento econômico do país. Assim, cabe a análise acerca de causas, consequências e possíveis soluções para o problema. 
+
+Inicialmente, é relevante entender os motivos que levam a compreender a importância da produção do cinema na sociedade brasileira. Durante o regime militar  em 1964, a censura foi a principal barreira que impedia com que artistas expressassem críticas contrárias ou exibissem conteúdos inapropriados para tal ocasião, controlando assim, a exposição midiática.  Entretanto, os filmes têm o intuito de trazer entreterimento a populaçãoe população e ao mesmo tempo,  retratar críticas voltadas a questões sociais, mas,  a exposição constante tem causado impactos negativos, fomentando para várias apologias. Dessa forma, é viável que a liberdade de expressão seja imposta adequadamente e que não cause futuros impactos na sociedade. 
+Além disso, vale ressaltar também que quando ocorre o lançamento de filmes que batem recordes de público, aumentam não somente as chances de propagação e valorização da cultura brasileira, como favorecem para o crescimento da economia do país. A Ancine , para produzir grandes sucessos, é necessário que hajam parcerias, e principalmente, recursos para a propagação do trabalho, ou seja, é um exemplo de produção audiovisual no Brasil . Destarte, é importante que o governo possa investir na projeção de filmes que garantam expandir a formação do povo brasileiro,  através da diversidade. 
+
+Fica evidente, portanto, os fatores que contribuem para o acesso ao cinema no Brasil e as revoluções geradas de forma paulatina . É mister que o Governo Federal, órgão de maior relevância na sociedade, em parceria com a Ancine, realizem projetos que possam levar as produções de cinema com total acessibilidade para escolas, praças e  até mesmo, em comunidades carentes, onde há ausência de locais para a exibição de filmes, garantindo o desenvolvimento sociocultural e econômico do país. Assim, com essas medidas, dever-se-á garantir grandes repertórios e valores, como a sociedade ateniense determinou. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,10 @@
+# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
+# score: 4.5
+# title: Legalização de direitos
+O aborto é uma escolha da mulher. Nós fomos criados com liberdade pra decidir o q é melhor para nós. No caso de muitos povos, a cultura local e aigreja católicaexercem muita influência no modo de pensar da população.
+        Deveríamos proibir o aborto e deixar q crianças violentadas, mulheresdesenformadasquantoáprevenção, e mulheres abaixo da linha de pobreza dêemáluz, colocando em muitos casos a formação, vida e criaçãodesses fetosem risco?A legalização do aborto deve ocorrer para que a mãe exerça a sua vontade quanto ao nascimento do bebê e para mostrar que o papa não tem direito de excomungar os médicos,e as gestantes, por acharem que mesmo havendo grandes riscos não se deve tirar uma vida.Somos animais racionais,pensantes, comdireitospara decidir o que é melhor para nossa vida, enada pode nos tirar esse direito.
+# C0: 1.0
+# C1: 1.0
+# C2: 1.0
+# C3: 0.5
+# C4: 1.0

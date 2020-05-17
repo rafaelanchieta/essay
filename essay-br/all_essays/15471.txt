@@ -1,0 +1,11 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 300
+# tittle: a mente preguiçosa
+A tecnologia trouxe coisas inovadoras para a vida dos brasileiros  porém trouxe também problemas novos  um deles sendo o analfabetismo funcional, a incapacidade de compreender e fazer interpretações dos textos apresentados. 
+Os casos aumentaram extraordinariamente depois da chegada do Smartphone, telefone celular, e sua fácil acessibilidade que faz com os portadores do mesmo não tenha que trabalhar a mente, assim esforçando se para compreender o mundo ao seu redor ,trazendo conforto para o cérebro.  Essa facilidade atrapalha o desenvolvimento mental e social das pessoas que utilizam o aparelho, causando problemas como: antissociabilidade, ansiedade, depressão e analfabetismo funcional que é muito comum em salas de aula no seculo 21 por causa do fácil acesso dado aos alunos,nos séculos anteriores pré-chegada da tecnologia  os alunos haveriam de  procurar interpretar o livro, ou o texto que foi lhe dado, fazer uma tese e entregá-la ao responsável por seus estudo, assim exercitando o cérebro trazendo mais facilidade ao dia-a-dia sem prejudicar a saúde. 
+Para ajudar a diminuir o diagnóstico da deficiência  o Ministério da Educação  deve utilizar ações de propaganda e marketing, para divulgar a porcentagem e assim dar motivação aos novos alunos e às pessoas, seguido por locais públicos de leitura e eventos onde todos possam compartilhar suas opiniões e ideias sobre o que leram. Pois a única coisa que nos difere dos animais é a racionalidade.Perdendo ela, o que nos sobra? 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

@@ -1,0 +1,11 @@
+# prompt: fomos-dominados-pelas-maquinas-que-inventamos
+# score: 5,0
+# title: As Mil Faces da Tecnologia
+A tecnologia está presente na vida de qualquer pessoa, em diversos momentos do cotidiano. Essa existência faz com que as pessoas usufruam e dependam cada vez mais das facilidades que ela proporciona. Entretanto,existe aqueles que se viciamde forma negativa e, ainda, os que são excluídos de alguma forma da sociedade por não aderirem a essas novidades.
+        Os jovens são, sem dúvida, os maiores beneficiados com as facilidades provenientes das máquinas. Eles possuem maior capacidade de aprendizagem e absorvem as informações necessárias em menos tempo. Hoje em dia, é raro encontrar um adolescente sem celular ou sem algum meio de acesso à internet. É incrível a rapidez com que a informação chega às pessoas: o que antes levava semanas ou meses para se tomar conhecimento, atualmente não passam de horas ou, até mesmo, minutos.Ocorre que nada em excesso é bom, e tal fato não é diferente em relação à tecnologia.O grande número de carro nas ruas ocasiona, todos os dias, em São Paulo, um engarrafamento de mais de cem quilômetros. A tamanha quantidade de páginas na internet pode também ser vista como banalização da informação, permitindo muitas vezes a propagação de falsas verdades, afinal, é praticamente impossível fiscalizar cada site da rede.
+            Apesar de alguns acharem, por exemplo, que há coisas que podem ser ditas de um jeito melhor por telefone ou via internet, há outros que crêem que isso afeta as relações entre as pessoas e que, ao longo do tempo, elas perdem a capacidade de se expressar pessoalmente.A realidade é que a máquina foi, é e será criada a fim de ajudar o ser humano. Com certeza a vida de inúmeras pessoas seria muito mais complicada sem geladeira, celular ou carro.Basta, apenas, cada um definir até onde a tecnologia deve entrar em sua própria vida.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

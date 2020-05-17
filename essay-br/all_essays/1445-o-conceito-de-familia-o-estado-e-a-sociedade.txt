@@ -1,0 +1,14 @@
+# prompt: o-conceito-de-familia-pode-ou-nao-pode-mudar
+# score: 3,0
+# title: O conceito de família: o Estado e a sociedade
+O conceito de famíliadividediferentes definições na sociedade atual. Cada grupo social tem sua definição sobre o assunto, cabe ao Estado formalizar o que é realmente
+         “certo” . Segundo a descrição estabelecida pelo Estatuto da Família, o grupo familiar é constituído por uma união entre um homem e uma mulher ou uma comunidade formada por qualquer descendente . Entretanto, o Estado defende uma tradição ,queembora sejacorreta, precisa ser adequada para adicionar outras constituições de família, como uma união homoafetiva.
+         A garantia dos direitos sociaisestão desatualizadospois nãoincluemtodos os cidadãos.
+         Trata-se de uma legislação pouco abrangente, incapaz de atualizar às mudanças da sociedade, como incluir uniões LGBT’s (Lésbicas, Gays, Bissexuais e Travestis).A opinião pública da massaé bastante influenteaoGoverno, no entanto, minorias são prejudicadas. ApesardoEstado ser considerado laico, sabe-se que a religião, sobretudo a cristã, é muito respeitada, de modo que algumasconcepções são instituídas pelo poder público público também.
+          A fim de expandir os direitos da família e redefini-lo. O Governo deve desconsiderar opiniões individuais sobre alguns assuntos e atender aos direitos de minorias. O conceito de família precisa ser reformuladoà evolução social,
+         capaz de reconhecer que o grupo LGBT pode estabelecer uma unidade familiar, podendo assim serem favorecidos por condições mínimas de sobrevivência.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

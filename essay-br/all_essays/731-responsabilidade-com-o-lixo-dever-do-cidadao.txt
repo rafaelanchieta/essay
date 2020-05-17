@@ -1,0 +1,11 @@
+# prompt: lixo-questao-de-cidadania-e-responsabilidade-social
+# score: 5,0
+# title: Responsabilidade com o lixo, dever do cidadão
+O Brasil vem enfrentando a frenética produção de lixo causada pelo consumo desenfreado. Com isso, chegou-se a uma situação de desconforto com relação ao destino final dos resíduos sólidos , acarretando desequilíbrios ecológicos, além de pôr em risco a dinâmica natural do planeta . É importante ressaltar que o limite físico dos depósitosadequados, estáse esgotando. Logo, precisa-se de medidas
+         paliativas. Nota-se que a reciclagem é uma delas, no entanto não existem empresas suficientes para suprir a demanda de lixo . Por isso, o cidadão deve reeducar-se, afinal é seu dever . Por um lado existem pessoas que sobrevivem reaproveitando o que é despejado nos lixões. Por outro, há organizações governamentais e não governamentais, a fim de acabar com essa posição de miséria .Estesórgãos empenham-se parapropôrsoluções, tais como o fechamento dos lixões e redução de
+         resíduos orgânicos . Essa situação só diminuirá quando a população perceber que o lixo não é apenas responsabilidade do poder público. Portanto, deve-se planejar desde as compras, até o seu descarte. O reaproveitamento de resíduos proporciona economia, gera empregos, além de reduzir os impactos causados no meio ambiente.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,12 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 350
+# tittle: A importância da floresta amazônica
+A floresta amazônica vem sofrendo há muito tempo com o desmatamento e as queimadas. Alguns enxergam essas práticas como uma ação necessária ao suprimento das necessidades do ser humano, outros veem como um dos maiores problemas ambientais da atualidade. 
+As principais consequências estão relacionadas ao meio ambiente. Ao desmatar, compromete toda a biodiversidade da área. Espécies de fauna perdem seu habitat e espécies da flora podem entrar para a lista de ameaças a extinção, causando assim um enorme desequilíbrio ambiental. 
+De acordo com o INPE , dados apontam que no mês de julho de 2019 o desmatamento aumentou em 278% comparado a julho do ano anterior. E isso tem gerado preocupação, pois a amazônia é responsável pelo equilíbrio ambiental do mundo todo. 
+Portanto, medidas precisam ser impostas para minimizar esse problema. É essencial que o governo desenvolva campanhas de preservação ambiental,  através dos meios de comunicação. Assim, podemos  preservar a floresta amazônica que há tempos vem sofrendo. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

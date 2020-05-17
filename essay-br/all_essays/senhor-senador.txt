@@ -1,0 +1,13 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 400
+# title: Senhor Senador,
+Senhor Senador,
+A ciência que circunda os OMGs faz parte de uma área de pesquisa incrível. Ela continua inovando e proporcionando recursos que muito agrega  à sociedade. Entretanto sua atuação no âmbito alimentício não é vista com bons olhos e produtos em que sua presença seja maior ou igual a 1% recebem um triangulo amarelo. Símbolo este, que  desvaloriza os transgênicos como um todo, mas é de extrema importância para o consumidor. 
+A negatividade que acompanha o adjetivo é advinda do temor e especulação das prováveis consequências que o consumo de alimentos geneticamente mutados  poderiam trazer ao corpo. Dentre elas o câncer.  
+A modificação genética tem se mostrado perfeitamente eficaz ao longo dos anos no que tange a  produção alimentícia, seja no uso de enzimas para a coagulação de laticínios ou  aprimoramento das características de frutos e vegetais nos seus ciclos de cultivo. Porém  um parêntesis precisa se aberto,  devido a sua pluralidade os transgênicos, possuem  dentre eles um cultivo que conserva alta resistência contra herbicidas. Característica  que não tem se mostrado útil a longo prazo  pois as ervas daninhas têm se adaptado aos herbicidas, o que resulta num uso potente. Não obstante este é o transgênico mais presente em lavouras atualmente. 
+Por isso em meio a uma extensa lista de produtos que se esquivam  com embalagens coloridas e letras minúsculas a presença do famigerado triangulo  é de grande necessidade para a informação do consumidor, e mesmo  que a maioria destes consumidores  prefira se manter alheia a estas informações  é importante que o princípio da clareza seja mantido.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 100

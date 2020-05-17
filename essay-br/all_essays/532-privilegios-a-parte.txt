@@ -1,0 +1,14 @@
+# prompt: reforma-politica-no-brasil-qual-o-melhor-modelo-de-votacao
+# score: 2,5
+# title: Privilégios à parte
+Todos os anos após as eleições, vemos discussões no Superior Tribunal Eleitoral, sobre a questão de deputados que mudaram de partido, mas foram eleitos com o voto do partido de origem. Para muitos a solução de problemas comoesseseria o votodestrital. Porém, esse sistema de votação elitiza o ingresso na vida política e não acaba com a grande influência partidária.
+        É fato que o modelodestritaldiminui gastos com a campanha.
+          Contudo, o indivíduo com menos representação política será prejudicado, ou seja, os políticos com menos influência dentro do partido - principalmente os com pouco poder aquisitivo- raramente serão nomeados por grandes legendas, que irá dominar as eleições. Além disso, há o perigo dosdestritosnão serem representados efetivamente por políticos locais, já que as filiações são submissas a vontade da sede partidária.
+          O que já comprova a elitização da política nesse sistema é a própria bancada dosenadodo sistema atual.
+            Não é preciso conhecer resultados de pesquisas para saber que a maioria dos senadores são deoligaquiasou aliados a elas.
+            A busca por um sistema eleitoral mais justo, tanto para candidatos e partidos mais influentes, quanto para os de menor influência, ainda deve ser muito estudada. Uma opção seria o Voto Proporcional Misto, pois o melhor político (na escolha do povo ) , independente do partido, será eleito e os que representam as ideias de seu partido também.
+# C0: 0,5
+# C1: 0,5
+# C2: 1,0
+# C3: 0,5
+# C4: 0,0

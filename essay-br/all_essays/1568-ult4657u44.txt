@@ -1,0 +1,11 @@
+# prompt: nacional-ou-importada-qual-a-cara-do-brasil
+# score: 9,5
+# title: Brasil: um país de muitas faces
+O Brasil é um país multifacetado. Esta característica, comum a países com múltipla formação cultural, acentua-se numa nação que apresentavultosasdimensões geográficas. Nesse contexto,faz-se imprescindívela manutenção de uma identidade nacional, ou melhor, de elementos que valorizem a cultura interna, sob pena de tornar-se uma nação refém de valores estrangeiros.
+         A cultura brasileira é de natureza rica, poistraz em seu âmago, desde o processo de colonização, umvasto cabedal- indígena, europeu e africano -moral e cognitivo. Contudo, esse conjunto, ao se espalhar por todo o território nacional, em épocas distintas, diluiu-se, resultando na "existência de vários países em um".Ademais, o fenômeno capitalista, aliado à explosão tecnológica, diminuiu as fronteiras mundiais, provocando sobretudo a influência dos países desenvolvidos sobre os demais. Por conseguinte,não obstantea riqueza brasileira, o estrangeirismo,notadamenteo norte-americano,faz-se presenteno dia-a-dia do povo brasileiro.
+             Talvez a manifestação artística, no sentido amplo, seja a salvação para a constituição duma identidade nacional. É através da arte que um povo se vê, conhece-se e tem orgulho de si próprio. A auto-estima - às vezes tão abalada pelos problemas sociais - é o combustível dum povo; a língua, fonte de poder. Os brasileiros necessitam de novas tarsilas e novos oswalds.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 2,0
+# C4: 2,0

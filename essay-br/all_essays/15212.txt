@@ -1,0 +1,13 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 290
+# tittle: A importância da vacina
+Observa-se que tal cenário é maléfico, visto  que atualmente doenças erradicadas estão ressurgindo inesperavelmente . Além disso, nos últimos anos a porcentagem da cobertura vacinal vem decaindo, as pessoas estão deixando de se vacinar e existem lugares onde   as vacinas não chegam. 
+O sistema imunológico recebe a vacina com os agentes patogênicos  a fim de que causa uma resposta do organismo. É de fundamental importância a população ser conscientizada  de forma que mantenham sua caderneta de vacinação em dia. 
+A vacina é o maior mecanismo de defesa contra as doenças, além do mais é extremamente importante estar prevenido. No Brasil, a taxa de cobertura vacinal vem caindo , bem como doenças erradicadas estão voltando. 
+No Brasil muitas pessoas estão deixando de vacinar por consequências de falsas notícias e falta de informações  e também pessoas que não são vacinadas pela a falta de vacina em sua região. 
+Dessa forma é evidente a necessidade de que as campanhas de vacina passem por melhorias, em virtude de que as vacinas cheguem nas áreas mais afastadas do Brasil onde   as pessoas não estão sendo vacinadas e que as campanhas conscientizem as pessoas e importância de se vacinar. 
+# C0: 100
+# C1: 100
+# C2: 20
+# C3: 50
+# C4: 20

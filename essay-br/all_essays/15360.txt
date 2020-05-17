@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: Gravidez precoce: um problema?
+A gravidez na adolescência se tornou algo recorrente nos últimos anos, destacando o Brasil, onde que estudos realizados pelo IBGE ,  apontam que essa fase de transição de criança para adolescente,  se inicia próximo dos 12 e encerra aos 20 anos.
+Durante essa “ocorrente” na vida do jovem,  seu corpo apresenta os chamados picos hormonais , sendo neste período que a gravidez alcança seu maior número. Um dos motivos condizentes para a atual situação que assola a realidade dos jovens, em especial as meninas, destaca-se a falta de conscientização. 
+A OMS  em 2017 aponta que nos casos de gravidez na adolescência, 30% das meninas não concluíram o ensino médio, aumentando este percentual em 5% no nordeste, liderando o ranking como a região com a maior taxa de gravidez, contribuindo para que o Brasil tenha a maior média na América Latina. 
+A falta do uso de contraceptivos é um fator que contribui para o aumento deste número, onde que na maioria dos casos, muitas das vezes, não são usados por falta de conscientização. Deve-se levar em conta o fator psicossocial, levando em conta  que uma gravidez precoce pode afetar drasticamente a vida dessa pessoa, abalando seu emocional  podendo fazer mal a sua sanidade mental e física. 
+Para que este “problema” possa ser evitado na sociedade, a solução viável seria investir em campanhas de conscientização e estimular o uso de contraceptivos por meio de propagandas ou de outras formas , contribuindo para a diminuição desse índice. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,13 @@
+# prompt: A onda conservadora e o Brasil nos próximos anos
+# score: 480
+# title: O Brasil é conservador
+Nunca se falou tanto no país em direita e esquerda, em conservadorismo e liberalismo, talvez, depois de 1964, temos  a maior polarização política nesses últimos tempos, em  2010, era considerado quase um crime se declarar de direita, com  isso surgiram dois grandes problemas, o primeiro é que o Brasil é um país conservador,  segundo é que em consequência deste  conservadorismo, algumas ideias liberais modernas dificilmente serão bem recebidas.
+Em 2010, o IBGE (Instituto Brasileiro de Geografia e Estatística) divulgou o censo sobre religião declarando que o 86,8% do Brasil é cristão , em sua maioria católica. Isto  por si só  já prova o quanto o país é conservador, em  agosto de 2018  o Datafolha publicou uma pesquisa onde  que 59% dos brasileiros eram contra a legalização do aborto. Alguns comentaristas políticos  durante uma programação na rádio Jovem Pan de São Paulo, pouco antes das eleições, tinham afirmado que estas seriam decididas em  pautas morais.
+Consequentemente  o lado mais liberal dessa história foi perdendo espaço, pra  se ter uma ideia  o país está com mais de 13 milhões de desempregados, segundo o IBGE, mas a população parece está mais preocupada é em  assuntos como: casamento  gay,  aborto,  pena de morte, armamento , entre tantos outros. Um importante fator para a decadência da esquerda brasileira foram as mídias  sociais, pela qual a população passou a acompanhar mais de perto o passo a passo deste movimento e viu que suas ideias feriam os seus princípios.
+Diante disso  está mais do que provado que o Brasil é um país conservador e que não vai, pelo menos nos dias atuais, se amoldar a esse sistema liberal que bate de frente com seu moralismo, quem sabe talvez daqui a uns 50 anos isso pode mudar, mas a única certeza que se pode ter é que o país não quer negociar seus princípios, as eleições presidenciais de 2018 provaram que os números estatísticos estão certos pois 
+Estas eleições estavam bem polarizadas entre conservadorismo e liberalismo.
+# C0: 120
+# C1: 120
+# C2: 80
+# C3: 80
+# C4: 80

@@ -1,0 +1,18 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 6,0
+# title: Ler é poder
+Oinstituto, Pró-Livro, revela que, háuma crescente redução no hábito de leitura, principalmente entre jovens e crianças,
+         asquais, leemsomente por dever escolar. A partir dessas informações, um grupo de escritorestêmrealizado e defendido a simplificação de grandes obras literárias, a fim de estimular a leitura.
+         Estudiosos eliteráriosficaram indignados com a possibilidade de tal
+         flexibilização . Segundo Benedito Antunes, professor da Unesp, a simplificação de clássicos não facilitará a formação de leitores, poisesteé um processo complexo e que passa por âmbitos sociais e econômicos.
+         No entanto, a ideia central dos"simplificadores", éjustamente fazer com que todos os públicos sejam atingidos, independente da idade e posição social. A
+         flexibilização de grandes clássicos está baseado no fato deque, muitosjovens deixam de ler grandes obras, porqueestasexigem um
+         domínio literário e linguístico superior aestepúblico.
+         Assim, esse debate vai além da flexibilização da linguagem de um livro em si, passando pelo aspecto social e educativo do públicooqual se está falando. A leitura é essencial para o desenvolvimento humano eesta nãodeve ficar restritaàum gruposocial, maisdesenvolvido intelectualmente do que outro. Todos têm o direitoacultura e ao lazerese a sociedade for beneficiada com a simplificação dos livros, não há porque de tanta
+         histeria por parte dos linguistas . Em suma, sabe-se que a educação enaltece um país. Sendo assim, qualquer ação a fim de melhorar o desenvolvimento linguístico e literário deve seraceito. Tendo em vista que, a partir do momento em que o indivíduo desenvolve o gosto pela leitura,este futuramente, passaráa procurar livros mais
+         completos e audaciosos .
+# C0: 0,5
+# C1: 2,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

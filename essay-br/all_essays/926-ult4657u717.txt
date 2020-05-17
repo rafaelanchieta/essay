@@ -1,0 +1,13 @@
+# prompt: o-que-e-ser-homem-nos-dias-de-hoje
+# score: 4,0
+# title: [Sem título]
+O comportamento masculino sofreu mudanças significativas ao longo dos anos. A visão machista que os homens exerciam sobre a sociedade teve uma degradação de valores morais(a), apesar de alguma porcentagem da população masculina ainda utilizar esse pensamento no seu cotidiano(b). Atitudes desumanas e ações sem escrúpulos são características notáveis do movimento machista(c). O modo ofensivo como eles(d) se referem às mulheres é extremamente irracional e portador da falta de bom senso(e).Diversos métodosforam utilizadospara amenizar a situação vergonhosa que surgiu(a) , mas tais maneiras de combater esse movimento foram em vão, como campanhas utilizando a mídia e seus meios de comunicação para divulgar a notícia(b) contra o machismo. O orgulho e preconceito dos homens contra as mulheres são sentimentos complicados para poderem ser revertidos em algo construtivo(c) . Entre indivíduos do sexo masculino ocorrem competições para provar quem é mais "macho" e isso acaba distorcendo a noção de dignidade que cada um possui. Umciclovicioso de ignorância
+          envolve a mente de cada ser volúvel promovendo pensamentos um tanto irracionais em relação às mulheres (d). Deve-se ressaltar que alguma parte da população masculina já avaliou seus conceitos primitivos sobre a competência e importância das mulheres atualmente no mundo(a) e deixaram as diferenças à parte. Para o sexo feminino este foi um avanço significativo na luta por igualdade e democracia na sociedade(b) . O respeito é fundamental para se obter um ambiente sociável e produtivo. Medidas sérias têm queseremtomadas para reduzir drasticamente essa visão manipuladora que é o machismo. Todos
+              os seres(a)independentemente do sexomerecem apreço e valorização. É de vital importância saber os limites que cada um possui,
+              pois se não ultrapassar a privacidade ou o ponto de vista de cada pessoa(b)será possível reverter esse quadro repulsivo em que se encontra a humanidade.
+              A opinião de cada indivíduo é crucial desde que haja um extremo e que quando alcançá-lo saiba refletir e agir racionalmente.(c)
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

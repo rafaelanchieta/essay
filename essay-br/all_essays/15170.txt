@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 500
+# tittle: A importância da vacinação
+As campanhas de vacinação auxiliam milhares de cidadãos, alvo de todos os tipos de público . Contudo, mesmo após a ampliação da imprensa no Brasil  por volta de 1970, o país ainda possui enormes dificuldades na distribuição de vacinas em várias regiões do interior, tornando necessário a tomada de novas ações que resolvam definitivamente a questão. 
+
+Ao longo dos últimos anos, o número de gestantes, grávidas   e crianças imunizadas por doença virais têm aumentado no Brasil, pois houve um aumento de 30%  em prevenções ligadas ao sexo feminino  e de 2010 até os dias atuais os dados progrediram de 6% para 12% as imunizações para faixas etárias de 6 e 10 anos. Todavia, várias patologias tropicais continuam afetando as crianças do país, haja vista que apenas em 2015 a Secretaria de Saúde registrou 411 mortos relacionados a gripe H1N1. 
+Entretanto, muitos obstáculos dificultam a resolução do impasse . Assim, a Receita Federal deve investir uma parcela maior dos impostos arrecadados para organizações governamentais , para que haja distribuição de vacinas e remédios nas regiões do interior no país. Para Immanuel Kant,  "O ser humano é aquilo que a educação faz dele". Assim sendo, o MEC instituirá nas escolas palestras ministradas por psicológos, para que discutam a respeito da importância das campanhas e da prevenção coletiva. Logo, será possível ao menos,  garantir a harmonia defendida por Kant, diante da Ordem e o Progresso estampado em nossa   bandeira. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 100

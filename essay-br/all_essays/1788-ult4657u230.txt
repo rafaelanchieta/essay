@@ -1,0 +1,9 @@
+# prompt: favela-e-cidade-as-distancias-sociais-desapareceram
+# score: 3,5
+# title: As favelas em nossa sociedade
+A cada dia que passa surgem novas favelas nas cidades do nosso país, mas como sempre está presente a desigualdade social, em que poucos têm muito e muitos têm pouco. As favelas estão aumentando a cada dia que passa e caminha junto com esse aumento a violência. Muitos não gostam das favelas, pois elas estragam a paisagem da cidade, deixam uma má aparência ou até deixam a cidade suja,mas as favelas é a opção de algumas pessoas.A violência nas favelas é muito grande, um exemplo é afavela da rocinha no Rio de Janeiro, onde os policiais têm que cercar a favela para tentar diminuir a "guerra" que ocorre entre traficantes, como, por exemplo, tiroteio, bala perdida, pessoas que estão passando pela favela e morrem. Quem vive em favelas, muitas vezes nãotêmcomo se sustentar e está desempregado, passando necessidades, mastêmem suas casas até televisão. Mas será que toda a população das favelas é formada por pessoas que não têm condições para se sustentar? Nem sempre é isso que acontece, poismuitas das pessoas que lá habitam, escolhemesta opção por não precisar pagar impostos, fazem uma ligação clandestina de energia elétrica em suas casas, assim não têm gastos. Nas favelas não existem apenas drogas, traficantes ou pessoas más, existem também pessoas boas que estão dispostas para melhorar a sociedade, mas a sociedade não vê esse lado bom da favela e prefere olhar apenas o lado mau.Mas é impossível acabar com as favelas, pois não há nenhuma maneira de tirar as pessoas que moram nesses lugares mesmo não sendo uma forma legal de moradia é direito dessas pessoas ter um lugar onde morar e criar suas famílias. Então é melhor as pessoas se acostumarem com as favelas e aceitarem que elas entrem de vez em nossa sociedade.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

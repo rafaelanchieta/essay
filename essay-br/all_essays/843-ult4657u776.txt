@@ -1,0 +1,15 @@
+# prompt: o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico
+# score: 0,0
+# title: Castigo ou educação
+O castigo fisicovêmse
+        tornando mais comum nas conversas entre crianças e adolescentes, mas com o novo projeto de lei queproibeo castigo fisicoàcrianças e adolescentes, o cenário irá mudar completamente
+        . Castigar para educar? Seráserealmente é preciso que os pais tomem esse tipo deação?
+          Como a maioria da população é contraànova lei, dá para perceber que o cenário continuará o mesmo
+          . A educação é algo muito importante para o desenvolvimento de nosso país, por conta disso que esta leivêmsendo implantada, o ministro da Secretaria Especial de Direitos Humanos, Paulo Vannuchi,
+            disse que o alvo principal do projeto não é o "beliscão ou a palmadinha", mas casos como de Isabela Nardoni, menina que morreu após cair de um prédio em São Paulo e cujos pais foram condenados pelo crime. O Presidente falou logo depois e discordou de Vannuchi, "O Paulinho falou duas vezes em beliscão, mas beliscão dói prá cacete" . Medidas ainda estão sendo tomadas para que a educação de nosso país não fique em umnívelprecário,
+            por isso a lei também vale para qualquer tipo de pessoa. Entretanto a sociedade deve apoiar a lei pensando em um ensino melhor para nosso país, sendo assim chegamos ao nivel de educação de primeiro mundo.
+# C0: 0,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

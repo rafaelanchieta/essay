@@ -1,0 +1,11 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Uma Questão de Atitude
+A gravidez é uma realização muito grande na vida de uma mulher.  Logo, não pode de maneira nenhuma ser precoce.  Hoje já se pode fazer sexo sem fazer filho. Antigamente a mulher não tinha essa escolha, nascia só para parir e criar os filhos. Agora, os contraceptivos deram o poder de escolher a hora de ser mãe. E a ciência a cada ano vem evoluindo as possibilidades de retardar a hora da maternidade. A gravidez precoce pode trazer muitos problemas, para o corpo jovem que ainda está em formação, e precisa de nutrientes, para ficar 100% pronto para a reprodução. 
+Quando o corpo não está totalmente pronto para se reproduzir, pode acarretar em graves consequências  tanto para a mãe quanto para o feto. Patologias como eclampsia, que traz alto risco de mortalidade nas gestantes precoces, e no feto. Anemia, hemorragia e até depressão pós-parto são mais frequentes na gestação precoce . É de grande responsabilidade do governo, da família e da sociedade geral,  que se fale sobre os riscos de uma gravidez precoce. É preciso cuidar do corpo, da mente e do espirito antes de se pensar em ter um filho. Filho não é brinquedo é responsabilidade para a vida inteira. 
+Para que essa situação mude é preciso que o sistema de educação sobre reprodução humana também mude . E alerte as meninas de 11 aos 19 anos sobre os riscos real de vida.   Além de todas as consequências principalmente para a mulher de uma gestação não planejada e desejada.   A mulher já tem o poder de escolher quando quer ser mãe. Só com essa mudança total de atitude das Escola, famílias e sociedade será possível frear essa fábrica desnecessária de crianças gerando crianças. Criança indesejada é sinônimo de adulto infeliz. A ciência ajuda, a família e a escola esclarecem, as meninas obedecem que só serão mães, quando poder dar ao seu filho os cuidados e a vida que ele merece. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 450
+# tittle: Qual importância de valorizar e garantir os direitos dos povos indígenas no Brasil?
+Em pleno século XXI,  diversos grupos sociais ainda lutam para garantir seus direitos. Não menos importante, os povos indígenas, no Brasil, possuem entraves na garantia dos seus direitos no que tange a sua dignidade humana, apesar de esse grupo social ser um patrimônio histórico e cultural do país. Nesse sentido, valorizar e garantir os direitos do indígenas é de suma importância para a identidade nacional brasileira. Desse modo, cabe analisar esses pontos importantes supracitados e suas entraves , considerando a intervenção do aparato estatal para reverter esse quadro.
+
+Em primeira análise, deve-se pontuar que os direitos dos povos indígenas não vêm sendo garantidos em razão da política-estrutural do Brasil. Já que,  na formação do Estado brasileiro, do século XVI ao XXI, houve uma invisibilidade sócio-cultural,  dos povos indígenas e dos demais grupos sociais, como forma de manipular as pessoas e manter sobre elas. Hoje, esse entrave deixa esses povos sem dignidade humana; e, consequentemente, desprovidos de direitos, haja vista que, embora a Constituição de 1988 afirme que todos são iguais em dignidade e direitos, há brechas no aparato estatal que permitem a ocorrência da invisibilidade sócio-cultural dos índios até então. Sob essa perspectiva, é preciso garantir os direitos desses povos brasileiros frente a notoriedade de não ferir a Constituição no que diz respeito a dignidade humana. 
+Ademais, esse quadro é ainda corroborado pela desvalorização dos índios no Brasil. Tristemente, boa parcela da sociedade brasileira não compreende a importância dos povos indígenas na construção identitária do país devido a resquícios xenofóbicos da era colonial. Em contraste, no livro "O triste fim de Policarpo Quaresma", do escritor brasileiro Lima Barreto, o protagonista defende o uso da língua Tupi Guarani como oficial do Brasil - pois ela que realmente seria nosso  dialeto materno - com a finalidade da sociedade romper com as visões eurocêntricas e valorizar a cultura originada no Brasil. Dessa forma, uma mudança nos valores da sociedade catalisaria a valorização dos povos indígenas e consolidando, portanto, a identidade nacional. 
+ 
+A fim de reverter esse quadro, o Governo Federal, juntamente com a Fundação Nacional do Índio , deverá implementar o centro ''Identidade indígena é nossa identidade nacional'' nas esferas municipais e estaduais do país. Esse centro,  oferecerá palestras e documentários ministrados por representantes indígenas para a sociedade brasileira,  como forma de valorizar os índios. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

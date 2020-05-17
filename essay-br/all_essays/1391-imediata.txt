@@ -1,0 +1,11 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 4,0
+# title: Solução imediata
+E já dizia a filosofia, o homem é um ser singular, autônomo, pensante, original, motivável e principalmente de pensamento livre e sem limites.Aiestá o problema, até que ponto podemos chegar?
+         O problema sempre foi e sempre será o mesmo: o ser humano e sua mania descontrolada de agir porimpulso. Assimesquecendo sua
+         ideologia , desobedecendo as leis, e fazendo coisas banais . Temos como exemplo as manifestações, que deveriam ser uma forma de expressar a luta por uma democracia justa , criticar o sistema falho e a injustiça . Mas o que acontece na maioria das vezes é uma sanguinária luta por sobrevivência , espancamentos e várias formas de vandalismo. Portanto, para evitar esses tipos de problemas, deve existir bom senso e organização tanto da parte dos manifestantes quanto da dos policiais. Algumas ótimas ideias seriam usar as redes sociais e a mídia para divulgar campanhas pacificadoras; aumentar a fiscalização quando acontecesse tal evento, e por último usar a expressão sem limites para boas causas.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

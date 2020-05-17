@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 350
+# tittle: Movimento antivacina e a volta das doenças erradicadas no Brasil.
+O movimento antivacina vem acontecendo no mundo inteiro e preocupa os especialistas da saúde no Brasil, esse movimento cresceu com o passar dos anos em 2019 a queda de vacinação foi aproximadamente de vinte porcento sendo que em 2014 noventa e cinco porcento da população se vacinava e isso fez com que os responsáveis pela saúde criassem um alerta sobre a importância da vacinação e a possível volta de doenças consideradas erradicadas no país. 
+
+Doenças essas como o sarampo que foi considerada erradicado em 2016 , mas mais em 2019 voltou a aparecer e já teve mais de 3.000 casos só na capital de São Paulo e vem aparecendo em todo o país , também tem a poliomielite o Ministério da Saúde emitiu um alerta onde 312 cidades brasileiras correm o perigo da reintrodução da doença. 
+
+A falta de campanhas e vacinas para municípios menores também influenciou nessa queda, pois muitas pessoas queriam se vacinar mais não tinham em suas regiões as campanhas , já o movimento antivacina são pessoas que não querem se vacinar e tentam impedir as outras desse vacinar espalhando notícias falsas, estudos mentirosos ou não comprovados e principalmente boatos pelas redes sociais ou em seus bairros de pessoas que se vacinam e tem problemas de reações que pode levar até a morte, isso acaba influenciando as pessoas principalmente mães que ficam com medo de vacinar seus filhos por culpa desses boatos. 
+Uma das maneiras de combater esse movimento antivacina é informando as pessoas seja pela internet ou em palestras em escolas, praças em diversos lugares com bastante público  assim desmentindo os boatos e mostrando a importância da vacinação e o perigo de trazer doenças erradicadas novamente para o país  podendo causar uma epidemia e diversas mortes para aqueles que não se vacinarem. 
+
+O governo devia devia  organizar melhor as campanhas e espalhar corretamente as vacinas pelo país ver em que cidades tem maior risco de epidemia  e tem menos campanhas levar essas vacinas para locais mais afastados e de difícil acesso, podendo assim combater o movimento antivacina e salvar mais vidas e mostrar que as vacinas são o melhor meio de combater doenças. 
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

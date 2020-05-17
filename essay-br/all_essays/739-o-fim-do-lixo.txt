@@ -1,0 +1,13 @@
+# prompt: lixo-questao-de-cidadania-e-responsabilidade-social
+# score: 9,5
+# title: O Fim do Lixo
+Muito se fala sobre crescimento sustentável,parece sero assuntonas agendas políticas internacionais. Contudo, devido ao modelo de sociedade capitalistaimplantado, poucas ações efetivas estão sendo tomadas. Medidas simples, tais como a conscientização da população sobre a importância do lixo, bem como deste para a economia, devem ser implantadas.
+         É necessário que a população deixe de ver o lixo como simples "restos" e passe a vê-lo como fonte de recursos. Tudo deve ser reaproveitado, os recicláveis têm de retornar à indústria como matéria prima básica, preservando, assim, os escassos recursos naturais. O lixo orgânico pode ser uma excelente fonte de adubo ou gerador de gás a ser utilizado em processosfabris. Dessa forma diminuiria o impacto ambiental causado por esses resíduos.
+         Outro aspecto importante é resgatar as pessoas que hoje sobrevivem dos "lixões" edevolve-las adignidade. Inserindo-as
+         na e para a economia, valorizando um trabalho,separae classificar o lixo, o qual deverá ser feito para benefício de todos.
+         Com essas simples medidas, o verdadeiro desenvolvimento sustentável começaria a ser posto em prática. A exploração dos recursos naturais e o impacto ambiental reduziriam drasticamente, pois grande parte do que já foi explorado retornaria parafomentaros mercados. Pessoas que parecem estar sendo confundidas com o lixo teriam papel fundamental na sociedade, passando a exercer atividade primordial parao capitalismo.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 2,0
+# C4: 2,0

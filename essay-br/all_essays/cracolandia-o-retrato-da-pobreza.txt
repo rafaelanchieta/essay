@@ -1,0 +1,12 @@
+# prompt: Internação compulsória de dependentes de crack
+# score: 750
+# title: Cracolândia: o retrato da pobreza
+Desde a origem do crack na década de 1970, muitos países já sofreram uma epidemia com essa  droga. O Brasil não é diferente e está passando por problemas com as chamadas cracolândias. Tentando mascarar o problema, a prefeitura de São Paulo aposta na internação compulsória para as cracolandias  desaparecerem do mapa. Apesar da iniciativa, o verdadeiro problema tem raizes  profundas na sociedade brasileira.
+O Brasil é um dos países que mais consome crack no mundo, e  essa fuga da realidade descende dos problemas sociais enraizados nesse país . Segundo o neurocientista Carl Hart, a desigualdade social é um dos principais motivos para o consumo da droga, fato que concorda com a pesquisa da Fiocruz onde  afirma que 80% da população na Cracolândia tem  pele escura.
+A internação compulsória não soluciona o problema, sendo apenas uma forma de exclusão social onde  se elimina o indesejável tentando apontar o problema apenas no vicio . Alguém com dependência química não deve ser excluido , mas reajustado na sociedade com uma nova proposta de vida, algo que o faça trocar o crack, como uma carreira, família ou uma paixão.
+A violência e repressão da internação compulsória, mesmo que justificada, não tem poder para acabar com a Cracolândia , programas de reinstalação social com psicólogos para usuários seriam eficazes nos casos menos agressivos. Nos casos de dependência critica , com probabilidade de suicídio  a internação é justificada. Em todos os casos  a família é importante como uma forma de apoio. Controle do tráfico e anúncios sobre os riscos do vício podem refrear novos casos. Além de tudo, a construção de uma sociedade com menos desigualdades podem  levar o retrato da pobreza  a diminuir gradualmente, contribuindo para um Brasil melhor no futuro.
+# C0: 150
+# C1: 200
+# C2: 150
+# C3: 150
+# C4: 100

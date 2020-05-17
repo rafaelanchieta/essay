@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 450
+# tittle: Adolescência Interrompida
+A gravidez precoce, segundo a Organização Mundial da Saúde , é constatada quando uma menina engravida entre os 10 e os 19 anos. Tendo em vista que boa parte das mães adolescentes abandonam os estudos ou colocam os bebês para a adoção, aliado aos riscos que a gestação traz para a saúde e ao fato de, nesta idade, não haver preparação física e psicológica para iniciar uma família, constata-se que a gravidez precoce é sim um problema. 
+Segundo o levantamento do movimento Todos pela Educação, das 415.000 mães entre 15 e 17 anos, 310.000 estão fora da escola. Dado que pode ser facilmente comprovado já que, durante a gestação até o primeiro ano do bebê, as mães passam por necessidades, dificuldade de locomoção, dores e ainda pelo período de amamentação, o que as levam a abandonar os estudos  gerando impactos socioeconômicos e prejudicando seus futuros profissionais. 
+Ainda existem casos em que as gestantes optam por entregar seus filhos para a adoção, contudo, tal meio conta com uma fila de espera com mais de 8,7 mil crianças e adolescentes, segundo consta o Cadastro Nacional de Adoção . Ademais  na adolescência, nota-se a falta de maturidade e preparação para cuidar de um filho, principalmente da parte paterna haja vista os inúmeros casos de mães solteiras e pais que não assumem os filhos. 
+Considerando que a adolescência não é a fase mais adequada para se ter um filho, é necessário que as escolas possuam matérias e professores capacitados para aulas de educação sexual, a fim de esclarecer as consequências da gravidez precoce e instruir os jovens sobre os métodos contraceptivos  com o intuito de evitar tanto a gestação quanto infecções sexualmente transmissíveis . Em conjunto a isso, o governo pode criar campanhas explicativas e propagá-las nas redes sociais onde os jovens se encontram muito presentes, para que as informações necessárias sejam repassadas. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

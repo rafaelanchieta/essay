@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 450
+# tittle: Preservar é cuidar
+Ao longo dos anos os povos indígenas vêm lutando para obterem seus direitos reconhecidos como,  suas terras demarcadas e regularizadas por lei, também se esforçam para manter seus costumes e tradições demostrando a sociedade a importância do índio na natureza como um agente que preserva e cuida do meio ambiente. 
+
+É notório que as demarcações de terras nem sempre acontecem de maneira pacíficada, com os atuais proprietários, isso porque os donos dessas áreas não cedem as terras que por direito são dos índios, mesmo eles cientes que haverá uma futura indenização, que ocorre após uma análise das terras ponderando as benfeitorias feita no local, esse processo é feito pelo órgão responsável  Instituto Nacional de Colonização e Reforma Agrária, porém esse processo é longo pela burocracia do sistema judiciário, ao qual pode levar anos até o direito da posse das terras chegar às mãos dos índios. 
+
+A importância dos povos indígenas não se restringe apenas no direito de posse de terras, mas também com o cuidado e preservação que eles têm pela natureza, são os grandes guardiões das florestas, em destaque,   a Amazônia que tem o maior bioma do Brasil: Num território de 4,196.943 milhões de km, segundo o  Instituto Brasileiro de Geografia e Estatística, crescem 2.500 espécies de árvores, ou seja, um terço de toda madeira tropical do mundo está localizada nessa área.   Com esses dados e necessário investimentos para uma contínua fiscalização e preservação desse território, visto que o desmatamento vem crescendo em um ritmo acelerado, a preservação deve ser prioridade  como também, dar condições para o povo indígena ajudar nessa tarefa. 
+Portanto, a importância dos povos indígenas continua no século XXI, bem como seus direitos garantidos pela Constituição, como suas terras demarcadas e homologadas pelas vias legais. Ações para alcançar tais objetivos depende dos órgãos competentes como o Incra e a Funai  aos quais devem trabalhar em conjunto e fazer cumprir a lei por parte dos proprietários das terras. Somente assim o povo indígena poderá viver pacificamente em suas aldeias preservando a cultura e tradições do seu povo. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

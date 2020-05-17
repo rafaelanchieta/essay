@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: A gravidez na adolescência: compreensão e solidariedade.
+No passado, quando os métodos contraceptivos não existiam ou não eram de fácil acesso, a gravidez na adolescência era considerada normal. Mas, os pensamento da sociedade quanto a isso mudou, enxergam agora com maus olhos . Entretanto, não quer dizer que este problema acabou ou diminuiu. 
+A maioria das adolescentes que engravidam,  são aquelas de classe média baixa ou que não frequentam a escola, o que ocasiona a falta de informação . É claro que este problema acontece também com adolescentes de classe média alta, mas as estatísticas são bem menores. 
+É comum ouvirmos  por ai   sobre o uso da camisinha, porém, assim como os outros métodos contraceptivos, não é completamente segura. Pelo menos a maioria das adolescentes não planejam ter um filho tão cedo , além de precisar de uma enorme responsabilidade, esta gestação ainda pode acarretar diversos problemas como: aborto espontâneo, mortalidade materna, nascimento prematuro e  além de tudo, problemas psicológicos e uma possível ruptura na vida acadêmica, obrigando a adolescente se tornar uma adulta. 
+O ser humano tem desejos, principalmente quando na puberdade, não são como animais que se relacionam apenas para a reprodução, a gravidez na adolescência é um problema de educação e saúde pública, não uma escolha. 
+Se houvesse a educação sexual obrigatória nas escolas, este problema, como também as doenças sexualmente transmissíveis  diminuiria consideravelmente . E não cabe à sociedade julgar uma mãe adolescente e sim ter solidariedade e compreensão quanto a este problema que abrange tantas questões. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

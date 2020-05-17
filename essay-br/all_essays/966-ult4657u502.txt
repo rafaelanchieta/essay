@@ -1,0 +1,19 @@
+# prompt: a-virgindade-e-um-valor-moral-a-ser-preservado
+# score: 0.0
+# title: Virgindade, opção ou dever?
+Como foi sua primeira vez?Domingo a tarde, reuni-me com um grupo de amigas, conversando sobre sexo
+          ,uma amiga que é professora
+          de primáriocontou-me o seguinte fato
+          .Sexta-feira cheguei mais cedo
+            na escola, encontrei a mãe de uma aluna chorando. Perguntei,O que aconteceu?. Ela me respondeuA minha filha foi
+            estrupada. Assustada pergunteiE onde ela
+            esta?. Ela respondeuNo momento ela está no hospitalo médico
+            esta analizando.
+            Mais tarde venhoa descobrir que na realidade a mãe daaluna de apenas 10 anos de idade, vendeu a filhaem troca de drogas e bebidas.Chorei. Com a falta de caráter,sensibilidade e humanismo.Eu perdi minha virgindade aos 18 anos com o homen que amo, escolha própria, na hora certoe
+                  nojeito certo, com amor, carinho e
+                  compressão.Portanto, educação é tudo. Com uma boa educação temos boas ações, podemos optar pela vida que queremos.
+# C0: 0.0
+# C1: 0.0
+# C2: 0.0
+# C3: 0.0
+# C4: 0.0

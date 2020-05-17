@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 500
+# tittle: Analfabetismo Funcional
+Em países como Japão e Suíça, a educação é tratada com seriedade, pois esta é primordial para o desenvolvimento da nação. No Brasil, entretanto, além de o estudo não ser levado à sério, o analfabetismo funcional tem se tornado nocivo para a sociedade. Isso se deve a falta de uma alfabetização adequada e a desvalorização dos educadores.
+Em primeira análise, pode-se apontar a quantidade exagerada de notícias falsas sendo disseminadas atualmente. Onde ,  o analfabeto funcional, sem compreender o que lê, acaba por acreditar nas chamadas popularmente de “fakenews” . Com a massa populacional de baixa renda sendo a mais atingida pela falta de investimento do poder público na educação desse contingente populacional. 
+Cabe também ressaltar que o profissional da educação, em nosso   país, é extremamente desvalorizado. Principalmente em escolas públicas, o professor é obrigado a trabalhar em condições precárias como em salas de aula mau mal equipadas e sem nenhum tipo de conforto . O que pode acarretar desmotivação para o educador. Desse modo, é inadmissível não dar a devida atenção as pessoas que dedicam suas vidas a lecionar. 
+O Governo brasileiro, portanto, precisa melhorar a forma de lidar com a educação, principalmente na classe de baixa renda. Iniciando com a educação básica e dando incentivo a leitura, sem esquecer de prezar pelo educador. Com isso, o analfabetismo funcional poderá ser um problema solucionado com o tempo. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

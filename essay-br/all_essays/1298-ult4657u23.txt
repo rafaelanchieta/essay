@@ -1,0 +1,12 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 4,0
+# title: Fora do gibi
+Nobre, acima das desigualdades e falcatruas do próprio homem. Esse herói ninguém vê fantasiado por aí. Discreto, às vezes ausente, mas no fundo sempre existente. Como uma esperança de que um dia o homem possa se sobressair de seus deslizes morais e éticos, que o afastam da essência humana. No mundo todopareceaumentar cada vez maisos conflitos e atritos.
+          A questão do Oriente Médio e as guerras; os Estados Unidos e sua política unilateral; África e a aids; a pobreza de uns pela riqueza de outros e até mesmo o aquecimento global. Tudo colabora para uma visão cada vez maisturva e fechada: sem saída. No cenário nacional não é diferente.
+           O constante desrespeito pelo cidadão brasileiro frente aos escândalos políticos, e a violência urbana cada vez maior, impulsionada pelo crescimento do poder do tráfico, nos fazem pensar que o Brasil "não tem jeito" - como muitos repetem. É muito provável que se o nossoolharfosse somentesob a óticapessimista perderíamos o ânimo para tudo. E viver seria apenas aturar a infeliz realidade. Acreditar que existe um jeito, uma saída, mesmo que muito difícil, é portanto fundamental. É um heroísmo latente que de vez em quando pede a palavra dentro de nós.
+               Crer num herói de gibi ou cinema que possa salvar o mundo do crime é apenas divagar, já que é impossível que ele saia das folhas ou da tela. Mas o herói fundamental, sem o qual não podemos sequer sorrir, fica muito mais próximo que imaginamos. Ele acorda cedo e trabalha. É de carne e osso. É cada um de nós, é cada brasileiro.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

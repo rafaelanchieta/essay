@@ -1,0 +1,13 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 450
+# tittle: [Redação sem título]
+Desde o Iluminismo,  entende-se que uma sociedade só progride quando um se mobiliza com o problema do outro. No entanto, quando se observa a importância de valorizar os povos indígenas no Brasil,  hodiernamente , verifica-se que esse ideal iluminista é constatado na teoria e não desejavelmente na prática  e a problemática persiste intrinsecamente ligada à realidade no país. Nesse contexto, torna-se claro  a insuficiência de estruturas especializadas no acompanhamento desse público,  bem como o entendimento acerca do papel social desse arranjo.
+É indubitável que a questão constitucional e a sua aplicação estejam entre as causas do problema . Tal fato se reflete nos escassos investimentos governamentais em qualificações profissionais e em melhor suporte físico,  medidas que tornariam o ambiente mais inclusivo para a população indígena e devido à  falta de administração e fiscalização pública por parte de algumas gestões. )
+Outro aspecto a ser considerado é a desvalorização como um dos principais motivos , visto que,  tais costumes e cultura  são discriminados no país . De acordo com Hans- Georg Gadamer , a história não nos pertence : nós  pertencemos a ela . Seguindo essa linha de pensamento, é alarmante a exclusão dessa nação,  pois são mal vistos pela sociedade e muitos não são aceitos. Assim, medidas são necessárias para mudar esse quadro. 
+Portanto,  são necessárias medidas capazes de mitigar essa problemática.  Destarte, o Ministério da Educação e Cultura   ,  deve incluir programas capazes de relatar a importância dos povos nativos no Brasil, inserindo suas culturas e hábito.  Ademais,  o Governo  em parceiria com a FUNAI , devem proteger suas terras e seus direitos garantindo à igualdade social . Desse modo, suas histórias e culturas serão dada à devida relevância no Brasil . 
+
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

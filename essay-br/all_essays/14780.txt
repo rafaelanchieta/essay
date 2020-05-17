@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: A Reforma da Previdência
+A reforma da previdência tem-se discutido muito atualmente , o governo promete criar um sistema mais justo e igualitário para homens e mulheres, mas o que deveria ser um resultado benigno acarretou problemas para a população. 
+
+Com as novas regras da reforma previdenciária passa a ter mais produtividade, mais poupança,  pois muitos trabalhadores conseguem se aposentar cedo, e o grande resultado faz com que a população desestimulem a poupar dinheiro. 
+
+Entretanto, com a reforma as mulheres terão que esperar mais dois anos para se aposentar , para os homens os requisitos continua o mesmo, o aumento do tempo de contribuição para a população de baixa renda dificulta bastante a aposentadoria, com a reforma agora são de 25 anos para se aposentar  com tempo de contribuição o que não é tão simples para um país onde no qual  tem muitos desempregados. 
+Portanto, o governo brasileiro deveria minimar minimizar os anos de contribuição e a idade mínima para se aposentar, com o aumento do desemprego fica cada dia mais difícil para a população ter seu descanso merecido. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

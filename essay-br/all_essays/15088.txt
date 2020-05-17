@@ -1,0 +1,22 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: Vacinação e qual a sua importância
+As vacinas são importantes para salvar vidas e prevenir doenças. É necessário manter as campanhas de vacinação para que a sociedade se conscientize da importância do cartão de vacinação completo e atualizado. 
+
+
+
+As vacinas são substâncias que possuem como função estimular nosso   corpo a produzir respostas imunológicas a fim de nos proteger contra determinadas doenças . Elas são produzidas a partir do próprio agente causador da doença, que é colocado em nosso corpo de forma enfraquecida ou inativada. Apesar de não causar a doença, as formas atenuadas e inativadas do antígeno são capazes de estimular nosso sistema imunológico. 
+
+
+
+À medida que toda a população vai sendo vacinada, os índices caem até que nenhum caso seja mais registrado, pois toda a população está protegida . Apesar de parecer, muitas vezes, impossível proteger toda a população, a imunização tem dado resultados no Brasil e no mundo. 
+Em nosso país,  já ocorreu a erradicação da poliomielite e da varíola graças a utilização de vacinas. Além disso, segundo a Fundação Oswaldo Cruz, ocorreu a eliminação da circulação do vírus autóctone do sarampo em 2000  e da rubéola desde 2009. Outras doenças também tiveram seus casos reduzidos, como é o caso do tétano neonatal. 
+
+
+
+Decorrente dos casos citados acima é de total importância o governo juntamente com a secretaria de saúde de cada município investir em campanhas de vacinação, para que a população de cada cidade tenha noção da importância das vacinas para sua família. 
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 270
+# tittle: Gravidez pode esperar
+É comum ver adolescentes entre 15 a 17 anos grávidas, de acordo com relatório de 2018 da OMS , ela acontece mais em população de baixa renda e com menos acesso à informação. 
+Em famílias de menor renda   onde  no qual o acesso à educação é pouco, a gravidez acontece de forma precoce  o que acarreta alguns problemas na vida daquela adolescente, como na vida socioeconômico, muitas menina param de estudar o que não terão uma perspectiva para o futuro, com poucas ou nenhuma oportunidade de trabalho, outro problema, que algumas têm uma gravidez de risco, por se muito jovem o corpo ainda não estar preparado para receber uma gestação, além de poderem entrar numa depressão. 
+As adolescentes com menos informação tende a ficar grávida mais cedo, pois não tem acesso à métodos contraceptivos, são várias as possibilidades de evitar  além da distribuição gratuita de camisinha nos posto de saúde. 
+Conclui-se que a gravidez na adolescência é um problema,  É preciso que órgãos governamentais se mobilizem para mudar a situação, com campanhas educativas na TV, a mídia difundir mais sobre o assunto, as escolas têm o papel desde cedo de informar sobre os contraceptivos, seria ideal inserir na grade curricular disciplina de educação sexual para que se dialoguem mais sobre o tema, os rapazes entenderem da importância do uso do preventivo, que alguns não gostam de usar, assim os adolescentes se tornarão jovens mais conscientes e responsáveis  diminuindo o índice de gravidez precoce. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

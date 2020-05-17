@@ -1,0 +1,14 @@
+# prompt: agua-aprenderemos-com-a-atual-crise-hidrica
+# score: 5,0
+# title: Água é vida
+Muito além de ser apenas o solvente universal, a água é um composto inorgânico essencial a todos os seres vivos no planetaesem tal substância, não existiria vida.
+         Esse fato parece ser insignificante para muitas pessoas no Brasil. O país se encontra com níveis de reservatórios cada vez mais precários, por conta não só do baixo índice de chuva, mas também da irresponsabilidade de indivíduos com alguns hábitos do cotidiano. Nãoda pra negar, quea falta de chuva colabora comescacezque se vive no país. Nos últimos meses de 2014 choveu bem menos que o esperado.O mês de Janeiro, em 2015,que normalmente é o mais chuvoso, não atingiu 50% do esperado.Aliado afalta de chuva, hábitos dos brasileirosdeixaa situação ainda mais precária.
+         O que deveria ser simples, como escovar os dentes e tomar banho, causa um grande impacto na falta d’água. Grande parte da população não se preocupa com o desperdício de água efaz dessas atividades longas, gastando muito mais do que deveria. Além disso, lavar carro e calçada com a mangueira jorrando é outra mania dos brasileiros,agravandoo problema.
+         Sendo assim, cabeamídia conscientizar a todos sobre a falta de água
+         que o país vem enfrentando, eapopulação, mudar hábitos simples, como varrer acalçada ao invés de lavare demorar menos no banho.
+         Afinal, um país sem água é um país sem vida.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

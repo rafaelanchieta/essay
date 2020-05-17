@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: Saco vazio não para em pé
+Rachel de Queiroz, em sua obra ``O Quinze´´, retrata a história da forte seca no estado do Ceará no ano de 1915  marcada pela escassez de alimentos. Apesar de ser uma obra fictícia,  assemelha-se na questão atual da fome no Brasil. Entretanto, mesmo com os avanços sociais e econômicos essa problemática ainda persiste, ficando clara assim a necessidade de alterações. 
+
+Em primeiro lugar, cabe destacar a má distribuição de renda. Mesmo que o Brasil tenha saído do mapa da fome em 2014, não foi o suficiente para diminuir a desigualdade que permear até hoje. Segundo o IBGE , cerca de 7 milhões de pessoas passam fome no país. Porém, não é pela falta de alimentos, e sim,  pela falta de dinheiro, pois não tem como comprá-los. Devido a isso, há consequentemente,   casos de desnutrição, doenças epidêmicas e até mesmo emigrações oriundas do desemprego. 
+
+Em Contrapartida, há grande extensão territorial,  cuja agricultura é muito desenvolvida  fazendo com que o Brasil seja um dos maiores exportadores do mundo. Historicamente, o país já exportava produtos para outras nações, como por exemplo, o Pau-brasil, cacau, algodão, entre outros. Prejudicando dessa forma,  a distribuição de alimentos em todo seu território. Contudo, problemas naturais como as secas e inundações corroboram para que o setor agrícola entre em declínio e, posteriormente, agrave mais o cenário da fome. 
+Fica evidente, portanto, que medidas devem ser tomadas para diminuir a fome no Brasil. Cabe ao governo  especialmente ao Ministério da Cidadania, investir por meio de verbas públicas na distribuição de cestas básicas para famílias carentes a curto prazo  e a longo prazo geração de empregos para aumentar a renda familiar.Também alertar por meios de campanhas publicitárias junto com a mídia sobre o enorme desperdício de comidas e de como evitá-las. Ademais, por meio de leis, estabeleçam medidas que haja equilíbrio na exportação dos produtos sem prejudicar a economia do país,  visando a chegada de mais alimentos na mesa dos brasileiros. Só assim,  essa problemática será vivenciada apenas na ficção. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

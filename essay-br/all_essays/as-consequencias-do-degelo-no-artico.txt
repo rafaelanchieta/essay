@@ -1,0 +1,12 @@
+# prompt: Os ursos polares da Rússia e um dilema ecológico
+# score: 560
+# title: As consequências do degelo no Ártico
+O aumento do aquecimento global provocou, no ínicio de 2019, deslocamento de espécies de ursos polares para regiões populosas na região do Ártico, que resultou em ataques a seres humanos. Nesse contexto, necessita-se analisar possíveis medidas de proteção tanto aos humanos como aos ursos polares - espécie em extinsão .
+Inicialmente, observa-se que os ataques desses animais são derivados pela busca de alimentos em terra, decorrentes do derretimento das calotas polares. Dessa forma, o governo Russo - Estado onde concentra grande parte dos conflitos entre ursos e pessoas - deve implantar projetos sociais de isolamento dos animais polares em cativeiros habilitados que se  a vida do animal, alimentando-os e fortalecendo seu desenvolvimento natural. Essa ação ajudaria a reduzir o número de incidentes com os habitantes ao redor dessas regiões frias.
+Além disso, é imprescindível que a população atue em conjunto e esconda qualquer rastro ou cheiro de alimentos que possa atrair os ursos polares, afastando, ainda mais, a possibilidade de conflitos diretos com esses animais ferozes nessas regiões povoadas.
+Portanto, é notável que os conflitos entre ursos polares e as pessoas que vivem ao redor da região do Ártico podem ser resolvidos. Logo, essas medidas de proteção paleativas são necessárias enquanto a população mundial vem se conscientizando sobre o importante papel da redução do aquecimento global e a manutenção das condições climáticas.
+# C0: 80
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

@@ -1,0 +1,11 @@
+# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
+# score: 8.0
+# title: Aborto:Aborte essa idéia?
+Vida. Palavra pequena, mas que tem o maior significado de todas. Viver é uma dádiva. Ninguém tem o direito de acabar com a vida alheia. Óbvio. Porém, alguém tem o dever de viver sofrendo? O aborto é uma das questões mais polêmicas da atualidade,e, amaioria das pessoas parece ser contra. Principalmente as que nunca viveram a situação. Esquecendo por um momento o lado religioso, podemos avaliar duas realidades: O Japão, onde o aborto é legalizado, e o Brasil,aondenão é. A diferença é gritante: No Japão, menos de 1% da população passa fome, e existe uma porcentagem ainda menor de crianças que nasceram sem serem desejadas. No Brasil, para todos os lados existem crianças passando fome nas ruas, e/ou sendo maltratadas. Não é justo matar uma criança. Não é justo alguém que engravidou irresponsavelmente tirar a vida do bebê. É justo, então, que as crianças morram de maus-tratos ou de fome? Ou ainda, que uma menina de 9 anos seja obrigada a dar a luz por uma questão moral, e, assim, aborte os seus próprios sonhos?
+          Os dois lados da moeda são cruéis. Só quem poderia decidir seria a mãe da criança. Simples assim? Nem tanto. Com o aborto legalizado, seria muito mais fácil se livrar de umagestaçaoindesejada, e por isso, talvez, as pessoas prestassem cada vez menos atenção no que é mais importante:A Prevenção.
+            Fica realmente no "talvez". Só existem hipóteses.Legalizar o aborto deve ser uma ação muito bem pensada,e claroavaliado, colocada na balança, para que seja, de acordo com a nossa realidade, qual dos lados pesaria mais.
+# C0: 2.0
+# C1: 2.0
+# C2: 1.5
+# C3: 1.5
+# C4: 1.0

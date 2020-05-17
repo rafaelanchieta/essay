@@ -1,0 +1,13 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 4,0
+# title: O preconceito - quem será o próximo afetado?
+Vive-se em uma sociedade extremamente preconceituosa, onde as pessoas têm preconceito com tudo, negro, obeso, japonês, magro, e etc . Mas acabam esquecendo queas mesmaspodem sofrer preconceito devido ao seu modo de ser e seus hábitos, ou até mesmo uma das coisas que é mais esdrúxula e ridícula: a idade. Todas as pessoas irão envelhecer, então como pode ser admitido um preconceito com uma pessoa com idade superior?
+        Como pode ser admitido uma filha bater em sua mãe apenas porque ela se esqueceu de algo? A sociedade devia tratar esse desrespeito com o idoso de forma maisbrusca, pois essa pessoa está tratando o idoso de forma maldosa, e um idoso não possui a mesmaqualidade de vida que uma pessoa com 30 anos possui, seu corpo é mais frágil e sensível, então isso é
+          ridículo e não se pode aceitar esse tipo de ação Muitos idosos também possuem apenas uma fonte de renda, a sua aposentadoriaque é quase irrisóriaemmaior parte doscasos, aaposentadoria deveria sim ser maior, pois nessa idade é necessário que se gaste muito com medicamentos e com asaúde em siTudo para os idosos fica mais caroexceto seu salário que é menor e não consegue suprir todas asnecessidades
+            do mesmo . Enfim como pode se dizer que o idoso é valorizado no contexto em que vivemos? É a mesma coisa que dizer se uma criança está feliz sem ganhar presente de natal. É claro que ela está infeliz e triste, o mesmo ocorre com os idosos que não possuem o respeito necessário eque os mesmos mereciamafinalforam
+              eles que começaram a formar a sociedade e que hoje está apenas se evoluindo . E comopode-seofender um idososendo queno futuroo mesmo que ofende poderá ser ofendido se a sociedade continuar pensando de forma ridícula e insensata?
+# C0: 1,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

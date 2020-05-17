@@ -1,0 +1,10 @@
+# prompt: por-que-causas-o-jovem-tem-se-mobilizado-atualmente-no-brasil
+# score: 4,5
+# title: Por que causas o jovem tem se mobilizado atualmente?
+Hoje, devido à facilidade de se comunicar através das redes sociais, jovens do país inteiro e do mundo têm deflagrado uma troca de ideias que resultam em manifestações politizadas a favor do bem comum e coletivo. As manifestações contra atos políticos ilícitos e até mesmo de situações provocadas pelo desenvolvimentoagroindustrial agressivosao meio de vidae saúdetêm sido discutidas virtualmente.Não podendodescartar que partidos e sindicatos ainda são a estrutura de quaisquer discussões.
+          É a partir desses blocos politizadores que as decisões do mundo social são tomadas. Todavia nota-se que os mesmos precisam desenvolver mecanismos de articulações com os novos meios, ou seja, as redes sociais. Assim, as manifestações não correrão o risco de ficarem apenas no meio virtual, uma vez que para se concretizarem dependem dos sindicatos e partidos. A última manifestação que testemunhamos foi a marcha contra a corrupção que reuniu cerca de 20 mil pessoas apenas em Brasília e foi concebida via internet. O jovem tem usado o meio virtual para protestos e manifestações partindo do pressuposto de que o amigo passará a informação para o outro amigo, que será repassada para o amigo do amigo e assim sucessivamente.
+# C0: 1,5
+# C1: 0,5
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

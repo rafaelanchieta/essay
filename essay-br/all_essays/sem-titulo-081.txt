@@ -1,0 +1,9 @@
+# prompt: Disciplina, ordem e autoridade favorecem a educação?
+# score: 300
+# title: (Sem título 081)
+Com uma educação de qualidade e disciplina exemplar, os colégios militares vem  se destacando cada vez mais no requisito educação. Assim, é notável que os pais matriculem seus filhos nestes colégios, pois, se tornarão pessoas mais preparadas para o mercado de trabalho e ate  mesmo para a vida fora da sala de aula. O que para alguns  é uma boa opção, mas tem  aqueles que não são favoráveis á  essa escolha.Assim, especialistas discordam com a pratica  da militarização em salas de aula, pois, abre mão da maneira pedagógica de ensinar e apelam  para a rigidez da disciplina militar. Pois, dizem que, é  na escola de educação básica onde  o aluno aprende os valores para si  tornar cidadão e assim,   seguir á  vida. Além disso, é o lugar onde se começa a ter um melhor conhecimento de mundo e de si mesmas.No entanto, tem  aqueles que são á  favor pois afirmam que vão aprender uma disciplina rígida e eficaz para toda vida e assim,   as tornaram  adultos mais responsáveis e disciplinados, podendo ate  mesmo opinar  por uma carreira militar de sua escolha e proteger os cidadãos.Em relação ao ingresso de alunos nos colégios militares, é de legal importância que cada um descida da melhor forma possível o que melhor os  convém. Pois, cada cidadão escolhe o que é melhor para sua vida e de como  quer seguir seu caminho. No entanto, todos devêm  estar cientes de que, a  carreira militar sempre foi rígida e é preciso que o aluno esteja cada vez apto a enfrentar os desafios que lhe forem apresentados.
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

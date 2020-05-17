@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 6,0
+# title: Preservar: para quê?
+Sabemos que a preservação da natureza deveria ser nossa obrigação. Temos a consciência de que não fazer nada significa deixar acontecer o que julgamos errado ou injusto. No entanto, fingimos não saber o que fazer, talvez pelo simples fato de não sermos os suportadores dessa lamentável sina. É inevitável o fato de que, as consequências de nossa falta de ação serão sofridas por nossos filhos e netos. Vivemos em um sistema capitalista, no qual o lucro constitui sua principal lógica. Preferimos lucrar com o corte de árvores a preservar a natureza, ao passo que esta segunda opção não traz lucro imediato. Lucro imediato significa ascensão econômica e consequêntemente, sucesso no capitalismo. De fato, sabemos o que fazer para acabar com a contínua destruição da Terra. Afinal, fomos nós que intervimos erroneamente na natureza; conhecemos o caminho. Se quisermos, saberemos o que fazer. Um exemplo de progresso ecológico foi o passo que demos rumo a consciêntização do mundo, querendo diminuir o efeito da prevista destruição da camada de ozônio. Contudo, viveremos ouvindo os avanços das destruições, ocorridas por causa de nossa falta de cooperação ambiental. Sabemos de nossa obrigação e temos consciência disso, mas não queremos fazer nada. Fazer algo para melhorar tal situação não é o objetivo de um capitalista.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

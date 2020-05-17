@@ -1,0 +1,12 @@
+# prompt: Brasileiros têm "péssima educação argumentativa", segundo cientista
+# score: 1,5
+# title: Grande segredo 
+ De acordo com Aristóteles, o ser humano é por natureza um ser social. Nesse sentido, com os avanços tecnológicos  a comunicação na sociedade tornou-se mais fácil no mundo contemporâneo. Porém, um dos pontos negativos dessa evolução é que muitas pessoas tendem a manter contato somente com outras que tem os mesmos ideais . Como resultado, os extremismos e a intolerância contra ideias diferentes tornou-se comum, principalmente no Brasil, onde a educação é precária.
+ Segundo o sociólogo Zygmunt Bauman, o mundo vive em uma modernidade líquida. Dessa forma  as relações pessoais fazem-se e  desafazem muito rápido , o que proporciona o isolamento social do individuo . Nesse sentido, em um mundo de incertezas , agir com ignorância e desrespeito ao invés de argumentar é um modo de se proteger. Pois, de acordo coma literatura marchadiana , o homem é um ser impuro e seus extintos  animalescos sempre estão a  flor da pele.
+ Em um mundo civilizado  a comunicação é primordial para manter um bom convívio entre os indivíduos. Entretanto, não é raro o brasileiro se expressar por meio da violência e desrespeito em momentos que ocorrem divergências. Isso deve-se a  falha na  educação, principalmente aquela exercida pelos próprios pais que, muitas vezes, ensinam o filho a ser competitivo, mas não a como agir em sociedade com ética e moral . Desse modo, o indivíduo aprende a ver o mundo com conceitos de inferioridade e superioridade, e  o outro com ideias diferentes torna-se inimigo, e não alguém que  possa debater e adquirir conhecimento.
+ No que se refere a  péssima educação argumentativa dos brasileiros, é necessário que instituições sociais como a família e  escola promovam debates sobre diferentes temas entre os jovens, para que o mesmo aprenda  a respeitar a opinião alheia  sem agir com violência. Pois,   como dizia Imanuel  Kant, é na educação que se acentua o grande segredo para o aperfeiçoamento da sociedade.
+# C1: 1,0
+# C3: 0,0
+# C5: 0,0
+# C7: 0,0
+# C9: 0,5

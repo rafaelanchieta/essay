@@ -1,0 +1,13 @@
+# prompt: Impeachment: a presidente deve perder o mandato?
+# score: 750
+# title: (Sem título 095)
+A intensa crise econômica que assola o Brasil é aprofundada pelo caos político, que pode culminar na deposição da presidente Dilma Rousseff (PT). Apesar dos argumentos dos pró-governo, favoráveis à sua permanência no cargo, o impeachment se apresenta como única solução viável para reverter a crítica situação do país.
+Os que se opõem ao interrompimento  do mandato tomam como base argumentativa principalmente as conquistas sociais obtidas no governo petista e a natureza do processo. Eles propagam a ideia de que não há crimes de responsabilidade por parte da presidente, o que torna o impeachment um golpe contra a democracia; além de  quê, em vez de solucionar os problemas econômicos, pode agravá-los ainda mais. De fato, na última década os programas sociais promoveram uma redução na extrema pobreza no país, além da inserção de grande parcela da população na classe média.
+No entanto, esses feitos não alteram o fato de que caminhamos para a maior recessão econômica de nossa história. O desemprego chega aos 9,8%, segundo dados do IBGE, e a inflação é a maior desde a criação do Plano Real, nos anos 90. Observamos que a instabilidade política é o principal agravante da crise econômica, uma vez que o país deixa de ser alvo de investimento das grandes empresas multi e transnacionais. Assim, resta como única opção a alternância de poder por base legal.
+Então se recorre ao impeachment, que, diferente do que apontam os defensores do atual governo, está previsto na Constituição de 1988, logo não configura golpe de Estado. Quanto às denúncias contra a presidente Dilma, constam as pedaladas fiscais, que aumentaram expressivamente o rombo nos cofres públicos, além dos diversos escândalos de corrupção nos quais seu partido se encontra envolvido.
+Diante disso, cabe ao Congresso e ao Supremo Tribunal Federal (STF) o devido julgamento do processo, tomando-se  sempre pelo que determina a lei, o que pode resolver a crise política e, por consequência, a econômica. Independentemente da sustentação ou não do impeachment, o governo deve tomar como prioridade a criação de pacotes para a captação de investimentos estrangeiros, com a redução de impostos e o incentivo à livre concorrência, bem como o combate à inflação. Desse modo, o Brasil evitará passar por outra década perdida. 
+# C0: 150
+# C1: 200
+# C2: 150
+# C3: 150
+# C4: 100

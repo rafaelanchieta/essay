@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: Famintos por proteção
+A fome é um adjetivo  persistente em nossa  sociedade desde séculos passados, e com o avanço do homem, em questões intelectuais e progressistas, era de se acreditar que um dia todos teriam acesso à comida. Porém, a realidade é outra. 
+
+Sempre houve uma produção maior do que o consumo, mas por que as pessoas continuam passando fome aqui no Brasil? Talvez porque não se trata apenas da produção, mas da obtenção também. Há sempre um acréscimo constante no preço dos alimentos e nem todos conseguem acompanhar. Aqueles que possuem uma renda baixa ou que não possuem nada acabam por não ter acesso a um bom alimento. 
+
+Apesar da decadência nesse quesito desde o início do século, no ano 2000, até os dias de hoje ainda há a existência predominante da fome. E para que haja uma solução a perspectiva do homem, da burguesia, deverá se recatar . Necessitam de mais empatia. O governo precisa deixar que o véu caia por completo para que essas pessoas possam ser ajudadas. Que elas recebam o necessário para que possam viver estavelmente. No artigo 6, dos direitos constitucionais brasileiros, foi implantado o seguinte “toda pessoa humana tem direito à moradia e um padrão de vida capaz de assegurar a si e sua família saúde e bem-estar, inclusive alimentação[...]”  mas a realidade consta o contrário. 
+Não adianta chegar e implementar um artigo em um livro ou apenas dizer que buscará por melhoras em nossa sociedade . Algo em que muitos políticos pecam e a população mais ainda em cair em sua lábia  . Mas é da façanha do ser humano ter fé em mentiras pressupostas. Contudo, o Brasil necessita de mais atenção;  de mais cuidado e principalmente de pessoas de palavra, que planejam e façam. Que busquem auxílio no ciclo PCDA  se necessário, mas que ouçam as súplicas por ajuda e que ajudem. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 5,0
+# title: Juízes da Terra
+O Brasil, conhecido amplamente pela sua diversidade cultural, também é alvo de polêmicas acerca de um motivo que nos une e ao mesmo tempo desune: a religião. Não podemos negar o que é refletido nos noticiários, mas é mesmo necessário generalizar? Mesmo sendo verdade que religiões defruto africanojá estejam enraizadas na nossa cultura por décadas, nem todos são familiarizados com seus dogmas e práticas, por isso a falta de compreensão e aceitação num espaço tãoheterogêniogera tantos conflitos.Considerando isso,quanto maior a diversidade, maior será a intolerância.
+         Um dos problemas é que ninguém seentitularápreconceituoso , apesardosfatos mostrarem a verdade. Esporadicamente
+         a população fica chocada por casos de violência causada por divergências religiosas,masmesmocientesda liberdade de expressão das pessoas, ao se deparar com casos menores no nosso cotidiano, nenhuma atitude é tomada.
+         O preconceito é real, entretanto não podemos generalizar, pois assim como existem tantas religiões, existem também inúmeras pessoas e opiniões distintas, que, em sua massa , compreendem e aceitam o conceito de diversidade. Felizmente, pessoas como estas, religiosas ou não, poderão reverter essa situação. Desta forma, a palavra chave para resolver este caso é o respeito. Não devemos mais ignorar situações de intolerância no nosso dia a dia, é necessário ensinar desde o berço a tolerância e a aceitação, nunca generalizando nenhuma religião ou pensamento . Como foi pregado por Jesus Cristo, amar os outros como a nós mesmos é o verdadeiro ensinamento.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

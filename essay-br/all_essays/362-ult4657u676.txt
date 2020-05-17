@@ -1,0 +1,11 @@
+# prompt: qual-o-papel-da-imprensa-numa-sociedade-democratica
+# score: 3,0
+# title: Informação ou manipulação?
+A imprensa sempre teve um papel importante na sociedade, sem ela talvez não fosse possível saber o que o governoestafazendo de bom para o país, e outras informações importantes do dia-a-dia. A imprensa é um órgão utilizado para informar a população sobre o queestaacontecendo no país e no mundo, e isso deve ser feito de forma transparente, o que infelizmente nãoestá acontecendo, pois nem sempre a notícia que é veiculada pelos jornais, noticiários e outros canais da imprensa, falam sobre a notícia da forma que deveria ser feita.Ao escrever um artigo de interesse da população, como algo de bom que o governo fez para as classes mais pobres, grande parte da imprensa omite alguns fatos, enfatiza somente o lado negativo, e exprime a opinião da imprensa sobre a notícia, e muitas pessoas dessas classes mais pobres acabam sendo manipuladas, sendo que essa notícia deveria ser uma notícia boa.Quandoacontece algum escândalo político, a imprensa, que deveria somente divulgar o que aconteceu, acaba falando mal do governo atual, e, consequentemente, acaba manipulando mais pessoas.
+          Se pararmos para pensar um pouco, a imprensa só começou a divulgar esses escândalos quando se iniciou um governo que a imprensa não aprova, e antes desse governo não se sabia de nada do que acontecia no governo, mas isso significa que antes não existiam corruptos? Pelo contrário, sempre existiram corruptos no governo, e provavelmente semprevai existir,
+            mas a imprensa só divulga agora porque não é a favor do governo atual e quer que a população também não seja a favor. Depois que a censura acabou, a imprensa acabou fugindo um pouco do seu real propósito . A imprensa deve informar a população sobre o queestaacontecendo, mas deixar para a população a parte de formar uma opinião própria sobre a notícia. Uma imprensa que somente divulga a informação, sem exprimir sua opinião, é uma imprensa correta, e infelizmente esse tipo de imprensaestacada vez mais difícil dever.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

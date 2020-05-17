@@ -1,0 +1,15 @@
+# prompt: qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro
+# score: 8,0
+# title: Crise: Oportunidade para Mudança
+OEuro, desde o início de sua comercialização,se tornouuma das moedas mais respeitadas no mundo. Reunindo 17 naçõeseuropéiase substituindo 10moedas européias,oEuroentrou em circulação para o mundo em 1999, e se tornou a segunda moeda mais valiosa, atrás somente doDólar Americano. O recém-criado sistema monetário europeu sofreu uma grandepercade valor
+         graças às crises econômicasdaGrécia, Portugal, Irlanda e Espanha, e vários mercados foram afetados
+         graças à fragilidade doEuro. Pensando assim, o governoBrasileiro tendetomar iniciativas para que não aconteça com o Brasil o que aconteceu durante a maior crise econômica mundial, a crise de 1929, e na recente crise de 2008.
+         Em 1929 o mundo enfrentava sua maior crise econômica.Operíodo que ficou conhecido como a "grande depressão",
+         as bolsas econômicas americanas desabaram. A economia brasileira, que era extremamente dependente da exportação de café para os EUA, sofreu uma estagnação, que gerou mudanças econômicas e políticas. Décadas após a Grande Depressão, o mercado de valores americano sofreu outro declínio, em 2008, e o Brasil novamente arcou com asconseqüências.Sendo o maior exportador de carne bovina, de aves, soja, café e laranja, o país sofreu com redução de demanda e a economia deixou de crescer como previsto.
+         Visando a uma maneira de lidar com os efeitos da nova crise econômica, o governoBrasileirodeve aproveitar o momento e fazer reformas. De imediato, o estado deveria diminuir a dívida pública e cortar gastos. Pensando em soluções de longo prazo, o governo deve investir no mercado interno, fortalecendo as mercadorias brasileiras,possibilitando-as acompetir com as marcas estrangeiras no país e futuramente conquistar mercados exteriores.
+         Caso nenhuma resoluçãofortomada, o Brasil não se tornará independente das economias de outras nações e sofrerá com quaisquer crises econômicas ocidentais. Pensando assim, o Brasil precisa usar essa crise como oportunidade para se fortalecer internamente e, no futuro, globalmente.
+# C0: 1,0
+# C1: 1,5
+# C2: 2,0
+# C3: 1,5
+# C4: 2,0

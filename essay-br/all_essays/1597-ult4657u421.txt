@@ -1,0 +1,11 @@
+# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
+# score: 4.0
+# title: O aborto de vários ângulos
+Não é de hoje que existem discussões sobre o aborto, tanto no Brasil como também mundoa fora.Questões políticas constantes tentam harmonizar, porém a igreja questiona muitas ações existentes além de ser uma interrogação para sociedade.Em muitos países o aborto é legalizado de forma simples, por exemplo, nachina, contudo outros países proíbem esse ato e qualificam como umcrime éo caso do Brasil,onde nele é proibida essa ação, embora em casos de estupro ou perigo de morte da mãe há liberação para ocorrê-lo e com isso abre meios de na justiça uma pessoa conseguir a liberação.A postura que aigrejatoma frente a esse tema é sempre decondenação, umcaso recente no Brasil foi o estupro de uma menina de nove anos pelo seupadrasto o qualacarretou sua gravidez precoce e o aborto dessas vidas, mas aigrejanão aceitou de forma alguma e excomungou as pessoas envolvidas na ação, e ela mostra sua posição em relação a esse dilema.
+            Na sociedade existem opiniões opostas, e qualificam essa ação de antiética, no entanto outras julgam o momento e não generalizam todos osfatos, nossopaís é repleto de contradições sociais, logo uma pessoaqhoje condena o aborto amanhã é a mesma que o faz.
+              Em virtude desses fatos, percebe-seno Brasil e no mundo que o aborto é definitivamente uma questão árdua de se solucionar, tanto na ética, política como na religião.Logo devemos mesmo é tratar o aborto de forma séria, porque são vidas destruídas, não seres quaisquer para tratarmos apenas por uma simples discussão, e vale lembrar, só vai ter melhorias nesses acontecimentos se houver ação mútua da sociedade.
+# C0: 1.0
+# C1: 1.0
+# C2: 1.0
+# C3: 0.5
+# C4: 0.5

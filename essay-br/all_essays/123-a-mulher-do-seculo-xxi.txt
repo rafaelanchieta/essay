@@ -1,0 +1,13 @@
+# prompt: qual-o-papel-da-mulher-na-sociedade-brasileira-atual
+# score: 5,0
+# title: A mulher do século XXI
+Hoje no Brasil as mulheresvemse destacandoocupandocargos que antigamente eram restritos aos homens. O exemplo mais marcante que temos é de sermos umpaisgovernado por uma mulher. Muitos devemestase perguntando: será que foi mérito dela essa conquista? Infelizmente é uma pergunta difícil de responder, pois muitos acham que não, que elasofoi eleita porque foi o ex-presidente Lula que lançou a sua candidatura e a apoiou o tempo todo.
+         A nossa sociedade ainda é um pouco machista, porém as mulheres não estão se deixando abaterelas estão mostrando que são guerreiras ebatalhadora, eindependentedo que as pessoaspensemelastempotencial e podem sim ocupar qualquer cargo. Atualmente temos mulheres pedreiras,cobradora de transporte coletivo, motorista, presidente de time de futebol, e até jogadora de futebol. Com certeza se dez anos atrás uma mulher cogitasse uma dessas profissões seria motivo de gozação.
+         Mas hoje isso é realidade, ainda é vista como algo estranho por algumas pessoas, em sua maioria homens que pensam que a função da mulher na sociedade é a de ficar em casa cuidando de filho e fazendo comida. Mas a mulher atualela querconquistar sua realização pessoal eprofissional elaluta pelos seus objetivos.
+         Uma grande conquista das mulheres hoje que podemos destacar é a lei Maria da Penha, que ainda tem que ser melhorada,mais já estaintimidando muitos homens que pensam serdonode suas companheiras e podem espancá-las sem motivos, para mostrar queéeles quemmandam.
+         Éelas deixaram de ser as mulheres da capa de revista, da propaganda de cervejas, aquelastidasomente como objeto de desejo.Parabéns mulheresvocês mostraram que são capazes, não se deixaram abater pela discriminação e conquistaram seu lugar de destaque nessa sociedade machista de hoje e estão mostrando que não vão parar poraie que várias conquistas ainda virão.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,5
+# C3: 1,5
+# C4: 0,0

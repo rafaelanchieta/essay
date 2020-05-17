@@ -1,0 +1,13 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 320
+# tittle: [Redação sem título]
+Em 1904  o Rio de Janeiro sofria sérios problemas de saúde públicas, com várias doenças como a febre amarela, varíola , malária entre outras, então o governo estadual e federal se unem para tentar urbanizar a cidade ,nomeando Oswaldo Cruz diretor de saúde pública, que iniciou o projeto de urbanização, assim ele começou limpando as ruas, derrubando cortiços e realocando as pessoas mais pobres, na época Oswaldo criou a lei de vacinação obrigatória, o que deu início a ¨Revolta da Vacina¨ 
+As campanhas de vacinação foram responsáveis pela erradicação de várias doenças em grande parte do mundo. Quando houve a revolta da vacina, ninguém tinha a informação e nem para que era, então essa falta de comunicação causou muita indignação . A importância da vacinação é justamente a diminuição de doenças, como a poliomielite que em 1980 tinha mais de 1200 casos  e em 1989 havia somente 1 caso. 
+
+No Artigo 196 constituição  diz que a saúde é direito de todos e dever do Estado. Contudo, a realidade é justamente o oposto e o resultado disso é refletido em uma porcentagem da população que moram em áreas remotas que ainda não foram vacinadas . A grande importância da vacinação na população é evitar que doenças se proliferem, evitar que aconteça o mesmo que ocorreu em 1904 . Diante do que foi dito é prejudicial achar que a vacinação no Brasil não é uma forma de controle ou até erradicação de doenças. 
+É importante ressaltar que o Brasil oferece todas as vacinas pelo Sistema Único de Saúde ,porém poderia melhorar nas campanhas, fazer periodicamente não somente em um curto período que a vacinação esteja ocorrendo , tem que ressaltar a importância e explicar de um jeito informativo de como se toma e para que é , e também melhorias nas distribuições de vacinas em áreas remotas, fazer chegar até essas pessoas com uma unidade móvel como Jeeps ou até mesmo barcos. Dessa forma evita que as pessoas morram por doenças que poderiam ser prevenidas caso tivessem sido vacinadas. 
+# C0: 50
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

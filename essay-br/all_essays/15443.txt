@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 270
+# tittle: O choro que não tem informação
+A música "pele na pele", do Grupo "Nosso Sentimento", relata informações que fomentam mais ainda a sexualidade .No entanto a gravidez na adolêcencia vem acontecendo muito no Brasil  tornando-se uma problemática familiar e do governo.Desse modo, os jovens têm que buscar melhor as informações porque elas existem, esse assunto sexo tem que ser mais dialogado entre pais e filhos. 
+Em primeiro lugar, o ECA  precisa trabalhar melhor essa didática tanto no ambiente escolar  como junto com a família do menino e menina, nesse sentido dados coletados pela OMS  mostra que 68,4 bebês nascidos de mães adolecentes a cada mil garotas de 15 a 19 anos.  Essa situação pode ser ainda pior   devido ao livre acesso as redes socias e com a falta de acompanhamento do pai e da mãe por apenas ter vergonha de tratar sobre o assunto sexualidade em casa sendo os mesmo responsaveis pela falta de informação correta para seus filhos. 
+Em segundo lugar, o poder público atua com diversos grupos de intervenção para evitar a grávides gravidez,  com palestras, divulgações nas princiais  principais midias socias . Contudo, essas informações não são levadas aos adolescentes e se ao público adulto, nessa tematica , o governo precisa se organiza e focar em criar situações de divugações bem mais especificas tanto para menina como o menino, em muitos casos as jovens tem que criar o bebê sozinha sem apresença do pai e acaba tornando os avôs os responsáveis pela criação. 
+Infere-se,portanto,  que medidas governamentais precisam lidar melhor com a linguagem do jovem, para que o assunto sexo seja melhor explicado  para evitar a grávidez indesejada . Em paralelo , os adolecentes têm que conversa sobre o tema na juventude e mostra as maneiras de evitar essa realidade tão prematura em suas vidas. 
+# C0: 50
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 50

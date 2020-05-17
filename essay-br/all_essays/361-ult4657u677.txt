@@ -1,0 +1,13 @@
+# prompt: qual-o-papel-da-imprensa-numa-sociedade-democratica
+# score: 1,5
+# title: Um lado da noticia notícia
+Diante de tudo que acontece nomundo.Temos que estápor dentro dos mais diversos assuntos. A imprensa permite termos acessoasmais variadas informações relacionadas ao nosso cotidiano.
+        Temos que ficar espertos, poisdevido ela ser livre.Elapublica o que deseja, de acordo com seu ponto de vista.
+        Em todas as coisastemsempre dois lados que muitas vezeséum positivo e outro negativo.Por sua vez, elaapresenta apenas um lado. De acordo comassunto ela pode tender para um dos lados, sem apresentar imparcialidade. Devemos ficarespertos, para nãose deixarlevar por qualquer informação que nos émostrado. É necessário ter um caráter crítico ao analisar as informações apresentadas.
+          A democracia é composta por três poderes: o executivo, o legislativo e o judiciário. E tem como objetivo uma política transparente, sem autoritarismo e com ações de acordo com a Constituição. E sempre que apresentar irregularidades e ações que estão fora do permitido pelas leis, tem que haver punição. Dessa maneira, a imprensa é ligada àdemocracia.Poisela divulga algumas dessas irregularidades. Não confundindo, ela não tem o papel de fiscalizar, ou de combaterinflaçõesocorridas. Tem o papel de informar tanto as coisas boas como as ruins. Contudo, uma boa informação tem queestarde forma equilibrada, sem deixar transparecer a opinião do editor.
+            Portanto não devemos julgar a imprensa, por ela exceder algumasvezes.Poisela é livre. Mas temos que agir como cidadãos, analisar os fatos de formacriteriosa. Poisnão podemos julgar sem conhecer ambos os lados. Também ela mostra aopublicocoisas que estão escondidas e assim podemos agir como um ser social.
+# C0: 0,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

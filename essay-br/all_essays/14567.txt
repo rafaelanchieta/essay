@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 370
+# tittle: Índios: nossa ingratidão
+Pero Vaz de Caminha, com sua pena entrelaçado entre seus dedos e olhar fitado  descreveu em um primeiro contado  que os índios eram de feição agradável, em particular, as índias que tinham curvas sinuosas e andavam nuas com muita inocência, na aldeia, eles caçavam, plantavam e colhiam, e assim, viviam despreocupadamente . Passados séculos, essa realidade mudou drasticamente e a medida em que o progresso foi se elevando, gradativamente a população indígena foi se dizimando da existência por vários fatores, entre tais a invasão de suas terras  que é fundamental para sua sobrevivência e  consequentemente, as doenças transmitidas pelo contato com o homem branco . É por conta disso que é indispensável que se faça as políticas públicas que valorizem os indígenas de um modo geral, respeitando-os como primeiros cidadãos brasileiros. 
+
+Não por menos, eles têm um papel importantíssimo no equilíbrio ecológico, e é por conta dessa importância que a empresa de mineração Vale, em Carajás – Parauapebas/Pa., dar dá todo o apoio social com diversificados profissionais à uma tribo, os Xicrim, entre os mais importantes estão o acompanhamento médico com várias especialidades e a alfabetização para que possam se socializar no mundo contemporâneo respeitando sua identidade. 
+É recorrente ouvirmos , principalmente nos jornais e telejornais, os confrontos com ruralistas, esses que em nome da sua ambição por terras para virar pastos ou mesmo para plantar, invadem áreas demarcadas dos nativos ciente de um possível confronto  e que na maioria das vezes acontecem, saindo bem-sucedidos pelo arsenal de armas pesadas que usam nestes embates. 
+
+Portanto, se faz necessário que a FUNAI ,  seja mais presente para defender os reais interesses dos índios fiscalizando com mais rigor, na medida do possível  suas áreas demarcadas e fazendo campanhas em salas de aulas e universidades   com o objetivo de combater a discriminação e dar os devidos valores com sentimento de gratidão por ser a origem do povo brasileiro. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

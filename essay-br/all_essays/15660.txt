@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 500
+# tittle: Corona vírus: a importância da ciência para a sociedade
+Desde 1685, com o surto da febre amarela, a ciência brasileira luta contra epidemias e surtos de doenças que acometem sociedade .  E mais uma vez com a pandemia do covid-19  o novo corona vírus coronavírus, a ciência combate com os médicos  na linha de frente para elidir o vírus que atinge a marca de mais de 81 mil mortos. 
+É de suma importância a ciência para toda a sociedade, além de lutar contra o vírus  a ciência possibilita avanços em vários âmbitos . Com frequência, comenta-se que os cientistas buscaram de guisa  incansável, o genoma do vírus, a informação que ele passa hereditariamente,  isso comprova a eminência da atuação dos cientistas, e seguem em busca da cura para o corona vírus. 
+Por tanto  ao se averiguar o investimento público na ciência brasileira, depreende-se que a sobejos  problemas que atravancam o avanço científico no Brasil, como o corte dos investimentos supracitados , barreiras alfandegárias à importação de reagentes entre outros problemas. 
+É de suma importância que o Ministério da Ciência, Tecnologia, Informação e Comunicação  reaveja todos os problemas citados a cima acima para melhor desenvolvimento de pesquisas contra o covid-19 e quais quer quaisquer tipos de ameaças futuras à sociedade brasileira , liberando  a entrada de reagentes na alfândega, liberar investimentos para manter pesquisas e cientistas brilhantes no Brasil . Afim    A fim de resolver todos os problemas dos centros e institutos de pesquisa, prevenindo  assim a vida da sociedade brasileira em relação a riscos e a vida desses ilustres profissionais.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 600
+# tittle: [Redação sem título]
+O livro "Os Miseráveis", de Victor Hugo, narra a história da miserável vida de Jean Valjean, um homem extremamente pobre. Por isso, ao não possuírem dinheiro, ele e sua família passam fome. Assim, embora ficcional, tal panorama retrata a alarmante falta de alimentação no Brasil , o qual tem como principal causa a grande desigualdade social. Com isso, é necessário avaliar esse problema para tratá-lo de modo adequado.
+
+A princípio, deve-se analisar a oferta e demanda de alimentos. Nesse contexto, a desanimadora Teoria Populacional Malthusiana, do século XVIII, afirmava que o número de pessoas ultrapassaria a produção alimentar e, por isso, a pobreza assolaria o mundo. Entretanto, esta temível profecia não se concretizou,  devido à Revolução Verde, ocorrida no século XX, a qual introduziu inovações tecnológicas no campo. Dessa forma, houve o tranquilizador aumento na quantia de comida, a ponto de suprir todo o Globo. Logo, a fome deveria ser erradicada. 
+
+Contudo, contraditoriamente, enquanto um terço dos alimentos são desperdiçados, cerca de 5 milhões de brasileiros não possuem produtos alimentícios. Por conseguinte, os dados da Organização das Nações Unidas  indicam a desigual distribuição desse bem precioso à vida, em virtude das discrepantes rendas: os ricos podem comprar comida, mas os pobres, em maioria desempregados, carecem de poder aquisitivo para tal. Nesse sentido, torna-se urgente combater esse mal. 
+Dessarte, medidas devem ser tomadas para atenuar a fome no país. Portanto, para isso, o Ministério do Desenvolvimento Social e Combate à Fome e o Poder Legislativo precisam criar leis para promover e regulamentar a atuação de pequenos agricultores, por meio de pagamento de subsídios agrícolas a eles, conforme as suas respectivas produtividades alimentares. Desse modo, eles conseguirão sustentar-se e, ainda, poderão vender o excedente, o que estimulará o mercado nacional, além de gerar mais empregos. Somente assim,  a igualdade será alcançada e as pessoas não passaram passarão fome, pois, como afirmou o escritor irlandês George Bernard Shaw, o progresso é impossível sem mudanças. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

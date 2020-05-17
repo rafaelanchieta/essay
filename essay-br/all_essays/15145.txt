@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: Melhor prevenir
+Durante o século xx XX,   ocorreu a Revolta da Vacina. Foi uma insurreição popular ocorrida no estado do Rio de Janeiro, onde  a população era obrigada a se vacinar devido o governo sancionar um ofício.  por causa da disseminação de doenças virais que estavam matando pessoas naquela época. 
+
+A falta de informação era tamanha  que muitos chegaram a creditar que a vacinação seria um forma de matar a população carente. Então, após adotar campanhas de conscientização os governantes conseguiram erradicar uma série de patologias, ou seja, a varíola, o sarampo, a rubéola, dentre outras. Entretanto, o movimento antivacina vem influenciando uma parte da população a não se imunizar . De acordo com a Organização Mundial da Saúde , o movimento é tao perigoso quanto aos os vírus que ameaçam a reverter o progresso alcançado no combate de doenças a doenças evitáveis por vacinação. 
+
+Em primeira análise, cabe destacar que que a vacinação continua sendo a forma mais segura e eficaz de prevenção, principalmente contra doenças infecciosas . Além disso, é a melhor maneira de se proteger de uma variedade de doenças graves  e de suas complicações que podem levar a morte. 
+Segundo a Organização Mundial da Saúde , as razões em que as pessoas escolhem a não se imunizar são a falta de confianças e dificuldade no acesso a elas. De acordo com o Programa Nacional de Imunização do Ministério da Saúde , nos últimos dois anos a meta de ter 95% da população - alvo vacinada não foi alcançada.,  Por consequência, vacinas importantes como a treta viral tretaviral, que previne o sarampo, caxumba, rubéola e varicela, teve o menor índice de cobertura no país. 
+
+Portanto, a vacina tem eficácia comprovada e é essencial para blindar o organismo contra doenças que ameaçam a saúde em todas as idades. Contudo, para que a população tenha mais informação sobre a importância de se imunizar o Ministério da Saúde  junto com o Ministério da Educação  devem criar palestras e campanhas informativas  e aumentar o tempo de vacinação no posto de saúde. Além disso, o Governo Federal deve esclarecer e combate e esclarecer por meio de publicidade e mídias o surgimento de notícias falsas sobre a vacina. Dessa madeira, a população se conscientizará sobre a importância de se imunizar. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

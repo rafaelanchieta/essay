@@ -1,0 +1,12 @@
+# prompt: Política X Ciência: a "pílula do câncer"
+# score: 300
+# title: Laboratório humano ou tiro certeiro?
+A legalização da fosfoetanolamina, popularmente conhecida como pílula do câncer , está em pauta no cenário nacional brasileiro. O medicamento está ultrapassando a barreira da ciência e virando um debate político. Com suas devidas pesquisas, ela pode ser considerada como uma poderosa arma contra certos tipos de câncer.
+Consumir um medicamento sem a antecedência de pesquisas pode resultar em efeitos colaterais desconhecidos, no entanto, a pessoa deve ter total poder de decisão sobre seu corpo. Muitas pessoas relatam uma melhora na doença após o tratamento com a fosfoetanolamina, porém, nada é comprovado cientificamente comprovado  Sem relevar as chances da  melhora ser apenas uma reação do efeito placebo. 
+O uso da pílula pode ter dois resultados: encontrar um tratamento alternativo para o câncer ou usar o Brasil como um Laboratório  de testes com humanos. As industrias  farmacêuticas estão incentivando as decisões sobre a legalização da fosfoetanolamina, já que vão ser economizados testes da eficiência no tratamento contra o câncer.  Antes de legalizar uma droga deveriam ocorrer mais testes e estudos.
+O Brasil deve investir nas pesquisas da fosfoetanolamina, para assim obter um resultado concreto da  eficácia do medicamento. Porém, mesmo antes de ser aprovada pela ANVISA, a substância deve ser liberada ao paciente pois não devemos privar uma pessoa da sua liberdade de escolha sobre algo que não vai interferir no espaço de terceiros.
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

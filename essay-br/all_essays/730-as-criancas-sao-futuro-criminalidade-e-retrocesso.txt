@@ -1,0 +1,12 @@
+# prompt: como-resolver-o-problema-da-criminalidade-infantil-em-nossa-sociedade
+# score: 5,0
+# title: As crianças são futuro, criminalidade é retrocesso
+A marginalidadeecriminalidade infantil sãofatorescrescentes na sociedadeatual, éperceptível o número de menores de idade envolvidos em crimes e em situações que colocam não só suas próprias vidas mas a vida de outros indivíduos em risco.
+         A criança, símbolo de inocência, perde sua infância,degredadamuitas vezes pela
+         situação social na qual vive eàssituaçõesaquais é exposta.
+         Situações estas que fazem com que crianças, que tomam adultos como modelo, tomem também como modelo o crime como modo de vida já que esta é a realidade que conhecem, não certo ou errado, somente a realidade. A presença da família na vida e criação da capacidade de discernimento de uma criança é essencial para a formação do caráter desta, família que muitas vezes não está presente e permite que as crianças tomem o que veem na rua como base de sua educação e conceito de vida. Na canção de Chico Buarque, “Meu guri” a visão familiar do filho que comete crimes mas consegue crescer na vida mostra que, mesmo tendo-se uma relação de afeto na família, a criminalidade é vista como única opção, quando na verdade deveria ser a última. Sendo um dever da sociedade, do Estado e da família manter uma criança, adolescente ou jovem em condições aceitáveis de vida, é necessária uma mobilização geral com foco na educação das crianças, que precisam de modelos que mostrem que apesar de condições ruins há outra opção: a honestidade, lutando pelo que quer. Ao Estado caberia prover uma educação social nas escolas, à família dar carinho e agir com idoneidade e à sociedade cabe não fechar os olhos e ignorar a situação social em que muitas pessoas vivem, cada um fazendo sua parte: com trabalhos sociais em favelas, visitando estas crianças tão carentes de amor ou somente não fechando o vidro do carro quando forem lhe pedir dinheiro, atenção não custa nada.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 1,5

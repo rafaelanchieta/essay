@@ -1,0 +1,12 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 0,0
+# title: Medo e Inseguranca [Insegurança]
+Com o passar do tempo aviolencianas escolasestaocrescendo entre alunos e professores.
+         Um lugar que sempre foi um ponto chave para o desenvolvimento e aprendizado paracriancase jovens hojeesta se trazendomuitoMedo e Insegurancapara alunos e professores em muitasEscolas do Pais.
+         Diante de tudo isso,epreciso maisatencao e segurancapara poder diminuir
+         atitudes assustadoras nasinstituicoessendo ela publicasou particulares.
+# C0: 0,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

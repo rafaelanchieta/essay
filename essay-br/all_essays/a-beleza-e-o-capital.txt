@@ -1,0 +1,9 @@
+# prompt: Forma física, corpo perfeito e consumismo
+# score: 950
+# title: A beleza e o capital
+Analisar os padrões de beleza e suas influências na vida dos indivíduos é imprescindível. Nesse sentido, assuntos como a relação do consumismo com o aumento da procura por procedimentos estéticos invasivos devem ser aprofundados. Desse modo, é fundamental questionar: teria o corpo humano se tornado mera mercadoria? Em primeiro lugar, nota-se a influência da TV e das celebridades em disseminar o mito do corpo perfeito. É inegável o poder de  persuasivo da propaganda e da boa retórica que, aliado ao alcance massivo da TV, bombardeia milhões de cidadãos com imagens de beldades - normalmente  alteradas digitalmente - posando ao lado de textos conativos.Em segundo lugar, observa-se a falta de amor próprio dos indivíduos, que na ânsia de serem "belos" e melhores  aceitos, sujeitam-se a procedimentos cirúrgicos perigosos. Em um caso recente, um jovem da cidade de Ribeirão Preto faleceu depois de injetar a substância "hidrogel" em seu pênis, sem a supervisão de um profissional - que com certeza não faria tal aplicação, pelo seu conhecido risco.Em decorrência disso, é inegável o rebaixamento do corpo como uma mera peça decorativa de consumo, e mudar essa realidade pode levar tempo. A escola é uma peça fundamental para a solução do problema, devendo ajudar na desconstrução dos padrões de beleza vigentes e induzir ao pensamento crítico os jovens. O Estado também deve fazer seu papel, obrigando os canais TV e revistas a indicarem quando suas imagens foram alteradas digitalmente para serem mais belas.
+# C0: 200
+# C1: 200
+# C2: 150
+# C3: 200
+# C4: 200

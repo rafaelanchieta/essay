@@ -1,0 +1,12 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 400
+# tittle: Da Situação à Solução
+Nos últimos anos dobrou a população carcerária no Brasil, sendo o terceiro país com mais presos  ultrapassando o limite nas penitenciárias, ocorrendo então a superlotação com mais de 840 mil presos. 
+
+De acordo com a Lei de Execução Penal  a assistência ao preso é dever do Estado, para prevenir o crime e orientar o retorno à  a convivência em sociedade. Diante do Levantamento Nacional de Informações Penitenciárias   mais da metade da população são jovens de 18 a 29 anos, os dados revelam que 95% dos presos são homens e 5% mulheres  e 89% não tem Educação Básica completa. Contudo no país as taxas mais elevadas de acordo com a população,  seria no Mato Grosso do Sul e no Acre. Com a superlotação ocorre então sérios problemas, além de crimes, brigas, doenças transmitidas, torna-se um ambiente de difícil convivência, ocasionando várias mortes e com tudo isso familiares dos penitenciários também sofrem por um familiar que está preso, por várias vezes esse não ter direitos e ainda em alguns casos passar por situações completamente desumanas. 
+Conforme essa situação  uma das saídas seria o Estado ofertar serviços, ações, dando oportunidades aos presidiários de voltar à sociedade e a convivência. Outra saída seria uma educação nas penitenciárias abrangendo mais saberes sociais, envolvendo a esperança, ética, com conversas no coletivo, com tudo isso estaria ajudando o próximo a voltar à vida. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

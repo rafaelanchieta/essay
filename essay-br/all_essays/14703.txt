@@ -1,0 +1,13 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 400
+# tittle: Educar é a solução
+O Brasil tem mais detentos do que prisões. E a cada mês, 3 mil novos presos são enviados para as penitenciárias. 
+A superlotação é uns dos principais problemas nas prisões brasileiras. Quanto mais presos, mais ataques e mortes. E a situação desumana aumenta. A prisão existe para que cada réu sinta o peso de suas ações e aprenda com elas. Mas 70% dos libertos,  voltam a praticar crimes. 
+A Noruega  por exemplo, segue com um modelo de "justiça restaurativa", onde   visam orientar os presos através de atividades educativas. E tal sistema funciona muito bem, pois está diminuindo os crimes no país. 
+A sociedade brasileira precisa deixar de ver os presos como lixo tóxico e encontrar um jeito destes serem úteis a ela . Deve-se investir na educação também nas prisões. A maioria dos detentos são analfabetos. São pessoas que encontraram dificuldades em sua jornada e resolveram entrar na vida do crime. 
+Porém, nada justifica qualquer ato violento contra o próximo. Todos sabem disso. A vida no crime é uma escolha. Mas a desumanização que ocorre nas cadeias brasileiras afetam a todos nós . É melhor ter mais oportunidades e educação do que bandidos nas ruas. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

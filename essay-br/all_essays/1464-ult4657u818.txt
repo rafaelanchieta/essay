@@ -1,0 +1,13 @@
+# prompt: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco
+# score: 3,0
+# title: É um direito e dever ou preconceitos?
+Cada instituição de ensino superior, principalmente as federais[,] garante uma porcentagem de vagas para a etnia negra. Seria um direito ou um dever? E digo mais, ou um preconceito? Naconstituição federal, diz que: "todos são iguais perante a lei, sem distinção ou discriminação..." Como podemos encarar essa situação como um direito conquistado? Trata-se de um preconceito dentro da própria lei que foi sancionada, por que se "todos são iguais perante a lei",porquea porcentagem para os negros? Então deveria existir para os brancos, pardos, amarelos, etc. Nossa própriaconstituição,
+        onde são elaboradas as leis para nos defender e proteger ,iniciamcom o racismo, com o preconceito não só pelos negros mas também pela cultura, posição social (classe baixa, média e alta),deficientes, portadores de doenças contagiosas, etc.
+        Vejamos como exemplo as eleições de 2010. As propostas dos candidatos, todas são voltadas para a pobreza, tudo que eles vão melhorar é a classe baixa (os pobres!), isto não seria um tipo de preconceito? E o povo se orgulha de um candidato que vai melhorar a vida dos "miseráveis", com isso, se faz a bolsa família, minha casa minha vida e assim por diante . E os outros milhões de problemas do nosso país, não serão resolvidos ou não são mencionados para a maioria dos eleitores pela mídia (TV) porque eles não irão entender mesmo, são pobres!!Estaatitude não seria um preconceito?
+          O que devemos nos conscientizar é que precisamos mudar nossa forma de pensar referente ao preconceito, não é somente com a etnia negra. Uma reforma deveria ser feita na memória dos nossos governantes a respeito de direitos e deveresquanto hávários aspectos da sociedade, como: os deficientes ( os especiais), os homossexuais, os heterossexuais, a religião, ospedofilos, em geral com toda a sociedade como um todo etc. Agoranegros!!Qual a diferença deles, a pigmentação da pele? Qual branco que não tem um décimo de sangue negro no seu organismo, comestagrande mistura de etnias em nossopaís.Falar que os brancos são totalmente puros e quetemmais direitos do que osnegros, éuma analogia, ser diferente na cor da pele se dá mais oportunidades para uns e menos para outros, isto sim é um preconceito legalizado.
+            Precisamos mudar nossas atitudesurgentes! Quanto ao racismo, preconceito e diferenças e que possamos viver com grandeza de boas ações para todos, como um TODO.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

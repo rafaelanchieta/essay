@@ -1,0 +1,12 @@
+# prompt: O direito ao foro privilegiado
+# score: 650
+# title: O direito ao foro privilegiado
+A impunidade  na atual conjuntura brasileira  é um revés que se agrava cada vez mais em nossa sociedade. Outrora dizia o escritor Marquês de Maricá, “O sistema de impunidade é também o promotor dos crimes”, uma citação que reflete nossa situação contemporânea. 
+A sensação de impunidade ficou ainda mais forte a partir da promulgação da Constituição Federal de 1988, que instituiu foro privilegiado por prerrogativa de função, ou seja, o foro é um privilégio de cargo e não de pessoa. A justiça brasileira prevê que todos os cidadãos são iguais perante a lei, porém, a aplicação do foro é vista como uma exceção indubitável quando se trata de julgamentos justos.
+O foro privilegiado, é na verdade,   um tipo de proteção que políticos recebem para que haja segurança contra perseguições políticas de juízes locais. Entretanto, isto  é uma ilusão, visto que esse direito é usado na maioria das vezes para se cometer  crimes e sair impune, uma vez que, é  rara a prisão (pelo STF) de políticos que cometem atos ilícitos contra o povo.
+Portanto, é evidente que o foro especial ou foro privilegiado é uma injustiça que deve ser combatida, cabe ao povo a elaboração de protestos que sejam contra  esse tipo de privilégio, consequência disso, manter a tese de que todos cidadãos são iguais perante a lei. Além disso criar uma sociedade justa e saudável, sem privilégios de cargo.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,9 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 4,0
+# title: Heróis de verdade
+O Brasil está passando por um longoperíodode tragédia e violência,ondeas pessoas têm medo de sair na rua, sentem-se cansada de ligar a televisão e assistirá todas as mortes que são mostradas nos noticiários . É natural que muitas esperem o surgimento de um salvador, que possa acabar com todo o sofrimento, fome e miséria, que faz parte da vida de milhões de brasileiros. Ter esperanças de viver em um mundo melhor é importante para seguir em frente, com a cabeça erguida. Porém, não basta só esperar, é preciso agir. Os verdadeiros heróis são aqueles que contribuem para mudar a realidade atual. Os médicos que trabalham nos hospitais públicos, que ganham mal, não possuem material nem condições para o tratamento de tantas pessoas que precisam de ajuda, mas mesmo assim continuam trabalhando. Ou os professores de escolas do governo, que tentam ensinar aos alunos o que é certo e o que é errado, mesmo sabendo que muitos deles cresceram no meio do tráfico de drogas, e que quando se tornarem adultos, farão parte deste destino.Super-heróis que voam e possuem poderes, são personagens,não existem.O que o Brasil preciseé de pessoas reais que ajudam as outras, que se preocupam com o futuro do país. Estas sim, merecem a nossa crença e reconhecimento.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

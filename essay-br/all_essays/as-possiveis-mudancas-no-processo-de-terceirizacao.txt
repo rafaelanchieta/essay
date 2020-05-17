@@ -1,0 +1,12 @@
+# prompt: Terceirização: avanço ou retrocesso?
+# score: 550
+# title: As possíveis mudanças no processo de terceirização
+As possíveis mudanças no processo de terceirização vêm gerando diversas divergências entre os trabalhadores brasileiros. Se, por um lado  é considerada  um avanço inevitável, por outro o país está receoso com tal mudança 
+A possibilidade das  empresas terceirizarem trabalhadores para a sua atividade fim, vêm  assustando muitos trabalhadores brasileiros. Em meio a tantas manifestações e greves sobre  a medida, são discutidos os benefícios que as empresas ganhariam ao terceirizar ao invés  de contratar um empregador . As mesmas  não só ficariam livres de alguns encargos trabalhistas, que por consequência trariam  possíveis prejuízos ao trabalhador assalariado – como  a diminuição do salario,  e os direitos assegurados pela CLT, como  também aumentariam seu lucro.
+Visto que vivemos em um mundo capitalista, acredita-se que tal processo seria inevitável no Brasil. Apesar do mesmo  não se encontrar preparado para uma mudança de tal magnitude que, com certeza, produziria grandes efeitos na economia brasileira que já não se encontra no seu melhor momento. 
+Caberia, portando , ao governo assegurar os direitos já adquiridos do trabalhador, para que o mesmo  não saia perdendo em meio a todo esse avanço. E, as  empresas, o mínimo de decência e ética para tornar desse um  processo benéfico não só para os empregadores, mas também para toda a sociedade brasileira.
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

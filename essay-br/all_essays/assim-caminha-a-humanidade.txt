@@ -1,0 +1,13 @@
+# prompt: Ciência, tecnologia e superação dos limites humanos
+# score: 920
+# title: Assim caminha a humanidade
+A humanidade está fadada a superar seus limites. É assim desde os primórdios. Afinal, não partimos de tecnologias rudimentares à base de pedras lascadas e chegamos à nanotecnologia?
+Todavia, infelizmente, os avanços da ciência não contemplam todos. Não é difícil encontrar pessoas sem acesso a coisas básicas, como água tratada, por exemplo; que dirá tecnologias de ponta, então?
+Na hipótese de uma eventual revolução transumanista, não seria diferente. Apenas parte da humanidade, aquela parcela de sempre, a que pode pagar, usufruiria dos avanços científicos.
+Além , é óbvio, do complexo industrial-militar industrial militar. O antigo sonho do super soldado seria, enfim, por eles realizado . Não causaria surpresa alguma, se outro louco tentasse dominar o mundo com seu super exército .
+A história se repete, revolução após revolução. Ingenuidade acreditar que, dessa vez, tudo seria diferente, que não haveria marginalizados e que essa tecnologia não seria mal empregada .
+# C0: 160
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 160

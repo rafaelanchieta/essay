@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: [Redação sem título]
+O Brasil é um dos países que mais prendem no mundo. Levantamento feito pelo G1 mostra que o país atualmente possui 704.395 presos – o que equivale a 335 encarcerados a cada 100 mil habitantes. Entretanto, não há capacidade nas prisões para todos os infratores, proporcionando a superlotação das prisões, fazendo-se necessário a tomada de medidas para reverter a atual situação vivenciada. É possível afirmar que,  o sistema prisional brasileiro necessita de introduzir a perspectiva de humanização dos detentos, pois muitos estão sendo mortos atrás das grades. 
+
+Em primeiro lugar, no filme “Tropa de elite ” é retratado como é o dia a dia de quem trabalha combatendo o crime, em consonância, é visto como grande parte da população possui a visão que o preso tem que sofrer na cadeia, onde  essas pessoas são abandonadas, sem nenhum amparo digno da justiça e nem da família. Diante desse cenário desenvolvido durante a narrativa do filme é perceptível a falta de interação e de cuidado, onde a exclusão torna-se um elemento crucial a esse indivíduo. Portanto, faz-se necessário a implantação de ações que comunguem com a dissolução desta conjuntura preceituosa acerca daquelas que se encontram no cumprimento de alguma pena. 
+
+Outrossim, vale ressaltar também que existe uma enorme falta de segurança nos presídios, pois, dados da BBC News Brasil revelam que durante a gestão do governador Wilson Lima ,  ocorreu cerca de 40 mortes dentro das unidades do sistema penitenciário e segundo a gestão os óbitos foram decorrentes das disputas internas entre duas lideranças da facção criminosa família norte . Por meio dessa situação é evidenciada uma das consequências trazidas pela superlotação, que é a perpetuação da violência e falta da seguridade. Em suma, são indispensáveis a cautela e um maior amparo do estado para os problemas vivenciados dentro do sistema carcerário. 
+Em síntese, medidas são necessárias para atenuar essa problemática. Nesse sentido, o Ministério da Justiça e Segurança Pública - órgão governamental responsável por gerir todos os assuntos pertinentes ao poder judiciário nacional - em parceria com os Ministérios da Educação e Economia, deverão  deverá promover ações de conscientização para desmistificar o pensamento preconceituoso da sociedade, em conjunto deverá ser produzido um plano de inserção do infrator no mercado de trabalho,  após cumprir a pena. Com a finalidade de promover o não retorno à criminalidade, retirando o indivíduo da zona de perigo de cometer novos atos criminosos, mudando de forma positiva o atual cenário do sistema prisional brasileiro. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,11 @@
+# prompt: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil
+# score: 2,0
+# title: Sem título
+As usinas nucleares no Brasil possuem um papel importante para o dia a dia de muitos trabalhadores,portantoos lixos extraidos têm comprometido a vida de muitas pessoas.
+         Essa é uma pergunta para muito se questionar;pois o trabalho dessas usinas tem sido de grande contribuição para a medicina ,soluções industriais e tambem para criação de formulas agropecuárias.Com isso tem melhorado muito a vida dos brasileiros,pois com esse avanço crescemos em inúmeras aréas e criou-se solução de vários problemas relacionados a saúde e a conservação do meio ambiente.Mas por outro lado ,essa boa ação tem sido prejudicial.Pois o urânio enriquecido se transforma em produto perigoso a o contato com ser humano,podendo provocar acidentes.
+             Entrentanto,com tantas vantagens e uma desvantagem comprometedora,podemos analisar que já é suficiente duas empresas; a cada dia esse lixo só se mutiplica e tor-se á causador de mortes e preocupação para autoridades e governos envolvidos.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: Vacinação para todos
+Alguns pais estão deixando de vacinar seus filhos e algumas pessoas de tomarem os reforços das doses influenciadas pela ideia de que a vacina desencadeia a doença que visa prevenir . Em decorrência desse pensamento, nesse ano de 2019 doenças erradicadas voltaram a ser notificadas. Dessa forma, tem-se que repensar o modo de educação sobre as vacinas no Brasil ratificando a importância da mesma  como o principal meio de prevenção de doenças. 
+
+O Jornal Nacional do mês de setembro desse ano noticiou o surgimento de casos de doenças  consideradas extintas  como o sarampo  em decorrência da negligência da população em atualizar o cartão de vacinação. A causa desse comportamento gira em torno da falta de educação sobre a importância da vacinação . Pensa-se que se não "existe" a doença, não "precisa"da vacina; um grande equívoco que precisa ser aniquilado através de programas educacionais mais efetivos. 
+Grupos contra o governo e algumas pessoas extremamente radicais disseminam boatos pelas redes sociais incentivando a população a não se vacinar . Dessa forma, divulgam que o governo quer que as pessoas morram para não ter que pagar pensões e aposentadorias  e que as vacinas possuem vírus mortais, sendo o instrumento perfeito para executar essa ideia. Em contrapartida, o governo investe alto nas campanhas de vacinação. 
+
+Desta forma, há uma luta do governo contra o movimento antivacinação, onde   busca parceria com a sociedade civil, com as escolas aumentando o número de palestras, melhorando as campanhas nos meios de comunicações e transferindo informações de qualidade para que as pessoas reflitam sobre a segurança da vacina;  sobre a tecnologia no seu processo de fabricação. Só assim,  a ideia que a vacina causa doença será enfraquecida.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: A fome mundial
+A fome é a realidade de milhões de pessoas. Uma desigualdade social que aterroriza grande parte da população mundial. E isso se deve não pelo fato de que não há alimento, mas sim porque elas não tem condições de pagarem para tê-lo em sua casa. A produção de alimentos é boníssima, tanto que chega a sobrar causando, muitas vezes, desperdício. O grande motivo é o dinheiro. 
+
+Essas pessoas, normalmente, são desprovidas de saúde, educação e consequentemente de emprego. O que gera então a falta de alimentos em seus lares. Isso é desarmônico, frustrante e vergonhoso, principalmente para países com estrutura e riquezas que poderiam se mover em prol de situações como esta. 
+
+Mesmo com o mundo produzindo comida suficiente para as 8 milhões de pessoas existentes no mundo , a cada 1 minuto alguém morre de fome . Crianças desnutridas, pais e mães morrendo sem a chance de dar um pedaço de pão ou água para seus filhos. Isso deveria ser inaceitável, deplorável e lastimável. Mas o que se vê cada vez mais é o contrário disso. Os governos fecham seus olhos, se viram para essas situações como se não existissem, ignoram os mais pobres e nos seus chamados por ajuda e só pensam na glória para eles mesmos. 
+A economia do país é muito importante para que isso não venha acontecer, pois assim,  empregos são formados, famílias saem das ruas e conseguem se reerguer, saindo da pobreza extrema. Portanto, é relevante que as organizações responsáveis se comovam e se mobilizem facilitando a vida desses seres que são tão humanos quanto qualquer outro. Parte importante deste processo é escutar o povo afetado para compreender os impactos da fome e pobreza na região e, assim, bolar formas e projetos completos e efetivos. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

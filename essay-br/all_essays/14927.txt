@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 550
+# tittle: A fome como resultado da ignorância humana no Brasil
+Vários momentos da História destacam situações em que a fome prevaleceu. A Crise de 1929  foi resultado de grandes ações e decisões que levaram a população a uma necessidade extrema de recursos para sobreviver. De maneira análoga, inúmeros brasileiros se veem, diariamente, em uma pobreza preocupante, que também é resultado da ignorância humana. 
+
+Outrossim, de acordo com estudos recentes, feitos pela FAO , mais de cinco milhões de pessoas vivem em situações extremamente precárias no Brasil, ou seja, sem condições de ter pelo menos uma refeição diária para se sustentar . Dessa forma, é notório o quão são escassas as oportunidades de emprego e inclusão no país atualmente. 
+
+Por conseguinte, hodiernamente, fatores como a concentração de riquezas faz a desigualdade social ser muito maior, o que acaba tendo impacto na vida dos mais carentes, resultando em miséria . Assim, a falta de administração de recursos públicos e a instabilidade política faz com que poucas pessoas tenham acesso e direito a terras e meios de produção. 
+Portanto, medidas são necessárias para a resolução do impasse. Em virtude dos fatos mencionados, o Governo deve agir,  repensando projetos sociais,  para que hajam outras maneiras de distribuição de renda, aperfeiçoando, por exemplo, o Bolsa Família e o Fome Zero, para que o índice de fome no Brasil diminua. Ademais, cabe à mídia e ONGs  impulsionarem campanhas de doações, conscientizando, assim, a população,  para que seja disseminado tal problema que mata pessoas diariamente. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

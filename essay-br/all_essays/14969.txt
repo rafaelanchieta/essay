@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 340
+# tittle: Consumismo e Meio Ambiente
+Muitas são as mudanças percebidas a partir da Revolução Industrial nos séculos XVIII e XIX. Com o avanço tecnológico o consumismo foi aumentando e causou grandes impactos ambientais, tais como: a exploração de recursos naturais como também uma maior produção de lixo . Tendo como autor dessa problemática,  a sociedade. Logo é evidente a necessidade de reverter essa situação.
+
+Primordialmente, é válido destacar que a exploração de recursos naturais tem crescido significativamente, e a grande protagonista são as indústrias. Sendo ela responsável por produzir resíduos prejudiciais ao meio ambiente. Contaminado assim os rios, o ar, as florestas e também os seres que habitam no ecossistema terrestre. Logo é evidente como essa situação deve ser mudada. 
+
+Além disso, é importante destacar que,  a produção em massa de lixo estar está intrinsecamente ligada ao consumismo humano. De acordo o    estima-se que a produção de lixo no mundo deve ter um aumento de 1,3 bilhões de toneladas para 2,2 bilhões de toneladas até o ano de 2025. E esses problemas são efeitos de hábitos não cociente consciente. Assim, esse é outro fator preocupante sobre essa situação. 
+Mediante ao exposto, medidas devem ser tomadas para combater o problema. Para isso o Ministério do Meio Ambiente de conscientizar a população sobre a prevenção ambiental, realizando projetos e palestras nas comunidades e nas escolas. Mostrar para indivíduo a real situação do problema exposto, divulgar a importância de ter um consumo consciente. Só assim começaremos  a reverter o índice de poluição no Brasil.
+# C0: 150
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 20

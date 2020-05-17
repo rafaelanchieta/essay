@@ -1,0 +1,16 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 1.0
+# title: As vantagens e desvantagem de Cursos de Longa Distância
+Hoje em dia algumas pessoas estão preferindo fazer cursos a longa distância, talvez seja por falta de tempo, pois muitaspessoastemque trabalhar para
+        pagaremsua faculdade.Mashá pessoas que procuram essas universidades por falta de oportunidade em sua cidade.Masé claro que existemsuasdesvantagens, pois fazendo cursos de longa
+            distanciavocênão tem contato físico com as pessoas que talvez
+            possate ajudarem algo que você esteja com dúvida. Tema desvantagemque muitosque muitosalunos tentam enganar os seus professores fazendo seus trabalhos copiados da internet, ou muitas vezespedindo para que outras pessoas fizerem.
+              Esses alunos pensam que estão enganando os professores, mas nãoeles estão enganando a si mesmos.
+                Portanto, o curso delongadistância tem suas vantagens e
+                  desvantagembastasimos alunos tereminterresseemaprenderque irão
+                  aprender quanto estivesse perto como longe.
+# C0: 0.5
+# C1: 0.0
+# C2: 0.5
+# C3: 0.0
+# C4: 0.0

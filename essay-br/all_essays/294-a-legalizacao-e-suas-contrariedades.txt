@@ -1,0 +1,11 @@
+# prompt: o-supremo-tribunal-federal-fez-bem-em-legalizar-o-aborto-de-anencefalos
+# score: 3,5
+# title: A legalização e suas contrariedades
+A anencefalia é uma doença surgida aindavidaintrauterina,sem chances de sobrevivência, por esta situaçãoautoridades jurídicas legalizaram o aborto de anencéfalos. Isso gerou opiniões diferentesa cercado assunto, transformando-otemade vários debatesreligiosos e até da sociedade.A enfermidade é diagnosticada no terceiro mês de gestação, a maior parte do cérebro do feto nãoexisti, sendo assim não irá realizar suas devidas funções, portanto nãofuncionarapor muito tempo. Há uma estimativa dequê50 % dascriançasnão chegam a nascer e, quando nascem, 99% morrem após o parto.
+          As autoridades religiosas são contraa essalei , afirmando que ninguém tem o direito de tirar a vida de um feto. O aborto de anencéfalos foi legalizado pelo Supremo Tribunal Federal, afinal é um direito da mãe decidir querer ou não esse tipo de gravidez de risco, mesmo sabendo que seu filho terá pouco tempo devida, o nenhumadas opçõessão fáceis, até porque ninguém quer ter um filho por pouco tempo ou
+            tirar o direito de vida de uma criança que não pediu para nascer. Em São Paulo ocorreu um caso em que o médico Thomas Gollop, especialista em medicina fetal, fez seu diagnostico errado, disse que a menina Marcela de Jesus era anencéfala quando na verdade sofria de merocronia e sobreviveu por 1 ano e 8 meses. A diferença entre essas doenças é que a anencefalia não possui a maior parte do cérebro, enquanto que a merocronia possui o cérebro desorganizado, podendo sobreviver por um pouco mais de tempo. O Brasil é o quarto país com o maior número de casos dessa enfermidade, ficando atrás do México, Chile e Paraguai, para cada 700 nascimentos um é com a anencefalia. Depois da decisão quea lei foi legalizada, a mãe fica com a escolha.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

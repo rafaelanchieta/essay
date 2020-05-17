@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 450
+# tittle: O meio científico e suas soluções contra pandemias.
+Por que o investimentos na área científica poderia mudar o numeroso índice de casos de uma pandemia no Brasil? Uma vez que,  a proteção e o conhecimento de situações semelhantes fossem premeditadas. 
+ A consciência da existência de ameaças virais e infecciosas anteriores,  poderia  ajudar no combate de situações epidêmicas futuras, já que haveria  uma noção mais transparente proeminente de contágios análogos . Dito isso, o emprego monetário no setor científico,  não se refere apenas à um pré-conhecimento das devidas situações, mas também,  ao procedimento padrão para a prevenção de retorno e uma pandemia, a vacina .  Buscando  a possível erradicação de pragas altamente contagiosas. 
+Ademais a criação dos medicamentos, resultantes de uma profunda pesquisa sobre os patógenos, irá servir como forma de tratamento para o paciente infectado, visando  sua cura. Paralelamente, a criação de vacinas e campanhas de vacinação, originárias desse estudo científico, agirá como uma forte aliada no combate contra as pandemias ainda não erradicadas e, futuras . 
+ De acordo Organização Mundial da Saúde , pandemias são doenças infecciosas que se espalham de forma rápida e brutal, de modo em que esta possa atingir a tudo e a todos ao mesmo tempo. Quando há um conflito entre cientistas despreparados  e algo que não se conhece, pode haver 50% de chances  ou mais, para que a doença seja extinguida ou não, ou seja, quando a prévia é inexistente,  se torna impossível saber o quanto,  ou quem ela atingirá. Em intermédio à a uma anarquia o que mais se instala é o medo, vigente às ambiguidades anunciadas pelo meio tecnológico para as aglomerações sociais, isso que, pode ser fruto resultante das más informações obtidas com o tempo, por falta de investimento no setor científico e educacional. 
+Sendo assim, é conspícua  a relevância das riquezas inseridas no âmbito técnico, profissional, informacional e acadêmico.  Pois,  esses tornam possíveis as descobertas que ocasionam mudanças na sociedade  proporcionando  na maioria das vezes soluções para arrepelar enfermidades existentes na comunidade. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 0

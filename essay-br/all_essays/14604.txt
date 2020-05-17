@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: [Redação sem título]
+Sob a perspectiva do autor José de Alencar, no livro ‘’O Guarani’’ que se passou no século XVII . A história tem por objetivos mostrar as interações entre índios e brancos e a cultura indígena. Nesse romance o relacionamento entre brancos e índios é amistoso, as maiores desavenças ocorrem entre as próprias tribos indígenas, devido as disputas territoriais e a busca por poder . Diferentemente do livro, a disputas por territórios ainda persistem atualmente no Brasil, além da discriminação sofrida pelos índios. Fazendo-se necessários meios para diminuir esse problema. 
+
+Sob esse viés,  permeia as discussões sobre a importância dos povos indígenas no país, eles são consideramos  como referência cultural, afinal foram os primeiros povos a povoar o país. Em séculos anteriores eram alvos de dizimações pelo homem branco ao entrar em conflito por território. E atualmente as disputas têm-se intensificado pelo mesmo motivo. As migrações para os centros urbanos são visíveis, afinal busca-se refúgios nas grandes metrópoles. O que na maioria das vezes resulta em descriminação e na intensificação da desigualdade social, pois os índios podem apresentar dificuldades na adaptação frente a uma nova cultura que exigira fluência na língua portuguesa e na leitura. 
+Ademais, é de suma importância respeitar esse povo que contribuí de maneira significativa para o equilíbrio ecológico do planeta, pois são eles que cuidam da fauna e flora das florestas  e protegem contra invasores. Se os índios perderem a sua morada, seja por conflitos, seja por migrações ao logo dos séculos, isso causaria um descontrole no planeta que poderia resultar em vários danos,  no clima, e eventualmente na agricultura, além do desiquilíbrio da biodiversidade. No entanto, deve-se ressaltar que é um direito do índio participar de maneira efetiva das Universidades, trabalhar e morar nas cidades ou permanecer nas florestas se for de sua exclusiva vontade. 
+
+Tendo em vista a atual situação vivida pelos índios  o O Instituto Socioambiental  lançou uma parceria em defesa da cultura indígena. A campanha tem por intuito a sensibilização das pessoas e o apoio em favor da luta pela proteção do patrimônio ambiental brasileiro e defesa dos povos indígenas. O Brasil é a casa não só dos brasileiros, mas também dos índios  pois esses também são brasileiros,  e possuem os mesmos diretos. Sendo a valorização cultural e a diminuição da descriminação essencial no presente e no futuro do Brasil. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

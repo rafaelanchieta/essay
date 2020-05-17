@@ -1,0 +1,10 @@
+# prompt: quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional
+# score: 6,5
+# title: Construindo nossa escada
+Dia pós dia, nos deparamos com um mundo em constante transformação, no qual, saber tomar decisões e estar preparado para o que o mercado pede, são fatores essências paragalgar bons frutos profissionais. Nada melhor, para obter tal preparação que porta de boa formação e estabelecer estratégias de vida.Nunca ter uma boa formação foi tão importante quanto nos dias de hoje, observemos que às mudanças no mercado de trabalho torna-o extremamente competitivo, e está atento a elas, nos dá dianteira nessa "competição". Hábitos como a leitura, estudos e atualizações do que se pretende e do mundo em volta de nós, ajudam na conquista de onde queiramos chegar e também a compreender tal mundo.Ter um plano de desenvolvimento, estabelecer metas, saber se portar, comungar idéias e ser compatível com o trabalho proposto, são aspectos crucias para o sucesso,vale lembrar que as empresas modernas estão deixando de trabalhar em grupo e adotando equipes, as chamadas `Team Works´ , onde todos se envolvem com o resultado da equipe e não com trabalho individual, exigindo do profissional a capacidade de tomar decisões.
+            Com todas as transformações do mundo e do mercado de trabalho, o profissional deve estar preparado para trabalhar em equipe, com habilidade para lidar com pessoas, vender idéias, administrar conflitos e liderança. Contudo, vale salientar quearregaçar as mangas, trabalhar duro, não esmorecer diante os insucessos e persistir, são ingredientes imprescindíveis para o sucesso, quer seja profissional, quer seja em outras áreas.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,0
+# C4: 1,0

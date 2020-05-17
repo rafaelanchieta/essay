@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 350
+# tittle: Mastigando palavras
+Quantas vezes na escola você já ouviu seu professor dizer: "Leia, leia bem e quantas vezes for necessário"?. A leitura é fundamental desde de textos altamente complexos até simples questões de matemática, não somente a leitura de palavras mas a compreensão de imagens em si. 
+O analfabetismo funcional ainda é um problema porque muitas pessoas  até mesmo estudantes  não conseguem compreender textos básicos , mesmo sabendo ler e escrever . Essa dificuldade de entender textos prejudica, pois as pessoas acabam se sentindo insuficientes devido críticas vindas de outras, desistem de ir a escola, ou de querer aprender algo a mais. 
+Esse problema também surge no âmbito digital, entre piadas e frases engraçadas,  que surgem rapidamente na internet, e você acaba sendo pego de desprevenido por um termo engraçado e diferente e passa a usá-lo no dia a dia, por vezes sem saber o significado das palavras ou de onde ela surgiu. 
+O analfabetismo ainda permanece, pois falta incentivos do governo, com mais campanhas de leitura e interpretação de textos, distribuição gratuita de livros para crianças e jovens de baixa rende  renda e em situações precárias 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

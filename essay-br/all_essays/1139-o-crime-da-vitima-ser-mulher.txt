@@ -1,0 +1,13 @@
+# prompt: cultura-do-estupro-a-culpa-e-da-vitima
+# score: 5,5
+# title: O crime da vítima: ser mulher
+Imagine uma mulher, sexo frágil, atraente, roupas curtas e comportamento considerado vulgar. Ela merece ser estuprada? De acordo com uma pesquisa realizada atualmente, a maioria dos brasileiros acredita que as mulheressão merecedoras desofrer violência sexual por utilizar roupas curtas e não saber se comportar.
+         Segundo os índices da pesquisa sobre "Tolerância social à violência contra a mulher", realizada pelo IPEA (Instituto de Pesquisa Econômica Aplicada), vinte e seis por cento da populaçãocondenaque mulheres usando roupas curtas merecem ser violentadas sexualmente, e cinquenta e oito por cento acreditam que se as mulheres soubessem se comportar melhor, haveria menos estupros. Ou seja, ficou comprovado que maior parte da sociedade ainda guarda pensamentos ealusõesmachistas, eincitamno absurdo de atribuir a culpa do crime à própria vítima.
+         É praticamente inaceitável acreditar que mesmo após anos de luta contra o preconceitosexual, e nabusca da igualdade entre homens e mulheres, ainda exista um grupopreponderantede pessoas queenxergama mulher como objeto. Objetoeste, queseduz e atrai o homem,
+         e o torna vítima de um crime cometido por ele mesmo. Acabam insistindo na atribuição de fatores externos para justificar o estupro, e simultaneamente favorecem a cultura da impunidade, que já é muito cultivadana criminalidade do Brasil.
+         Desse modo, fica difícilatenuar e desmistificaro pensamento sexistaque a sociedade possui. A não ser porbaseda conscientização dessa parte da população desinformada e de mentalidade medieval, de que mulher não écoisa, e nãoé culpada das intenções e atos violentos de homens desprezíveis. A mulher não é culpada de ser violentada e humilhada, ela é a vítima de um grupo de falocratas quemerecemo julgamento e a puniçãocorretade suas ações.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 350
+# tittle: A situação atual dentro dos presídios no Brasil
+Os prisioneiros no Brasil são vistos com maus olhos perante a sociedade onde  dizem: "lugar de bandido é na cadeia" . Os presídios atualmente são super lotados superlotados, com pequenos espaços, ali são abrigados homens que cometeram crimes como assassinato, furtos, ou foram pegos possuindo drogas. 
+
+A cadeia é um lugar triste onde os presos passam a maior parte da vida dentro de grades sem ver o mundo externo. Quando saem de lá e vivem a experiência de ter passado anos no cárcere,  não querem voltar para esse lugar tão horrível e não cometem os crimes que cometiam antes, quando tem a oportunidade de ter saído com vida. 
+Todavia, nas prisões entram celulares, tablets com acesso à internet para que sirva de comunicação entre o mundo do crime. Cadeias com pouco espaço e super lotadas, causando rebeliões entre os presos e os que estão soltos assaltam ônibus, lojas, bancos etc. em respostas ao mundo do crime. 
+
+Portanto, para acabar com as rebeldias dos presos deveriam implantar mais trabalhos nas cadeias e não colocar tantos presos no mesmo lugar. Com isto acabariam com tanta violência nos próprios presídios, segurança máxima ao entrar visitas, para que não entre celulares ou nenhum objeto que comprometa o preso. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

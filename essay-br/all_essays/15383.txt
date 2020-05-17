@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 450
+# tittle: Gravidez precoce: um problema?
+De acordo com a Organização Mundial de Saúde , considera-se gravidez precoce quando a menina engravida entre 10 aos 19 anos. A gravidez na adolescência é um tema relevante na realidade social brasileira. Tradicionalmente está associada à cultura e à dificuldade de acesso aos métodos contraceptivos, podendo causar consequências desagradáveis tanto para a saúde da gestante, quanto,  para o bebê. 
+
+ Em primeiro plano, observa-se, sobretudo, maior chance de parto prematuro, rompimento precoce da bolsa e aborto espontâneo, por exemplo, visto que as adolescentes não estão totalmente prontas fisicamente para uma gestação. Ademais, outra consequência importante é o fato de que elas não estão preparadas emocionalmente, pois pode gerar depressão pós-parto ou até mesmo durante a gravidez, diminuição da autoestima e problemas afetivos entre a mãe e o bebê . Outro ponto relevante é que com a gravidez precoce muitas mulheres abandonam os estudos ou o trabalho, já que acreditam que não é possível conciliar as duas coisas. 
+Apesar de as informações sobre o assunto estarem cada vez mais acessíveis , como ações educativas que tratam a respeito do uso de preservativo, a utilização de contraceptivos, o Brasil tem gravidez na adolescência acima da média quando comparado a países latino-americanos , segundo dados da OMS. 
+
+Diante disso, é dever do Estado, em sentido amplo, a implantação de políticas públicas, tanto nos lares como também nas escolas de todo o país, objetivando a conscientização da sociedade - especialmente o grupo formado pela população jovem . Outra medida eficaz a ser adotada é a expansão do acesso a métodos anticoncepcionais  e que sejam iniciados programas de educação sexual para homens e mulheres. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

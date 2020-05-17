@@ -1,0 +1,12 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 370
+# tittle: INDÍGENAS: VIVEM EM 2019 OU AINDA EM 1500?
+Anteriormente a chegada dos portugueses em 1500, o Brasil já era ocupado por diversos povos indígenas. Os povos indígenas possuíam um contato direto com a natureza e dependiam dela para quase tudo.Porém, após a chegada dos portugueses, os indígenas foram aliciados a trabalhar com a extração de pau-brasil, em troca de escambo. Ocorrendo assim,  uma enorme devastação do meio ambiente. No entanto, os portugueses queriam a todo custo continuar a lucrar, e então surgiu a ideia de colonizar o Brasil,gerando um conflito entre os colonos portugueses e os povos indígenas. A partir desse momento, os povos indígenas passaram a ser escravizados. Ainda hoje,  as comunidades indígenas continuando enfrentando problemas de invasões e degradações territórias e ambientais. 
+
+Primordialmente, as invasões de terras indígenas iniciaram com o intuito de gerar lucro. Atualmente,o roubo de minério e de madeira  ou mesmo a exploração de suas riquezas naturais  são os principais motivos pelos quais as terras indígenas são invadidas. A constituição Federal estabeleceu o direto do indígena as suas terras. Porém, a realidade brasileira demonstra que cabe aos índios e seus aliados a difícil tarefa de, fazendo cumprir as leis, garantir o respeito aos direitos indígenas na prática, diante dos mais diversos interesses econômicos que teimam em ignorar-lhes a própria existência. 
+Portanto, o estado deve tomar providências para melhorar o quadro atual. A Fundação Nacional do Índio ,  deve fiscalizar e garantir os direitos indígenas através de uma nova lei, para que os direitos, urge que a Fundação Nacional do Índio faça uma fiscalização por meio de uma nova lei . Os danos causados aos povos indígenas não podem ser apagados, nem esquecidos, mas sim,  utilizados como exemplos para que os fatos não voltem a acontecer. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

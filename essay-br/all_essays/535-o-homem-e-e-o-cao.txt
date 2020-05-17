@@ -1,0 +1,11 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 4,0
+# title: O homem e (é) o cão
+As relações entre os homens e o meio ambiente sempre foram observadas e, de forma mais notória, a relação existente entre o homem e o animal de estimação. No antigo Egito, por exemplo, já havia uma relação arraigada a cultos religiosos em relação ao gato. Em países da Europa setentrional, como a Noruega ou a Finlândia, veem, na raça de cachorro São Bernardo, um herói em situações de risco ao ser humano, enfim, a relação homem-animal é inerente ao bom convívio entre o homem e o mundo que o rodeia.Deve-sehaver um limite entre aquilo que se pode ou não fazer, como, por exemplo, o tratamento do animal como se ele fosse um ser humano. Ele não é um ser humano para ser tratado como tal. O uso de roupas, carrinhos de bebê e outros acessórios no animal são demonstrações de como não se deve tratá-lo. O animal é um ser com instintos e carências quanto ao dono e que devem se limitar única e exclusivamente ao carinho, à atenção e ao bem-estar do animal de forma não exagerada. O limite imposto entre o exagero e a boa relação com o companheiro de estimação é feito pelo dono e cabe a ele saber separar o ridículo do essencial . Doar milhões a um cachorro ou gato enquanto milhares de crianças morrem de fome todos os dias é tão desumano quanto espancar um animal até a morte onde tais atos rebaixam a condição humanaàpatamares próximos de seus animais de estimação.
+            Pode-se inferir, portanto, que de forma generalizada, o ser humano alcança níveis deirracionalização dígnasde seus animais de estimaçãoquando trata-osde forma semelhante a outro ser humano.
+              Deve-se equilibrar bom-senso com atos desumanos de modo a haver harmonia entre os vários seres que vivem no mundo.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

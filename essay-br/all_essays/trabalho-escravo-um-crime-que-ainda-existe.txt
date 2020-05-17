@@ -1,0 +1,12 @@
+# prompt: Escravizar é humano?
+# score: 4,5
+# title: Trabalho escravo: um crime que ainda existe
+ Na escola aprendemos que há muito tempo aconteceu a escravidão, que era comum nas grandes civilizações do passado, como o Egito, a Grécia e Roma.  Lamentavelmente, no entanto, a exploração de trabalhos forçados não é um fato que pertence ao passado: ainda hoje existem, em todo o mundo, regimes de trabalhos semelhantes à escravidão.
+ Quando pensamos em escravidão, a primeira imagem que vem a cabeça é da época do Brasil colonial: pessoas acorrentadas, sendo comercializadas como se fossem objetos, castigadas com chicotes, mas o trabalho escravo atualmente acontece de maneira diferente. O escravo moderno não tem haver com o tom de pele, não esta  preso em tronco, nem em correntes, mas outros motivos o prendem, como:   dívida fraudulenta com o patrão, recolhimento dos documentos, violência e coerção. Quase sempre são encontrados em ambientes degradantes de trabalhos e jornadas exaustivas .
+ A maior parte das pessoas vítimas da escravidão moderna fogem  da pobreza extrema e buscam  melhores condições de vida e acabam  sendo exploradas  por companhias sem escrúpulos, que se beneficiam dos lucros do trabalho escravo. O que mais revolta é que casos terríveis dessa natureza não são inéditos e  com toda certeza, não serão os últimos. E, infelizmente, enquanto não houver punições mais rígidas contra o empregador que utiliza a mão de obra escrava  a escravidão não será erradicada.
+ Portanto, medidas precisam ser tomadas a fim de combater o trabalho escravo. São necessárias punições mais severas ao empregador e investimentos em campanhas de conscientização da sociedade, divulgando uma lista com os nomes das empresas ligadas ao trabalho escravo, assim os os cidadãos preocupados com este problema poderão evitar a compra desses produtos.
+# C1: 1,0
+# C3: 0,5
+# C5: 1,0
+# C7: 0,5
+# C9: 1,5

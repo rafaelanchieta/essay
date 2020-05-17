@@ -1,0 +1,12 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 6,0
+# title: Por bem fazer mal haver
+Segundo a Constituição de 1988 o cidadão tem direitoalivre manifestação. Manifestar-se é uma forma de demonstrar insatisfação com a política,
+         saúde, lazer , etc., pacificamente e de forma organizada. Contudo, vândalos se infiltram nosprotestoslevando a polícia a agir de maneira violentaatingindo, inclusive, as pessoas que se manifestam ordenadamente.
+         A não aceitação de uma vertente de ordem social motiva a organização demanifestospopulares,ondeum grupo de pessoas com interesses em comum se reúne para juntos lutar pelos seus direitos previstos na Constituição. Um exemplo recente disso, é o “rolezinho”, movimento em que jovens da periferia, indignados com a falta de lazer, marcaram encontros nos shoppings através da rede social Facebook. A intenção foi manifestar-se de forma indireta, ou seja, sem cartazes nem passeatas, mas promovendoo lazer a si mesmo, fazendo novas amizades, batendo papo, etc.
+         Porém, algumas pessoas têm uma ideia deturpada em relação aos protestos. Taisindivíduosduranteo manifesto destróipatrimônios públicos e privados, atacam violentamente outras pessoas e ameaçam autoridades e policiais. Retomando o caso do“rolezinho”pessoas assim, seinfiltraram e furtaram jovens que faziam parte do movimento e funcionários das lojas do shopping. A polícia como resposta age com violência de maneira indiscriminada, atingindo também os cidadãos que se comportam adequadamente. É comum a utilização de armas de efeito moral e de balas de borracha para conter os vândalos. Vale uma ressalva, o dever da polícia em protestos é deter quem destruir patrimônios, agir de maneira violenta e praticar qualquer que seja ação de desordem. Assim como éobrigação da mesmagarantir a proteção e a integridade de todos, bem como o direito de livre manifestação. Sendo assim, a utilização de força de forma aleatória e desordenada não condiz com o dever de proteger os manifestantes diante de um direito que pertence a todos.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 0,0

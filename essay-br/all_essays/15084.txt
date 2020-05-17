@@ -1,0 +1,12 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 600
+# tittle: [Redação sem título]
+Durante o século XVI, o valioso vegetal conhecido como pau-brasil era fortemente explorado com a mão de obra indígena. Este sistema se tornou extremamente importante e, na época, totalmente destinado à coroa portuguesa. Neste contexto, o capital contemporâneo permite tal aproveitamento abusivo, de modo que visa somente o lucro e o desenvolvimento incorreto de suas empresas. É notório que,  o problema persiste através do cego capitalismo, pois ele engloba os sistemas de produção, que é fator que mais desmata a atual explorada Floresta Amazônica. 
+O paradigma que impede que a sustentabilidade e o desenvolvimento trabalhem juntos,  ainda não é significativo. De acordo com o documentário Cowspiracy, a indústria agropecuária é a responsável pelo maior crime ambiental da história. Portanto, a destruição se dá pela oportunidade de controle, tanto da população quanto da movimentação da moeda, pois quem controla a comida, controla o indivíduo. Certamente, o foco na importância da preservação se mantém em última análise, gerando assim,  inúmeros problemas ambientais que estão destruindo o planeta - como as queimadas. 
+Ademais, em consequência das diversas falhas do ser humano,  surgiram organizações ambientais que tornam-se famosas com a ajuda do inimigo. É primordial que o estilo de vida saudável usufrua da fauna e flora na mesma condição, sem qualquer tipo de abuso. Sendo assim, é considerável que haja acesso às causas de qualquer impacto negativo no meio ambiente, porém, como por exemplo, o Greenpeace luta contra poluições em prol da vida, mas é pago por indústrias poderosas que silenciam o fator mais infrator: o consumo de carne. 
+Destina-se, evidentemente, ao MAPA - Ministério da Agricultura, Pecuária e Abastecimento - investir em incentivos para que empresas adotem processos produtivos que não desmatam, através de aplicativos e jogos que simulam visualmente o futuro desagradável. Apostando no desenvolvimento sustentável com a utilização de recursos naturais que não causam graves consequências, as implicações ruins do capitalismo serão reduzidas drasticamente. Assim sendo, a conscientização virá para moldar pensamentos em benefício da conservação, logo, contrária à do século XVI. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,13 @@
+# prompt: Agrotóxicos ou defensivos agrícolas: dois nomes e uma polêmica
+# score: 760
+# title: Defensivos agrícolas: uma expressão branda diante de um problema impactante
+Defensivos agrícolas: uma expressão branda diante de um problema impactante
+O Brasil passou, na década de 70, pela revolução verde que inseriu o uso de compostos químicos nas plantações para garantir um bom desempenho do agronegócio. Como consequência, tais produtos começaram a ser utilizados em larga escala, sem a preocupação com os efeitos que essa conduta pode acarretar sobre a saúde humana e o meio ambiente. Nesse contexto, fica claro que a ideia de substituir o nome "agrotóxico" por "defensivo agrícola" serve apenas para mascarar um problema de cunho sócio ambiental .
+À A princípio, cabe destacar que a ideia de proibir o uso do termo agrotóxico advém da PL 6299 , elaborada pelo senador Blairo Maggi. Acerca disso, convém mencionar que tal PL prioriza mais os interesses do capital privado do que o bem-estar coletivo. Em outras palavras, o objetivo da referida proposta é flexibilizar o uso desses componentes nocivos à saúde humana - capazes de, segundo o Ministério da Saúde, provocar cânceres e até más formações nos fetos, em benefício dos latifundiários inseridos no agronegócio. Com base nisso, essa PL desrespeita um direito de ter uma saúde de qualidade garantido pela constituição , e por conseguinte, a sua execução torna-se contestável.
+Outrossim, é válido ressaltar também que, a mudança no nome para defensivo agrícola tenta descontruir a imagem negativa vinda do termo agrotóxico e, assim, favorecer o agronegócio ao deixar a população na ignorância, procurando dissolver movimentos de resistência que são contra o uso indiscriminado de tais fitossanitários. Acerca disso, convém mencionar que os seus efeitos não afetam só saúde humana, mas ao meio ambiente também o meio ambiente, à medida que contaminam o solo, a água e favorecem a extinção da fauna. Evidencia-se, assim, que o uso intensivo dos agrotóxicos não pode ser permitido, pois é prejudicial tanto do ponto de vista social como ambiental.
+Cabe, portanto, ao Ministério Ambiente e da Saúde promover debates sobre os impactos dos agrotóxicos na esfera ambiental e na saúde humana, no intuito de aumentar a pressão sob o congresso para que seja coibido a flexibilização do seu uso. Somado a isso, o governo federal poderia ceder lotes de terras que não estão cumprindo sua função social e ajudar com subsídios as famílias camponesas, de modo que a agricultura familiar voltada à produção orgânica fosse estimulada. Resta saber se os governantes vão priorizar os interesses da população em geral ou apenas àqueles voltados aos aspectos econômicos.
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 160
+# C4: 160

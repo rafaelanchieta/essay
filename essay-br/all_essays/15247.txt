@@ -1,0 +1,21 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 210
+# tittle: [Redação sem título]
+Atualmente, temos  mais facilidades para assistir filmes em casa . A netflix  por exemplo  é um meio, pessoas preferem pagar por mês do que ir até um cinema, as vezes por falta de transporte . Temos  também,  os programas de filmes na televisão e no youtube. Nos dias de hoje com o acesso à internet,  tudo fica mais fácil e não precisamos sair de casa, fazemos o filme vir até nós. 
+Além disso, o cinema também é um boa forma de entretenimento, quando lança algo novo, todos procuram um mais próximo para ir. Acredito que tenha sido um avanço, pois lucraram bastante, mas houve uma decaída por falta de investimentos. Muitas cidades não tem condições por falta de recursos.  
+
+
+
+
+Portanto , devemos  tomar as seguintes medidas para resolver o impasse. O governo poderia  fazer melhorias paras os cinemas, que não houvesse muitas salas para pouca população. Fazer também uma mudança de horários para as estréias, ser grátis para àqueles que não têm condições nenhuma,  também ter acesso. Abaixar Diminuir os preços dos alimentos, pois não podemos entrar com mercadorias de outros lugares. 
+
+
+
+
+
+
+# C0: 100
+# C1: 20
+# C2: 20
+# C3: 50
+# C4: 20

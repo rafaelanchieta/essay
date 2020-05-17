@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 400
+# tittle: Repensando conceitos
+Um dos biomas que mais sofrem com a ação humana negativa, a Amazônia se vê em uma problemática que envolve sua vitalidade . Desmatamento e queimadas se tornaram cada vez mais recorrentes, fazendo com que a preocupação se tornasse presente, pois está em ''jogo'' um dos maiores berços de biodiversidade do planeta. 
+
+Analisando o histórico, os seres humanos tenderam e tendem a colocar seus interesses em primeiro plano perante o meio ambiente, tudo como forma de obtenção e maximização do lucro. O setor agropecuário e madeireiro são exemplos de alguns que se enquadram na questão em discussão. Por outro lado, existem pessoas que têm uma ótica diferente em relação ao meio ambiente, como a norte-americana Dorothy Stang, que para defender a Amazônia desse tipo de acontecimento virou uma ativista e passou a residir em solo amazônico, mas, devido novamente ao já falado interesse econômico   acabou sendo assassinada a mando de um fazendeiro que via nela uma grande ameaça. É preciso divulgar que existe um potencial ainda não explorado na Amazônia e que está em risco quando o ser humano não dá a merecida importância, como a Dorothy o fez. Difusão de informações em canais de comunicações ou através do ensino escolar se mostram alternativas que levam a um ganho de adeptos a defesa da natureza. 
+Uma maior consciência ecológica leva ao entendimento da riqueza que a natureza proporciona, levando a um cuidado perante ela. É necessário a preservação para que possamos  gozar de suas riquezas para então um maior equilíbrio ecológico, respaldando-se nas palavras do filosofo Aristóteles  ''Em todas as coisas da natureza existe algo de maravilhoso''.
+
+Posto isso, a real situação em que a Amazônia se encontra deixa evidente que sua potencialidade bio-diversa  se encontra em zona de perigo, por causa, dentre outras ações das queimadas e dos desmatamentos . Majoritariamente os motivos são falta de consciência e de conhecimentos por parte da população de forma geral de que o dinheiro não supera a vida, usando de veículos de disseminação dessas concepções consegue-se uma harmonização homem-natureza. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

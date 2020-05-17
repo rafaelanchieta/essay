@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: Proteção da Amazônia
+A Floresta Amazônica é a maior área verde com cobertura original no Brasil. É rica em biodiversidade e coopera no desenvolvimento econômico do país. Entretanto, apesar das riquezas biológica, natural e cultural, ela vem sofrendo rigorosamente com o desmatamento e queimadas. 
+
+Primeiramente, é importante analisar a degradação da floresta amazônica, muitos seres vivos  principalmente os animais  estão sofrendo com essa desgraça . Por exemplo: o Instituto Brasileiro do Meio Ambiente , estudos revelão que aproximadamente mil espécie pode ser extinta da floresta por causa do desmatamento . Por isso, para evitar que isso ocorra temos  que preservar a floresta amazônica.
+
+Além disso, é fundamental considerar relevância da floresta para o povo indígena. De acordo com a Fundação Nacional do Índio  a Amazônia serve de lar para 80 tribos, e todas elas vivem de recursos naturais que nossa  floresta dar, como caça, pesca e frutos. Com esse desmatamento e queimadas eles ficarão sem as principais fontes de substâncias. 
+Portanto, a preservação da floresta é crucial para garantir a perpetuação das espécies e para assegurar a vivência do povo indígena. Contudo, para que isso aconteça,  é fundamental que o Ministério do Meio Ambiente atue para reprimir o bioma . Isso pode ser feito por meio de patrulhamento junto com a força aérea para detectar esses responsáveis e puni-los pela degradação da floresta será contida. Portanto, tais medidas seriam eficiente para combater o desmatamento e queimadas na Amazônia.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

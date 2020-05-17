@@ -1,0 +1,12 @@
+# prompt: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade
+# score: 6,0
+# title: Responsabilidade, caráter e coragem: elementos fundamentais para a sociedade
+"Coragem é resistência ao medo, domínio do medo, e não ausência do medo”, essa frase de Mark Twain define o termo coragem muitíssimo bem, mas não podemos esquecer que a covardia é um dos sentimentos que estão presentes na vida de cada ser humano, seja nas atitudes, nos relacionamentos, enfim na vida. A negligência cometida pelo capitão Francesco Schettino, do Costa Concórdia, é uma amostra recente de covardia, do medo de assumir o seu próprio erro, medo de ser criticado, medo da culpa. Na nossa sociedade atual,omedoestá presente em tudo, perdera estabilidade num emprego ou num relacionamento,sempre está fora de questão emuitas pessoas se utilizam de atos covardes para não colocarem em risco o que consideram importante.
+         Num mundo como o nosso, o caráter deveria ser contado como questão principal. A coragem não é muito incentivada na nossa sociedade e a covardia é um ato que não é punido. É muito maisfácil,colocar a culpa em alguém, desistir de uma coisa mais difícil, fugir de decisões e verdades do que assumi-las.
+         A coragem também está contida em pequenos atos, não somente emse tornar herói por ter arriscadoa vida para salvar algo ou alguém, mas também evitando mentiras do dia a dia, agindo com responsabilidade e comprometimento,é termaturidade e senso critico.Nãoé enfrentar os problemas de qualquer jeito, mas avaliar os riscoseser ousado e fazer o novo.
+         Portanto só nos resta esperar que a sociedade tenha mais coragem nas suas atitudes, que construa pessoas com caráter, que assumam seus erros e não fujam de suas responsabilidades. Um mundo onde a verdade seja valorizada, onde soluções ousadas apareçam no lugar de grandes problemas.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

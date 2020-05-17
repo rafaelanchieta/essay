@@ -1,0 +1,16 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: A picada que salva vidas.
+A vacinação é de grande importante para a sociedade, pois devido a ela doenças graves foram erradicadas, cita-se como exemplo,  a poliomielite, rubéola,caxumba, sarampo, entre outras. Com a diminuição vacinal casos destas doenças estão sendo diagnosticados novamente. Nos últimos cinco anos notou-se uma diminuição gradual do números de imunizados contra diversas doenças, que contam com vacinas disponíveis. Mediante a isso é necessário que sejam reforçadas as campanhas de conscientização da importância das mesmas .
+
+Atualmente são disponibilizadas pela rede pública cerca de dez tipos de vacinas,  que protegem contra aproximadamente vinte a vinte cinco tipos de doenças virais e bacterianas, destas observa-se que a única a não apresentar queda vacinal foi a de BCG, pois em sua maioria é aplicada antes da alta da criança, na própria instituição hospitalar. 
+
+Existem duas classes de vacinas, as produzidas com vírus/bactérias inativadas e as atenuadas, porém a função das duas é a mesma: induzir o corpo a produzir anticorpos contra a doenças cobertas por ela. Entretanto notícias falsas,  estão anunciando que vacinas causam doenças e algumas podem levar a morte, aumentando assim o receio da população, principalmente a leiga com as vacinas , causando uma diminuição da adesão popular pelas mesmas e fazendo com que assim doenças já erradicas no Brasil voltem a aparecer. 
+Desde 2015 a diminuição da vacinação tem trago trazido à a tona surtos  de doenças erradicadas, em 2016 pode-se citar o de Caxumba em 2018/2019 vários casos confirmados de rubéola e sarampo , e o que se pode observar,  é que a maioria dos diagnosticados com essas doenças não tinham histórico vacinal completo, como recomendado pela sociedade brasileira de imunização. 
+
+É necessário que as campanhas de vacinação tenham maior abrangência, combatendo as fake news e fazendo a conscientização da população sobre a importância das vacinas para a sociedade, e para impedir que doenças erradicadas voltem a aparecer no Brasil. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

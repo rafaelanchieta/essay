@@ -1,0 +1,9 @@
+# prompt: cientistas-preveem-futuro-sombrio-para-terra
+# score: 1,5
+# title: Preservar hoje para viver amanhã
+Desde o começo na pré-história quando o homem fixou residência, fez plantações e criações de animais. Ele começou a enterferir e degradar a natureza, nada em comparação a revolução industrial que usou combostíveis fósseis e outros resíduos que encheram o mundo de poluentes, que destróem a natureza, e tudo isso só ficou pior com o passar do tempo e o aumento da produção.  Na Revolução Industrial, o mundo começou a usar produtos poluentes sem nenhum tipo de consciência somente pensando no dinheiro, e com o passar dos anos com a maior produção, também aumentou a quantidade de poluentes lançadas pelas indústrias. Depois que os automóveis foram inventados uma quantidade muito grande de petróleo é usada pelos veículos.  Com tudo que o homem já fez no planeta, mesmo se as pessoas parassem de poluir o mundo de uma hora para outra, a natureza ainda iria sofrer as consequências por muitos anos. O mundo tem que se conscientizar e ver se continuar assim, num futuro próximo os seres humanos não é que desapareceram mas um grande número de pessoas irá morrer, por caso do descaso com o uso da poluição para ganhar dinheiro.  Mesmo com tudo que o homem destruiu até hoje, ainda há muitos lugares que a natureza resiste à poluição e ao homem, e com isso mostra que a natureza não é tão fraca, e consegue superar a poluição e aos maus tratos dos homens.
+# C0: 0,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

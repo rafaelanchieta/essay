@@ -1,0 +1,12 @@
+# prompt: Os ursos polares da Rússia e um dilema ecológico
+# score: 880
+# title: Natureza caótica
+A natureza possui um equilíbrio singular de modo que todos os seres vivos desempenham uma função - os ursos polares, por exemplo, ao se alimentarem de peixes e focas regulam a quantidade de indivíduos nessas populações. Contudo, os homens ainda não compreendem a importância do respeito ao meio ambiente para a preservação da própria espécie e, por isso, têm arcado com as consequências, como o ataque dos ursos polares a comunidades humanas por diminuição da oferta de alimentos, devido ao derretimento das geleiras.
+A preocupação com a preservação ambiental tornou-se uma pauta mais frequente a partir da década de 70, desde então vários acordos para diminuir as queimadas, o desmatamento e, principalmente, a emissão de gases poluentes foram assinados, mas não atingiram o efeito esperado, pois demandam uma mudança radical na economia, que parte dos países não está disposta a fazer. Como o Estados Unidos, segundo maior poluidor do mundo, que não participou do Tratado de Kyoto e se retirou do Acordo de Paris devido ao comprometimento econômico que eles acarretariam.
+Um dos impasses resultantes das mudanças climáticas é a maneira de lidar com animais que invadem as cidades, já que é necessário um cuidado maior para que as pessoas e os animais não se machuquem. O caso dos ursos polares é preocupante nesse aspecto, pois eles são violentos e precisam ser contidos depressa, mas, como estão em extinção, não podem ser mortos e, mesmo que pudessem, isso não resolveria o problema e ainda originaria outros desequilíbrios. Para efetivamente saná-lo, deve-se mitigar a causa, que é o aquecimento global através da redução do uso de combustíveis fosseis .
+Enquanto não há priorização desse assunto nas ações governamentais, a natureza e a sociedade, em geral, continuam sofrendo. É por essa razão que a população mundial precisa se mobilizar e valorizar politicas sustentáveis dado que o planeta é responsabilidade de todos e adiar a sua preservação pode trazer resultados irreparáveis.
+# C0: 160
+# C1: 200
+# C2: 160
+# C3: 200
+# C4: 160

@@ -1,0 +1,14 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 650
+# tittle: Atualidade Atemporal
+O filme norte americano Osmose Jones ,  retrata uma interessante viagem  pelo sistema imunológico humano e a luta do personagem Jones contra um novo tipo de vírus, chamado Thrax. O plano de Thrax é se multiplicar rapidamente e matá-lo em 48 horas para, desta forma, ficar conhecido pela medicina como uma nova e terrível doença.Fora da ficção,percebe-se uma analogia entre Thrax e o atual vírus COVID-19 que assola o mundo  ora por sua diligência  ora por provocar mortes .Logo, é imprescíndivel destacar a importância da ciência frente a pandemias e epidemias  e a necessidade do governo frente à valorização de cientistas  bem como o apoio dos mesmos  para o maior incentivo as inovações técnico científicas nacionais. 
+
+ A priori, insta  ressaltar que a ciência é crucial para o desenvolvimento da sociedade ao contribuir consideravelmente para o avanço desta,visto que é responsável por várias mudanças sociais desde seu surgimento .Diante disso, um país que investe em inovações científicas corrobora para uma maior garantia social dos hodiernos , são importantes porque a premissa de Albert Einstein garante que a nossa  ciência, comparada com a realidade, é primitiva e infantil – e, no entanto, é a coisa mais preciosa que temos .Assim,é preciso um maior apoio governamental para que todos tenham seu deleite assegurado,visto que a contaminação independe de classes sociais. 
+Outrossim, percebe-se que o vírus em si afeta não somente à saúde dos indivíduos, como atua diretamente em questões econômicas e politico-estruturais dos países.Na perspectiva sociológica de Émile Durkheim, ratifica-se que o avanço do coronavírus é uma anomia, porquanto revalida para a desintegração social e os mais diversos conflitos.Desse modo, é relevante ressaltar uma maior preparação do país através do insentivo na área da saúde. 
+
+Infere-se,portanto,  a imperiosa necessidade do apoio científico nacional frente a pandemias.Nesse aspecto, é preciso que o Governo Federal  juntamente com a Secretaria de Gestão do Trabalho e da Educação na Saúde   faça projetos e reuniões  na assembleia por meio de leis que aumentem o apoio aos profissionais na área da saúde  com o intuito de mudanças e maior incentivo aos cidadaõs infectados que necessitam da ajuda destes para sobreviverem . Assim, será plausível mudanças sociais para que o atual vírus não torne-se se torne uma nova e terrível doença como Thax  no filme Osmose Jones.. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

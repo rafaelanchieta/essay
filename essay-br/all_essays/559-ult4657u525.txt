@@ -1,0 +1,12 @@
+# prompt: toque-de-recolher-protege-juventude-e-sociedade
+# score: 10,0
+# title: Tempos de falsa liberdade
+O toque de recolher não protege a juventude nem a sociedade. Embora venha sendo sucessivamente adotado em várias grandes cidades brasileiras, mostra-secomouma medida de eficiência duvidosa que mais esconde que soluciona o problema dos jovens e as noites urbanas do Brasil.
+        Os primeiros anos do século XXI vêm sendo de dura repressão. Não mais como aquela da década desessenta,
+          tempos de ditadura, mas é uma repressão velada, o que é pior . Fingindo pôr um fim aos problemas de drogas, alcoolismo e violência relacionados especialmente à juventude, governantes adotam essa lei que apenas tira de alguns o seu principal direito: a liberdade. E tudo isso é feito para tentar esconder a incapacidade das autoridades de resolver essa questão. É evidente que não é necessária apenas uma esquina escura para o uso de drogas e a prostituição juvenil. A violência continua a ocorrer em qualquer hora do dia, mesmo nos locais em que o toque de recolher foi imposto. Assim, os índices de criminalidade entre os menores dedezoitoanos permanecem altos, e as cidades continuam inseguras.
+            Esse é um problema que precisa ser resolvido, mas de forma mais séria. O que é necessário é a inserção da segurança nas ruas brasileiras em todos os momentos do dia, além da tomada de medidas que realmente impeçam o consumo de drogas e prostituição dos jovens, sem que seus direitos sejam feridos. Destas, a principal é a educação.
+# C0: 2.0
+# C1: 2.0
+# C2: 2.0
+# C3: 2.0
+# C4: 2.0

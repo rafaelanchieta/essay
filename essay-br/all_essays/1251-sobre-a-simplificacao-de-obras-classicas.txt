@@ -1,0 +1,12 @@
+# prompt: e-valido-simplificar-a-linguagem-de-um-classico
+# score: 10,0
+# title: Sobre a simplificação de obras clássicas
+Uma escritora decidiu publicar uma versão simplificadade umaobra "O Alienista", de Machado de Assis, com o objetivo de facilitar sua leitura e estimular os jovens a conhecerclássicos da literatura brasileira. Houve grande polêmica entre professores, escritores, jornalistas e críticos literários, com grupos se dividindo em apoiar ou criticar a iniciativa.
+         Apesar da boa intenção, criar versões simplificadas de obras clássicas não é a melhor forma de incentivar sua leitura. Uma obra literária é definida pelo estilo do autor. Assim, um livro reescrito de forma simplificada, com palavras mais comuns no cotidiano e com um estilo diferentedo autor original, perde sua essência. A obra terá o mesmo enredo, os mesmos personagens, mas o estilo será de quem a reescreveu. Quem ler uma obra adaptada e achar que é um "Machado de Assis" estará enganando a si próprio.
+         Outra questão é que o leitor tenderá a se acostumar ao estilo mais simples da adaptação e nada garante que ele será incentivado a ler posteriormente as obras originais. Sem dúvida, leitores iniciantes devem começar com obras originais mais fáceiseà medida que adquirirem experiência,partirempara leituras mais elaboradas. Clássicos não são para iniciantes, mas sim para quem já tem o costume da leitura.
+         Cabe à escola e à família desenvolver nas crianças e jovens o gosto pela leitura, incentivando-os com livros adequados à idade e ao conhecimento de cada um, e, aos poucos, introduzi-los ao mundo dos clássicos. É muito importante que a leitura seja feita de forma prazerosa. Caso seja por obrigação, o aluno abandonará a leitura do livro e recorrerá a resumos apenas para obter nota. Portanto, simplificar clássicos da literatura não é a forma mais adequada para torná-los mais acessíveis à população. O melhor é estimular a leitura desde a infância para que os jovens tenham condições de compreender e apreciar os clássicos sem precisar de simplificações.
+# C0: 2,0
+# C1: 2,0
+# C2: 2,0
+# C3: 2,0
+# C4: 2,0

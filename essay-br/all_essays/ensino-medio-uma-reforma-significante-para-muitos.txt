@@ -1,0 +1,11 @@
+# prompt: Artes e educação física: opcionais ou obrigatórias?
+# score: 150
+# title: Ensino médio: uma reforma significante para muitos
+Recentemente, o Órgão educacional federal editou uma medida provisória instituindo uma reforma no ensino médio do país. Entretanto, essa medida previa o fim da obrigatoriedade das disciplinas de artes e educação física para o alunos do ensino curricular médio. Ambas são importantes para o desenvolvimento cultural, físico, e físico e educacional no país.
+No entanto, Disciplinas  como essas que ajudam no crescimento humanitário são importantes e com isso deveriam serem  necessariamente obrigatórias ao currículo anual dos alunos. A educação é a base para o desenvolvimento do ser. O problema ocorre quando os jovens largam o ensino médio antes do término, essa medida fará o despetar da atitude. 
+Já dizia o filósofo alemão Immanuel kant : "O ser humano é aquilo que a educação faz dele". Portanto, medidas são necessárias para resolver o impasse. Tais como: ao contrário de acabar com ambas disciplinas,apenas diminuir a carga horária. Criar projetos/palestras educacionais para incentivar-los.  
+# C0: 50
+# C1: 50
+# C2: 0
+# C3: 0
+# C4: 50

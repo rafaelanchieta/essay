@@ -1,0 +1,13 @@
+# prompt: qual-sera-o-legado-da-copa-do-mundo-para-o-brasil
+# score: 6,0
+# title: A Copa da mudança
+Todo evento de grande porte, ou de proporções mundiais, causa mudanças no local que o sedia. No caso do Brasil não será diferente. Acopa do mundono nosso país trará consigo uma oportunidade única de transformações e, sem dúvidas, deixará legados.
+         Certamente, uma série de investimentos eminfra-estrutura são notáveis. A modernização dos estádios, aeroportos, e a melhoria das vias urbanas nas cidades-sede causarão impactos positivos permanentes para apopulaçãoalém de proporcionarem o “padrão FIFA” para acopa.
+         Por outro lado, a modernização dos estádios contrasta com hospitais e escolas emestados deploráveisde conservação. Nesse caso, as obras e melhorias de setores diretamente sociais, como saúde e educação, minimizam-se comparadosaexigências para acopa. Assim, a indignação popular somada à evidênciaque o país ganhou aos olhares mundiaisresultouem protestos que ocorrem, principalmente nas metrópoles, desde de junho do ano passado.
+         Acopa, portanto, será umsímbolo de divisorde águas para o quadro nacional.
+         Cabe, então, ao governo administrar os investimentos para impulsionar mudanças positivas relacionadas ao desenvolvimento urbano e serviços públicos. Além disso, a população, além exigir de seus representantes, deve cumprir seu papel contribuindo para a conservação dos investimentos públicos e conscientizar-se em exercer seus deveres. Logo acopacertamente será o marco inicial de mudanças positivas para o povo, assim como nos estádios.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

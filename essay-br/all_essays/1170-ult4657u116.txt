@@ -1,0 +1,10 @@
+# prompt: a-gramatica-facilita-ou-dificulta-a-comunicacao
+# score: 6,0
+# title: Uma gramática morta para uma língua viva
+Erros de gramática são muito freqüentes em nosso dia-a-dia, quem nunca trocou um "x" por um "ch"? Por issocada vez mais a temos como uma vilã, ainda que esta tenha sido desenvolvida para padronizar a língua e assim facilitar a comunicação. Facilitar a comunicação? Será que se não houvesse estas regras não viveríamos melhor? Afinal ninguém gosta de falar e nem escrever errado.
+        Ainda que a língua seja viva e por isso aceite cada vez mais palavras vindas de outros idiomas ou até mesmo neologismos vindos da própria boca do povo, suas regras raramente mudam. Os dicionários sofrem intensas modificações ano após ano, enquanto as gramáticas sofrem pequenas alterações a longo prazo. No entanto se não existisse nenhuma regra seria mais fácil das pessoas se expressarem, não seria uma maravilha poder falar sem se preocupar com regras? Porém seria mais difícil para entendê-las, imagine ter que entender "hoje a gente fomos ao shopping"? Fomos hoje? Certamente não seria agradável nem aos ouvidos de quem já está acostumado com as regras já existentes nem para a compreensão, especialmente se a pessoa que falou tal oração falar de maneira muito rápida. Ainda que existam muitas regras e muitas vezes soframos para usá-las, estas se fazem extremamente necessárias para a boa comunicação, o que é preciso é muito cuidado para que não sejam cometidos erros muito grotescos como no caso docarimboque foi usado desde agosto em documentos oficiais da Câmara e do Senado,onde ao invés detrazer a palavra congresso trouxe "Congreço".Quem sabe isso não foi um erro, mas sim uma tentativa para um projeto de lei para a mudança da palavra congresso? Afinal um erro deste em um órgão do poder público é sem dúvidas um pedido de ajuda da Língua Portuguesa.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

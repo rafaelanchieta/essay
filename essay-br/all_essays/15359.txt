@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Jovem gravida
+No cotiano se tornou normal conviver com adolescentes de 12 a 19 anos grávidas do seu primeiro ou segundo filho. Essas ocorrências vem desde os anos trintas e na atualidade se teve um aumento considerável, junto aos impactos  que agora são visíveis. 
+Antigamente se tinha poucas informações sobre métodos contraceptivos, além de que a jovem grávida se via na obrigação de casar com o pai do seu filho . Hoje a realidade é bem diferente , há vários métodos contraceptivos e a maioria deles gratuitos, no entanto os adolescentes preferem não fazer uso deles, pelo fato de acreditarem em informações falsas. Ainda convém lembrar que a jovem não se vê mais na obrigação de casar. 
+Sendo assim, a gravidez na adolescência é gerada pelo déficit de educação sexual e os impactos acarretados na vida dessa jovem e da criança são enormes , desde a saúde dos dois até financeiramente. 
+Diante disso  uma educação estruturada e o apoio socioemocional,  ajudam essas adolescentes a se prevenir de uma gravidez ou de uma DST. Em suma  tendo uma formação acadêmica e decidindo o melhor momento para se ter um filho e com quem ter. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

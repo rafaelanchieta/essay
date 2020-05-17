@@ -1,0 +1,11 @@
+# prompt: Posse de armas: mais segurança ou mais perigo?
+# score: 340
+# title: Posse de educação
+Tema muito discutido atualmente, e  que teve grande influência nas eleições de 2018. A posse de arma vem gerando debates polêmicos e dividindo o país entre prós e contras, mas não é uma questão tão simples como aparenta ser. O projeto de lei jà decretado  flexibiliza algumas exigências para a posse de armas de calibre irrestrito. O que em tese aumentaria a segurança, mas e  inegável que teriamos  um aumento significativo na taxa de homicídios, será  que na sociedade em que vivemos hoje estamos devidamente preparados para o uso de armas de fogo.  
+Esse armamento da população também vai contra a ideia de que a violência não é a melhor opção. E que através da educação encontraremos o caminho da paz.
+Portanto  uma solução eficiente seria, a  implantação de projetos educacionais para crianças e jovens em comunidades e áreas com alto índice de criminalidade, por parte do ministério da educação e projetos socias . E para um combate ao crime organizado, mais investimento em forças policiais e políticas públicas de inserção de reeducandos na sociedade por parte do governo e empresas.  Por que como  disse Nelson Mandela, a educação e  a arma mais poderosa pra  se mudar o mundo.
+# C0: 80
+# C1: 80
+# C2: 20
+# C3: 80
+# C4: 80

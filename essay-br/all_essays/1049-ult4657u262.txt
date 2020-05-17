@@ -1,0 +1,12 @@
+# prompt: o-famoso-conflito-de-geracoes-ainda-existe-hoje
+# score: 5,0
+# title: Cumplicidade familiar
+A estrutura familiar mudou. As rígidas regras do patriarcado perderam espaço para a liberdade e diálogo na família. Entretanto,apesar da maior interação entre pais e filhos, estes, continuam conflitando em pontos cruciaispara um bom relacionamento.
+        Na sociedade da informação e telecomunicação a família deixou de ser a única fonte de valores e modelos a seguir para os jovens, o que gerou o conflito entre as idéias convencionais dos pais, e as idéias contemporâneas dos filhos.Esse atrito, fez com que nas últimas décadas, a convivência no lar sofresse alguma modificações, principalmente com os pais, que passaram a demonstrar mais afeto pelos filhos e se tornaram mais abertos ao diálogo.
+           No entanto, apesar de dialogarem, pais e filhos, raramente chegam a um comum acordo,especialmente em temas como: o namoro, a sexualidade e a independência dos filhos.Que atualmente são tratados abertamente na mídia, mas que em casa, a salvo raras exceções,são tabus nos quais os pais são intolerantes. Essa falta de acordo na família, faz com que, muitas vezes, os filhos omitam determinadas atitudes dos pais, esboçando assim umfaçoelo de transparência.O que prejudica diretamente a relação familiar, pois a situação vai passando despercebida e nada se faz de concreto para solucionar esse impasse.
+               O que a família precisa é de transparência,de pais e filhos que se compreendam e troquem experiências, sem inibições, sem medo do que os outros irão pensar.Que se divirtam como crianças, e pensem como adultos. Mas que acima de tudo que sejam cúmplices e se amem mutuamente.
+# C0: 1,0
+# C1: 1,5
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

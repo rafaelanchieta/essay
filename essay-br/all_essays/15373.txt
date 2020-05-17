@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: Gravidez na adolescência
+"No meio do caminho tinha uma pedra, tinha uma pedra no meio caminho". A partir deste trecho  do poeta modernista Carlos Drummond de Andrade, vê-se que essa alusão faz referência à problemática  da gravidez na adolescência na atualidade brasileira , uma vez que se pode comparar a pedra do poema como sendo um obstáculo que impede milhões de jovens de concluir o ensino de base. 
+Hodiernamente , o Brasil ocupa a 8a posição dos países na América Latina no Ranking de economia, seria racional acreditar que o Brasil teria um ensino público de qualidade . Conquanto, a realidade é totalmente diferente e a gravidez na adolescência é um reflexo disso . Segundo o filósofo francês Immanuel Kant, o ser humano é fruto da educação e, com a escassez da disciplina sexual, o conhecimento sobre sexualidade fica deturpado reverberando no problema da gravidez na adolescência. 
+Faz-se mister , ainda, salientar a ausência de debates familiares acerca da sexualidade também como um fator para a permanência do impasse, isso acontece devido aos tabus que estão enraizados na sociedade quando se refere a esse assunto . Desse modo, os adolescentes se sentem inseguros para conversarem com os familiares e escondem a gravidez , arriscando a própria vida, por causa da falta de acompanhamento médico. 
+Dessa forma, conclui-se,   que o problema se mostra uma grande pedra a ser removida do caminho para o desenvolvimento . Portanto, compete ao ministério da saúde juntamente com o da educação elaborarem projetos em instituições escolares, visando informar aos adolescentes sobre o risco da gravidez nessa fase da vida e a maneira correta de como evitá-la. Essa ação deve ser feita por meio de especialistas na área sobre educação sexual como médicos, uma vez que os conhecimentos por eles passados fará com que muitos jovens abram suas mentes , assim como também,  o tabu sobre a sexualidade será quebrado, tornando-se algo expressado com normalidade. Dessa maneira, espera-se que o Brasil consiga superar esse problema. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

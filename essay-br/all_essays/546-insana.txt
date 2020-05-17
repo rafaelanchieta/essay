@@ -1,0 +1,11 @@
+# prompt: como-devem-ser-as-relacoes-entre-as-pessoas-e-seus-animais-de-estimacao
+# score: 3,5
+# title: Ferocidade insana
+De um lado o carinho demasiado, do outro a agressividade, e em meio a tudo isso os animais clamando piedade. Trata-se da ligação entre o ser humano e os bichos de estimação, que existe desde os tempos remotos e ao longo do tempo ganhou bastante prestígio. Uma interação que vem sendo abordada por diversos campos de estudos, como psicologia, antropologia, sociologia e medicina veterinária. Muitos bichos são tratados como membros da família. Em alguns casos são tratados como pessoas. Um verdadeiro equívoco. A "humanização" e os mimos em excesso podem gerar transtornosa essesanimais. Por conta disso, muitos destroem a casa,temcrises de ansiedade, fazem suas necessidades em locais inadequados e demonstram agressividade.
+         Entretanto, os maus-tratos e violências são bem mais prejudiciais do que os cuidados em excesso. Recentemente houve uma intensa repercussão nas redes sociais sobre um fato que chocou a população. Uma enfermeira de Goiás foi gravada espancando um cachorro até a morte. Isso tudo ocorreu em frente ao filho da mulher, que tem apenas três anos de idade. Diante disso percebe-se que a agressão e o grau elevado de cuidados não são benéficos aos animais domésticos, nem mesmo quando a intenção é o adestramento. Segundo aconstituiçãobrasileira, praticar ato de abuso, maus-tratos, ferir ou mutilar animais, sejam eles silvestres, domésticos ou domesticados, nativos ou exóticos é um crime e a pena é a detenção, que pode variar de três a doze meses, além do pagamento de uma multa.
+         Em síntese nota-se que todo animal deve ser tratado com carinho, respeito, lealdade, bondade e cuidado (de forma moderada). É necessária a conscientização. Vale lembrar que não importa se os animais são incapazes ou não de pensar. O que importa é que são capazes de sentir.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

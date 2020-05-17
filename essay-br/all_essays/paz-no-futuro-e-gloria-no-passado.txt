@@ -1,0 +1,12 @@
+# prompt: Cantar ou não cantar o hino nacional? Eis a questão...
+# score: 960
+# title: Paz no futuro e glória no passado
+No Brasil contemporâneo em que o cenário contempla acaloradas discussões políticas, emerge a questão sobre cantar o Hino Nacional Brasileiro nas escolas. O assunto veio à tona novamente após um e-mail do Ministro da Educação, propondo que alunos e professores de escolas retomem essa prática. Cantar o Hino Nacional em escolas está previsto em leis que remontam desde a Era Vargas, na década de 30, até uma recente lei publicada durante o governo do ex-presidente Lula.
+O Hino Nacional Brasileiro é um dos símbolos da República Federativa do Brasil, junto da bandeira, das armas e dos selos nacionais, entoá-lo é prestar uma reverência à própria nação e sua história e também reverberar o espirito patriota . É um ato de valorização histórico-cultural, porque nos remete ao episódio da independência, da força do povo brasileiro que conquista a liberdade com braço forte, da dimensão colossal de nosso país, das maravilhas naturais e do quão acolhedora é nossa "mãe gentil", a pátria brasileira. Sendo essas as mensagens contidas na letra do Hino Nacional, melhor lugar não há para ser cantado do que nas escolas, onde há a concentração de pessoas em formação.
+Em que pese a tendência por movimentos cívicos seja característica do militarismo, estimular os alunos à prática desses atos não é uma tentativa de remontar a ditadura militar, mas exaltar o Brasil como nação por meio de suas próprias marcas: Sua história, sua grandeza, a luta do seu povo e a beleza de uma nação grandiosamente bondosa e acolhedora. É ensinar o quanto devemos amar nosso país, nosso próprio povo e a história dele, lutando para que aqui seja um lugar cada dia melhor, começando justamente com as bases: Nossos estudantes.
+Entoamos não apenas o Hino Nacional como também o Hino da República, que conclama a liberdade e que essa abra suas asas sobre nós. Cantemos também o Hino da Independência que cintila "brava gente brasileira" e que "do universo entre as nações/resplandece a do Brasil", dentre outras canções deste segmento que, sobretudo, exaltam a beleza e exuberância do povo, da nação, da terra, da pátria brasileira. Reavivar essa prática é marcar nos estudantes o quão nobre é nossa nação e com essa consciência, formar pessoas orgulhosas pela própria história e confiantes o suficiente para construir a "paz no futuro" com a "glória no passado".
+# C0: 160
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 200

@@ -1,0 +1,11 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 220
+# tittle: A sociedade e a ciência em si
+No entanto , o Covid-19 foi um vírus que trouxe grande "suspense" e medo na sociedade. Mas, para a Ciência , foi como uma nova brecha de descobertas. 
+Sobre tudo, podemos  dizer que a ciência pode nos mostrar à a cura para algo tão espantoso. 
+Logo, posso lhe dizer ,  que uma pandemia tão rigorosa pode se obter uma cura, descoberta por:  cientistas,  e equipamentos de alto porte.  Através Por meio,  de estudantes, livros, pesquisas frequêntes  frequentes e equipamentos. Sendo assim, acredito   que pode-se obter ,dessa forma ,resultados para cura de tal pandemia. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 0

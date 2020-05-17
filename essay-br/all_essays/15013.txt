@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: [Redação sem título]
+A bandeira brasileira tem, entre suas cores, o verde que enaltece a fauna e a flora brasileira, mostrando um orgulho do povo quanto ao meio ambiente. Entretanto podem-se questionar tal orgulho dos brasileiros quando a Amazônia, uma das maiores florestas da terra , que abriga um ecossistema riquíssimo e uma enorme variedade de espécies sofreu com uma enorme tragédia em 2019;  As queimadas,  que colocaram em risco este meio ecológico tão importante para o mundo. 
+
+Tais queimadas são reflexo da sobreposição dos interesses econômicos sobre a preservação da terra, pois após o desmatamento da vegetação, uma queima dos “ restos” de vegetação do solo ocorrem para favorecer o plantio de grandes agricultores ou pecuários afetando drasticamente parte da floresta que simplesmente deixa de existir. 
+
+Além disso, a remoção da mata nativa afeta o ciclo das chuvas resultando num ambiente seco que favorece a propagação do fogo causando enormes incêndios, contribuindo para o desmatamento da floresta e a emissão de gases poluentes provenientes das grandes queimadas afetando diretamente o aquecimento global e o efeito estufa do planeta terra. 
+Portanto as conseqüências das queimadass e desmatamentos na floresta acaba por afetar o mundo inteiro, dando visibilidade a um problema antigo, a preservação do meio ambiente. Diante disto, vistas tragédias  para a vida na terra decorrentes do descaso com o meio ecológico, necessita-se de políticas mais rígidas em relação a preservação ambiental, principalmente no Brasil que detém o maior patrimônio ecológico do mundo, e acerca deste priorização de uma exploração consciente que favoreça a economia do país, porém visando acima do lucro,  o planeta para as próximas gerações. 
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

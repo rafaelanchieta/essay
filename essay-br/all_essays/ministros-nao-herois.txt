@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 1000
+# title: Ministros, não heróis
+Nos últimos anos, a Operação Lava-Jato, responsável desmantelar grandes esquemas de corrupção, deu grande crédito ao Poder Judiciário, sobretudo por causa da atuação do ex-juiz Sérgio Moro, o qual foi visto como um herói nacional. Em oposição , o Supremo Tribunal Federal sofreu diversos ataques, em virtude de suas decisões poucos populares. Tal percepção negativa, no entanto, não deve ser vista como algo necessariamente ruim, pois nem sempre a defesa dos valores constitucionais agrada à maioria.
+Nesse sentido, é preciso dizer que a função principal da Suprema Corte é de guardar a Constituição Federal de 1988. Esta , por sua vez, possui um mecanismo de defesa inclusive contra a vontade do povo: as cláusulas pétreas. Estes dispositivos, por guardarem valores essenciais à democracia, não podem ser alterados em nenhuma circunstância, seja por proposta de emenda ou plebiscito. Eles foram criados para resistir a ondas totalitárias e até mesmo a vontades populares eventualmente imbuídas de desejos de discriminação e de violência. Em certa medida, portanto, a Carta Magna pode ser antipopular e, da mesma maneira, será o STF, cujo papel é o de velar pela sua validade.
+Na verdade, a insatisfação gerada ocorre, em grande parte, por um motivo: a população brasileira não conhece quase nada sobre a legislação pátria. As escolas regulares do país preocupam-se mais em ensinar a diferença entre mitose e meiose nas aulas de Biologia. O que é ensinado sobre Direito Constitucional? Nada! O resultado disso é desastroso: pouquíssimas pessoas sabem qual é o papel do STF e quais são seus deveres ou limitações. Assim, quando tal órgão não atende ao cego clamor popular, surge uma reivindicação em massa que pede o seu fechamento.
+Por fim, depreende-se que boa parte das reclamações quanto à atuação do STF surgem porque a população é ignorante. Para que isso seja mudado, é imprescindível que o Poder Legislativo crie uma lei que insira a disciplina de Direito Constitucional no Ensino Básico. Tal medida, provavelmente, poderá disseminar o caro conhecimento de que a função da Suprema Corte não está relacionada a heroísmos, mas a defesa da Constituição Cidadã.
+# C0: 200
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 200

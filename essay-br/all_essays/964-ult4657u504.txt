@@ -1,0 +1,19 @@
+# prompt: a-virgindade-e-um-valor-moral-a-ser-preservado
+# score: 1.5
+# title: Flor dePrimavera
+Virgindade. Maisum assunto a ser tratado como
+        criticaàquela que nos corrompe: a sociedade. Se isso ou aquilo é certo ou errado,são conceitos e valores formadospor cadacidadão que aos
+        poucoimpõe seus conceitos sobre outros, assim formando um
+        circulosocialcom conceito em comum,logocolidindo com outros grupos sociais. O tempo passou e hoje, em um mundo moderno, conceitos são vistos e revistos de forma a cada dia aprimorar a vida social de todos, principalmente de jovens. É certo que essas mudanças trazem uma série de
+        sentimento, como a revolta de uns, que por outro lado
+        vêa nostalgia de outros.
+        Sexo não é idade, muito menos status de relacionamento. Sexo é maturidade. Certas religiões não aceitam o sexo antes do casamento. Acontece que esteconceitose enraizouem tempos antigos. Hoje não é bem assimque a carruagem anda. A virgindade pode ser motivo de chacota entre alguns grupos.
+          A virgindade não é um valor a ser preservado. É um valor a ser respeitado. Mas isso não diz quese a virgindade foi perdidatambém foi perdido o respeito. O ser humano tem que ser respeitado acima de seus valores corporais.O medo envolve justamente com a falta de maturidade, a insegurança, da família, amigos e do próprio ser, comvarias[várias]doenças, e também o envolvimento com sentimentos.Está ficando mais difícil confiar no ser humano a ponto de entregar seu corpo. Cada dia menos o ser humano é valorizado, e isso
+              estacausando a morte social de muitas pessoas.
+              O jovem éa expansão do desejo carnal. Na flor da maturidade descobrem os prazeres carnais e assim podem estar se descobrindo, conhecendo cada vez mais o próprio ser,desenvolvendo uma metamorfose fantástica.
+                Com muita educação e liberdade de escolha, a virgindade pode deixar de ser um tabue passar a ser assim, apenas uma fase coberta.
+# C0: 0.5
+# C1: 0.5
+# C2: 0.0
+# C3: 0.0
+# C4: 0.5

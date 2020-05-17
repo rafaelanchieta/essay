@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 650
+# tittle: A Importância Da Vacinação Para a População
+Ao inventar a primeira vacina no século XVIII, Edward Jenner foi responsável não só por adicionar mais uma novidade na área da saúde, mas por criar um mecanismo que revolucionaria o mundo da medicina no que se refere à prevenção, e em alguns casos como na ocorrência da varíola, também à erradicação das doenças . Anexada ao Brasil em 1804, o sistema de vacinação se tornou essencial para a imunização da população, sendo o agente propulsor na diminuição do índice de doenças ao longo dos anos. 
+
+Afetando diretamente o percentual de doenças na massa populacional, as campanhas de vacinação têm evidenciado a sua eficiência progressivamente, a qual é controlada e analisada por meio do Programa Nacional de Imunização , cujo objetivo também se baseia em uma cobertura de vacinação eficaz, abrangendo a maior parcela possível da população. Os dados acerca da ocorrência do Sarampo são uma das comprovações a respeito da importância das vacinas na redução das taxas de doenças, dados  esses que comprovam a diminuição de mais do que a metade dos casos após a aplicação do agente contra tal enfermidade. 
+
+Entretanto, apesar dos benefícios inclusos, ainda há parcelas da população que se apresentam resistentes a participação nas campanhas de vacinação . Entre os motivos envolvidos em tais circunstâncias, estão o descaso em relação à importância dos riscos que a doença em questão pode vir a causar, visto que, em alguns casos, essa não é ocorrente de maneira frequente,  e, além dessa razão, há a desatenção ao prazo das campanhas, as quais muitas vezes se resumem a uma semana ou alguns dias . Tal ato, quando realizado e reproduzido em maior escala, vem a se tornar preocupante, arriscando o retorno de algumas doenças  que antes tinham a sua incidência diminuída significativamente.
+Portanto, sendo evidente a importância das vacinas na redução do percentual de doenças potencialmente perigosas à manutenção da saúde pública , é de extrema importância medidas que tornem a sua aplicação cada vez mais abrangente e eficiente. Uma alternativa a tal é o reforço à importância da vacinação por parte dos órgãos de saúde responsáveis, como postos de saúde que recebem quantidades altas de moradores próximos à localidade , assim como a maior divulgação de informações necessárias para a efetividade da aplicação, como documentos a serem requisitados, faixas etárias que se enquadram, e os prazos corretos da campanha. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

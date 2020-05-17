@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Reflexo da distopia
+No conceito de estrutura social, o excesso de prenhez aumentou significativamente durante gerações , e consigo,  houve o início de pensamentos indevidos perante a gravidez na adolescência , que acarretou a criação do enraizamento de uma cultura de assédio sexual, no qual,  cada grupo ou coletividade constrói sua visão de mundo com base em contextos históricos, culturais e religiosos. 
+
+Indubitavelmente, é de extrema importância lembrar das mulheres que viveram situações de obscuridade, no  na qual eram forçadas a se casarem no século XIII a. C. na Roma Antiga . E isso se transformou em uma esfera de realidade social na atual Índia, com casamentos forjados contra a vontade pessoal de crianças e adolescentes. 
+Abruptamente, o aborto já era documentado em antigas sociedades orientais com métodos físicos ou químicos, no qual é um tema muito pautado atualmente. Vale ressaltar que a apresentadora, atriz e empresária norte-americana Oprah Winfrey, revelou que passou por um momento de imprecisão, e que abortou em sua adolescência, aos seus 14 anos. Hoje ela impulsiona campanhas para que mulheres não temem a prática segura do aborto, segundo o site Acidigital. 
+
+Destarte, perante os fatos supracitados, é de suma importância o Ministério da Educação não negligenciar um assunto como esse, há muitos que ainda vivem à margem da sociedade, portanto, a educação deverá chegar para os mais desafortunados, mesmo por projetos tradicionais ou culturais. E  acerca disso, criar um alcance maior na sociedade de preservativos e anticoncepcionais. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

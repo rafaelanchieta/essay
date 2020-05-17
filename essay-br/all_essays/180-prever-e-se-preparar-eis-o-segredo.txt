@@ -1,0 +1,11 @@
+# prompt: a-sociedade-brasileira-e-os-conflitos-no-transito
+# score: 7,0
+# title: Prever e se preparar, eis o segredo
+Diariamente, os noticiários nos apresentam casos de acidentes e desentendimentos no trânsito , sendoo primeiromuitas vezescausadopelos mesmos fatores queo segundo, ou sendo uma consequência trágicadeste.
+        De fato, o individualismo de nossos motoristas impede-os de pensar em interesses e segurança alheios, pois estão sempre com pressa e precisam tirar o máximo de vantagem que puderem, sempre. É essa cultura de benefício próprio, somada ao estresse diário, o que os colocaamercê de suas próprias emoções, afinal, após um dia de trabalho e em meio a um trânsito caótico, como temos visto na maioria das grandes cidades do nosso país, é difícil controlar os instintos e agir racionalmente, porém, é exatamente essa capacidade que diferencia
+            o motorista preparado dos demais. Esse preparo consiste em prever possíveis deslizes e desentendimentos e orientar seu comportamento diante de determinada situação. Uma vez que estamos cientes do que pode acontecer, nosso comportamento não será mais instintivo e sim racional. Assim, os mesmos impasses que geralmente são incendiados por buzinas ou palavrões podem ser contornados de maneira menos explícita , pois, já eram esperados. Essa racionalidade no trânsito depende da preocupação de cada condutor consigo mesmo e com os demais condutores, afinal, trata-se de um ambiente de integração que, devido a isso, depende do bom comportamento de todos. Portanto, antes de irritar-se com possíveis deslizes de terceiros, ou dirigir a alguém ofensas verbais, analise sua forma de condução e principalmente seu controle emocional. Se cada motorista preocupar-se com a boa condução de seu veículo, reduziremos os motivos para possíveis desentendimentos e consequentemente, os próprios desentendimentos, alterando, assim, o estereótipo agressivo que é atribuído aos motoristas brasileiros.
+# C0: 2,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

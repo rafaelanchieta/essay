@@ -1,0 +1,12 @@
+# prompt: A terapia de reversão da orientação sexual
+# score: 250
+# title: A terapia de reversão da orientação sexual
+Deve ser permitida a terapia de reversão da orientação sexual. Tal ação  não irá impor aos homossexuais que façam o tratamento, ou  que sejam feitas palestras sobre o assunto. Mas deve haver estudos e terapias, desde que a pessoa que deseja realizar, prontifique-se.
+Uma pessoa que deseja realizar a terapia não significa que está doente, homossexualismo não é uma doença, contudo, há quem opte por tais sessões até mesmo para ter certeza de sua orientação sexual ou conhecer a si mesmo.  O papel do psicólogo não é convencer seus pacientes, mas permitir que eles se conheçam a ponto deles  mesmos fazerem  suas próprias decisões e estarem seguros disso.
+Em contrapartida, há possibilidade de gerar uma maior intolerância para com aqueles que se negarem a participar da terapia de reversão da orientação sexual, ou sejam até mesmo forçados, ou induzidos por amigos e familiares a realizarem as sessões. 
+A terapia de reversão de orientação sexual deve ser uma opção para aqueles que desejem fazê-la, contudo, não devem  haver programas, publicidades ou propagandas que induzam a pessoa a realizá-lo , e deve ser efetuado  somente em casos que sejam propostos pela pessoa, e  não por amigos e familiares. Não podendo também realizar tal terapia em menores de idade. 
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

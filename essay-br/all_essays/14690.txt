@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 600
+# tittle: [Redação sem título]
+Superlotação, péssimas condições de higiene, homicídios, falta de água, de acesso à assistência judiciária, à educação, à saúde e ao trabalho são algumas das consequências que retratam a atual situação carcerária do Brasil, hoje o país com o terceiro maior número de pessoas encarceradas no mundo . Diante desse quadro, torna-se clara a negligência do Estado e a indiferença da sociedade no que tange à a necessidade de assegurar ao preso uma vida digna. 
+
+Em primeiro plano, cabe ressaltar o descuido do Estado como um dos principais motivadores da situação precária dos presídios do país. Tal fato se reflete na falta de investimentos na gestão administrativa e na falta de infraestrutura adequada para albergar todos os detentos. De acordo com o G1 - portal de notícias da Globo - as prisões estão quase 70% acima da capacidade. Logo, é substancial a alteração desse cenário que traz efeitos negativos como, por exemplo, a violência e o crime organizado. 
+
+Atrelada à negligência do Estado, a indiferença da sociedade também é responsável pela crise no sistema prisional. Isto,   porque a falta de conscientização do grave problema penitenciário gera desconfiança e preconceito com a população carcerária. Portanto, quando o sujeito sai da prisão, mesmo cumprido a pena, ele muitas vezes não é aceito pela comunidade e muito menos pelo mercado de trabalho. De modo que,  dificulta a ressocialização dos reclusos e aumenta os índices de reincidência. 
+Infere-se, portanto, que ainda há entraves para garantir a solidificação de políticas que visem a construção de um mundo melhor. Dessa maneira, urge que o Estado dê maior observância para a efetiva aplicação da Lei de Execucão Penal que trata das garantias assistenciais do preso, isto por meio de fiscalizações nas unidades prisionais. Além disso, também é necessário um maior investimento na ressocialização do presidiário, principalmente no egresso, mediante programas educacionais, esportivos e de lazer. A partir dessas ações,  espera-se promover uma melhora nas condições de vida desse grupo e reverter a atual situação carcerária do Brasil. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

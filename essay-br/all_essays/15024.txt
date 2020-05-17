@@ -1,0 +1,11 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 320
+# tittle: Amazônia, queimas e preservação
+Com o desmatamento amazônico ,  o mundo se vê em perigo, o aquecimento global se torna um inconfortável futuro distópico digno de livros de ficção científica, porém, a realidade imita a ficção, e isto, infelizmente  pode acabar ocorrendo. 
+Segundo o IMPE , 2019 tem sido o pior ano de queimadas desde 2010. Estas queimadas tem sido, por coincidência ou não, ocorrem muito mais nas áreas com maior desmatamento do que as de menor , mas o motivo disto,  está na econômia, as áreas desmatadas têm maior valor monetário do que as outras. Com a influência da Amazônia, no mundo, já que ela influência os lençois freáticos, sendo um "umidificador global", os países se sentiram ameaçados, como exemplo disto, à Noruega e Alemanha não estão depositando no Fundo Amazônia, assim, agravando ainda mais a econômia brasileira.  
+Parar o desmatamento é o foco,  para um futuro não distópico, ou seja, a solução, uma maior fiscalização com leis rigorosas já seria um enorme avanço nesta causa. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

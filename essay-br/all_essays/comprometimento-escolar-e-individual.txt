@@ -1,0 +1,9 @@
+# prompt: O sucesso vem da escola ou do esforço individual?
+# score: 0
+# title: Comprometimento Escolar e Individual
+Eu acredito que os dois são muito importantes e um complementa o outro.O sucesso da Escola  deve-se a  convivência social, acesso a outras culturas e professores com qualificação e comprometimento.Convivência social: Aprende  a conviver com pessoas com características diferentes, credos diferentes e outro tipo de educação, essa convivência faz com que nos tornemos mais tolerantes e menos preconceituosos.Acesso a outras Culturas: Temos  muito preconceito com outras culturas  pois não conhecemos, mas na escola nos ensinam que não é assim que sempre temos algo a aprender com o outro.Por outro lado  o esforço individual nos mostra que é possível alcançar nossos sonhos e metas, através de interesses, curiosidades pessoais e comprometimento.Curiosidades pessoais: Aprender  novos idiomas, se especializar em algo que ama fazer.Comprometimento: Definir uma meta e não desistir até alcança-la 
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

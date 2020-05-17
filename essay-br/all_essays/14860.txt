@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: [Redação sem título]
+Promulgada pela ONU  em 1948, a declaração universal dos direitos humanos garante a todos os indivíduos direito a alimentação e ao bem-estar social. Conquanto, o retratado da fome atual no Brasil impossibilita uma parcela da população brasileira desfrute desses direitos universais . Nessa perspectiva, esse desafio deve ser superado para que uma sociedade integrada seja alcançada. 
+
+Em primeiro lugar, o combate a fome é um fator essencial para o desenvolvimento de um país. Hodiernamente,seria racional acreditar que o Brasil possui uma maneira eficiente de combater a fome,  por ocupar o oitavo lugar no ranking da economia mundial. Contudo, a realidade é o oposto e o contraste disso é refletido na situação atual das famílias brasileiras consideradas de extrema pobreza. Segundo o site G1, a desigualdade social tem como consequência a fome. Diante do exposto, verifica-se que a desigualdade social  ou seja, a baixa renda ou a sua ausência dela  é a principal causa da fome, e não a escassez ou a falta de alimentos. 
+
+Fazer-se mister,  salientar a questão constitucional e a sua aplicação como um dos principais impulsionadores do problema. De acordo com o escritor irlandês Oscar Wilde,a insatisfação é o primeiro passo para o progresso de um homem ou de uma nação. Diante de tal contexto, nota-se que o estado  como promotor do bem comum, não demonstra insatisfação em relação a situação atual da população da carente , por não investir em programas sociais realmente efetivos que ajudem a reduzir e combater a fome no Brasil. 
+Portanto, soluções consideráveis e eficazes devem ser tomadas para o problema em questão. Uma plausível solução seria: o Ministério do Desenvolvimento Social  instituir programas sociais,  que incluam membros maiores de 18 anos de famílias de extrema pobreza em vagas de empregos com empresas filiadas ao programa social, com objetivo de,  reduzir a desigualdade social por renda, e facilitar a essas famílias o acesso a alimentação, afim a fim de que esse tecido social se desprenda da fome,  e não viva na realidade das sombras, assim como na alegoria da caverna de Platão . Dessa forma o Brasil poderá superar o problema. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

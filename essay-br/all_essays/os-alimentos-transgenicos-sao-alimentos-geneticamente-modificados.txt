@@ -1,0 +1,14 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 200
+# title: Os alimentos transgênicos são alimentos geneticamente modificados
+Os alimentos transgênicos são alimentos geneticamente modificados. Por meio dessa técnica nos produtos, são genes de organismos diferentes em uma espécie.
+O simbolo  do triângulo amarelo é indispensável em todas as embalagens de comestíveis. De modo que alerte ao consumidor  o componente modificado geneticamente inserido nos alimentos para que o comprador tenha conhecimento do produto consumido. 
+Esses alimentos transgênicos ajudam o meio ambiente, visto que eles crescem mais rápido e também em espaços menores. Sendo assim  a comida chegará mais rápido aos supermercados para suprir a demanda populacional .
+Em consequência disso, nota-se que os pequenos agricultores  tendo como mão de obra, essêncialmente , o núcleo familiar  perdem a safra para o dono de produção da agricultura moderna. 
+Desse modo, percebe- se que os alimentos transgênicos são geneticamente modificados com o intuido  de demandar maiores vendas nas mercearias.
+Portanto, a Agência Nacional de Vigilância sanitária  (Anvisa) deve reivindicar ao governo brasileiro que cancele a lei criada pelo Senado Federal (número trinta e quatro) , a fim de informar ao consumidor sobre a presença de componentes transgênicos, para que os consumidores tenham consciência do produto comprado e consumido por eles.
+# C0: 50
+# C1: 0
+# C2: 50
+# C3: 50
+# C4: 50

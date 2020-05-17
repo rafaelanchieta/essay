@@ -1,0 +1,11 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 4,5
+# title: Idosos no século XXI
+No Brasil, os idosos não são tão valorizados como em outrospaíses, nogeral, a sociedade não lhes dá a devida importância e todo o respeito que merecem.
+        Por outro lado, possuem o Estatuto do Idoso que lhes assegura dignidade e cidadania, dando-lhes direito à saúde, educação, alimentação, trabalho, lazer, etc. Possuem também alguns privilégios sociais como não enfrentar filas, pagar meias-entradas, terem vantagens em bancos de créditos, etc. Apesar de terem todasessavantagens, recebem um salário de aposentadoria muito baixo, o que na maioria dos casos é insuficiente paramanteremsuas necessidades básicas, emesmo tendo auxílio saúde, gastam muito na compra de remédios e em consultas médicas.
+            Muitas pessoas não aceitam que a terceira idade tenha tantos privilégios, como nos casos em que os idosos abusam de suas vantagens, e se revoltam contra essas situações. A sociedadedeve conscientizar-seda importância do idoso, implementando campanhas publicitárias de valorizaçãoasua experiência e sabedoria. As escolas, igrejas e outras entidades devem ampliar o espaço de participação doissoem suas ações, tornando-os mais ativos.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

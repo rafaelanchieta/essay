@@ -1,0 +1,10 @@
+# prompt: o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia
+# score: 0,0
+# title: (Sem título 022)
+Hoje em dia não podemos negar que os esportes estão ganhando cada vez mais espaço na vida das pessoas, e um esporte queestaencantando cada dia mais brasileiros é o MMA (mistura de artes marciais), esporte conhecimento por seu grande apeloáviolência, utilizado inclusive como entretenimento, o que é muito questionado hoje em dia éo porque queas pessoas preferem esportes como este (violentos) a outros tiposqueesportes ou lutas com conduta mais branda?
+        O que aslevea sentirem-se bem vendo lutas que podem chegar aseremsangrentas e desejarem, inclusivecoisas absurdas ao verem este tipo de luta? Reflexo de uma sociedade violenta, ou simplesmente atos como este refletem a personalidade do indivíduo?
+# C0: 0,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

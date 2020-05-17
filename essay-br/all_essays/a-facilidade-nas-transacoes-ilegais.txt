@@ -1,0 +1,12 @@
+# prompt: Criptomoeda: tecnologia e revolução econômica
+# score: 760
+# title: A facilidade nas transações ilegais
+O Famoso bitcoin é uma forma de dinheiro eletrônico, são moedas virtuais criptografadas que possuem gestão descentralizada, ou seja, não são controladas por nenhum banco ou governo. Tem como função primordial a compra e venda de produtos e serviços online, de maneira rápida e segura. Entretanto, a falta de centralização e controle estatal torna essa moeda acessível a compra e vendas ilegais. Dessa forma, é imprescindível salientar o impacto dessa tecnologia nas transações financeiras.
+Em primeiro ponto , vale a ressalva de que um dos fatores positivos do uso dessa criptomoeda é a facilitação do processo de compra e pagamento, sem a necessidade de manuseio de cédulas, além disso as transações com bitcoins evitam a necessidade de conversão monetária ao se realizar a aquisição de produtos de países estrangeiros. Por fim sua descentralização torna-se um dinheiro desprovido de impostos e taxas bancarias.
+Todavia, os bitcoins também possui lados negativos. Necessita-se enfatizar que a moeda virtual não é emitida por nenhum Banco Central, ou seja, compradores e vendedores criminosos, podem utilizar desse meio de pagamento para comercializar materiais ilícitos como drogas armas de fogo, vendas de órgãos, entre outros. Assim sendo, da utilização dessa tecnologia sem a devida regulamentação estatal deixará brechas para os crimes do mercado ilegal.
+Portanto, Torna-se evidente que, por mais que as criptomoedas tenham pontos positivos, a liberdade de seu uso sem devida regulamentação, poderá facilitar o crescimento do comercio ilegal. O Fundo Monetário Internacional (FMI), junto ao governo federal de cada país, precisam vincular aos bancos centrais a regulamentação da moeda virtual, criando departamentos para formaliza-lo com intuito de investigar transações ilegais ou duvidosas. Dessa maneira, as compras e vendas ilegais serão suprimidas e os usuários ainda poderão desfrutar dos serviços de pagamento online e da especulação financeira.
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 160
+# C4: 160

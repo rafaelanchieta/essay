@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: [Redação sem título]
+A decadência das vacinações no Brasil levanta o receio, por parte do sistema de saúde, de um possível retorno de doenças graves, podendo dar início à endemias e até mesmo epidemias. Com o aumento da proliferação de vírus, por acarretamento da poluição, descaso com saneamento básico e outros fatores,  a população se torna mais vulnerável a adquirir problemas de saúde, que podem ser evitados através da aplicação de vacinas. 
+
+A preocupação do governo brasileiro com campanhas vacinais tem um histórico antigo que pode ser observado no início da década de vinte , quando Oswaldo Cruz foi encarregado da criação de vacinas obrigatórias que erradicassem febre amarela , varíola e peste bubônica,  no intuito de melhorar a situação da saúde pública. A reação negativa de parte dos cidadãos, nos dias atuais, pode se refletir nos acontecimentos da época, onde    milhares de pessoas foram contra a obrigatoriedade vacinal, por não terem a conscientização de importância da mesma . 
+Como consequência do enfraquecimento das campanhas de vacinação, além do aumento de enfermidade nacional, há a questão de mal estar social por parte das camadas mais pobres, que são as mais prejudicadas em todo o cenário. Pessoas de menos valia financeira se tornam mais suscetíveis à falta de informação e acesso ao atendimento médico necessário, além da exposição à condições precárias de saneamento, o que implica na maior dificuldade das mesmas, em relação à outras que não sofrem com um país desigual e hierarquizado. 
+
+Sendo assim, é clara a importância do aumento de postos de saúde e consultas médicas gratuitas , com a distribuição de vacinas oferecidas pelo Sistema Único de Saúde e a propagação de informações necessárias pelas escolas e pontos de mídia que possam fazer entender o tamanho da necessidade das vacinação para a população brasileira. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

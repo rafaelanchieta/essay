@@ -1,0 +1,11 @@
+# prompt: Escola no Brasil: com partido ou sem partido?
+# score: 400
+# title: Não existem esquerda e direita na política moderna
+Na sociedade contemporânea, temas visando política  são sempre polêmicos, devido a suceptibilidade  desses assuntos a diversas opiniões. Num contexto capitalista,  os jovens, em pleno intermédio da sua formação ideológica, tendem a ser critícos em argumentos visados pelo professor em sala de aula.
+Entretanto, os mestres nas escolas inconscientimente  acabam induzindo seus alunos, a seu modo de pensar, nota-se  que esse essa doutrinalização ideológica existe, nas diciplinas objetivando questôes  sociais. Porém  para discutir a eununciação  é necessário mostrar um ponto de vista, assim  os estudantes podem argumentar contra ou a favor e pensar no seu impacto na vida dos cidadões. Segundo o filósofo Hans Jonas, a base de uma sociedade está no fato de, uma vez esta sendo sustentável, construir seus fundamentos pensando nas  gerações futuras.
+Sendo assim  não podemos impôr  esse tipo de limites nos  professores,  cada ser humano tem seu modo de pensar, e  os adolescentes são capazes de distinguir o certo e o errado e suas consequências. No entando Educando  o jovem com um pensamento mais critico , através de palestras e pequenas campanhas municipais, nas escolas sobre assuntos do nosso cotidiano, muito pode ser feito para a formação de uma sociedade próspera.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

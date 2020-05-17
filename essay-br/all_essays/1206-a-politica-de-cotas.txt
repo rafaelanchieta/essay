@@ -1,0 +1,12 @@
+# prompt: cotas-para-universidades-federais-solucao-ou-problema
+# score: 8,0
+# title: A política de cotas
+A educação pública no Brasil vem passando por várias fases ao longo dos anos, o que aparenta ser um processo de experimentação para ver o que pode ou não dar certo, gerando certa defasagem no ensino. Assim, na busca incessante por soluções rápidas, acabam encontrando algumas, ineficientes, como é o caso das cotas. Em 26 de abril deste ano, o Supremo Tribunal Federal aprovou o sistema de cotas em universidades públicas, reservando 50% das vagas para alunos oriundos de escola pública, sendo 25% para estudantes carentes e 25% para negros, índios e pardos. O objetivo das cotas é tentar consertar o passado escravocrata que trouxe desigualdades sociais para negros e índios, porém o Brasil é hoje uma sociedade mestiça, tornando-se difícil o processo de seleção. Muitos lutam pelo fim do racismo e por igualdades, porém ao aceitarem sistemas como esse das cotas,se contradizeme de certa maneira
+            alegam que são menos capazes que os brancos, o que não é verdade. Deveriam reivindicar uma educação de base de qualidade, para que no futuro possam competir igualmente com os alunos provenientes das escolas particulares. Outro grande problema que as cotas podem gerar énadificuldade de formação desses profissionais, ou até mesmo no abandono do curso por falta de conhecimento suficiente devido à educação precária que receberam.
+              Portanto, para que possa haver um progresso quanto à educação, ao invés deutilizaremda política de cotas para queajao ingresso de alunos carentes em universidades boas e públicas,
+                o governo deveria se preocupar com a melhoria no ensino médio e fundamental.Destemodo, o jovem poderá ter oportunidades que realmente o favoreçam equetragam condiçõesiguais, não só em sua carreira acadêmica, mas em sua vida.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 2,0
+# C4: 1,5

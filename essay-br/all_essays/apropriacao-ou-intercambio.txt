@@ -1,0 +1,12 @@
+# prompt: Carnaval e apropriação cultural
+# score: 840
+# title: Apropriação ou intercâmbio?
+O uso de fantasias e alegorias no Carnaval que remetem às culturas inferiorizadas é criticado por diversas pessoas como sendo um caso de apropriação cultural. Entretanto, é preciso saber diferenciar apropriação de intercâmbio cultural, uma vez que a primeira agrava o preconceito e o desprestígio, enquanto o outro procura não só homenagear, mas também trazer notoriedade para a cultura e às causas enfrentadas pela mesma .
+Dito isto, é importante notar que a apropriação cultural está vinculada a uma prática de desmérito , pois uma etnia que é retratada sem contextualização e resumida em um vestuário bonito e exótico tem sua imagem estereotipada, como também seu valor esquecido. No Carnaval, as pessoas apreciam plumagens exuberantes, por exemplo, sem conhecerem os maus tratos aos pássaros e todo o comércio por trás de fantasias que servem somente de entretenimento.
+Contudo, o intercâmbio cultural é completamente diferente, pois trata-se de uma homenagem a qual considera a história e as batalhas de uma cultura como aspectos fundamentais para retratá-la com veracidade. Por exemplo, "O Guarani" e mais outros livros do romancista José de Alencar utilizaram o encontro do branco com o índio como uma narrativa que evidenciou um Brasil ignorado por muitos. Traçando um paralelo, as escolas de samba têm a oportunidade de usar de sua visibilidade para alavancar políticas sociais e ambientais em prol das minorias.
+Assim, concluímos que a problemática de se retratar culturas inferiorizadas no Carnaval está na maneira como a mensagem é transmitida. A fim de evitar a apropriação cultural, as escolas de samba que optarem pelo tema precisam expor as dificuldades que diversas etnias enfrentam na sociedade, dando a oportunidade aos indivíduos pertencentes às tais culturas de participarem dos desfiles e de se expressarem para milhões de pessoas, despertando assim o interesse no espectador em participar ativamente das batalhas dessas etnias.
+# C0: 120
+# C1: 200
+# C2: 160
+# C3: 200
+# C4: 160

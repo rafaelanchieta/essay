@@ -1,0 +1,14 @@
+# prompt: por-que-a-ideia-de-fim-do-mundo-atrai-e-assusta
+# score: 3,0
+# title: O acaso não agrada
+Não importa quando, durante ou onde, o fim do mundo sempre intrigará e exercerá fascínio. Uns acreditam, outros não, mas tal discordância de opiniões não impede a criação de bons debates em torno do assunto.Aopassar dos anos,
+         o apocalipse vem, o apocalipse vai , mas ainda assim o ser humano sempre se assombra com a possibilidadedofim do mundo ter data marcada
+         no seu calendário. A razão do sucesso que fazem as teorias apocalípticas é essa mania de cada um de crer (ou de querer) na ideia de que o futuro pode ser desvendado. É a fórmula do sucesso de horóscopos, por exemplo, que sobrevive nos dias de hoje mesmo sem comprovação científica; na crença que algunstemem destino, que determina que cada vida é pré-programada,
+         entre outros. Ao mesmo tempo em que assusta e alivia, uma vida em que se tem a certeza de algo funciona como guia para muitos.Estabusca por certezas e por explicações vem desde sempre. Foi assim que surgiram mitos, lendas, religiões, teorias,superstições, quegrande maioria acredita emalgum. De certa forma, eles deixam tudo maisespecial – oque era um relâmpago, uma descarga elétrica natural,na verdade foiobra de Zeus, o maior deus do Olimpo.
+         E “especial” é uma característica que o ser humano adora, principalmente quando é sua – todos gostam de acreditar que são. A última dataque oapocalipseteve foi21 de dezembro de 2012. Tudo começou com a interpretação errônea do calendário maia e terminou numa série de piadas na mesa de bar. Dia 22 chegou e tudo estava bem, o fim do mundo virou manchete do dia anterior. Porém,
+         não se preocupe: daqui a pouco o apocalipse játemoutro dia marcado.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

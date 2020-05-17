@@ -1,0 +1,16 @@
+# prompt: forma-fisica-corpo-perfeito-e-consumismo
+# score: 7,0
+# title: Estética e seu verdadeiro significado
+Desde os tempos maisremotospadrões de beleza,
+         produto da cultura , já existiam. Uma mulher com 1,70 m de altura, 50 kg, pernas torneadas, barriga definida e leve marcas de expressão no rosto pode ser um exemplo dos ideaisda cultura de massa docapitalismo, e pessoascolocam em risco sua situação financeira,saúde física e mental, buscando avidamente essa perfeição imposta, mas
+         relatos e uma breve reflexãomostraque isso não vale a pena.
+         Para entender bemporquenão apostar tanto na beleza,
+         é importante lembrar que a estética é revelada através das sensações, e segundo os filósofos empíricos, é algo baseado em valores subjetivos, o belo e o feio nãodeveser algo de senso comum, assim quando alguém é guiado por padrões, ela só está enriquecendo as gananciosas e egoístas indústrias de cosméticos, cirurgias plásticas e academias e perdendo sua verdadeira identidade, correndo atrás do artificial
+         . Vale ressaltar que abusar de cirurgias, dietas e exercícios físicos para ser aceito na sociedade pode levara depressão e estresse,e emdeterminadosprocedimentosa pessoa coloca em risco avitalidadee acaba sendo "obrigada a pagar pela vaidadeestupidacomo disse Andressa Urach, modelo que sofreu de infecção e taquicardia após uma aplicação de hidrogel.
+         Portanto, é necessário que os profissionais da área da beleza sejam éticos, alertando que o exagero pode trazer consequências irreversíveise como apoio damídiamostrar que a saúde é mais importante. Alémdissotodos devem evitar a discriminação ao julgar alguém como belo ou feio, porque bonito mesmo é
+         aquele sensível a contemplação do subjetivo .
+# C0: 1,0
+# C1: 2,0
+# C2: 1,0
+# C3: 2,0
+# C4: 1,0

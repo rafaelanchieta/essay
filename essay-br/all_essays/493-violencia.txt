@@ -1,0 +1,11 @@
+# prompt: a-sociedade-esta-perdendo-a-batalha-contra-o-crime
+# score: 3,0
+# title: Violência
+Nos dias atuais a violência está cada vez mais presente e mais frequente em nossas vidas. Até as crianças do jardim já sabem bater, morder e até xingar as pessoas a sua volta. As crianças aprendem desde cedo a serem ruins e a maltratar os outros sem se importar com as consequências. As pessoas nem sempre se preocupam muito com isso, pois acham que é normal uma criança brincar comarminhasde
+         brinquedo e brincar de luta. Mas às vezes, se a criança se acostuma muito com aqueles instrumentos de luta e de matança, talvez elairá praticaresse tipo de coisa a vida toda e todos à sua voltavão sofrermuito com isso, poiselepode ir para caminhos errados.
+         Hoje em dia o Brasil é um dos países mais violentos do mundo e o crime organizado já está virando "moda" em vários lugares. A violência está muito forte ultimamente e está deixando um rastro de destruição por onde passa. Filhos matando pais, pais matando filhos, irmãos matando irmãos, a violência está tomando conta de tudo e de todos. E para um mundo melhor, a violência precisa acabar de uma vez.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

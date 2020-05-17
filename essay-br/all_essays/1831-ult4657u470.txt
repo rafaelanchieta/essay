@@ -1,0 +1,11 @@
+# prompt: combate-ao-fumo-autoritarismo-ou-dever-do-governo
+# score: 8.0
+# title: A proclamação da independência de São Paulo
+No dia7 de setembro, São Paulotornar-se-á independente... Independente dos, além de incômodos, perniciosos três "Cs". Estarão proibidos o cigarro, o charuto e o cachimbo em locais públicos fechados ou semifechados de todo o Estado, o que sem dúvida aliviará, ao menos parcialmente, os pulmões dos fumantes passivos.
+        Não obstante, há muitas pessoas que discordam da aprovação de tal lei, por acreditarem que ela fere o direito ao livre-arbítrio. Porém, é importante salientar que, ao fumarem nos locais citados na nova lei, elas estão não só condenando as suas próprias vidas, mas também encurtando o período de vida das pessoas à sua volta. Se homicídio é crime, por que não punir aqueles que subtraem anos de vida de outrem? Leis como essa são imprescindíveis por questões de saúde pública e também pela própria liberdade daquele que não fuma. Afinal, sabendo que há fumantes em um bar, por exemplo, o não-fumanteque se importa com seu bem-estar acaba deixando de ir a este local, mesmoque o interesse.
+            Se não houvesse normas em nossa sociedade, certamente viveríamos num caos completo. O que seria de um jogo de futebol sem as regras que o regem? Com certeza, milhares de jogadores ficariam seriamente feridos todo ano. São Paulo precisa dessa lei, para que pelo menos aqueles que não fumam possam viver sem ter a nicotina presente em suas correntes sanguíneas. Chegou a hora de nos tornarmos independentes do tabagismo.
+# C0: 1.5
+# C1: 2.0
+# C2: 2.0
+# C3: 1.0
+# C4: 1.5

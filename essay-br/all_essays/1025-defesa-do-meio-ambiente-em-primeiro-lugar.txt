@@ -1,0 +1,9 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 9,5
+# title: Defesa do meio ambiente em primeiro lugar
+Preservar os recursos naturais, no Brasil, deve ser prioridade, deve estar acima do desenvolvimento econômico. O cenário atual do meio ambiente é preocupante devido às mudanças climáticas. O Painel Intergovernamental sobre Mudanças Climáticas (IPCC) divulgou, dentre outros dados, que o nordeste brasileiro poderia ter até 75% das fontes de água da região esgotadas até 2050. O fato é que os problemas ambientais realmente existem, porém, não se tem certeza da proporção da gravidade, pois o IPCC teve sua reputação comprometida: o climatologista Phil Jones, integrante do quadro de cientistas do órgão, admitiu publicamente a existência de manipulação nos relatórios do IPCC. No Brasil, uma possível medida para esses problemas é a execução de estudos que devem ser feitos com cientistas focados em regiões que foram consideradas ameaçadas pelos dados mostrados pelo IPCC, com o intuito de averiguar a veracidade dos fatos e descobrir a real proporção para um posterior planejamento com indicação de possíveis soluções. Outra opção seria a conscientização da população. Nesse sentido, é interessante destacar a pesquisa divulgada pelo Ministério do Meio Ambiente (MMA): ?Sustentabilidade aqui e agora?, realizada com as pessoas de 11 capitais brasileiras. Esse estudo mostra que existe uma contradição entre a preocupação existente e o comportamento de fato das pessoas. Portanto, a educação da população deve acontecer no intuito de tentar reverter essa situação. O importante é que existam atitudes em prol do meio ambiente e que os recursos naturais sejam sempre levados em consideração para que o país não sofra consequências catastróficas no futuro.
+# C0: 2,0
+# C1: 1,5
+# C2: 2,0
+# C3: 2,0
+# C4: 2,0

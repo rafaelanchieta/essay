@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: A situação indígena
+Promulgada em 1948 pela Organização das Nações Unidas , a Declaração Universal dos Direitos Humanos garante direitos básicos aos indivíduo a todo e qualquer eixo social. Contudo, é perceptível que a situação dos povos indígenas no Brasil se difere na prática, tendo em suma que os direitos não lhes são concebidos . Nesse sentido, não há dúvidas de que a questão indígena merece visiabilidade não só pela postura negligente social, mas também pela não valorização cultural.
+
+Os indígenas, antes mesmo da chegada dos portugueses em 1500, já ocupavam as terras que posteriormente lhes são tomadas e nomeadas de "Brasil", sendo que a população nativa variava entre três e cinco milhões de habitantes . O choque de culturas foi evidente logo ao primeiro contato e o indígena passou a ser visto como inferior, sendo imposta a cultura européia, além das mortes em combate pela ocupação de terras ou por doenças trazidas pelos portugueses. Com o passar dos séculos, este povo ainda é reprimido, mesmo com a dívida histórica evidente. Houve um declínio significativo no número de indígenas morando em florestas no Brasil por conta do avanço das cidades sobre as matas, desmatamento e escassez de alimentos , levando-os a migrarem para áreas urbanas em busca de melhores condições de vida. 
+Atualmente há leis, decretadas na Constituição Ferederal de 1988, que garantem áreas reservadas para o povo indígena, trazendo a preservação cultural e o mantimento das atividades realizadas por eles, entretanto, mesmo com a crescente conscientização social, ainda está presente o pensamento de que o indígena  devem se adequar à sociedade urbana e viver conforme a mesma , indiferente aos direitos que lhes deveriam ser concebidos.
+
+Interfere-se  que há ainda entraves para a questão indígena na sociedade brasileira atual, sendo necessárias políticas que visem garantir direitos e visiabilidade à questão. O governo deve capacitar as leis já existentes, fazendo com que elas sejam de fato eficazes para que ocorra melhores condições de vida à população indígena. Outrossim, é importante expor a realidade a qual estes povos vivem através de ONGs  sociais, dando enfoque à defesa das causas indígenas e à expansão dos ideais humanitários, alcançando uma esfera social ainda mais ativa e que vise cada vez mais em melhorias para a causa.
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

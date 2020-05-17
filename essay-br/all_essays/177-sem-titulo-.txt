@@ -1,0 +1,12 @@
+# prompt: a-sociedade-brasileira-e-os-conflitos-no-transito
+# score: 0,5
+# title: Sem título (003)
+Épossivelsim reduzir oníveldeviolencianotransitobrasileiro. bastaque as pessoas tenham mais respeito,educaçaoe tolerância com oproximo.As pessoas de hojeestaomais estressadas, cheias de problemas, e isso leva a atos violentos e por qualquer coisa sem motivoseriopode acabar emtragedia, como tem acontecido muito.
+         Éimpossiveladivinhar o estado deespiritodo motorista ao lado,épor isso é melhor tomar uma atitude preventiva, pedir desculpas ao realizar alguma manobra arriscada sem aintençaode agredir outro motorista, evitar troca de olhares, seguindo para cara feia, gestos obscenos ,palavroes. fazendoissopode ivitarmuitasdiscussoesnotransito.
+         Em São Pauloouveuma briga detrasitoque de acordo com aPoliciaCivil o carro de Adriano perdeu o freio e bateu no carro de Jonas, Jonas saiu do carro ecomeço a discuti ateque oirmaode Adriano chega e começa a agredirjonas,ferido pelo acidente e asagressoes, jonasbuscou uma arma e matou Adriano.
+          Se isso fosse resolvido com uma conversa um acordo praresolveasituaçao, Adrianonaoestaria morto agora.
+# C0: 0,0
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

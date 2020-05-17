@@ -1,0 +1,9 @@
+# prompt: quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional
+# score: 6,0
+# title: Nem sempre a tampa se encaixa na panela
+O mercado de trabalho no Brasil vem crescendo a cada dia, e abrindo cada dia mais espaço para jovens profissionais em diversar áreas de atuação. Paralelo a isso, o número de pessoas formadas para ocupar esses cargos também vem crescendo, e no entanto, sabe-se que esses fatos não se complementam. Parte do problema que impede os cidadãos de ocuparem essas vagas adequadamente é o fato de não sairem preparadas para lidar com a "vida real", saem de seus cursos de graduação apenas como alunos, e não profissionais com espirito de liderança, e boa inteligência emocional, E é esse tipo de profissional que as empresas buscam. Outro fator que contribui para que naum haja sucesso profissional, é a decisão errada na hora de escolher a carreira.Muitas vezes, individuos bem capacitados não desempenham bem suas funções por naum gostarem delas, por naum ter a chamada "vocação", que é essencial em alguns tipos de profissão. Portanto, sabe-se que para alcançar o sucesso profissional é necessário não apenas fazer a escolha certa, mas também se preparar de maneira adequada aos quesitos que o atual mercado de trabalho exige. Para resolver esse problema, é certo estudar em instituições que estejam aptas a proporcionar ao estudante, tudo que ele necessita para se tornar um bom profissional.A solução não esta somente em saber o que fazer, mas sim em como fazer, de modo a atingir o sucesso na carreira, sanando as necessidades do mercado de trabalho.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,5
+# C3: 1,0
+# C4: 1,0

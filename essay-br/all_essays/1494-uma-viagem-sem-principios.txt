@@ -1,0 +1,11 @@
+# prompt: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao
+# score: 5,5
+# title: Uma viagem sem princípios
+Quando se fala em uma viagem sem volta a Marte, logo se pensa em uma verdadeira loucura. Muitas pessoas se inscreveram com o propósito de ir ao Planeta Vermelho sem saber o que realmente as espera, além de terem que pagar uma taxa de inscrição, destinada a financiar os custos da viagem. Dinheiro que poderia ser investido no nosso próprio planeta. Primeiramente, é preciso observar que viajar para um planeta desconhecido é um verdadeiro desafio. Viajar sem ter planos de volta então...Torna-sealgo realmente insustentável. O planeta não possui condições mínimas de sobrevivência, a sua atmosfera é muito diferente da nossa, além de ser extremamente frio. Para se submeter a uma viagem dessas, é necessária muita coragem e falta de amor à vida.
+         Além disso, para efetuar a inscrição é necessário pagar. Capital que será investido nos custos da viagem. As pessoas estão pagando paralargaremsuas vidas na Terra eirempara um lugar desconhecido, que não parece ter futuro algum. É um dinheiro investido sem fins lucrativos, e que poderia ser empregado aqui na Terra mesmo, em algo de verdadeira importância.
+         Logo, pode-se perceber que uma viagem sem volta a um planeta sem possibilidades de sobrevivência não tem fundamento algum. Antes de tudo, devem ser realizadas pesquisas sobre o planeta, que comprovem que há como se viver lá e se for necessário, que se arrecade dinheiro para isso, mas que nãocoloqueas vidas das pessoas em jogo, mesmo que elas se sujeitem a essa situação.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

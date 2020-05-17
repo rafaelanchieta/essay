@@ -1,0 +1,11 @@
+# prompt: deve-se-reduzir-a-maioridade-penal-no-brasil
+# score: 6,5
+# title: Até quando?
+Segundo o relatório Carga Global da Violência Armada, o Brasil é o país com a maior quantidade de assassinatos nomundo,cerca de 50 mil ao ano. Isso é alarmante, mas o pior é que em 40 % dos casos há o
+         envolvimento de um protagonista chocante : o menor infrator - atirando, estuprando, queimando, torturando , assassinando e, depois, sorrindo cinicamente para as câmeras sob a proteção da lei da maioridade penal . Ele sorri porque sabe que irá voltar, uma vez que a dita "medida socioeducativa" funciona apenas como um retalho no sistema deficiente de punição, além de custar R$ 2.500,00 ao mês ao Estado, de acordo com o CNJ (Conselho Nacional de Justiça) cerca de 70 % dos adolescentes submetidosas"medidas" retornam ao crime.
+         E retornam ainda piores, aterrorizando as famílias, pois contam com a omissão de autoridades de Justiça que não admitem tocar nesta lei repudiada por 93 % da população cada vez mais ameaçada. Até quando o poder Legislativo vai tapar os olhos e ignorar os protestos do país? Se algo não for feito para mudar essa situação, isso só irá piorar. É fato inquestionável que a redução por si só não resolverá os problemas de segurança como um todo. Contudo, ajudaria e muito, uma vez que a impunidade estimula a prática de crimes. E isso de adotar o sistema biológico - no qual é contada somente a idade do infrator- beira a barbárie coletiva, já que se o delinquente é capaz de matar, ele tem desenvolvimento mental, doentio, mas completo para responder por seus atos. É necessária uma revisão nas leis penais, uma vez que o Brasil atual não é o mesmo de 1989 - quando foi elaborada aConstituição - investimentospesados em educação devem ser adotados paraefeitos em médio e longo prazo. O desafio maior é retirar da mente dos jovens aidéiade que, no Brasil, o crime compensa.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

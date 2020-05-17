@@ -1,0 +1,12 @@
+# prompt: Como melhorar a educação, sem valorizar o professor?
+# score: 500
+# title: Todos nós sabemos que é impossível melhorar a educação
+Todos nós sabemos que é impossível melhorar a educação sem valorizar o professor  pois ele é a parte mais importante da educação, não  estamos dando tanta atenção aos professores  mas são eles quem forma os advogados, os médicos e os engenheiros. A sociedade não esta  dando muito valor a eles infelizmente estão inclusive  maltratando como aconteceu recentemente que  um aluno de 15 anos agrediu a professora em Santa Catarina.
+Para o Brasil torna-se  um país melhor  é necessário investir muito na educação  pois ela é a base de tudo, a  educação do Brasil não é uma das melhores e precisa urgente de uma mudança  só assim o país será melhor, deveríamos melhor.  respeitar muito o professor  assim como na China que é o país que mais respeita um professor, recebendo quase o mesmo status de um médico.
+A  sociedade se dar mais o respeito  a um médico  pois acham  que ele tem mais importância  só porque cuidam  da saúde e do bem estar , mas não param pra  pensar que  se não existissem os professores  nada disso era possível, o  professor deve ser mais valorizado no Brasil  devemos tudo a eles mas infelizmente  algumas pessoas estão fazendo ao contrário, desrespeitando e agredindo.
+O salário dos professores devem  aumentar muitos pois  só assim eles serão valorizado  como um médico ou advogado e para  quem agredir ou maltratar um professor devera ganhar uma punição  só assim ele vai respeitar melhor 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

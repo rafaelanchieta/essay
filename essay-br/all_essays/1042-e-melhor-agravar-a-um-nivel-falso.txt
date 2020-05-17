@@ -1,0 +1,13 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 6,0
+# title: É melhor agravar a um nível falso
+Nos últimos anos, no Brasil e em todo o mundo,houve-sefalar de mudanças climáticas e aquecimento global. E todos, de certa forma, ficam preocupados com este problema e tentam,
+        da mínima maneira possível, ajudar. Seja não poluindo o ar e as águas, seja não jogando lixo nas ruas, etc. No entanto, bateháporta um inimigo: o desenvolvimento econômico. Que reflete outra face deste contexto.
+        Se, por um lado, ambientalistas de órgãos das Nações Unidas agravam o problema da mudança climática a um nível falso, por outro lado, pior seria se eles dissessemque estartudo bem,que não háo porquêdese preocupar com este problema agora. A população não se importaria tanto com problemas ambientais e aí realmente começaria a catástrofe. Só retardaríamos um problema que pode sim começar a ser resolvido.
+          Sobre desenvolvimento econômico é preciso dizer: não há como se desenvolver semo mudar o meio. Tudo que é preciso para o avanço econômico de um país como o Brasil muda o clima. Isto é conseqüência da poluição que indústrias trazem, do conforto que a tecnologia nos proporciona, de como é bom ganhar dinheiro e comprar um carro com ele. Isto é conseqüência do que o desenvolvimento trás.
+            Conciliar o avanço econômico com a defesa ao meio ambiente e ter como principal foco o próprio meio ambiente, colocando-o sempre em primeiro lugar, é ter um pensamento lógico de que é isso que deixaremos para as gerações futuras. E que é esta a solução que precisamos para nos proporcionar uma vida mais digna e saudável no nosso próprio planeta.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

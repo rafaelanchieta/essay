@@ -1,0 +1,12 @@
+# prompt: os-efeitos-da-covardia-e-da-coragem-sobre-a-sociedade
+# score: 4,0
+# title: Ética ao Brasileiro
+Um valoro qual é tidouniversalmente como um dos pilares da ética é a coragem. Não se trata, entretanto, da coragem de guerreiros e lutadores, mas sim daquela que leva o indivíduo a assumir seus erros e pagar por eles de maneira adequada. Há, por outro lado, o eticamente covarde, ou seja, aquele que não assume suas responsabilidades e algumas vezes ainda a joga para outros.
+         Por mais que alguns procurem negar, coragem e covardia éticas têm sim muitos efeitos sobre a sociedade. Analisando, por instância, a sociedade brasileira, é possível afirmar que as demonstrações de desonestidade e covardia ética na política fizeram com que o povo passasse a descrernospróprios políticos enosemelhante enacapacidade de mudar a realidade social por meio da política.
+         Por outro lado, exemplos como o da personagem Griselda Pereira, da novela "Fina Estampa", uma mulher reconhecidamente ética e um paradigma de idoneidade, causam nos cidadãos não só admiração e respeito, mas também reflexões sobre o modo de pensar a vida e de julgar os outros indivíduos. Portanto, são indubitáveis os efeitos da covardia e da coragem ética sobre a sociedade. Não é possível, porém, afirmar qual delas está se sobressaindo, pois, se por um lado há o exemploanti-éticodos políticos brasileiro, por outra há uma boa demonstração de ética na vida e no trabalho pela personagem Griselda.
+         Tentar achar um vencedor nesse antagonismo, aliás, seria reductio ad absurdum, ou seja, transformar-se-ia em um reducionismo o qual atrapalharia a análise apropriada da questão.
+# C0: 2,0
+# C1: 0,5
+# C2: 0,0
+# C3: 1,5
+# C4: 0,0

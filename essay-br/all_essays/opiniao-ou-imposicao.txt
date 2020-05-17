@@ -1,0 +1,14 @@
+# prompt: Escola no Brasil: com partido ou sem partido?
+# score: 550
+# title: Opinião ou imposição?
+A política é um assunto que está cada vez mais em evidência.  Os debates políticos tornaram-se comuns e não ocorrem mais apenas em períodos de eleições. Fala-se sobre política em diversos lugares, entre eles, estão  as escolas.
+O estudo é fundamental na vida dos jovens e matérias como história, filosofia e sociologia costumam abordar esse tema de diversas formas. Com isso, os alunos têm a oportunidade de não apenas entender mais sobre política, como também de começar a formar a sua opinião.
+Entretanto, não se aprende política apenas dentro das salas de aula. Ler jornais, artigos na internet e assistir a telejornais também são formas de aprender política. E olhando em um contexto geral, muitas vezes a mídia não consegue ser imparcial quando se trata de política, portanto, não seria certo cobrar imparcialidade dos professores. 
+Algumas pessoas podem argumentar que professores podem impor certas doutrinas para os alunos, porém até mesmo nas redes sociais existem pessoas que querem impor doutrinas. Sendo assim, para os jovens não serem "doutrinados", não apenas as escolas deveriam ser sem partido, e sim toda a sociedade brasileira. 
+As instituições de ensino e os professores devem ter a liberdade de poder falar sobre política livremente. Em uma escola sem partido, não se pode dar opinião, ou seja, os professores de história teriam que falar sobre o Partido Nazista, sem ter o direito de expor uma opinião contrária sobre a ideologia desse partido. O que seria uma completa privação. 
+O mundo está cada dia mais moderno e o acesso às informações é enorme. Portanto, uma escola ter partido não significa que os alunos serão doutrinados ou alienados com alguma ideologia, pois com tanta tecnologia e facilidade, os alunos sempre vão ter acesso aos dois lados das informações. Opinar dentro de sala de aula promove o diálogo e não a doutrinação.
+# C0: 150
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 150

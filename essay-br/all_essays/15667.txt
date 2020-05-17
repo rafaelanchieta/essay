@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 400
+# tittle: o combate para essa epidemia
+A questão da epidemia no Brasil surgiu na China , onde esse vírus respiratório  começou a contaminar pessoas e ao longo desse tempo, infectou todos os países do mundo . Há muito tempo, em 1918  surgiu uma gripe espanhola que teve várias mortes e pessoas infectadas pelo mesmo vírus respiratório .Os médicos e cientistas acreditavam que essa doença seria erradicada. 
+ A música "O dia em que a terra parou", do cantor Raul Seixas  trata-se do que está sendo vivido hoje no Brasil, onde  a sociedade deve ficar em quarentena , isoladas em suas  casas pelo fato dessa doença ser contagiosa e transmitir pelo toque ou pelo contato de gotícolas que saem na boca. 
+Para voltar a ter um país,  onde pessoas poderam  poderão sair de suas  casas para trabalhar sem temer, os cientistas devem tomar medidas como persistir em suas pesquisas . Ao analisar essas pesquisas devem saber como e aonde  onde surgiu esse vírus, e encontrar anti-corpos anticorpos que resistam a doença.  Fazendo  assim poderam  poderão descobrir não só o combate desse vírus, mas de outros que eles acreditam que não tenham cura. 
+Enfim  se analisar profundamente o Ministério da Saúde poderia  se unir ainda mais com o governo, exigindo  fiscalizações e saneamento básico para todas as cidades  assim teriam  um controle de como monitorar o virus e diminuir a contaminação.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

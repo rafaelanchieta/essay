@@ -1,0 +1,11 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 500
+# tittle: Ciência, indispensável a sociedade
+Uma pandemia está afetando  o mundo.  Ocasionando  milhões de mortes e muitos infectados com o coronavírus . Governos de todos os países estão se moldando  com a atual situação e implantando  métodos para proteger sua população. Evitar aglomerações, ambientes fechados com muitas pessoas, contatos físicos, lavar bem as mãos e usar álcool em gel são algumas recomendações de especialistas para o vírus não se proliferar. 
+ Mesmo com a alta quantidade de infectados há também muitos se recuperando . Devemos  isso principalmente à ciência que a há anos traz benefícios a sociedade, como os avanços da tecnologia, da cultura, qualidade de vida, natureza e colabora diretamente com a estrutura social . As evoluções e mudanças que a ciência faz interfere diretamente com a corporação  que está inserida  pois a cada progresso e descoberta a sociedade desfruta . Um exemplo atual da sua  eficiência é a vacina que está em desenvolvimento contra o covid-19. Além de que graças a ela várias doenças já foram erradicadas. 
+ Portanto  devido a importância da ciência  o governo deveria  aplicar mais investimentos para o crescimento científico e financiar suas pesquisas , a fim de estarem preparados para lidar e controlar qualquer ameaça que vier à tona. Certamente também deveriam  incentivar e exaltar os profissionais que trabalham muito para ajudar a sociedade. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 550
+# tittle: A ignorância em meio ao benefício.
+Durante o século XIX, um acontecimento marcante sobre a sociedade brasileira foi a revolta da vacina, na qual milhares de pessoas rejeitaram a medida de vacinação Estatal pela falta de informação, levando milhares dessas vítimas à morte por consequência . De modo semelhante , o projeto de vacinação brasileiro se encontra em total desamparo, sendo observado uma falta de reforço na informação por parte do Governo, e uma irresponsabilidade dos cidadãos perante esse benefício. Seb esse assunto, convém analisar as principais causas, consequências e possíveis soluções à essa barreira. 
+Inicialmente, pode-se destacar o como a medida da vacinação é um método importante para toda sociedade , no qual trás  traz dezenas de prevenção a doenças epidemiológicas perante toda a nação.  Porém, a falta de informação entre os indivíduos gera um acúmulo de mitos sobre a sociedade, fazendo com que cada vez mais pessoas rejeitem esses benefício por medo e receio. É inadmissível,  que em meio a uma vasta fonte de conhecimento que existe atualmente, a população continue com essa ignorância de séculos atrás sobre esse benefício. 
+Ressalta-se, também, notícia do portal  de informação G1, que mostram o número de casos de doenças epidemiológicas antes erradicadas estão reaparecendo, como caxumba e sarampo, que aciona um caso de alerta a toda população . Esse problema são é consequências da falta de informação das autoridades, e juntamente da falta de irresponsabilidade da população sobre os meio de prevenção , fazendo com que esse malefício surja novamente em meio a todos. Salienta-se,  que é de suma importância um viés informativo e também a colaboração de todos sobre a ação. 
+Então, para que consequências como da revolta da vacina  não volte a acontecer, autoridades devem se mobilizar de forma mais eficaz a essa problemática. Portanto, o Ministério da Saúde,  deve através de projetos socioeducativos orientar a nação, por meio de palestras a toda comunidade para maior reforço de informação a todos e maior esclarecimentos sobre as vacinas, e com maior ajuda possível e colaboração da população a essa medida. Espera-se , com isso, que a vacina ganhe seu devido valor, e que todos possam a usufruir sem nem um receio. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

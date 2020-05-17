@@ -1,0 +1,11 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 3,5
+# title: Desenvolver e Preservar: Alicerces das Políticas
+O IPCC (Painel Intergovernamental sobre Mudanças Climáticas) divulgou em 2007 seu mais recente relatório. Nesse documento, estavamprevistosgrandes catástrofes para os ecossistemasBrasileiros(amazônico, caatinga e até o manguezal). Este fato, então, tende a barrar o desenvolvimento econômico do Brasil em prol da preservação dos ambientes ameaçados. Tendo em vista a falta de credibilidade do IPCC e a utilização de fontes alternativas de energia no desenvolvimento, conter o avanço do Brasil em favor da preservação da natureza não é a melhor solução.
+        A falta de credibilidade do Instituto em questão foi evidenciada quando profissionais da informática descobriram e divulgaram e-mailstroadosentre os membros do IPCC, que,
+          manipulando resultados , excluíram os cientistas que tinham opiniões divergentes e distorceram os gráficos utilizados no relatório de 2007. Não esquecendo que a instituição está sujeita as pressões políticas (pois seus dados são norteadores de políticas publicas), não é de se duvidar que os resultados das pesquisas sejam manipulados . O Brasil retrata uma realidade ímpar em fontes alternativas de energia, pois com o advento do biodiesel, ele é uma referência mundial em fontes limpas. A realidade brasileira, porém, o deixa longe de ser um país não-poluidor, mas a iniciativa de criar produtos com pequeno grau de poluição aumenta ainda mais a possibilidade de desenvolvimento sem prejudicar a natureza. De fato, a natureza está sendo ameaçada, e isso deve ser levado em conta não só pelas pesquisas do IPCC, mas também peloestadoenquanto formador de políticas públicas. As fontes alternativas de energia devem ser tidas como prioridade ao se falar em desenvolvimento com sustentabilidade.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

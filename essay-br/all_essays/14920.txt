@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 550
+# tittle: [Redação sem título]
+Alimentar-se é um direito que garante a condição de sobrevivência para qualquer ser humano. No entanto, no Brasil, um grande número de pessoas perde seu direito de humanidade devido a desigualdade social. Ainda que haja programas que atendam uma parte da população que vive sob más condições , o problema não é resolvido, sendo necessárias a ação de ONGs  e reformas pelo governo. 
+
+Em primeira análise, O o Brasil é um país onde a maior parte da renda está concentrada na mão da minoria mais rica. Com essa má distribuição de renda o brasileiro pobre sobrevive em meio a muitas dificuldades, pois é privado de uma parte de recursos e direitos no qual somente as classes mais privilegiadas conseguem ter acesso. Em um estudo recente sobre a fome no mundo, as Nações Unidas mostraram que 5,2 milhões de brasileiros viviam em estado de subnutrição. 
+
+Outrossim, a divisão social ainda presente no país foi base para a fundação da sociedade brasileira e continua influenciando na atualidade, por exemplo, por conta do baixo nível de escolaridade o necessitado só consegue trabalhos com remunerações muito baixas, impossibilitando o acesso à alimentação, pois segundo o site de notícias G1  a renda de famílias pobres é de apenas R$ 89,00. O bolsa família, benefício ofertado pelo governo, é insuficiente para abastecer as necessidades básicas de famílias carentes. 
+Em resumo, para que o problema da fome no país em consequência da desigualdade seja revertido  é necessária a ação de Organizações não governamentais para agir em lugares como bairros onde há um grande número de famílias baixa renda  doando cestas básicas para controlar a falta de alimento, do mesmo modo,  é de fundamental importância que o Ministério da Educação  invista em maior qualidade de ensino para a população carente visando a possibilidade de ascensão social. Dessa forma, reduzindo a pobreza e desigualdade no país. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

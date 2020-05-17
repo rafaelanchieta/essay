@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 350
+# tittle: Criminosos, cruéis ou sem estudos?
+No filme "À espera de um milagre" o personagem principal é morto na cadeia, em uma cadeira elétrica, mesmo sendo inocente do crime que era acusado. Na vida real, mais especificamente no Brasil, não existe pena de morte nem prisão perpétua, mesmo assim os Direitos Humanos não são respeitados, pelas prisões estarem sempre superlotadas e pelos presos serem mortos uns pelos outros. 
+
+Segundo a Ong ONG "Human Rights watch"  o Brasil é o país com o terceiro maior número de prisioneiros, com mais de 840 mil, mesmo não suportando toda essa quantidade. Essa desumanização além de não resolver a situação de violência, torna os condenados mais agressivos, que voltam a cometer crimes quando são soltos. 
+Outro grande problema é a disputa até a morte de facções criminosas,  no sistema penitenciário, onde   deveria no mínimo ser seguro, supervisionando e impedindo a entrada de armas nas celas. 
+
+Portanto, o Estado deve urgentemente,  respeitar os Direitos Humanos, e por meio do Ministério da Justiça,  garantir o direito à vida para todos os detentos, impedindo a entrada de armas e separando as facções criminosas das prisões, para que injustiças como a da ficção ,  não ocorram. E por Meio do Ministério da Educação,  investir mais na construção e na qualidade das escolas, para que a marginalização seja evitada, não sendo necessário  assim, a criação de mais presídios.
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,16 @@
+# prompt: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens
+# score: 1,5
+# title: Automedicação: por que a prática é tão comum entre os jovens?
+A automedicação que todo mundo condena, muitas vezes, édesejável, emcertos casosque pessoas comsimples problemas, doresde cabeça ou cólica, por exemplo,tomarum remédio
+         que não relate nenhuma tarja , não faz mal algum. Há até uma recomendação da OMS (Organização Mundial de Saúde) que diz que é benéfico o ato de se automedicar, pois beneficia o sistema de saúde.Entretendodevemos observar bemnoscasos de intoxicações,
+         onde se acontecer pela primeira vez, pode acontecer constantemente, então deve-se suspender oremédio do uso, emrelaçãoas doençasmuitas delas são autolimitadas e são as mais queafetaa população, não requerendo mais do que o alívio dos sintomas. Fazer com que pessoas comsimples problemaspassem por um médico, com apenas quadros virais menores ou dores benignas, sóiam aglomera-senos hospitais levandoo pouco que temos do sistema de saúdeao colapso.
+         A saúde nos dias de hojenão encontrasseem condições desuportaatendimentos médicos desnecessários,onde não se temmédicos nem para casos de extrema urgência. Afinal, dos 160 milhões de brasileiros,
+         120 não têm convênios para assistência à saúde. Por conta das dificuldades e custos, portanto, automedicação deve ser responsável e é econômica, ajuda o sistema de saúde comotodo.
+         A decisão de levar um comprimido da palma da mão ao estômago é do paciente, as razões pelas quais os paciente se automedicam são inúmeras,ondecada qual sabe bem osricosque devem ser prevenidos, são orientados pela bula e até mesmo pela embalagem, e também se orientam nos casos da quantidadeondeque se deve ingerir.
+         Então o desafio é das autoridades de encontrar um meio deondese possa manterasalertas e prevenções,
+         para que as pessoas tomem os cuidadosnecessárioao se automedicarem, para ficar tudo dentro de seus limites.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,5
+# C4: 0,0

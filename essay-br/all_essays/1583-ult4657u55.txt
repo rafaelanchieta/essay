@@ -1,0 +1,9 @@
+# prompt: nacional-ou-importada-qual-a-cara-do-brasil
+# score: 4,5
+# title: Espelho quebrado
+Eu adoraria ser patriota : gostar de samba e futebol. Masquem não se identifica com tais costumes e se recusa a concordar que esperteza é sinônimo de desonestidade, certamente não facilita a situação.Em toda a história da humanidade, sempre existiram os que determinavam regras e espalhavam suas respectivas culturas. Egípcios, gregos, romanos, persas, ingleses, franceses e, desde o século passado, os norte-americanos. A xenofobia por vezes é inevitável, apesar das evidências que nos forçam ao contrário. Filmes, músicas, livros, tecnologias (em todas as áreas do conhecimento humano) - não se pode negar a supremacia da única superpotência do nosso planeta. Mais de 90% do conteúdo da Internet está em inglês. Antes de o Brasil tornar-se tri-campeão em 1970, os EUA já haviam colocado seus astronautas na lua (e até hoje, muitos brasileiros duvidam de que isto tenha ocorrido de fato).Eu particularmente acho cômico(e até mesmo trágico) utilizar computador, a própria Internet, com "e-mails", "Windows" e o "Office" para criticar os Estados Unidos.Sou brasileiro e certamente dóiescrever estas palavrasem epígrafe; tupi or not tupi - realmente é a questão.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,0

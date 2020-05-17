@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 500
+# tittle: A IMPORTÂNCIA DA CIÊNCIA PARA COMBATER UMA PANDEMIA
+Em princípio,ato de filosofar para o filósofo Platão quer dizer questionar,duvidar de algo,ou seja, é uma controversa sobre um fato relatado.  Comparativamente, esse fato mencionado é o conceito exemplificado do que é ciência.  Que de certa forma,   vêem  vem contribuindo  significativamente,para a sociedade. Combatendo  várias doenças sejam elas epidemicas,endêmicas,pandemicas. Ademais,para o desenvolvimento de bases científicas,cientistas dedicam boa parte do seu tempo para pesquisas que possam ser grandes avanços no setor científico.Apesar que,  muitos dos recursos voltados para investigação do conhecimento científico estão sofrendo  cortes do governo em esfera federal que prejudica muito esse setor. 
+ Além disso, uma pandemia doença infecciosa que se difunde entre a população localizada numa extensa região geográfica vêm se alastrando ao redor do mundo;denominada coronavírus e causando milhares de mortes no Brasil ultrapassando 1.300 mortes .Portanto, a ciência pode ser uma grande percursora de uma vacina para combater essa pandemia se possivelmente governos liberarem recursos nesta área. 
+Entretanto, a Constituição Federal  em seu artigo quinto  diz que todos são iguais perante a lei  sem distinção,garantindo   o direito à vida.Compreende-se que o governo não está assegurando  o direito à vida com tantas mortes no Brasil. 
+Contudo, cabe ao Ministério da Saúde propor projetos que ampliem o número de contratações de profissionais pesquisadores de doenças epidemiológicas;  e que libere recursos financeiros por meio de decretos para cientistas evoluírem com suas pesquisas  de modo que eles consigam obter êxito.Espera-se com isso erradiação  de doenças pandêmicas;  para que a sociedade se sinta mais segura. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

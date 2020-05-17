@@ -1,0 +1,14 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 700
+# tittle: investir na educação é investir no futuro
+Segundo a Lei da Inércia  dada por Newton  um corpo tende a permanecer em repouso até que uma força suficiente atue sobre ele, fazendo  mudar o percurso. Infelizmente, essa é a problemática do analfabetismo funcional no país. Uma luta contínua  sem muitos resultados positivos ao longo dos anos. Isso se dá devido a uma série de fatores que contribuem para essa inércia persistente  tais quais a falta de investimento na educação  e também a do sistema falho e arcaico que perdura até hoje nas escolas brasileiras. 
+
+Um documentário realizado pela equipe do Globo Repórter  da emissora Globo, mostrou um pouco sobre como a Finlândia se mantém no ranking de melhor educação do mundo  e como a revolução educacional mudou até hoje a história do país .   A inclusão de jovens, crianças e idosos de qualquer classe racial ou social nas escolas foi uma marca primordial para a mudança. Muito contraditório com a realidade do Brasil que começou a dar atenção para a educação, área de extrema importância, depois da constituição de 1984 . Um investimento necessário, mas que passou e ainda passa despercebido pelos governantes. 
+ Ainda convém validar,  que a falta de motivação é a causa de milhares de crianças, jovens e adultos a desistirem dos estudos . O sistema ainda é muito antigo  e não há uma inovação ou um motivo aparentemente para continuar vencendo os obstáculos de muitos para estarem em uma escola, o que resultam em pessoas que acabam irrompendo esse processo tornando-se indivíduos com dificuldades em níveis profissionais e principalmente intelectuais, sendo incapazes de ler um texto ou fazer uma soma considerada fácil, por exemplo. 
+
+ Portanto, medidas são necessárias para a mudança no percurso dessa inércia. O Ministério da Educação  com a ajuda do governo  deveria  criar campanhas para incentivar a leitura , capacitar os professores e motivar os alunos a comparecerem à escola  já que o sistema cada dia desmotiva mais as pessoas a fazerem isso. Dessa forma  igual a lei de Newton  a força seria suficiente e conseguiria mudar o percurso tornando  um país com menos desigualdade, mais oportunidade e menos analfabetos.
+# C0: 100
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

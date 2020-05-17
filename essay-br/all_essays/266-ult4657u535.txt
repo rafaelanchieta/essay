@@ -1,0 +1,18 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 1.0
+# title: Uma opção de escolha e oportunidade.
+Emboraseja de bom aceitopela sociedade,estaé uma oportunidade muito voltada para as pessoasmais adultase queentre um trabalho e outropossa estar fazerum curso, mesmo a distânciae com issoestar adquirindomais conhecimento eusandopara o seu próprio beneficio em seu trabalho.
+        Apesar datecnologia nos dar
+          estadisponibilidade deestarmos alcançandoalgo voltado para o nosso futuro, ainda há pessoas que prejulgam os cursos a distância, comosendosem nenhum fundamento para a educação e sem base
+          universitário.
+          Se fomosolhar para o que seja melhor para a juventude de hoje, com certeza a integração e o convívio do dia a dia nas universidades é a melhor opção, pois com isso todos
+            estarão seinteragindodeuma forma em conjunto, é claro, que não quer dizer que o curso a
+            distancianão seja uma boa opção. Hoje é comum de se ouvirentresas pessoas deambas as idades, que os cursos a
+            distanciasão muito bons e que graças
+            há estatecnologia hoje pode se ter um curso universitário e um diploma em mãos, e que só assimpoderemos almejarmosrealizarmos
+           os nossos sonhos,o deser mais um cidadão com o seu espaço adquirido perante a sociedade, pois é muito bom ser rico de conhecimento e cultura.
+# C0: 0.0
+# C1: 0.5
+# C2: 0.0
+# C3: 0.5
+# C4: 0.0

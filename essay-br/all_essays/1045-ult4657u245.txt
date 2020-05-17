@@ -1,0 +1,13 @@
+# prompt: o-famoso-conflito-de-geracoes-ainda-existe-hoje
+# score: 7,0
+# title: Heranças e "des-heranças" de nossos pais
+Aparentemente, desde que o ser humano passou a se organizar em grupossociasbaseados na estrutura familiar, há conflitos de gerações. É evidente que não se pode comparar as experiências vividas pornosso paiscom as nossas. Em primeiro lugar, porque ocorreram em momentos culturais diversos, em segundo lugar, porque nossos pais, quer queiramos ou não, possuem mais tempo de experiências acumuladas.
+        Com nossos pais, em geral, aprendemos a delinear os traços básicos de nosso caráter e postura diante das principais questões que enfrentaremos em nossa vida. Eles nos oferecem da melhor maneira que podem, com base em suas próprias experiências, estrutura para enfrentar todos os tipos de situações. De outro lado, anossa vivência em ambientes externos ao lar, comumente associada a escolas, amigos e convivência com a sociedade em geral, conduzem-nos a experiências particulares, nas quais aplicaremos, ao nosso modo, as bases culturais fornecidas por nossos "velhos pais".
+            É evidente que as experiências de vida são diferenciadas para cada indivíduo. Em nossas experiências buscamos,de alguma formaa vivência em sociedade e isso ocorre independente de uma determinada geração. Essas vivências são por sua vez conduzidas por transformações culturais que ocorrem naturalmente com o passar dos anos.
+              Felizmente, apregoa-se atualmente, o valor dos diálogos e entendimento entre pais e filhos. Isso sugere, que o respeito mútuo seja uma conquista e não uma imposição. Desse modo, os diálogos fornecem possibilidades reais de entendimento, que no entanto,por vezes são mal interpretados. Diálogo envolve exposição de idéias, princípios, argumentos que nem sempre estão em concordância. Diálogos envolvem palavras com "não", "talvez", "vou pensar", "discordo", "sim". Os diálogosportanto, contemplam também conflitos de opiniões e sãoessenciaispara identificar aessênciade cada indivíduo.
+                Em situações ideais em que há de fato diálogos entre pais e filhos, no entanto, identifica-se, ainda assim, o chamado "conflito de gerações". Qualquer ser humano vivencia dificuldades na vida, diante de novos desafios. A nós cabe enfrentá-los e seguir nosso próprio caminho. O maior desafio, no entanto parece ainda ser o de conciliar os primeiros aprendizados, aqueles, que nossos "velhos pais" nos forneceram, com as situações que a vida diária nos coloca. Eé claro, a vida diária vivenciada por nós, é muito diferenteda vivenciada por nossos pais.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

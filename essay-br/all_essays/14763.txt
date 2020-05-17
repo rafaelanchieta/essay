@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 600
+# tittle: Reforma da previdência social: um mal necessário
+A previdência social, garantida pelo INSS   é um direito trabalhista muito importante para o bem estar dos cidadãos. Com o avançar da idade há a diminuição da capacidade produtiva e a aposentadoria é imprescindível para que se leve uma vida digna. Ao mesmo tempo, a pirâmide etária do Brasil mudou nas últimas décadas e isso torna a reforma da previdência um “mal necessário”.
+
+O sistema de previdência se mantém por “solidariedade de gerações”, isto é, quem está na ativa do mercado banca os benefícios de quem está aposentado. Com a melhora do padrão de vida e avanço da medicina os brasileiros estão vivendo cada vez mais. Por outro lado, há cada vez menos jovens. Segundo dados do Banco Mundial, a taxa de fertilidade das brasileiras despencou de 6,07 filhos por mulher em 1960 para 1,73 em 2016. É insustentável que as leis previdenciárias antigas se mantenham na realidade social atual. 
+Em contrapartida, a reforma da previdência traz exigências muito rígidas que dificultarão a vida de milhões de brasileiros. Por exemplo: a proposta exige um período mínimo de 20 anos de contribuição. Muitos indivíduos não conseguem completar essa meta por viver boa parte da vida trabalhista na informalidade. Essa situação é muito comum em pessoas com pouca escolaridade e renda. A reforma previdenciária pode ter um impacto negativo grande nas camadas menos favorecidas da sociedade. 
+
+A reforma da previdência não é uma solução nem um problema, mas, considerando a estrutura estaria  atual, uma necessidade . É importante que se atente as camadas menos favorecidas,  que têm dificuldade para atingir o período mínimo de contribuição. Pra Para essa situação em específico, os cidadãos poderiam se mobilizar através de manifestações para exigir leis menos rígidas, como por exemplo, poder contribuir por menos tempo. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

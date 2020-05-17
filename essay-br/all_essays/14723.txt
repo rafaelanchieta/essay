@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 550
+# tittle: [Redação sem título]
+Segundo uma análise realizada pela ONG Human Rights Watch  estimou-se que, no final de 2018, o número de presos no Brasil já passava de 840 mil. É a terceira maior população carcerária do mundo, atrás apenas daqueles dos Estados Unidos e da China . Logo, rebeliões em prisões brasileiras vêm se tornando cada vez mais frequentes desde o ano de 2017 no Brasil, visto que o sistema carcerário nacional só tem capacidade para abrigar a metade dos atuais detentos. 
+
+Exemplo dessas rebeliões aconteceu recentemente no mês de maio de 2019  na cidade de Manaus  onde ocorreu a morte de 15 detentos resultado de motim, em seguida outros 40 detentos foram encontrados mortos em outras três unidades prisionais da capital amazonense . Resultado disso é a falta da má Administração Pública sobre os presídios onde  as grandes facções controlam a criminalidade. 
+
+Outra consequência da superlotação dos presídios é a situação insalubre e até desumanas, diante disso, muitos presos recorrem ao judiciário e são postos em liberdade sob o argumento de que as prisões violam direitos humanos básicos. Além da situação precária das penitenciárias, o direito à educação, ao trabalho e à saúde é ignorado, a falta de empatia e preconceito da sociedade se tornam um conjunto de negligências que contribui para o alto índice de reincidência no crime. 
+Visto isso, torna-se evidente,  a necessidade de se discutir a questão da situação carcerário do Brasil. Cabe ao Ministério da Educação   junto ao Ministério da Saúde  e ao Ministério do Trabalho, promover ações efetivas advindas do uso de verbas públicas  a fim de integrar nos presídios brasileiros programas de educação básica que ajudara o detento a se reintegrar na sociedade após sua pena ser cumprida, já que o governo oferece subvenção econômica trimestral de dois salários mínimos a cada ex-presidiário admitido. Além disso, dar auxílio médico e kits de higienização pessoal  o que evitara contrabando vindo de fora. Como também melhor fiscalização das prisões por parte dos agentes penitenciários. Tudo isso somado trará melhor condição de vida aos detentos e a sociedade como um todo. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 50

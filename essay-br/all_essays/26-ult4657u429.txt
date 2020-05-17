@@ -1,0 +1,11 @@
+# prompt: mentira-e-doenca-problema-moral-necessidade-ou-brincadeira
+# score: 5.5
+# title: A construção da mentira
+A mentira é uma realidade dentro das relações humanas desde o início das civilizações. Assim, seja essa feita para o controle social, ou apenas comoum modo desconfigurar episódeio à um favor do locutor, é utilizada para modificar a realidade.Com mentiras, criaram-se motivos para guerras e tratados de paz; no plano interpessoal, são constantemente utilizadas pelas pessoas, demonstrando quanto ela está presente no cotidiano.A mentira revela uma certa fraqueza humana em lidar com a realidade.Desde criança a verdade é repreendida por estar ligada à travessuras. Com isso, torna-se mais fácil ofuscar a verdade, para assim, aliviar-se do castigo.Cria-se portanto, uma zona neutra, na qual a integridade física e mental da criança está protegida através da mentira.
+          Diante disso, a mentira parece algo inato no ser humano. Porém, muitas culturas no mundo condenam o uso da mentira, que faz dacosnciênciaecidadaniaa principal armaàfavor da verdade.A falta dessas armas, podemlevar nações a uma grande destruição moral de suas populações. Como exemplo, pode-se destacar os regimes totalitários daEuropana metade do século XX, que se pautaram em manipulações midiáticas como pretensãodeque: " Umamentiracontatamilvezes, tornava-seuma verdade" e assim, justificar suas ações.
+            A mentira é algo feito para camuflar a realidade e servir para atender medos ou anseios do indivíduo ou de um grupo social. O problemamaior, équando a mentira é utilizada para fins que vão de encontro aos valores humanos do contexto histórico, desencadeando problemas que duram grandes períodos. Portanto, a mentira é algo que degrada as relações humanas, seja no sentido individual ou social.
+# C0: 1.5
+# C1: 1.5
+# C2: 1.0
+# C3: 1.0
+# C4: 0.5

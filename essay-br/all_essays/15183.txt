@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 400
+# tittle: Camila Carminati - A importância das vacinas para a sociedade
+As vacinas são um dos mecanismos mais eficazes na defesa do organismo humano contra agentes infecciosos e bacterianos. Apesar de não causar a doença, as formas atenuadas e inativadas do antígeno são capazes de estimular nosso sistema imunológico. 
+
+A vacinação tem eficácia comprovada, prevenindo doenças  e em alguns casos erradicando-as, como é o caso da poliomielite,  que não existe no Brasil desde o início dos anos 90 devido às políticas de prevenção do Sistema Único de Saúde , porém a cobertura vacinal no país está em queda nos últimos anos, o que preocupa autoridades sanitárias. 
+
+Diante desse cenário, a Unicef recomenda ao Brasil sensibilizar e mobilizar os gestores da saúde, a fim de melhorar a cobertura de rotina durante as campanhas de vacinação, principalmente daquelas doenças que estão retornando à sociedade, a exemplo do sarampo e da caxumba, que tiveram um aumento expressivo de casos em 2018 e no primeiro trimestre de 2019. 
+Atualmente diversos movimentos anti-vacinais antivacinais têm ganhado força devido a autonomia pela própria população para a prática não científica da medicina, baseada em fatos não comprovados  e muitas vezes inverídicos, compartilhados via redes sociais e sites falsos. Entretanto, as vacinas ainda são instrumentos de proteção contra determinadas doenças , garantindo proteção não só individual como coletiva. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

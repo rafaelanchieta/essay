@@ -1,0 +1,13 @@
+# prompt: Internação compulsória de dependentes de crack
+# score: 400
+# title: Minha redação
+O consumo de drogas no Brasil, como o crack  não é um assunto novo, a  dependência assustadoramente rápida em relação a esse entorpecente e  o que preocupa órgãos de saúde pública e demais instituições. Moradores de rua como adolescentes  estão fazendo parte de uma  realidade alarmante de  usuários assíduos de drogas, o que faz muitos deles até matar, roubar, prostituir-se  para comprar a droga eles  não se enxergam em outra realidade, Não vem outra saida .
+O Grande numero  de moradores de rua na grande São Paulo, chama  atenção para um grupo cada vez maior de usuários num local conhecido como cracolandia . Em sua grande parte  jovens que se veem presos num  prazer do fictício de poucos minutos, onde se viciam cada dia mais. 
+Uma questão social passa a ser questionada com essa realidade, muitos na cracolandia  simplesmente esquecem de viver, esquecem até de beber água, para poder consumir o crack, Não  dormem, não comem, Não  são capazes de encher o próprio destino do vivem para o vício. Nem tão pouco livres, são presos na própria realidade. 
+Quando um indivíduo não tem mais capacidade de se cuidar  é dever do estado e  sociedade intervir. Muitos moradores da cracolandia  já estão presos no vício, alguns tem uma  condição psicológica e pedem ajuda, já  outros simplesmente morrem sem telas .
+A internação obrigatória para dependente  do crack não é uma prisão, É  a chance de  pessoas serem livres da própria prisão  onde nem conseguem se reconhecerem . Portanto ao  obrigar aqueles que não enxergam o seus problemas, a internação obrigatória  não é um desrespeito aos seus direitos de dizer sim ou não , mas sim um respeito a sua condição de ser humano.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 100

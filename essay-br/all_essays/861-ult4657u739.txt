@@ -1,0 +1,12 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 3,5
+# title: Copa do Mundo e seus efeitos
+A cada quatro anos, a população brasileira desvia sua atenção dos acontecimentosnasociedade para acompanhar a Copa do Mundo. Nesse períodoo amor à pátria revela-se intensamente para torcer pela nossa seleção. Mas, por que este patriotismo ganha maior visibilidade pelos cidadãos apenas nesta época?
+        É comum observarnas ruas do país, o colorido verde e amarelo nas roupas dos cidadãos, as ruas enfeitadas e o principal assunto comentado nas rodas de conversação, pois trata-se de um período designado a defender sua nacionalidade.
+          De fato, em dias de jogos, tudo na sociedade para - comércio, indústrias -, mostrando a intensificação do orgulho nacional. Contudo, no mundo do futebol, aCopa,é o período em que este esporte ganha grande enfoque pelos meios de comunicação e, consequentemente, pelas pessoas. Por ser o torneio mais importante do planeta,
+            a população valoriza muito e torce para o resultado ser satisfatório, garantindo o título para o Brasil. A Copa do Mundo, além de um grande show mundial para os amantes do futebol, é também uma quebra de preconceitos existentes nas mais variadas regiões da Terra. Porém, a atenção dada a ela deve existir, mas, claro, sem deixar de mostrar os problemas existentes numa determinada localidade.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 0,0

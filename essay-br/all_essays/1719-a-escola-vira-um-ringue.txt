@@ -1,0 +1,13 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 2,5
+# title: A escola vira um ringue
+O primeiro ambienteque a criança convive é
+         sua casa, ou seja, família, vizinhos, igreja. Depois disso vem aescolaonde a criança vaientrapela primeira vez em um ambiente social ,que aprenderáconviver com as diferenças,queparamuitosuma tarefa fácil, para outrosimpossível, porisso tantos desentendimentos.
+         O grandenumerode casos de violência nas escolas vem preocupando o poderpublicoe toda a sociedade. Na verdade é que
+         ela tem alcançado proporçõesinadmissíveis, énotório que por consequência disso o Estatuto da Criança e do Adolescente (ECA) e a Declaração dos Direitos da Criança e do Adolescente vêm se ampliando dia após dia para tentar amenizar a situação. Hodiernamente alunosaderem-se“gangues” para “tocar o terror”, usam isso para saciar sua necessidades, carência, pobreza, maustratosentre outros fatores que geram as personalidades disruptivas.
+         Entretantoestes órgãossozinhos não são suficientes para talcombate ,aeducação começa desde os primórdios com afamíliaque exerce o papel fundamentalcomodeterminar limites e normas, isto é, educar paracomporta-secom os demais. A escola pode proporcionar disciplinas relacionadas ao tema, palestras e punições severas em casos especiais. Porém dependerá de cada aluno tomar a decisão de qual caminho seguir.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 1,0

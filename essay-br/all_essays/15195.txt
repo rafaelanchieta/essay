@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 500
+# tittle: Importância das vacinas, uma discussão social e política
+Segundo a Organização Mundial da Saúde : “a imunização contra doenças é fator crucial para promover saúde pública”. Logo, a vacina corresponde  ação profilática fundamental a sociedade para diminuir altos índices de moléstias - febre amarela, dengue, Chikungunya, sífilis e outras, bem como estabelecer prevenção efetiva à população. Tal contexto, no entanto, apresenta negativas, seja pela desinformação sobre o assunto e as Fake News – notícias falsas a respeito das vacinas . Desse modo, a implementação de medidas criativas e inovadoras, a fim de aprimorar a divulgação dessas políticas públicas, precisam integrar qualidade e efetividade.
+
+Em primeiro lugar, infere-se uma noção informativa, ou seja, é imprescindível estar antenado a respeito da vacinação, pois esta garante medida preventiva contra inúmeras patologias virulentas, tais como o Vírus do Papiloma humano – HPV e Herpes por exemplo, e bacterianas – vacina para tuberculose  . diante disso, a desinformação pode acarretar consequências sérias aos indivíduos, haja vista que o não comparecimento em campanhas de imunização colabora para aumentar estatísticas envolvendo essas afecções. Por isso a medicina preventiva só é eficaz se houver participação constante da população e, assim, possibilitar um sistema imunológico resistente.
+
+Em segundo lugar, a problemática dos Fake News  gera distorções prejudiciais a comunidade cívica, porque induz o cidadão brasileiro a temer doces  de vacina. Um exemplo é a notícia vinculada por meio de redes sociais a qual informa, erroneamente, que vacinação em redes púbicas de saúde estão ocasionando paralisia infantil e autismo . Essas referências,  não possuem base científica ou ligações médicas comprovadas. Então, é perceptível observar atentamente a fonte dessas notícias e buscar sites confiáveis . Para tanto, o sociólogo contemporâneo Umberto Eco já dizia: “a internet deu voz aos ignorantes”. 
+Com base nessas considerações, a vacina representa uma medida quantitativa contra muitos parasitários aqui mencionados . Por esse motivo, diante das campanhas de saúde já existentes, o Ministério da Saúde precisa torná-las mais presentes ao cotidiano das pessoas, a fim de possibilitar informação concretas sobre os tipos de vacinas e campanhas de imunização. Nesse caso, o desenvolvimento de jogos digitais com interação e participação dos usuários irá fornecer conhecimento temático sobre vacinas e, para beneficiar quem participa, ingressos para participar de Congressos nacionais de saúde serão distribuídos frequentemente. Além disso, tais plataformas interativas,  devem adentrar nas salas de aulas e fornecer conhecimento lúdico aos alunos e, dessa maneira, equacionar uma sociedade mais instruída. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 50

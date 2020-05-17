@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: A realidade pode ser outra.
+Sabemos   que o analfabetismo não vem de hoje. Claro,   tivemos uma época que as pessoas de sítios e roças não tinham condições de se manterem em uma escola devido ao trabalho . Alguns adolescentes e jovens acreditam que,  deixar a escola de forma drástica lhe trará algum benefício no futuro. 
+Também sabemos   que são mais de 15 milhões de jovens e adultos que não sabem ler ou escrever. Mas será que é realmente culpa deles? Ou é um tipo de falta do incentivo familiar? 
+Será que devemos acreditar no que realmente algumas pesquisas nos afirmam?  Pois a realidade pode ser outra, pessoas analfabetas não são apenas pela falta de motivação, mas pela falta de interesse em querer aprender o que os professores passam. Milhares de escolas espalhadas por aí com alguns alunos que simplesmente querem o vandalismo, a bagunça, colar chiclete na mesa do amiguinho. 
+O analfabetismo não é para todos, e os que tem a chance de aproveitar, poderia fazer isso e ainda levar o devido conhecimento para seus avós ou pais que não tiveram a oportunidade de aprender. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

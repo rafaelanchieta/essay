@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 400
+# tittle: [Redação sem título]
+Os Gregos já utilizavam o teatro como forma de conscientizar e ensinar a sociedade por meio de histórias que refletiam os problemas inseridos naquele contexto cultural e histórico. Além disso, com a evolução social e o advento de novas tecnologias, o jeito de representar também muda , no lugar de peças, surgiam os filmes e o cinema no modelo como entendemos  hoje. Dito isto,paralelamente ao desenvolvimento desse novo tipo de arte, seu acesso se tornou cada vez mais restrito, sendo mais uma marca da segregação. 
+
+Antes de mais nada , é importante ressaltar que  com a chegada da industrialização no Brasil, o exôdo rural acentua-se, acarretando no macrocefalismo e a periferização do meio urbano,  devido a falta de infraestrutura e investimento do governo. Nesse sentido, este apartheid social dificulta o contato com o cinema por parte da população mais pobre, visto que todos os dias muitos brasileiros se deslocam de suas casas a seu local de trabalho  a fim de obter um salário. Isto posto, a busca por lazer e bem-estar seria ainda mais árdua , uma vez que espaços que reproduzem obras cinematográficas se concentram em regiões polarizadas economicamente. 
+Em segundo lugar, é interessante destacar que universidades renomadas já empregam filmes como pré-requisito para realizar a prova de processo seletivo, como é o caso da FGV , reconhecendo a possibilidade de ensinar por meio do cinema. Assim sendo, ilustra o impacto do cinema na nossa  sociedade e a importância de sua democratização. 
+
+Portanto, soluções devem sem tomadas  a fim de mitigar esse problema. Segundo Hegel:"O Estado é o pai da população, e cabe a ele cuidar de seus filhos.".Por isto, cabe ao Ministério da Cultura  promover eventos relacionados ao cinema nas regiões periféricas do país. Ademais, cabe ao Ministério da Educação acrescentar filmes na grade curricular de escolas públicas como ferramentas de ensino, aproximando a cultura da população carente. Pois, segundo Kant e Lamark, a educação e o meio, respectivamente,são essenciais para a formação do indivíduo. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

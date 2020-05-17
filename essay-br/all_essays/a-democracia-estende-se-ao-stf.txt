@@ -1,0 +1,12 @@
+# prompt: Supremo Tribunal Federal e opinião pública
+# score: 1000
+# title: A democracia estende-se ao STF
+Nos últimos anos, o Supremo Tribunal Federal ganhou destaques nos debates públicos, principalmente no afastamento da então presidente Dilma Rousseff, na aprovação e recuo da prisão em segunda instância e em algumas polêmicas decisões políticas. O STF, diferentemente do Executivo e do Legislativo, não tem como critério primário ponderar suas ações para agradar a opinião pública, mas garantir o respeito à Constituição. No entanto, a pressão do interesse social sobre a alta instância judiciária fortalece a democracia e supervisão dos ministros.
+Em primeiro lugar, o desejo e insatisfação da população, manifestados e levados em consideração, são sinais de uma democracia consolidada, que se adapta para se manter. A revogação da prisão após julgamento em segunda instância, por exemplo, possuiu um claro equilíbrio entre o desejo do povo e o permitido pela Carta, a ponto de o presidente da Corte deixar claro a possibilidade de alterar-se a lei posteriormente. Tal fato demonstra os mecanismos do Poder à nação, tornando as pessoas mais sábias quanto às regras democráticas e, logo, repudiadora dos seus infratores. Ressalva-se, porém, que a escolha pela norma nem sempre é de gosto popular, à semelhança da de deixar o réu recorrer em liberdade.
+Somada a esse benefício democrático, a atenção da sociedade dada à Suprema Corte evidencia o caráter profissional dos membros, enquanto prestadores de serviços à sociedade; e a necessidade de excelência nas funções - sobretudo de defender a Lei Maior -, sob pena de o congresso adquirir apoio para impedir os ministros. Ou seja, o olhar atento dos cidadãos pode constranger o STF a não repetir desvios, os quais corroboraram as críticas coletivas, como favorecer a candidatura da presidente Dilma, quando a Lei diz que não, e intervir em bancos de dados financeiros, aparentemente sem critério aceitável.
+Dessa forma, embora caótica, a discussão sobre os atos do Supremo reflete o aperfeiçoamento da democracia. Para validar a influência do povo no judiciário, agora, é necessário que os ministros passem a falar à nação em linguagem menos técnica, explicando o porquê de não aceitar a legitimidade do querer popular. Assim, a sociedade compreenderá o STF, além de participar das decisões políticas e judiciárias com maior sabedoria
+# C0: 200
+# C1: 200
+# C2: 200
+# C3: 200
+# C4: 200

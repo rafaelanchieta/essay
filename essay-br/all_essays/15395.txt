@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: Os riscos da juventude
+A gestação na adolescência é um grave problema na sociedade na sociedade brasileira. De acordo com a Organização das Nações Unidas , em 2019,  o Brasil possuía uma taxa de 62 adolescentes grávidas para cada grupo de mil jovens do sexo feminino na faixa etária entre quinze e dezenove anos. O índice é maior que a taxa mundial, que corresponde a 44 adolescentes grávidas para cada grupo de mil. É inegável a necessidade de educar os adolescentes sobre a vida sexual, doenças e métodos contraceptivos. 
+Curiosidade, pressão social ou ímpeto natural são possíveis motivações que levam os adolescentes a praticar atividades arriscadas sem precaução . Infelizmente, a taxa de fecundidade adolescente no Brasil aumenta conforme diminui a renda familiar;  É é perceptível que a parcela menos favorecida economicamente está mais suscetível a ocorrência de gravidezes precoces.  Visto que esses adolescentes frequentam escolas, é possível reverter essas situações ocupando a energia e a curiosidade juvenil com atividades educativas extraclasse; visitas a museus, aplicações de simulados como desafio e atividades de ensino online. O aumento de atividades educativas é crucial para retirar do adolescente a oportunidade de cometer riscos em relações sexuais precocemente, de modo a transferir sua atenção para atividades produtivas. 
+Além disso, a menarca ocorre muito cedo no corpo da mulher.  Algumas culturas consideram que após esta situação, a menina estaria pronta para ter relações sexuais. Todavia, é imprescindível a necessidade de reavaliação desses conceitos, pois a idade que a mulher pode engravidar sem correr risco de vida é entre os vinte aos trinta anos de idade. A jovem não está preparada para ter relações sexuais na adolescência, não só fisicamente, como também psicologicamente. O risco de gravidez é alto e a gestação pode não concluir seu processo, o que levaria a morte da mãe, do bebê ou  até mesmo, ambos. 
+Por conseguinte, é possível afirmar que o Estado necessita fornecer maior atenção para com a saúde feminina da adolescente, seja fornecendo instrução ou maior acesso popular a meios contraceptivos. Sem dúvidas, é visto que os adolescentes buscam atividades arriscadas , porém, através do apoio escolar, familiar e governamental, essa energia juvenil pode ser transferida para a educação, e a curiosidade,  ao aprendizado. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

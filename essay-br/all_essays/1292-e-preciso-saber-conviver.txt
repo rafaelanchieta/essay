@@ -1,0 +1,9 @@
+# prompt: o-conflito-entre-geracoes-e-a-convivencia-social
+# score: 8,5
+# title: É preciso saber conviver...
+A maturidade adquirida define convicções e valores em relação à vida e deve ser compartilhada com uma próxima geração ; e por que não outras gerações? Mas para que a troca de experiências ocorra de forma saudável é necessário que o passado esteja disposto a doar o conhecimento e que o presente esteja receptivo, ou inversamente, que a geração presente mostre o que tem de novo e a do passado receba o que está sendo oferecido. Cito como exemplo a geração que foi às ruas e gritou pelas ?diretas já?, mostrando que participar ativamente da política e de forma consciente é o caminho para se exigir mudanças sociais ? para essa situação não há período ou data, é a qualquer momento. Por outro lado temos a geração independência, mostrando, quando opta pela mudança repentina de uma empresa a outra, a importância de se arriscar profissionalmente para chegar à realização profissional. São duas situações que podem ser observadas e consideradas em épocas diferentes, contudo pude perceber nesses dois segmentos as seguintes posições: - ?Não vou perder meu tempo com política?, ?Todos os políticos são corruptos? ou ?Não adianta, nada vai mudar.? - ?Esses jovens não param em emprego?, ?Não querem saber de trabalhar?, ?Não tem paciência para crescer profissionalmente.? Se uma geração não consegue ver na outra o conteúdo que lhe falta para complementar o conhecimento em relação à vida, de nada valerá a experiência adquirida, pois surgirá o conflito que vai impedir um convívio social em harmonia. Diferentes pontos de vista sempre vão existir, mas estes não precisarão ir de encontro ao outro, afinal água e óleo não se misturam, mas podem ficar bem próximos em um mesmo recipiente.
+# C0: 2,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,5
+# C4: 2,0

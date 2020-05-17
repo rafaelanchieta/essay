@@ -1,0 +1,14 @@
+# prompt: deve-se-reduzir-a-maioridade-penal-no-brasil
+# score: 4,0
+# title: Passa o pirulito, isso é um assalto!
+Muito se divulga na mídia sobre menores infratores e como a média de idade reduz cada vez mais, comuma jorradade casos muito parecidosondecrianças de 14 anos roubaram ou até mesmo mataram, o Estado e a sociedade procuram a causa e a soluçãodestegrave problema.
+        Jáestaclaro que, atualmente, o jovem tem um amadurecimento precoce em todos os âmbitos, mas afinal o que o causa? Não seria o
+          bombardeio de manipulação ideológicaa quala mídiainduso jovem a agir cada vez mascomo um adulto, não tendo uma maturidade, porém pensando já ser capaz eauto suficienteparatanto.Mas é claroque, nãoforam apenas asindustriasque se beneficiaram com um consumismo mais forte ecomopessoas cada vez mais manipuláveis. As quadrilhas detraficode drogas não tardaram a descobrir essa novalevadade massa de manobra. Mirando sempre em alvos mais carentes, sem acessoaeducação de qualidade, pessoas sem nenhuma
+            formação ideológica acabam sendo levadaspára pessimoscaminhos.
+            Mas afinal,porquedezesseis anos? Simples, pensando ser maduro o suficiente, o jovem começa a tomar suas próprias decisões cada vez mais cedo, ou seja, antes, um futuro criminoso era influenciado aos quinze anos, de forma que aos dezessete ele ainda poderia ter salvação, se bem instruído, hoje com apenas doze anos crianças já entram para a vida criminosa, o que os leva a estar totalmente convertidos a esse universo aos dezesseis.Embora apouca idade, o jovem atual se julga maduro o suficiente para poder matar, roubar, vender e consumir drogas, entre outros crimes, se tal decisão só cabe a ele,
+                a punição deve assim ser , pois se há maturidade para escolher um representante, trabalhar e muitas vezes construir e sustentar uma família, também há para responder por suas ações.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

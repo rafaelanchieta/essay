@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 290
+# tittle: [Redação sem título]
+Antigamente, existia telões na praça para quem queria assistir filmes. Muitos pais da geração Y - nascidos depois de 1990 - já presenciaram isso, assistindo a filmes com o ator e cantor Elvis Presley e a filmes de faroeste. Mas, hoje no Brasil , o acesso a filmes se dá majoritariamente em cinemas situados, principalmente em shopping centers, o que não garante a todos seu acesso, tendo que recorrer portanto a plataformas como a NETFLIX . 
+
+Na maioria das vezes, assistir a um filme requer se deslocar até um shopping center, e estes localizados, muitas vezes, em grandes centros urbanos, nas capitais ou cidades maiores. Isso dificulta o acesso ao cinema das pessoas que moram no interior, principalmente daquelas que não tem transporte próprio ou mesmo daquelas que tem acesso a ônibus, mas devido à grande distância percorrida torna-se completamente inviável. 
+
+Nesse contexto, muitas pessoas têm acesso a filmes longe dos cinemas, por meio da TV ou da plataforma NETFLIX, que pagando uma taxa mensalmente e tendo acesso à internet é possível ver filmes, séries e outros por meio de computador, smartphone ou TV. E isso não está garantindo o acesso de várias pessoas ao cinema. Cinema é lazer, é levar toda a família ou amigos para assistir filmes comendo pipoca, é ver uma tela imensa à frente com um som alto, é diversão. Ficar em casa vendo apenas numa telinha é desigual para essas pessoas sem acesso. 
+Tudo isso reflete a importância de que todos devem ter acesso ao cinema. Desta forma, visando a inclusão de vários grupos das camadas sociais, o governo deve destinar verbas aos Estados e Municípios, para que comprem ou aluguem espaços para construção de cinemas nas cidades, priorizando as do interior, a fim de descentralizar dos shopping centers , e também colocar telões em praças para disponibilizar filmes aos cidadãos das cidades, para terem mais momentos de lazer. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 100
+# C4: 20

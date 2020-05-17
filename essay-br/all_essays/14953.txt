@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 600
+# tittle: Oportunidade: uma é 10, duas é 100
+Chicó e João Grilo, nordestinos pobres que "trabalham por dois pelo preço de um", trocam seus pratos de comida pela tigela da cachorra de sua chefe;  Posteriormente, o animal - acostumado com comidas de qualidade segundo "sua classe", morre devido a uma susposta intoxicação alimentar causada pela "gororoba" que somente os pobres comiam. Nesta cena do filme "O Auto da Compadecida", a comida se torna retrato da desigualdade social. Durante o filme nota-se que, apesar do esforço, o salário que recebem é baixo refletindo que a renda se mostra influente sobre o problema da fome na sociedade brasileira. 
+
+É sabido que o continente africano  em consequência de sua pobreza  apresenta os maiores índices de fome do mundo, entretanto para avaliar exemplos desses casos não é necessário ir tão longe. Atualmente, na cidade de Fortaleza, Ceará, segundo levantamentos da prefeitura sobre o Cadastro Único - ferramenta do Governo Federal que mensura famílias de baixa renda para devido auxílio - o número de famílias em situação de pobreza extrema excede os 200 mil. Nesse cenário, com o poder aquisitivo limitado a fome passa a ser consequência determinante na vida desses brasileiros. Ademais, o desemprego atua como um agravante para a estagnação das rendas familiares.
+Em segunda análise, a alimentação também influencia na atuação dos jovens no âmbito da aprendizagem. Assim, é possível observar que a ausência de reservas energéticas impossibilita o corpo de finalizar processos biológicos com qualidade, como por exemplo, a oxigenação dos músculos e cérebro. Nessa conjuntura, é possível observar que interferindo na formação educacional, a fome se torna outro obstáculo - além do desemprego - quanto à tentativa de melhoria de vida. 
+
+Urge, portanto, a ação do Ministério da Economia por meio de medidas públicas e fornecimento de empréstimos para a abertura de negócios e, consequentemente, maior geração de empregos, para aumentar a renda familiar dos brasileiros e reduzir casos de pobreza extrema. Ademais, enquanto o quadro não é revertido, a manutenção da distribuição de comida nas escolas ainda é necessária. Dessa forma, "um" poderá trabalhar, comer e estudar "por apenas um", reduzindo espaços a desigualdades. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

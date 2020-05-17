@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: O Brasil tem fome de igualdade
+Quando se fala de fome no Brasil parece difícil acreditar que nosso  país ainda sofre desse mal, afinal no início desse século o índice de emprego aumentou e muitas pessoas saíram da pobreza, mas segundo relatório da ONU   entre 2016 e 2018, ainda 2,5% da população sofre de desnutrição, ou seja  entorno de 5 milhões de pessoas, precisa-se urgentemente criar políticas que favoreçam o emprego no Brasil, além de facilitar o estudo para os brasileiros. 
+
+É uma questão lógica que, se o cidadão estiver empregado , não irá passar fome, segundo o IBGE  em junho de 2019, o índice de desemprego no Brasil era de 12%, quase 13 milhões de brasileiros, para melhorar esse número, precisamos  de leis que facilitem as contratações, como diminuir os impostos para os empregadores, sem retirar os benefícios dos empregados, uma outra alternativa é um desconto no imposto de renda, para as empresas que contratem pessoas em extrema pobreza, ou ex dependentes químicos, que normalmente são descartados em entrevistas e acabam passando fome. 
+Porém não basta empregar a população apenas, é necessário ainda dar estudo e capacitação ao brasileiro, o sistema atual de ensino superior permite apenas que se forme as classes média e alta , com cursos caros e faculdades públicas que dificultam o estudante trabalhar, acaba que apenas os jovens com uma boa renda consigam  conseguem chegar ao fim da graduação, o indivíduo que trabalha para ter o que comer no final do mês,  acaba não tendo chances, com mais entidades públicas que ofereçam cursos à noite, e campanhas de incentivo ao estudo, mudaria esse quadro. 
+
+Assim, pode-se dizer que a fome no Brasil está ligada à desigualdade, visto que é diretamente proporcional ao desemprego e a falta de estudo, se agirmos  para diminuir essa desigualdade, podemos  acabar com a fome, como disse Nelson Mandela  "A educação é a arma mais poderosa que você pode usar para mudar o mundo", para um problema grande como esse, precisamos  de soluções eficazes e inovadoras, só assim estaremos em um país desenvolvido e livre da fome. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,13 @@
+# prompt: Universidade em crise: quem paga a conta?
+# score: 720
+# title: A desigualdade no ensino brasileiro
+A crise econômica sem precedentes pela qual o Brasil vem passando causou uma piora nos serviços públicos, sobretudo em razão da diminuição na arrecadação de impostos e a consequente redução dos gastos estatais. Um exemplo disso é o recente contingenciamento de parte das verbas das universidades públicas anunciado pelo atual governo, que gerou protestos e aumentou o debate sobre o financiamento dessas escolas superiores.
+Uma das características que mais chamam a atenção nas universidades públicas brasileiras é o perfil dos alunos que as frequentam, já que a maioria desses estudantes é de famílias ricas. Isso se deve à dificuldade das provas dos vestibulares de acesso a tais escolas, nos quais são aprovados aqueles que obtiveram melhor preparação nos ensinos fundamental e médio, ou seja, quem teve condição de pagar pela educação.
+Dentre as consequências dessa barreira que os estudantes com poucas condições financeiras encontram para entrar nas universidades públicas é a manutenção da desigualdade existente no país, uma vez que, eles têm poucas chances de acesso àquelas carreiras profissionais, às quais o mercado oferece mais vagas e com melhores salários.
+Essa discrepância, atrelada às graves dificuldades financeiras pelas quais os governos estaduais e o federal estão passando, demonstra a necessidade de as universidades públicas cobrarem dos alunos que podem pagar pelo ensino superior, o que diminuiria o custo desse ensino para o país. Quem é aprovado para cursos como o de Medicina, um dos que mais demandam recursos estatais, um dos mais concorridos, com maiores notas de corte, é, quase sempre, da classe média alta, que tem plenas condições de pagar pelos estudos. Por outro lado, os mais pobres, que gastam muito do que ganham para pagar impostos, ficam de fora e só lhes resta ir para as faculdades particulares.
+Dessa forma, fica claro que é preciso mudar o jeito como as universidades estaduais e federais são financiadas e assim evitar que o governo seja obrigado a reduzir verbas destinadas a elas, ao mesmo tempo em que pessoas ricas tenham acesso gratuito a esse serviço. Isso geraria uma economia de dinheiro, que poderia ser utilizado na melhoria dessas escolas e, mais importante, na abertura de mais vagas, cuja consequência seria a facilitação do acesso, para todos, a essas universidades.
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 160
+# C4: 120

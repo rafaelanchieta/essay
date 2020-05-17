@@ -1,0 +1,12 @@
+# prompt: o-que-voce-pensa-da-proibicao-a-pratica-do-castigo-fisico
+# score: 7,0
+# title: O tapinha que adestra
+Para debatermos a respeito da implantação da lei que proíbe os pais de "darem os tapinhas educativos", devemos antes de qualquer coisa refletir sobre o que significa educaratravés decastigos.
+        Educar, de forma extremamente resumida, é ensinar algo a alguém, neste caso ao filho, e educaratravés decastigos é puni-lo por ele ter feito a escolhaerradaque contradiz as regras impostas.
+          Entretanto, este pequeno ser está descobrindo que há muito mais coisas para se fazer no mundo do que apenas aquelas impostas por seus pais. Infelizmente este aprendiz não terá chances de fazer explorações, já que sofreu um ato violento, significando que há limites proibidos de serem ultrapassados. O ato violento que a lei considera diz respeito às brutalidades físicas, no entanto, muitas vezes são as violências psicológicas que deixam marcas mais profundas e mais traumáticas. Masindependentede qual violência for cometida, estamos falando de algo quedesi quilibramais do que edifica, pois os castigosimpendem de percebemossozinhos que estamos errados (ou não!),e nos impedede refletir sobre as causas econsequências. Dessa forma, ocorre uma ação condicionante, ou seja, não fazemos mais tais coisas porque isso significa que vamos nos machucar.
+              Assim também acontece com o rato no laboratório. Ele não escolhe determinada opção porque levará um choque e, portanto, é condicionado a optar pelo caminho que o cientista arbitrariamente escolheu como o melhor. Um outro problema da educação através dos castigos é que o ato violento emudece, poda, cristaliza, prende e limita aquele que está aprendendo, impedindo que transcorra a plenitude do desenvolvimento das capacidades. A criatividade surge quando não há represálias, a mente crítica acontece quando lhe é permitida a livre expressão. Só conseguimos nos manifestar como seres inteiros quando conseguimos conhecer todas as possibilidades. E tudo isso é possível quando não sofremos traumas, que são gerados em muitos casos com a atividade desses "tapinhas educativos". Quem educa ensina a pensar, quem castiga ensina a sermos subjugados e vivermos como ratos.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,5
+# C3: 1,0
+# C4: 1,5

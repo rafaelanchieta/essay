@@ -1,0 +1,12 @@
+# prompt: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet
+# score: 9,0
+# title: Agressividade entre jovens
+Um dos maiores problemas atuais, intrínseco ao âmbito juvenil, é o "bullying", isto é, comportamento violento assumido por algumas pessoas, que discriminam, humilham e chegam a agredir fisicamente outras,causandoperda de autoestima e diminuindo a produtividade destas.
+        Nos diversos centros de ensino do Brasil, estabelece-se supostamente uma hierarquia, em que estudantes de má conduta ficam num patamar superior a qualquer outro, por instigarem constantemente indivíduos ou grupos com pensamentos, aparências ou gostos análogos aos seus. Segundo pediatras e psiquiatras, os agressores recebem influências principalmente de seus familiares. Em alguns casos é a falta de afeto, a comunicação falha e as discussões diárias que incitam os jovens a perpetuarem o "bullying", reproduzindo os acontecimentos de seus lares em novos lugares. No entanto, o excesso de atenção e a falta de correção pelos pais também podem causar o mesmomau, já que os jovens asseguram-se na proteção exacerbada que recebem e deixam de temer punições, geralmente frouxas.
+            Outro fator que ainda contribui para a continuação dessa tirania é a falta de desvelo das escolas com o problema. Essas, por sua vez, preferem omitir a existência dos conflitos entre alunos, em vez de deixar claro que não aceitarão tais práticas, incitando professores e coordenadores à supervisão ampla e constante de qualquer forma de intimidação. Se houvesse um acompanhamento mais eficaz dos estudantes, por pais e educadores e também uma divulgação generalizada na mídia como a que ocorre para prevenção do uso de álcool e de drogas, essa violência poderia cessar. Mas, naverdadeo que ocorre é a sua expansão para a internet, originando o "cyberbullying", em que ameaças ou xingamentos são lançados, podendo ser anônimos.
+                Não demorará e veremos outros ambientes se tornando suporte para a prática do "bullying". Portanto, é essencial que existam propagandas, campanhas e atividades que informem os brasileiros, além de orientações e penas mais severas aos infratores, para que,destaforma, a convivência entre os jovens seja mais saudável.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 1,5

@@ -1,0 +1,14 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 9,0
+# title: Desmilitarização Já
+As manifestações de junho do ano passado (2013) tiveram enorme importância no sentido de relembrar o povo brasileiro do seu direito de ir às ruas e protestar contra suas insatisfações. Além disso, contribuíram ao expor para todas as esferas da sociedade, a repressão e truculência policial, há muito praticadas nas favelas e periferias brasileiras. Essa tônica de ação policial manteve-se noiniciodeste ano na contenção dos "rolezinhos" e dos protestos
+         anti-copa ,reascendendoo debate sobre o papel e modo de atuação daPoliciaMilitar no trato com a sociedade civil.
+         Esse modelo depoliciarepressiva deve-se aos fortes laços entre as Forças Armadas e aPoliciaMilitar, herdados do período da Ditadura Militar, que não foram rompidos mesmo após 25 anos da Constituição Federal de 88. O problema desse vínculo é evidente: os policiais são treinados militarmente, ensinados a enxergar a sociedade civil como um inimigo a ser combatido e a rotina policial como uma guerra. A relação entre as duas instituições é tão forte que as UPPs (Unidades de Policia Pacificadoras) são comandadas efetivamente pelas Forças Armadas e a segurança pública durante a Copa do Mundo será realizada pelo Exército.
+         Como se não bastasse a repressão, aPoliciaMilitar encontra seu esgotamento quando juntoàissoinclui-seas péssimas condições oferecidas aos seus efetivos, principal causa da corrupção endêmica que assola o setor, propiciando o acordo entre as facções criminosas epolicias. Os resultados dessa crise são as cenas horríveis promovidas pela PM durante os protestos e o exorbitante número de execuções primárias no Brasil, chamadas eufemisticamente de autos de resistência (mortes de civis resultantes da ação policial).
+         O país vive um momento decisivo desse debate e a solução para este cenário passa pela via legislativa e pela atuação dos Governos Estaduais.Estana melhora das condições de trabalho dos policiais e na efetivação daquela que reside na desvinculação da Policia Militar das Forças Armadas, a unificação da PMjunto àPoliciaCivil
+         e a destinação da ação policial para atividades civis, em contraposição ao cargo atual de manutenção da ordem pública.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 2,0

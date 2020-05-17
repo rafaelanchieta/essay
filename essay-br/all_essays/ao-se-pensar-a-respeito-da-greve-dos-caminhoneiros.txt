@@ -1,0 +1,13 @@
+# prompt: O Brasil paralisado: o que você pensa sobre a greve dos caminhoneiros?
+# score: 300
+# title: Ao se pensar a respeito da greve dos caminhoneiros
+Ao se pensar a respeito da greve dos caminhoneiros  é possível afirmar que ela é legítima  sendo um importante instrumento popular para a luta por conquistas sociais e econômicas.
+O primeiro fator a ser analisado é que  sem manifestações e paralizações , o governo não cederia  nenhuma reivindicação . Entende-se com isso que  sem pressão  não haveria nenhuma forma de pressionar pela queda do preço do óleo diesel, do frete, etc. 
+O segundo fator a ser considerado é que a paralização , por quase uma semana, afetou toda a cadeia produtiva; como exemplo, postos ficaram sem combustível, mercados sem produtos e assim por diante.
+Assim, a necessidade de lutar por conquistas como a redução do valor do óleo diesel só foi possível com o governo se sentindo pressionado pela paralização , mesmo que isso tenha trazido efeitos colaterais sentidos pela população, como o desabastecimento sentido por todos.
+
+# C0: 50
+# C1: 100
+# C2: 100
+# C3: 50
+# C4: 0

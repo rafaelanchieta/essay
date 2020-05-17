@@ -1,0 +1,9 @@
+# prompt: a-quem-cabe-a-responsabilidade-sobre-a-escolha-alimentar-da-populacao
+# score: 5,5
+# title: Um problema evidente
+A obesidade é um problema que tem aumentado em todo o mundo, e atinge cada vez mais as crianças, que por sua vez,não possuem maturidade suficiente para perceber as graves consequências que uma alimentação a base de fast-food pode trazer para a sua saúde física e mental. As grandes redes de lanches investem parte de seu capital em propagandas, que são encontradas nos meios de comunicação mais populares como a internet e a televisão. O objetivo desses comerciais é persuadir principalmente o público infantil a consumir o produto. Para isso,oferecem diversos brindes e criam personagens carismáticos que são muito bem aceitos pelas crianças. A família, porém, é a maior culpada por esse crescente índice de obesidade infantil, pois além do fast-food ser uma opção cômoda para quem não dispõe de muito tempo, os pais tentam compensar a sua ausência, cedendo aos desejos dos filhos. Esse péssimo hábito alimentar traz sérios problemas como o sedentarismo, a diabetes e a pressão alta, além de consequências à saúde mental como a baixa auto-estima, a depressão e o bullying que os mais jovens sofrem na escola. É necessária a criação de uma lei, que proíba a exibição de propagandas de fast-food nos horários de maior audiência do público infantil. O mais importante, porém, é que as famílias mudem seus hábitos alimentares, procurando ingerir cada vez mais alimentos que façam bem à saúde,para que desde cedo as crianças aprendam a ter uma vida mais saudável, e a obesidade possa ser controlada.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,5

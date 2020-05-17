@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 400
+# tittle: desmatar não é certo
+Desde a primeira revolução industrial o homem vem causando malefícios a natureza de forma em que se intensifica ao passar dos anos,sendo assim não só prejudicial ao meio ambiente  mas ao próprio ser humano. 
+
+Queimadas na nossa  principal fonte de oxigênio,a floresta amazônica,vem se tornando cada vez mais frequentes,o que nos  faz refletir o quanto o homem faz mal para si mesmo e para natureza.  sem contar que devemos  nos conscientizar um pouco sobre o que nós fazemos ,além disso o número de queimadas está maior em comparação ao do ano passado segundo o Globo  e isso põe várias espécies em risco em exemplo é o tatu-canastra em risco de extinção essa especie sofre segundo o site catraca livre. 
+Entretanto, atos conscientes está estão sendo apresentados em algumas empresas como  por exemplo  a adidas que criou a primeira camiseta feita de plástico retirado do mar,proporcionado assim um mundo mais sustentável ,ajudando os peixes e tornado os mares menos poluentes. e alguns foodtrucs que estão inovando o cenário da comida pelo país em que reutilizam toda a comida que iria pro lixo. 
+
+Em resumo,a reservação do meio ambiente,principalmente da floresta amazônica será um grande desafio para o ser humano,mas podemos  usar a nossa criatividade para preservar o nosso  planeta o que podemos  fazer é evoluir, se já evoluimos  tanto na tecnologia podemos evoluir nesse contexto também e cada um fazer a sua parte. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,13 @@
+# prompt: A terapia de reversão da orientação sexual
+# score: 2,0
+# title: Reverta o preconceito
+ Não se deve interferir, nem modificar as escolhas que diz  respeito apenas ao indivíduo. Pois  cada um sabe aquilo que é melhor para si próprio. E, quando um novo movimento contrário a  livre escolha de gênero é feito, percebemos à  existência da intolerância.
+ Para Platão, nós somos felizes quando vivemos de acordo com nossa natureza e nao  somos forçados a viver contra ela. Não é fácil viver em uma sociedade onde pessoas ainda pregam padrões de cores, religiões e sexualidade. As formas de tratamento não são iguais. 
+ Travestis, transgeneros,   gays, lésbicas, todos eles estão sujeitos a sofrer um retrocesso. No que diz respeito ao que grande parte da sociedade conseguiu aprender, na vivência com essa diversidade de gêneros. Uma troca constante, que abre espaço para àbertura  de novos horizontes. 
+ A razão nos leva àcreditar  que existem apenas homens que são homens e mulheres que são mulheres. Porém a  questões  que a razão nao  se aplica, apenas os sentimentos. Orientação sexual não é pensada e planejada, é uma decisão sem influências. O que predomina é somente a vontade de ser feliz do seu jeito. 
+ Portanto, em uma sociedade onde o preconceito e a intolerância estão presentes, muitas medidas devem ser repensadas. Para que não haja a resistência a quebra de paradigmas, e que se acenda em cada um a capacidade de respeitar. 
+# C1: 0,5
+# C3: 0,5
+# C5: 0,5
+# C7: 0,5
+# C9: 0,0

@@ -1,0 +1,16 @@
+# prompt: Brasileiros têm "péssima educação argumentativa", segundo cientista
+# score: 800
+# title: Uma carta para a mudança
+São Paulo, 16 de agosto de 2017.
+Prezado Senhor Professor,
+ 
+Sabemos que atualmente o sistema escolar é baseado no repasse de conhecimento através de conteúdos copiados ou exercícios resolvidos. Além dessas características, a educação argumentativa é de extrema importância para a formação do aluno. Ao estruturar uma roda de debate, o educador desenvolve no educando a competência de argumentar e debater com ideais diferentes.
+O primeiro passo para uma discussão ser realizada é mostrar aos debatedores que não existe um conceito universal para verdade, mas sim conceitos incompletos. Quando enxergamos que algo para nós é absoluto mas para o outro pode ser incerto, entendemos a estrutura de um debate: conhecer perspectivas diferentes e absorver aquilo que nos convém, não exigindo um resultado final, mas sim uma reflexão.
+Para prosseguir  é necessário que os oradores saibam do  que estão argumentando. Conhecer o assunto em discussão é primordial, pois sem conhecimento  podemos ser pegos pela contradição ou por mal-entendidos. A fala clara, firme e objetiva alimenta um bom debate.
+A razão de informações serem distorcidas ou discussões com agressões verbais ocorrerem, se deve ao fato de que na escola não somos instruídos de como funciona um debate e do porquê debatemos.  Ao implementar as características aqui citadas , acredito que a sala de aula se tornará um lugar cada vez mais argumentativo, o que ajudará estudantes e professores como o senhor a conhecer novos argumentos e conceitos.
+De uma aluna do Ensino Médio público.
+# C0: 150
+# C1: 200
+# C2: 100
+# C3: 150
+# C4: 200

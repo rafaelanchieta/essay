@@ -1,0 +1,10 @@
+# prompt: a-necessidade-de-crer-em-herois
+# score: 4,0
+# title: É possível sonhar com heróis?
+Vivemos em um mundo conturbado, repleto de violências e desigualdades sociais, que levam o ser humano a ter necessidade de acreditar em algo que o traga a esperança de uma vida melhor e mais justa.Desde os primórdios até os tempos atuais, a sociedade é dividida em classes ricas e pobres. Ricos são pessoas vangloriadas pelas suas riquezas, entretanto os pobres são cada vez mais marginalizados pela própria sociedade. O Brasil já está em segundo lugar em má distribuição de renda, enquanto a China é considerado um país de primeiro mundo e em constante desenvolvimento.
+            É difícil entender como a maioria das pessoas conseguem continuar sobrevivendo, estas inúmeras vezes sequer têm um pedaço de pão para alimentarem-se . Mesmo com tantas diversidades, o homem idealiza um "ser extraordinário", que é aceito no intuito de um futuro promissor. Logo, os problemas da realidade, como: sofrimento, fome e medo; tornam-se redutíveis. Diante de  tudo isso , é preciso crer em heróis; pois através deles, os desfavorecidos têm a fé de adquirir melhores condições de vida. Porém, tem-se que tomar cuidado com a carência de se crer em heróis, devido ao surgimento de heróis dissimuladores que aproveitam-se dos que ainda sonham.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 1,0

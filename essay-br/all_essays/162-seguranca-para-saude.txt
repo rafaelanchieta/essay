@@ -1,0 +1,15 @@
+# prompt: bicicletas-e-ciclofaixas-estao-chegando-para-ficar
+# score: 1,0
+# title: Segurança para saúde
+Mesmo com automóveis cada vez maisacessivéisao consumidor, que parece estar pensando sobre as vantagens de se comprar veículos, com um trânsito cada vez mais complicado, muitos escolhem por meio de uma solução: BICICLETAS
+         . O ciclismo é uma ótima atividades, mas não apenas para lazer. As bicicletas que vemganhando as ruaslevando os trabalhadores para empresas,
+         ajudaa manter o corpo, já que étotalmente livrede emissão de gases que prejudicam áatmosfera.
+          Como o aumento degasolina, muitos consideram um absurdo, muitos planejam comprar bicicletas, apesar de preferir os veículos, com isso, muitos motoristas precisam respeitar
+         . Porque teveum jovem ciclistafoi atropelado, teve o braço decapadomotorista jogoubraço no rio e fugiu. Um absurdo. Muitos ciclistas
+         precisam de ser vistos e os motoristas precisam respeitar mais os ciclistas para evitar acidentes. Mas com muita cautela, porque, hoje em dia, os motoristas não respeitam os ciclistas. Apesar disso, para aqueles sofrem com má segurança nas ruas, motoristas e motocicletas que jogam seus veículos contra ciclistas, até mesmo invadem ciclofaixas. Os motoristas não respeitam os ciclistas, nem respeitam a sinalização, eles não socorrem as vítimas, alguns fogem por medo da polícia, deve haver alguma punição para eles. Enfim, o aumento dos ciclistas poderiamser maior, se houvesse mais investimentos desegurança, deve haver mais umasguardas, ou seja, colocar as placas de alertas.
+          Esses sim, ciclistas, merecem de ser vistos e respeitados por todos nós.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

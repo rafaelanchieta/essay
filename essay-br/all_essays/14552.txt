@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: Aplicação Das Leis em Prol Dos Indígenas
+A FUNAI  é uma instituição criada que tem sua atuação pautada em garantir os direitos dos índios desde 1967, nessa época a finalidade do órgão destinava-se a integrar a população indígena ao restante do meio social; já com a criação da constituição de 1988, passou-se a garantir o respeito e a proteção à cultura das populações originárias, tendo como égide a organização, costumes, as línguas, crenças e tradições. Apesar disso, de a magna carta prover e proteger os mesmos  com leis excelentes, há enorme dificuldade de aplicação na prática desses preceitos básicos, isso por causa do preconceito, racismo que é histórico, estrutural e institucional, isso segundo Daiara Tukano, em entrevista fornecida à Agência Brasil. 
+
+E essa situação se agravou recentemente com as mudanças realizadas pelo governo Bolsonaro, em que o mesmo  editou a MP  870, cuja medida desmontou a Funai, transferindo-a do Ministério da Justiça para o Ministério da Mulher, família e Direitos Humanos em que tem-se a Ministra Damares como sua gestora. Com essas mudanças houve o enfraquecimento do órgão, tanto que,  daí   ocorreram uma série de ataques e invasões articuladas contra as terras índias, perseguição e expressão do racismo, intolerância que foram relatadas pelo povo índio. 
+O maior meio de disputa existente desse conflito ocorre no Amazonas, lugar que possui a maior população indígena que, hoje, é calculada em 870 mil pessoas, isso segundo o Instituto Brasileiro de Geografia e Estatística . É a principal meio de disputa se dá pelas demarcações de terras, onde  muitas vezes proprietários rurais,  entram em conflito com os mesmos , tanto por falta de fiscalização da União, especialmente,  das áreas que são consideradas como reserva ambiental, situação que possibilitaria maior proteção aos índios, bem como respeito às leis impostas.  
+
+Dessa forma, a fim de ao menos amenizar esse conflito, tal como fazer com que os preceitos básicos sejam respeitados, é necessário que políticas sejam aplicadas e criadas pelo legislador pátrio. Dentre elas pode-se enunciar a colocação em cada aldeia uma base assistencial que contactaria às autoridades federais sobre infringências ou degradação aos direitos indígenas. Outrossim, deve-se ter como medida também,  o fortalecimento da FUNAI com o incremento de verbas pelo Governo Federal, bem como colocá-lo como um Ministério próprio, visto que a proteção da Amazônia em si do povo índio não é benéfíca,  somente,  a população brasileira, mas também para o mundo. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

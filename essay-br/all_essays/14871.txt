@@ -1,0 +1,12 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 450
+# tittle: [Redação sem título]
+Pobreza, insegurança alimentar, construção da estrutura social. Estão entre os principais fatores que desencadeiam a fome no Brasil . Com essa persistência, grande parte da população brasileira enfrenta dificuldades quanto ao acesso a alimentos, isso se evidência pela má distribuição dos mesmos  e pela extrema pobreza. Neste aspecto convém analisarmos  as principais causas, consequências e possível solução para este impasse. 
+Atualmente são produzidas quantidades mais que suficientes para alimentar toda a população mundial, assim, dando ênfase ao acesso dificultado desses alimentos agravando a desigualdade, onde no qual vemos  milhões de pessoas vivendo em situações sub-humanas com a fome, a subnutrição e a falta de inclusão social. 
+Com reflexo disso, a extrema pobreza impossibilita também o acesso a alimentos em qualidades e qualidades necessárias . Com a baixa renda familiar, a desigualdade atua como um efeito privatizador, fazendo com que apenas a inserção de famílias em programas sociais não consiga remediar tal problemática. 
+Em virtude do que foi mencionado, é necessário o avanço de programas que incidam causas das situações, especificamente a fome e a desigualdade. Dentre ações adotadas está a transferência de renda e a distribuição de cestas básicas. A criação de políticas efetivas e concretas, como a fundação de cozinhas e refeitórios comunitários com total inclusão social e dirigidos por voluntários poderiam se tornar caminhos para cessar essas adversidades brasileiras. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

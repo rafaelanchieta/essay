@@ -1,0 +1,11 @@
+# prompt: Gravidez precoce: um problema?
+# score: 370
+# tittle: Gravidez precoce
+Mesmo a gravidez sendo muito romantizada , esse processo de pré-nascimento e pós pode trazer problemas, como o abandono dos estudos e falta de paternidade, mas também pode trazer coisas boas à mãe, por conta de afeto, pois um amor maternal é único . O grande número de gestações na adolescência nos   mostra o quão agravante consiste este problema, que se dá através de falhas ou falta dos métodos contraceptivos, como anticoncepcional, DIU, camisinha entre outros. 
+Por consequência disso, há a indesejada gestação,  que traz consigo inúmeros impasses, sejam sociais  através da exclusão e solidão da mãe, sejam psicológicos  como a depressão pós parto, pois uma adolescente não tem preparo mental para tamanha mudança ou sejam biológicos,  porque o corpo de uma jovem no processo e pós gestação sofre diversas alterações. 
+Muitos adolescentes conhecem os meios contraceptivos  mas por falta de acesso  ou por vontade própria optam por não utilizar, o que gera problemas na questão da saúde como as DSTS DSTs . Por fim, é de extrema importância a ajuda do Estado, pois apenas distribuições de métodos contraceptivos e campanhas não são suficientes, mas com a integração da educação sexual no ensino básico formariam crianças, adolescentes, adultos e idosos conscientes. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

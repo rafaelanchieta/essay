@@ -1,0 +1,15 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Adolescência deturpada
+Por muitos anos,  a educação sexual foi um tabu. Esse tabu, que incentivado pelas instituições religiosas e pela família tradicional, acaba gerando nos jovens,  a sensação de frustração, na qual suas vontades não podem ser realizadas. 
+Adentrando nessa situação , a frustração psicológica de uma adolescente que biologicamente está passando por uma maturação sexual, e a mesma  não pode experimentar dessa sensação tão limitada pelos diversos setores da sociedade, ela acaba se vendo na situação de risco, em que acaba por fazer às escondidas. 
+Entretando, o sistema educacional não investe no ensino sexual , como a utilização de métodos contraceptivos e sobre DST's. DSTs  A culpa, é claro,  recaí sobre a jovem, que por culpa de um tabu acaba por desinformada, grávida em plena adolescência. 
+Um dos maiores problemas da gravidez durante essa fase da vida,  são os sacrifícios que serão feitos para que ela aconteça.  Um dos exemplos é abandonar os estudos, ingressar no mercado de trabalho, muitas vezes informal, depender de programas sociais para sustentar a criança  e assim continuar o ciclo vicioso que assola a nossa   atual sociedade. 
+A gravidez precoce prejudica em relação aos seus feitos, alguns casos de jovens expulsas de casa, revelam a identidade cultural das famílias muitas vezes tradicionais, rígidas e defensoras de um tabu que perpetua a séculos. Essa deturpada na vida do adolescente, cria nele traumas, comodismo e até mesmo arrependimento. 
+No Brasil, é comum, recém nascidos serem abandonados em lixão, portas de desconhecidos, isso só comprova o destino de uma educação sexual limitante que prejudica vidas que poucas vezes são orientadas e se entregam aos prazeres da juventude.
+A solução que nós temos   para consertar essa cadeia quase natural das nossas últimas décadas,  é investir na educação e priorizar principalmente a conscientização do sexo seguro e da quebra de um tabu que se dissolve com a ignorância. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

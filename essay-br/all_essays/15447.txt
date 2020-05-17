@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: Gravidez precoce: um problema?
+Atualmente o Brasil vêm tendo um percentual muito grande de gravidez precoce, sendo muitas vezes elas indesejada. 
+Uma das causas pode estar relacionada a falta de informações e métodos contraceptivos, falta de acesso gratuito a mais opções de prevenção em postos de saúde em seus municípios, e também a falta de diálogo e instruções entre pais e filhos. 
+Tendo como consequência a gravidez na adolescência a desistência dos estudos , muitas vezes os jovens não tem  têm renda financeira para arcar com os custos que são gerados e acabam vivendo em condições precárias, quando não se tem o apoio dos pais a situação acaba ficando mais complicada, sem contar com os abortos que são feitos ilegalmente e pode colocar em risco a vida da adolescente.  Além das doenças que podem ser sexualmente transmitidas e algumas que ainda não tem cura. 
+Portando o governo deve criar soluções cabíveis para solucionar o " problema ", apresentando palestras em escolas, fazendo campanhas, instruindo os pais a conversarem com seus filhos em casa, e também deixar os métodos mais acessíveis para toda população, e assim podemos   deixar os jovens mais conscientes. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

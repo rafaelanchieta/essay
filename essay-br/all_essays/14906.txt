@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: fome: o mal dos séculos
+No século XXI, o Brasil retrata uma situação de miséria que ramifica vários acontecimentos ao longo da história e chega a questão da fome tornando uma das questões sociais mais abrangente e preocupante a ser tratado. Convém analisarmos  as principais causas, consequências e possível solução para esse impasse. 
+
+Durante a crise de 1929, a população norte americana sofreu pela queda da bolsa de valores de Nova York e começou uma grande revolta da fome. Muitos perderam seus empregos, casas e houve uma massa grande de suicídios . Com isso, nota-se que a falta de alimentação no dia a dia das pessoas se torna prejudicial, visto que,  a fonte básica e energética de alimentos é o ápice da sobrevivência dos seres humanos. Isto é, problemas sociais desencadeiam causas para o problema no Brasil como a falta de empregos, pobreza extrema e a falta de acesso aos alimentos. É inadmissível que o Brasil seja um país tão grande em território, fauna e flora e uma grande biodiversidade, esteja em um a situação precária. 
+
+Por conseguinte, as consequências para esse problema devem ser notadas e futuramente evitadas para que ninguém tenha uma vida miserável em junção de grandes empresas da própria população . Dados indicam que em fortaleza,  ao menos,  204;177 famílias vivem em situação de pobreza, além disso,  deve ser evidenciado que na África existem países onde  a fome mais se perpetua. Contudo, existe um contraste mostrando que hoje em dia uma parcela grande da população mundial não passam fome porque não tem alimentos  e sim porque o mundo produz uma grande quantidade de comida que poderia ser distribuído entre uma nação e outra. Mas, um terço desses alimentos são desperdiçados desnecessariamente ou jogados fora por outros fatores. 
+Portanto, medidas devem ser tomadas para que se não resolverem ao menos atenuam o problema,  Cabe as ONG'ss  junto ao governo propor uma aliança e criar um tipo de distribuição de alimentos por meio de cargas para vários estados e países incentivando ao não descarte dos alimentos que estiverem em ótimas condições. Só assim talvez a questão da fome seja erradicada. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

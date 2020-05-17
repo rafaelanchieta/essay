@@ -1,0 +1,12 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 600
+# tittle: [Redação sem título]
+Não há como negar , a Amazônia é essencial para o equilíbrio do planeta, uma vasta área verde rica em biodiversidade que está sendo ameaçada pelo desmatamento e o crescente registros de queimadas. Para reverter esse problema enquanto ainda é tempo, é preciso um sério debate e alternativas eficientes. 
+Em primeiro lugar, de acordo com o portal de notícias "G1", a Amazônia é de extrema importância para a vida humana e em particular para a América do Sul, ela é capaz de normalizar o clima, além de interagir com o regime das chuvas e, mais ainda, possui vegetações que originam remédios. Será incalculável os prejuízos que cairia sobre a humanidade se os níveis de destruição continuarem num ritmo assustador, pois não haverá salvação. 
+Em segundo lugar, um dado do Inpe  apresentou que na Amazônia os números de queimadas aumentaram 83% de janeiro a agosto de 2019, o que pode indicar que os agente causador não é apenas a temporada sem chuvas, mas também a ação humana. A devastação para dar lugar a negócios lucrativos para empresários e fazendeiros mostra que não há fiscalização e nem rigidas penalidades. 
+Portanto, diante dos fatos apresentados e como o Brasil guarda 60% da região amazônica, uma solução possível seria,  o governo implantar fiscalizações de altos níveis, com guardas florestais bem equipados e treinados, objetivando diminuir e evitar focos de desmatamentos e queimadas  e existir uma preservação para as futuras gerações. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

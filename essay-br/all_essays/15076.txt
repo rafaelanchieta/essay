@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: Lágrimas de Fumaça: Nosso Patrimônio
+Logo após a virada do milênio, a Organização das Nações Unidas para Educação, Ciência e Cultura , visando a preservação de biodiversidade marinha, integrou o Complexo de Conservação da Amazônia Central em sua Lista de Patrimônio Mundiais;  Segundo a Arpa, o Programa Áreas Protegidas da Amazônia, a floresta abriga cerca de 20% de toda a fauna do planeta. Entretanto, como é ilustrado pelo recente e abrupto crescimento de queimadas na região, é evidente que grande parcela de nossos   legisladores e sociedade política ainda não são cientes do delicado equilíbrio necessário para a preservação deste sistema.  
+
+Como a maior floresta tropical do planeta, a Amazônia transporta umidade para toda a América do Sul, influencia regime de chuvas na região e contribui para estabilizar o clima global. Através de seus “rios voadores”,  o vapor de água gerado na Bacia Amazônica carrega umidade até mesmo ao extremo sul do continente. Segundo o Laboratório de Ciência do Clima e Meio Ambiente na França , a Amazônia também é responsável por até 20% da absorção de CO2  do planeta. 
+
+Todos os fenômenos citados são essenciais para o agronegócio, para a produção de alimentos e para a geração de energia no Brasil afora. Porém, um recente relatório do Instituto de Pesquisa Ambiental da Amazônia  delatou 32.728 focos de calor até o dia 14 de agosto, representando em um aumento de 60% a média dos três anos anteriores. Poderíamos evitar esses números exacerbados com regulamentação em formas e extensão de desmatamento responsável, readquirir terras hoje fadadas ao desmatamento para proteção ambiental e recompensar os donos, proteção de terras indígenas, para citar poucos exemplos. 
+A Amazônia não é apenas uma solo fértil ou algo a ser explorado , mas sim os pulmões de nosso planeta,  responsável por manter intacto nosso frágil equilíbrio climático. Hoje, presenciamos nosso mais belo e importante patrimônio despejando lágrimas de fumaça em nossos céus . Uma vez completamente desmatada, será impossível trazê-la de volta e eu fortemente acredito que nosso governo deveria tomar medidas duras porém de caráter justo para solucionar o problema o mais rápido possível. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

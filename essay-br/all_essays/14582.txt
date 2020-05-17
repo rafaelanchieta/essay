@@ -1,0 +1,12 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 350
+# tittle: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+De acordo com o secretário-executivo do ISA  André Villas-Bôas, se a floresta, ou a natureza de maneira geral, é nosso passaporte, enquanto país, para algum futuro, os povos que vivem nela são seus verdadeiros guardiões . Sendo assim, na Constituição brasileira pode-se observar uma falha nesse funcionamento, visto que há uma dificuldade nas políticas socioambientais tais e na garantia de direitos humanos. 
+O artigo de Constituição brasileira asseguir ao poder público o dever de desenvolver  ofertas exclusivas para defender o património histórico e cultura dos índios no Brasil. Portanto, a Constituição Federal tem por obrigação garantir os direitos dos povos indígenas. No entanto, é evidente que apesar desses projetos existirem ainda não são suficiente ou satisfatória. 
+Além disso, o problema é acontecendo pelos preconceitos , derivados da etnia, cor, raça, gênero, por parte da população em geral. Diante disso, muitos deles morrem contaminados por doenças como a gripe e sarampo, e lutam contra os brancos,  em busca de ter os seus direitos pelas terras. 
+Em virtude dos fatos mencionados, urge que medidas sejam tomadas. A Constituição brasileira tende o papel de proporcionar soluções para este problema,  criando campanhas de combate à violência, além de impor leis mais rígidas e punições mais severas para aqueles que não as cumprem. A partir da criação de centros defensores, garantia de guardas civis em espaços públicos. Contudo é muito importante valorizar e garantir os direitos dos índios no Brasil. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

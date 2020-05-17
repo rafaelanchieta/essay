@@ -1,0 +1,14 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 450
+# tittle: O número de suicídios de policiais cresce no Brasil
+Atualmente, o suicídio, tristeza profunda em que o indivíduo acredita que a única saída para curá-la é a morte, não é um problema que ocorre apenas entre os mais jovens, e sim é a principal causa de morte entre os policiais brasileiros . Segundo o Anuário Brasileiro de Segurança Pública, no ano passado faleceu maior quantidade desses profissionais de segurança quando comparado com outros que perderam a vida em confrontos na rua . Entre os motivos para estes acontecimentos são o estresse decorrente do exercício profissional e o assédio moral. Esta problemática ainda é agravada pelo fato desses agentes portarem arma de fogo. 
+
+A atividade policial é considerada uma mais estressante existente em função   do dever de estar sempre alerta para qualquer situação adversa ocorrida e do medo em ser morto por bandidos ou que estes sejam responsáveis pelo falecimento de algum familiar. Além disso, este problema é agravado com o mito do profissional herói, que consegue salvar todo mundo do perigo. No entanto, sabe-se que nem sempre isto é possível, pois o policial deve redobrar sua atenção e controlar suas emoções. 
+O assédio moral ocorre em função dos policiais serem obrigado a cumprir ordens de seus superiores sem questionar, mesmo que essas ações coloquem sua segurança em risco ou que integrem grupos de corrupção. Outros casos são a pouca sensibilidade em lidar com a morte de colegas de trabalho, pois estes profissionais devem continuar exercendo suas atividades como se nada estivesse acontecido. Além disso, quando um profissional está insatisfeito com as condições de trabalho, não possuem o direito de reivindicar sob a pena de sofrer represálias. Não se pode esquecer o machismo existente nas corporações. 
+
+Em função do aumento na ocorrência de suicídio entre policiais, deverão ser cumpridas medidas de mitigação deste problema. Entre elas estão à elaboração de palestras sobre a prevenção ao suicídio, combater o machismo e o assédio moral nas corporações, além de ampliar o acompanhamento da saúde mental por psicólogos, psiquiatras, terapeutas e assistentes sociais ao longo da carreira. Recomenda-se também que os policiais militares procurem o Centro de Valorização da Vida quando se sentirem com pensamentos suicidas. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

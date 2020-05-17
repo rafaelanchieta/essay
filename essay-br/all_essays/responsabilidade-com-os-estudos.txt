@@ -1,0 +1,9 @@
+# prompt: O sucesso vem da escola ou do esforço individual?
+# score: 250
+# title: Responsabilidade com os estudos
+O ensino no Brasil está cada vez mais precário, a  falta de comprometimento do governo e da população com a educação está cada vez mais nítida. Porém, a cada dia  vemos jovens de origem humilde conquistando vagas na universidade e se formando, deixando para trás pessoas que são consideradas “escolarizadas”.Do que adianta ter um ensino de alta qualidade se os estudantes não se esforçarem? Mas será que vale apena prejudicar a minoria só por causa dos interessados?  Quando os estudantes almejam aquela  vaga na universidade, eles buscam vários meios para conseguir conhecimento  não se limitam apenas no  conteúdo que é oferecido na escola, vão atrás de novas  fontes como: biblioteca  e internet. É isso que diferencia os estudantes dedicados dos que apenas brincam de estudar.É necessário de  uma intervenção do governo na educação, pois esses jovens dedicados aos estudos necessitam receber apoio como: matérias,  ensino com qualidade. E os jovens desinteressados precisam de incentivos para que comecem  se interessar cada vez mais pela vida acadêmica.Portanto, estudantes mais esforçados tem  mais sucesso do que aqueles que ficam apenas parado, independente se estuda ou não em escola pública. Contudo  por mais que haja estudantes interessados em aprender  é preciso ter um suporte por parte do governo, que dê uma base há  esses jovens para que eles possam aderir cada vez mais  conhecimento. 
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

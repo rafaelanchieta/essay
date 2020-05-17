@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 320
+# tittle: A Importância da Amazônia
+A Floresta Amazônica é um ambiente muito importante para o Brasil, tem enorme variedade animal,vegetal e cultural, por esse fator é importante proteger tal patrimônio natural. 
+
+O filme de animação `` Rio 2``.  retrata,  a beleza e o desmatamento da amazônia, duas ararazinhas-azuis que foram procurar seus donos na floresta e acabam se encantando com o lugar, porém mostra lugares que foram desmatados. O desmatamento pode ser através das queimadas ou arvores cortadas. 
+Segundo a geógrafa e diretora de ciência do IPAM , Ane Alencar, o aumento de incêndios deste ano não está relacionado a periodos de seca mais intensos, os apoios de ONG´s ONGs , fiscalização de queimadas e os ensinamentos nas escolas,  contribuem para a preservação. 
+
+É importante a preservação da floresta amazônica para que ela não seja extinta, não perca inúmeros recursos, como a biodiversidade, pesquisas de medicamentos e os inúmeros recursos ainda não descobertos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

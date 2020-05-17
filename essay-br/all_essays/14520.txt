@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: O indígena no Brasil: a conservação de um patrimônio cultural brasileiro.
+A Carta de Pero Vaz de Caminha conta o primeiro contato dos portugueses com os indíos demonstrando um olhar Eurocêntrico ao relatar que o melhor que eles poderiam fazer em relação a esse povo,  seria salvá-los através da catequese. Essa clara visão de soberania tornou-se um legado trazido até os dias atuais . Nesse sentido, cabe analisar as principais consequências de tal postura para a sociedade indígena no Brasil.
+
+Partindo do fator histórico de que os índios já habitavam as terras brasileiras muito antes da chegada dos exploradores europeus, convém ressaltar o conflito atual acerca da demarcação dos territórios indígenas. De acordo com o levantamento do CIMI   de 2018, 64% das demarcações não foram concluídas, permitindo que fazendeiros se apropriassem dessas áreas para desenvolver agricultura e pecuária. Por conseguinte, percebe-se que a Constituição de 1988  que estabelece o direito dos índios às suas extensões, não está sendo cumprida, evidenciando o descaso político com o povo indígena. 
+Faz-se necessário salientar a subjugação da cultura indígena e a exclusão social como impulsionadores do problema. Se durante o indianismo o índio era retratado como um herói nacional pelos escritores do romantismo no Brasil, hoje essa representação não se aplica ao cenário atual. Diante de tal contexto, é necessário enxergar o índio não apenas como um elemento de formação da nossa noção, mas como um patrimônio histórico e cultural brasileiro a ser preservado e respeitado. 
+
+Portanto, indubitavelmente, medidas são necessárias para resolver esse problema. Cabe ao governo,  demarcar mais expressivamente os territórios e garantir sua preservação por meio de fiscalizações mais incisivas. Em paralelo, o governo deve trabalhar juntamente com a FUNAI e o MEC  para investir em medidas e materiais educativos que abordem sobre a cultura do indígena e a importância da mesma  para a construção de uma sociedade pluriétnica e multicultural.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

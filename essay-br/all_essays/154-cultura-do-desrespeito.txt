@@ -1,0 +1,15 @@
+# prompt: bicicletas-e-ciclofaixas-estao-chegando-para-ficar
+# score: 5,5
+# title: Cultura do desrespeito
+O uso da bicicleta como meio de transporte tem se mostrado uma alternativa pertinente à solução deproblemas, de grandee médias cidades, tais comodamobilidade urbana edapoluição. Porém, a utilização dessa de forma efetiva – não só para lazer – vem sendo questionada, vistoque, ainsegurança e o desrespeito ao ciclista, no tráfego,provocadúvidas quanto à sua real viabilidade.
+         A cultura do desrespeito ao próximo é uma das principais causasao desuso das bikes, pois os carros não respeitam as ciclofaixas, nem, muito menos, os ciclistas. Desse modo, o trânsito caótico torna-se
+         paradoxal , pois devidoàengarrafamentos os motoristastemsido
+         influenciadosàinvadiremciclofaixas, assim, inviabiliza-se a solução para a mobilidade urbana: as bicicletas.
+         Com isso, oultrajeàs ciclofaixastem astransformado em mais um problema para a questão do tráfego caótico, poisessasnecessitam de espaço nas
+         rodovias , comprimindo o já saturado trânsito brasileiro. Entretanto, se utilizada de forma adequada, torna-se completamente viável, pois cada pessoa que preferir a bicicleta ao automóvel reduzirá, consequentemente, o fluxo de carros. Destarte , é imprescindível a preparação da população,incentivando ouso adequado da bicicleta, bemcomo, aconscientização de motoristas acerca do respeito ao outro. Para que,através das bicicletaspossamos garantir uma melhor qualidade de vida e de mobilidade urbana.
+         Outrossim , é mister a criação de multas severas para os condutores quedesrespeitemas ciclofaixas e osciclistas. Alémda conscientização da população sobreas benessesdabicicletaem campanhas promovidas em outdoors emídias televisivas, com debates acerca do tema. Para que,possamos criar uma geração baseada em valores derepeitoe qualidade de vida.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,13 @@
+# prompt: horario-politico-obrigatorio-bom-para-quem
+# score: 5,5
+# title: Horário "humorístico" gratuito, obrigatório
+Em uma sociedade democrática, qualquertema,que esteja empauta,e que atinja a todas asclasses,vai causar opiniões adversas e variadas sobre o assunto. Não seriadiferente,sobre a exibição do "horário eleitoral gratuito", que nada maisé,do que o horário que as emissoras detelevisão,vendem aoGoverno,para exibição da propaganda eleitoral gratuita aos candidatos.O que sustentaque osmesmostenham as mesmas oportunidades, emquestõesde tempo e espaçosobre esse veículode comunicação,independente de poderes aquisitivos.Mas a questãoé,se nós cidadãos somos quem pagamos para receber as propostas apresentadas nos programas eleitorais,porquenão temos o livre arbítrio deescolhermos, sequeremosassistirtalprogramação ou não, e se quer recebemos respeito por partes dos candidatos se que expõe?O órgão defensor da lei sustentaque,esse é o momento em que os candidatos dispõem-se para apresentar seu programa degoverno,aos seus eleitores.
+         No entanto, esse tempo que deveria ser destinadoaexposição, séria e consciente, do candidato ao seueleitor,tem perdido suacredibilidadea cada eleição que passa. A propaganda eleitoral, ao invés de ser levada a sério por parte dos candidatos, tem sido levada na
+         brincadeira por muitos, que chegam a utilizaro espaço, para fazerempiadas,
+         brincadeiras echacotas, aseus adversários ouatemassociais. Oque temcausando repulsão peloscidadãos brasileiros.
+         Os programas eleitorais são impostos aos eleitores, que se sentemdesrespeitados,e sem ação sobre o assunto.Problema que seria minimizado a partir de um consenso comum. Seriainteressante uma reforma na lei que regeo mesmo,o direitoaescolha da programação deve ser de livre arbítrio por parte do telespectador, assim como a pauta dos programas apresentados devem serfiscalizados,e aprovados antes de serem exibidos. Se apenas uma emissoraaberta,fosse responsável pela exibição da horário eleitoral gratuito, a informação continuaria atingindo a todas as classes, os candidatos continuariam com o direito a sua exposição gratuita e tratariam do assunto com mais responsabilidade, e nós eleitores receberíamos o respeito que merecemos. Bom para os candidatos, melhor ainda para nós eleitores.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 0,5
+# C4: 1,5

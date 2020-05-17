@@ -1,0 +1,12 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 270
+# tittle: Onde a segurança está?
+O Brasil tem a terceira maior população carcerária do mundo, isso mostra o nível de violência que se encontra o país, a ineficiência do sistema judiciário em acelerar os processos  ocasionando assim a superlotação, em decorrência disso as rebeliões têm aumentado e é nesse momento que o governo necessita intervir,  e pensar:o que é necessário para reverter essa situação?. 
+
+Com uma grande população carcerária e a superlotação uma das proposta a ser considerada é a construção de novas unidades prisionais, investimento em segurança e o aceleramento do judiciário com os processos, atualmente nas unidades prisionais os detentos enfrentam grande dificuldade em ter uma cela pois,  as celas abrigam o dobro do seu limite dificultando na organização da mesma , além de dificultar a segurança do local .A violação dos direitos humanos básicos nas prisões tem gerando grande discussões sobre “Qual a melhor forma de manter os detentos?”,  Mas considerações devem se tomadas apesar de violarem leis ou cometerem assassinatos são seres humanos merecem aos menos condições dignas de sobrevivência não deixando de cumprir sua pena ou seja pagar sua divida com o governo .Algumas medidas  foram tomadas  mas não houve nenhuma solução, privatização de presídios dentre outras não resolveram nada,  Essa terrível situação nos  mostra a ineficiência que o Estado está dento em administrar á  a segurança da população e dos próprios detentos,não adianta apenas construção de presídios se não houver segurança eficiente para combater ao tráfico de drogas que tem ocasionado o maior número de prisões,as rebeliões tem ocorrido devido as organizações criminosas que estão tendo total liberdade e facilidade de invadir as unidades prisionais  mostrando um grande déficit na segurança brasileira e um grande problema que os estados estão tendo com o aumento da dominação de organizações criminosas e a extinção de uma segurança de qualidade medidas precisam ser tomadas e rápido. 
+È  É dever do Estado fornecer condições dignas de sobrivência á  à população,mas prezar pela segurança da mesma  é essencial, investir em segurança e na construção presídios são medidas essências nesse momento de caos que o país tem passado,  Nesse momento não será exigido apenas planos ou idéias ideias,mas ação dever ser a prioridade dessa maneira não dá. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 50

@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 500
+# tittle: A necessidade de inovação e incentivos fiscais à ciência e tecnologia no Brasil
+Após um período de 11 anos  desde a última crise de saúde, o mundo está novamente vivenciando uma pandemia,  causada pelo novo coronavírus. No Brasil,com o passar dos anos as universidades e institutos de pesquisa vêm sofrendo  com a redução de verbas.  Fator que compromente pesquisadores da ciência e tecnologia.
+Dessa forma, quando surge uma grave doença como essa, a população necessita de profissionais capacitados para estudá-la, rastrear sua origem e depois combatê-la.  Papel que não é e nem pode ser desempenhado  apenas por médicos ou enfermeiros.  devido ao desempenho no trabalho de pesquisadores e cientisas que o Brasil conseguiu uma posição significativa no cenário internacional. 
+Diante disso, a sociedade brasilera não pode aceitar que essas áreas do conhecimento sejam desprezadas, e sim prezar pela manutenção dos mesmos .  Pois,  esses trabalhos auxiliam indiretamente a todos. 
+Portanto,não somente o governo,mas empresas privadas devem financial  financiar e custear as pesquisas.  E é preciso uma inovação nos campus, para que as estruturas sejam capazes de comportar a todos e o acesso à informação deve ser ampliado para que mais estudantes se interessem pela ciência e a tecnologia. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

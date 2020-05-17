@@ -1,0 +1,12 @@
+# prompt: Patrimônio histórico e cultural brasileiro: um caso de descaso
+# score: 600
+# title: Adeus, Luzia
+A preservação da cultura nacional é de grande importância nacomteporaneidade. De modo que, lembrar-se. da  história é fundamental para projetar o futuro e evitar que os erros sejam repetidos. Embora,   na Era Digital  seja mais fácil de se perder  informações.
+Hoje, vive-se em uma época de extremos, como mencionou  o historiador Eric Hobsbaw . Dessa forma  é de grande importância a preservação da cultura  para que possamos sempre se  lembrar do que ocorre quando escolhemos um “extremo”. Mas  para a maioria dos políticos guarda à  memória de revoluções e lutas anteriores não é interessante para quem quer manter o status quo.
+Por sua vez,  a Internet possibilitou um grande aumento de informações e formas de se compartilhar e criar uma nova história. Contudo, o acervo cultural digital pode ser, a qualquer momento, com um apertar de botões,  “queimado” . Dificilmente um arquivo digital ira  resistir mais de 2  mil anos, como o Código de Hamurabi.
+Portanto;   museus, bibliotecas e arquivos devem estra sempre recebendo investimentos para ampliar seus acervos e melhorarem a segurança. Para isso  o Estado deve firmar parcerias com instituições privadas, como o que acontece com alguns teatros. Pois,   é a melhor das maneiras  de se garantir que as futuras gerações possam conhecer o passado e reivindiquem e também lutem contra o descaso de  nossas memórias.
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 150

@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 550
+# tittle: Leitura Vazia
+Às vezes são alunos até do ensino médio, outras vezes são adultos em idade de trabalho, o analfabetismo funcional é um problema de muitas gerações . Pessoas que lêem  leem um texto inteiro, mas chegando ao final dele não fazem idéia do que leram, lhe ensinaram a juntar silabas  sílabas e formar sons a partir das letras, mas não a tirar significado disso. 
+Sabendo disso  é muito fácil entender o prejuízo intelectual que um analfabeto funcional sofre  e ao mesmo tempo é possível medir a ineficácia do decorrimento   atual da nossa   educação. Porém no mundo atual onde a tecnologia se tornou recurso indispensável o analfabetismo funcional atrela um novo risco   já que notícias falsas são mais facilmente aceitas por pessoas que tem têm domínio parcial da interpretação. 
+Todos esses problemas estão unidos a uma serie de razões, Paulo Freire disse que educar não se limitava a transmitir o conhecimento, mas permitir que ele se desenvolvesse na mente do aluno. Porém  como pode ser observado atualmente, as escolas se preocupam mais em passar assuntos num determinado período de tempo do que em trabalhar a criatividade dos alunos. 
+Além do mais  o Brasil sofre com outro problema muito comum entre as classes mais baixas, a evasão escolar, muitas vezes devido a falta de apoio financeiro da família crianças se vêem obrigadas a abandonar os estudos e trabalharem para sobreviver. Outra causa que dificulta o resgate dessas crianças é o preconceito que sofrem em sala por serem repetentes ou terem menos aprendizado que o resto da turma. Ligado a isso ainda pode se citar a crença de que filhos de operários estão fadados a serem operários, as escolas se tornam fabricas  fábricas de empregados ao invés de ambientes de desenvolvimento. 
+Observando esse problema que causa danos diversos a sociedade  que vão desde de a alienação da população ate  até o sucateamento do ensino  cabe aos setores educacionais manterem de pé as iniciativas que adquirem material de estudo, oferecem transporte e alimentação gratuita a estudantes, além de possíveis bolsas de alfabetização e apoio de especialistas pedagógicos para que os obstáculos financeiros e sociais deixem de impedir que alguém possa entender o que lê. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,13 @@
+# prompt: enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre
+# score: 5,5
+# title: A conscientização é fundamental
+Um assunto bastante comentado nos últimos anos foram as mudanças climáticas em todo o mundo,ondea natureza vem mostrando sua força e muitas vezes acaba matando centenas de pessoas. E essa é uma das muitas desculpas utilizadas pelo nosso governo para que a população não venha culpá-lo pelas tragédias ocorridas. Mas afinal, de quem é a verdadeira culpa?
+         Podemos perceber realmente que o clima está sofrendo muitas alterações, porém sabemos que essas catástrofes acontecem praticamente todos os anos, portanto é preciso que nossos governantes tomem alguma atitude, para tentar solucionar ou, no mínimo, amenizar esses problemaspara que assim possaevitar tantas mortes.
+         De fato, o governo precisa melhorar muitas coisas , mas não adianta o governo fazer as mudanças se a população não mudar seu pensamento everque temos também uma parcela de culpa em tudoisso, asenchentes que ocorrem podiam ser evitadas se simplesmente as pessoas não jogassem lixos no chão e se o governomandassemfazer a coletadiariamente, tudo isso podem pouparque osbuerosse entupam, deixando a passagem livre para a água no momento de chuva.E assimpodemos notar que simples ações como essas salvariam muitas vidas.
+         É preciso que todos se conscientizem efaçaa sua parte
+         em vez de ficar procurando quem é o culpado, pois governo e população unidos trariam grandesresultados eevitariam grandes estragos e altos custos em ter que construir centenas de casas, reconstruírem cidades e muitas pessoas não perderiam seus familiares.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

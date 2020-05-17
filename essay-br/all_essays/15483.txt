@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 550
+# tittle: Seu campo de visão com os do mundo
+Segundo Zygmunt Bauman, sociólogo polonês, a falta de solidez nas relações sociais, políticas e econômicas é característica da “modernidade líquida” vivida no século XX. Nesse viés, a frase do autor,  reflete à a necessidade das mudanças de pensamento em relação ao anafalbetismo funcional no Brasil, visto que,  a sociedade atual anseia por informações instantâneas sem observar a veracidade dos fatos .Dessarte, deve-se atenuar esse entaro por meio do hábito de leitura diária e da busca por informações confiáveis nos meios de comunicações. 
+Mormente, é valido ressaltar que todos os homens têm, por natureza, desejo de conhecer. Tal afirmação, destacada pelo filósofo Aristóteles, evidencia que os seres humanos têm uma natureza tendenciosa de buscar conhecimento e, indubitavelmente, a leitura é o melhor meio para se alcançar esse desejo. Em contrapartida, pesquisas revelam dados extremamente baixos de uma população que não possui o hábito de ler. Dessa forma, fica claro que,  apesar de os indivíduos desejarem conhecimento, há diversos obstáculos sociais que impedem esse crescimento, e aqui nos cabe entender as motivações dessa deficiência na sociedade. 
+Outro ponto importante a ser destacado é que todo homem toma os limites de seu próprio campo de visão como os limites do mundo.Tal premissa, defendida pelo filósofo alemão Arthur Schopenhauer, fundamenta-se ao se observar que o indivíduo atual obtém a informação e a transfere sem tomar os limites de seu campo de visão com os do mundo.Sendo assim, percebe-se uma sociedade incapaz de observar e perceber uma informação incoesa a sua realidade, e que informações errôneas tendem a permanecer. 
+Infere-se,por conseguinte,  que é imperiosa a mudança de pensamento em relação ao analfabetismo funcional no Brasil. Nessse sentido, é necessário que as mídias forneçam notícias confiáveis a população,  através da verificação de sites, programas, rede sociais, a fim de que o indíduo  indivíduo saiba distinguir a informação verdadeira. Por conseguinte,o governo ratificar leis de proibição a sites de publicações de notícias não verificadas . Assim, será plausível a gradativa inserção dos alfabetizantes funcionais em nosso   país. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 50

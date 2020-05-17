@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 350
+# tittle: O Brasil e as jovens mães.
+A sociedade ao longo dos anos tem vivenciado um momento de crescimento de jovens que engravidam devido a vida sexual ativa que desenvolve desde muito cedo , onde muitas garotas deixam-se levar por influência de seu parceiro e amizades . Afinal, o que realmente falta para haver um controle nesse aumento de nascimento de jovens mães? 
+É sabido de dados sobre gravidez de meninas entre 15 e 19 anos ,  tem sido bastante elevado, decorrente da falta de uso de pílula anticoncepcional, por motivo de não achar ser necessário, e após nascimento de criança as garotas não possuem tempo para voltar aos estudos e retomar suas outras atividades, em algumas das vezes por sentirem vergonha dos olhares da sociedade . Ciente deste fato observa-se que não há um planejamento familiar, nem tampouco conhecimento suficiente das adolescentes acerca dos riscos que a gravidez pode acarretar, em algumas das vezes por motivo do corpo da mãe não estar totalmente apto para gerar um filho. 
+Entretanto algumas famílias não se posicionam acerca de educar e orientar sobre a vida sexual , deixando a mercê dos mesmos , a responsabilidade unilateral de educar-se sexualmente, faz-se necessário abordar que não é apenas dever dos pais dialogar à respeito do assunto. 
+Em seguida, é relevante examinar as possíveis dúvidas que com certeza as jovens mães possuem a respeito dos passos a seguir durante toda a gestação, e mostrar a importância de cuidar bem de sua saúde para não só agregar bem estar para si, mas respectivamente para o bebê . É pertinente que a população aceite que a gravidez precoce não deve em si ser encarada como um problema, mas sim, deve-se evitar o surgimento precoce de gravidez entre garotas que ainda deviam estar focando nos estudos e crescimento pessoal. 
+Assim cabe ao Estado investir mais em projetos nas comunidades , principalmente as mais carentes, visando fazer abordagens aos cuidados que as jovens devem ter ao iniciar sua vida sexual, e ressaltar a importância de dedicar-se aos estudos para conseguir ingressar de forma produtiva no mercado de trabalho, desenvolvendo de maneira ágil a reflexão acerca de como ser independente financeiramente. 
+Por fim, deste modo é mais viável agrupar tanto conhecimento quanto consciência em meio as adolescentes,  que se encontram sozinhas em seus pensamentos imaturos  e sem estrutura para lidar com seus instintos a flor da idade. Deve-se alertar também sobre as doenças advindas de relações desprotegidas e suas consequências, construindo imagens que representem a importância e gravidade dos fatos. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

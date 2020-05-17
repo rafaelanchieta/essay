@@ -1,0 +1,12 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: [Redação sem título]
+Desde a Revolução Industrial,  vários meios de prevenir doenças são estudados para uma melhor saúde física e mental da sociedade. Atualmente, a vacinação é a forma mais segura e eficaz, seja no combate a doenças infecciosas através da erradicação , seja para redução de gastos com medicamentos.
+Primeiramente, entende-se a erradicação como eliminação total de algo em âmbito global ou em determinado país. Tal processo apresenta pontos positivos quanto a estruturação de sistemas de imunização, vacinação e vigilância sanitária. Logo, quanto maior o número de doenças extirpadas, menor serão os atendimentos para o sistema de saúde. 
+Ademais, a falta de atenção da população a manter o cartão vacinal em dia,  proporciona altos custos no uso de remédios caros, tratamentos sem solução, risco de mais contágios e até mesmo a morte. Confirmam-se dados recentes de 3.339 casos de sarampo em 16 estados , pela ONS, tendo maior impacto em São Paulo e causando três mortes . 
+Portanto, faz-se necessário que o PNI  do Ministério da Saúde  em parceria com o governo,  deve por meio de reuniões e campanhas para contínua erradicação de doenças , produzir ainda mais vacinas a fim de manter uma sociedade saudável, segura e duradoura. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

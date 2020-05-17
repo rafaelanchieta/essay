@@ -1,0 +1,13 @@
+# prompt: Escravizar é humano?
+# score: 150
+# title: Escravizar: um ato desumano!
+Escravizar é o ato de forçar as pessoas a fazerem atividades trabalhistas contra sua própria vontade . Após a lei áurea, em 1888, (lei que aboliu o trabalho escravo no Brasil)   escravos de todo o Brasil,   ganharam sua carta de alforria justamente para libertar-se desse tipo de exploração trabalhista. Mas, em pleno o  século XXI, infelizmente, ainda existe o trabalho escravo . As pessoas mais atingidas com a escravidão na era contemporânea são as classes de famílias pobres, por não possuírem recursos financeiros,  essas pessoas se rendem a fazerem trabalhos que exigem normas desconhecidas pelos direitos trabalhistas.  
+Com a  perspectiva de vida  melhor, muitos submetem-se a à exploração e aceitam condições desumanas ao suposto trabalho . Indivíduos sem condições financeiras, se  sujeitam a toda e qualquer proposta de emprego, mal remunerado, e que ultrapassam os limites da jornada de trabalho e das leis trabalhistas. 
+Normalmente, pessoas que sofrem com especulações trabalhistas,  passam por situações constrangedoras, como: Abusos  sexuais, traumas psicológicos, agressões física e mental, entre outros. E por medo de perder o emprego viram submissos a essas situações desconfortante .
+Famílias de baixa renda são os mais vulneráveis a  exploração trabalhista, por  não terem condições financeiras viram reféns do abuso trabalhista. O trabalhador, é  sujeito a fazer esforço excessivo e de sobre carga  para conseguir sustentar mais dias no suposto trabalho.
+Com a escravidão durante o século atual, os direitos trabalhistas são deixados de lado pelo os empregadores. O reforço do governo nos direitos trabalhistas e na fiscalização de empresas e micro empresas, colocariam  em extinção o trabalho escravo. O aumento na  taxa de exploração nas empresas atuais elevam-se  a cada ano, e se não tiver um porta-voz para combater esse crime aos  direitos humanos teremos pessoas se "acabando" de trabalhar para ganhar um salário desmerecido.
+# C0: 50
+# C1: 0
+# C2: 50
+# C3: 0
+# C4: 50

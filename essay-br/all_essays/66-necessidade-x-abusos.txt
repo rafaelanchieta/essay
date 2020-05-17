@@ -1,0 +1,16 @@
+# prompt: experiencias-com-animais-e-violencia-em-manifestacoes
+# score: 4,5
+# title: Necessidade x abusos
+O uso de animais em experimentos científicos (para fins farmacêuticos) é um tema bastante peculiar, pois coloca duas coisas em oposição: a necessidade de setestaros medicamentos
+         que - após os testes - serão usados por muitos cidadãos, e a questão da proteção aos animais usados nestes. Todavia, vale frisar queestestestes são necessáriosdevido aos efeitos colaterais que os medicamentos trar-nos-ão.Muitos remédios antes de serem colocados à exposição dos cidadãosdevem ser analisados,isto porque[pois] alguns podem trazer efeitos indesejáveis
+         ao usuário do mesmo. Exemplo : há um medicamento denominado sulfato de salbutamol, utilizado por asmáticos eoutremque têm problemas respiratórios.Estemedicamento tem como efeito colateral a taquicardia (aumento dos batimentos cardíacos) e
+         isso é um exemplo . Os testes em animais,justamenteservem parasaber se estes efeitos de antemão, antes que o remédio seja liberado para o uso dos cidadãos; assim todos saberiam dos riscos e prevenir-se-iam. Em suma, os testes são necessários. Não obstante, desde que sejam para fins médicos e que não exagerem naquantiade animais usados, serão benéficos a todos.
+         Com relação às manifestações, há um problema: foram feitas de forma delituosa, já quehouverainvasão duma propiedade privada e furto
+         destes animais.Esteproblema, outrossim, deve-se à falta de informações sobre os experimentos que ocorreram em tal laboratório, pois - segundo os propietários - foi tudo feitocom legalidade, apesar dalguns animais terem sido encontados em situações
+         estarrecedoras . Portanto, antes de quaisquer coisas, é preciso haver mais sabedoria em relação a quem pratica uma invasão do tipo, porque,muita vez, é preciso o sacrifício duma vida para
+         perpetuar outra.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

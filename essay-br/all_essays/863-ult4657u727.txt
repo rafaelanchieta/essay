@@ -1,0 +1,12 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 8,5
+# title: Por quais motivos o Brasil se pinta
+O esporte é, no mundo inteiro, responsável pela mobilização e fascinação de muitas pessoas. Na Grécia antiga, a competição esportiva com o intuito de encontrar o melhor em cada modalidade competida, deu origem aos atuais jogos Olímpicos. Há anos, o ser humano tem esta necessidade: demonstrar força e agilidade. Cada povo, de acordo com suas tradições e costumes, é apreciador de um determinado esporte. Nos Estados Unidos, o basquetebol ocupa lugar de destaque. No Japão, as lutas são bem populares. No entanto, nenhum dos esportes praticados no mundoconseguiram, até hoje, alcançar a popularidade do futebol, sendo ele o mais praticado.Criado pelos ingleses,o Brasil
+            foi o país que mais bem soube absorver seus fundamentos, chegando ao ponto de ser conhecido como "país do futebol". Suas regras simples possibilitam a prática por qualquer um, seja rico ou pobre. Existe até um ditado popular: "futebol não se aprende na escola", ou seja, num país carente por educação, nossos maiores ídolos não vieram da área acadêmica, mas sim das periferias do país, são os jogadores. É previsível que um esporte tão democrático cause tanta comoção popular. Em época de Copa do Mundo, o brasileiro se veste de verde e amarelo, se pinta, torce, vibra e sente orgulho de ser brasileiro. Uma verdadeira demonstração de patriotismo. Porém, não é só em época de Copa do Mundo que se vê isso nas ruas. Na década de oitenta, durante a redemocratização, o brasileiro também foi às ruas pedir "Diretas já". No caso conhecido como"Impeahtimando Presidente Collor" o brasileiro se pintou de verde e amarelo e foi às ruas exigir a saída do então Presidente.
+              Atualmente, o Brasil é um país democrático, pacífico e em desenvolvimento, há muito a ser melhorado, porém, conseguimos diminuir a pobreza e há programas de governo pelo fim da fome.Destaforma, nada mais evidente quedemostrarpatriotismoatravésde um esporte em que somos considerados os melhores
+                e, desde a década de cinquenta, temos muitos títulos, e também, em épocas difíceis em que o patriotismo era algo impositivo para mascarar a opressão, e não espontâneo como agora.
+# C0: 1,5
+# C1: 2,0
+# C2: 2,0
+# C3: 1,5
+# C4: 1,5

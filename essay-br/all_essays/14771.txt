@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: [Redação sem título]
+Proferida pela ONU , em 1948, a Declaração Universal dos Direitos Humanos alega a todos os indivíduos o direito à seguridade e ao bem-estar social. Contudo, a reforma da previdência no Brasil se manifesta como um impasse na conciliação dos dois eixos sociais, tendo em vista que a perpetuação do esforço psíquico e físico no trabalho, a qualidade de vida deprecia-se. Nessa perspectiva, os empecilhos  impostos devem ser superados para alcançar uma sociedade integrada.
+
+Em primeiro lugar, vale destacar que a idade mínima da seguridade se mostra elevada, equivalente aos mesmos padrões de países com maior população de idosos e com melhores condições de vida, segundo dados da Globo. Infelizmente, tais táticas que se mostram eficientes em outros países não necessariamente são benéficas no Brasil. Além disso, o fim da aposentadoria antecipada para mulheres é um ato incoerente, visto que elas possuem dupla jornada e condições de trabalho adversas, além de ganharem 86% do salário dos homens, de acordo com a Globo. 
+Em segundo lugar, a anulação de condições especiais de policiais federais é insensata, pois a categoria, diferentemente de trabalhadores rurais e comuns, lida com atividades de risco, e maior tempo no ramo significa maior período exposto em situações perigosas, além de ser um trabalho árduo e difícil de lidar,  pelo tempo longe dos laços afetivos. 
+
+Urge, portanto, uma revisão nas propostas de intervenção da nova reforma previdenciária, levando em conta as dificuldades que serão impostas à sociedade . Destarte, o Estado deve procurar Decretos autoritários de forma a acessar a conta corrente dos devedores do seguro social, com intuito de recuperar, nem que metade, do que lhe´é devido e diminuir o período para a aposentadoria do trabalhador brasileiro, e ter por consequência o bem-estar e a saúde da população preservada. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,20 @@
+# prompt: toque-de-recolher-protege-juventude-e-sociedade
+# score: 1.5
+# title: Toque de Recolhe uma medida oportuna a violência
+O Brasil vive hoje grande dificuldade para combatera violência,cada diamais crianças e jovens entram para o mundo do crime. No intuito de diminuir a criminalidade infantilalguns estados estão adotando o
+        Toque de recolhe, que nada mais éa proibição de menores em bares, lanchonete, lan house, bailes
+        e etc, após certo horário estabelecido pelas autoridades.
+        O lançamento desteprojetotem gerado muita polêmica, porém é de grandesignificânciaque os governantes busquem alternativas quanto aos menores que
+          consomedrogas e
+          pratica crimesemmenhumjuízo de valor ou interdição.Uma vez que tomadaestadecisão, menores não estariam altas horas da noite nas ruas das cidades, disponíveis aos traficantes,consequentementea violência etráfico de
+            drogapraticado por menores iria diminuir.O que se esperar com <wrong>esta</wrong> <correct>essa</correct> decisão, não só a diminuição da criminalidade, mas sim alternativas que tragam
+              beneficiouaos lares e
+              ainfância de milhares de crianças que vivem hoje em função do crime organizado.
+              Dessa formagovernantes poderiam investir mais em educação e lazer resgatando a puerícia dessa juventude tão problemática. O que não podemos aceitar énossas crianças
+                ,nossos jovens sendo
+                vítimade tanta barbárie.
+# C0: 0.0
+# C1: 0.5
+# C2: 0.5
+# C3: 0.0
+# C4: 0.5

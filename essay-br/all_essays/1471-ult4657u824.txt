@@ -1,0 +1,15 @@
+# prompt: hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco
+# score: 1,0
+# title: As Conquistaconquistas dos negros
+Segundoaspectohistóricos, mostra como os negros sofreram para conquistarem os seus espaços na sociedade, onde foi conquistada de forma lenta, pois foramlongoanos de escravidão.
+        Muitos morreram sem saber como é sentirlivre, sem ter a obrigação de cumprir longas horas de trabalhos, em troca da sobrevivência.Asvezes, é duro saber que existiramépocaem que a sociedade pensava de forma tãodesumanas, em que o destino dos negroseram decididosapenas pela cor da pele,ondeos brancos eram considerados raças superiores. Hoje,os negrosganharamoseus espaços na sociedade, apesar de existirem algumas discriminações contraos negros.
+        Os crimes de racismo existem leis que são aplicáveis de forma severas aos culpados. Hoje obrasil estamaisdemocráticos, os negros estão tendo mais acessos as faculdades, outros ingressam na carreirapoliticas, embora
+          sejam muitos inferior aos brancos , mais estão pelo menos conseguindoentrade forma proporcional. Mudar a mentalidade do povo brasileiro em relaçãoacomunidade negra dopais, antes eram uma tarefa impossível,maishoje, as coisas mudarammuitosem relação ao passado, pois estão surgindo mais oportunidade
+          a elas . A sociedadeestaciente de que os negros merecemmuitos respeitos, poislongosda história sofreram muitospor causa da cor da pele. A sociedade nãoestaaceitando que a mentalidade das pessoas quevêemoscomo uma sociedade de segunda classe. Pois temosgrande artista, grandes políticos como Nelson Mandela que se destacaram por seus talentos e conquistaram a sociedade.
+            A sociedadesabemque as punições aos casos de racismo são muitos severas, pois na teoria elas são severas,maisserá que na pratica é realmente, severas.
+              No entanto, resta a sociedadecobrados poderes da justiça, para que as punições aos autores de crimes deracismos seja compridos.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 220
+# tittle: Casamento arranjado
+Convivemos   diariamente com as consequências de meninas grávidas na adolescência,que vem desde a civilização antiga.
+As meninas casavam e iniciavam sua vida assim que acontecia a menarca , o casamento arranjado pelos pais e a gravidez precoce era uma prática comum. 
+A taxa mundial de gravidez na adolescência é estimada,  em 46 nascimento para cada 1 mil  meninas de 15 a 19 anos. 
+Portanto a gravidez na adolescência é uma cousa que já vem de décadas, e conforme se passa o ano o índice só aumenta. 
+# C0: 100
+# C1: 50
+# C2: 20
+# C3: 50
+# C4: 0

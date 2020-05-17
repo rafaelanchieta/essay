@@ -1,0 +1,14 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 550
+# tittle: Desigualdade e fome ainda presentes no Brasil
+Como disse o poeta e dramaturgo Bertolt Breacht,  “Para quem tem uma boa posição social, falar de comida é coisa baixa. É compreensível: eles já comeram.”. Visto isso, é possível afirmar que a fome e a desigualdade social estão diretamente ligadas. No Brasil é algo muito presente e pouco discutível, pois os órgãos responsáveis não são atingíveis diretamente por essas questões. 
+
+É válido ressaltar que outros motivos agravam a situação, como a crise econômica que atinge o país e gera milhares de desempregados, o que resulta em famílias sem condições para se manterem, atendendo assim suas necessidades básicas . Temos  também as características climáticas, como a seca e as enchentes que afetam àqueles que dependem da atividade agrícola para sua renda ou até mesmo para seu próprio sustento. 
+Outrossim, é que mesmo o governo implantando projetos sociais, como “Fome Zero” e “Bolsa Família”, criados no ano de 2014 , não foi o suficiente para uma solução definitiva. Um relatório da Organização das Nações Unidas para a Alimentação e Agricultura , mostra que no Brasil, no ano de 2017, 2,5% da população, ou seja, mais de 5 milhões de pessoas ainda passavam fome ou tinha alimentação insuficiente. )
+
+Baseado nisto, vemos  que a fome e a desigualdade social ainda são um problema a ser discutido e solucionado no Brasil. Cabe ao governo, juntamente com órgãos competentes, tomarem medidas válidas para que todos os atingidos possam ter garantias de mão de obra valorizada, vivendo assim de forma confortável, tendo suas necessidades supridas. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 350
+# tittle: ANALFABETISMO E SOCIEDADE
+Pode -se afirmar que a presença dos Jesuítas,  trouxe a aprendizagem, assim sendo à a alfabetização dos índios . Atualmente a educação,  ocorre em ensino regular, embora muitos chegam  cheguem ao ensino superior incapazes de interpretar textos e cálculos matemáticos. 
+Em primeiro lugar Padre Antônio Vieira`` A boa educação é a moeda de Ouro. Em toda parte, tem valor, ´sabe- que a precariedade educacional, levam os discentes a não interagir com a leitura, entretanto muitos docentes preocupam em cumprir os currículos e levam adiante a negligência. 
+Em segundo lugar os recursos de tecnologia,  não utilizados de forma eficaz levam aos cidadãos à lentidão ao analfabetismo funcional , entretanto está ineficiência deixa as políticas econômicas a repensar sobre as necessidades. 
+Por fim, segundo o IBGE Instituto Brasileiro Geográfico  este número  de pessoas sem instrução formal tem sido diminuindo em XXI, por outro lado a população estão adquirindo seus conhecimentos em uma democracia da sociedade.  
+Diante a suma o Ministério da Educação   deve implantar apoio as mídias por meio de propagandas de televisão e uso da internet, o qual pode ser semanal  estimulando a leitura de jornais e livros  a fim reduzir a ignorância apropriando da capacidade criativa. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 50

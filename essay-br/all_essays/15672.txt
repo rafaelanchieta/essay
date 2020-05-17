@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Ciência para um mundo melhor
+É indiscutível que o coronavírus atingiu praticamente todos os países do globo, levando  muitos pesquisadores a uma força tarefa para desenvolver uma vacina eficiente. O filósofo francês Auguste Comte já dizia que a ciência pode ser usada para construir um mundo melhor, fato esse que se comprova em um momento de pandemia, no qual a ciência mostra a sua importância. 
+O planeta já passou por algumas pandemias anteriormente, umas maiores que outras, mas todas fazendo  milhares de vítimas nos diversos continentes. A maior delas foi, possivelmente, a da Gripe Espanhola  e a última, a Gripe Suína . Comparando-se o número de mortes dessas duas pandemias, ambas causadas pelo influenzavírus H1N1, é possível perceber que o caso do século XX foi muito mais letal . Considerando  os avanços científicos ocorridos entre uma e outra, pode-se ver que a ciência possibilitou um certo controle sobre o surto, além da produção de vacinas e medicamentos para a doença. 
+ Vale ressaltar, também, que o artigo 218 da Constituição Federal de 1988 estabelece que o Estado é responsável por promover e incentivar o desenvolvimento científico, a pesquisa e inovação. Sabe-se que as universidades públicas são as maiores produtoras de conhecimento científico no país, porém a falta de investimentos nessa área torna a situação das mesmas , precária, dificultando  o andamento de pesquisas que poderiam vir a fazer grandes contribuições em momentos de pandemia. 
+Em vista dos fatos apresentados, vê-se que a ciência faz um papel importante no combate à doenças, inclusive as que venham a infectar milhares de pessoas ao redor do mundo. Para garantir o cumprimento de tal papel, torna-se essencial a intervenção do Governo, em conjunto com o Ministério da Ciência, Tecnologia e Inovações, destinando  maiores investimentos às universidades públicas brasileiras, com foco especial no desenvolvimento de pesquisas . Além disso , a escola tem o dever de, desde o início da vida acadêmica dos estudantes, incentivar a formação de futuros cientistas e pesquisadores . Dessa forma, será possível que a ciência ajude na construção de um mundo melhor.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

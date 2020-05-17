@@ -1,0 +1,15 @@
+# prompt: lixo-questao-de-cidadania-e-responsabilidade-social
+# score: 2,0
+# title: (Sem título 044)
+Atualmente o lixo é um grande problema nas cidades, principalmente na cidade de São Paulo onde o cidadão deve cumprir com a sua responsabilidade socialemquestão do lixo, pois
+         gera problemas ambientais, fazmau asaúde e aumenta os lixões.
+         Devidoaquantidade excessiva de lixo produzido pela sociedade, muitas vezes
+         são destinados a lugares inadequados onde gera problemas ambientais que sãoprejuidiciais àtodos nós e que podem se tornar um problema maior no futuro.
+         Com a má localização do lixo onde se encontra em situação precária a contaminação toma conta de tudo ao seu redor, causando doençasapopulação inclusive aos catadores de lixo.
+         As pessoas não possuem o hábito da reciclagem, então após a coleta de lixo seu destinoserá para os lixõesa céu aberto onde cada vez mais aumentam a quantidade deresiduose lixos que não deveriam ser despejados ali.
+         Sendo assim a sociedade deve colaborar evitando o desperdício demateriasise ajudando na reciclagem, assim diminuindo a quatidade de lixo e contribuindo para um mundo melhor.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

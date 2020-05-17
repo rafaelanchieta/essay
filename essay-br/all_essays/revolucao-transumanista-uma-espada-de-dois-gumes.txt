@@ -1,0 +1,12 @@
+# prompt: Ciência, tecnologia e superação dos limites humanos
+# score: 600
+# title: Revolução transumanista: uma espada de dois gumes
+É notório que o desenvolvimento tecnológico vem crescendo muito ao longo do tempo, principalmente após a revolução industrial. Tal desenvolvimento busca sempre melhorias para a vida do ser humano, mas muitas vezes não se observa isso na pratica .
+Cabe mencionar que graças ao avanço tecnológico, principalmente no ramo da biotecnologia varias enfermidades que antes eram intratáveis torna-se hoje tratáveis, podemos citar como exemplo a radiação sendo utilizada para matar as células cancerígenas, sendo assim esse procedimento hoje é muito utilizado no tratamento de várias espécies de câncer. Podemos citar como exemplo também o HIV que é uma doença incurável, mas graças ao avanço da biotecnologia, há remédios que podem reduzir drasticamente a progressão da doença. Então, no que tudo indica, a revolução do transumanismo é só questão de tempo.
+Entretanto a de se pensar qual será o preço dessa tecnologia, em que a ciência garantira a saúde, a juventude e a imortalidade. Será que todos terão condições financeiras para adquirir tal tecnologia ou vai ser algo onde os ricos viveram para sempre, enquanto os pobres que não tem condições para adquirirem , viverão mendigando cada segundo por algo que não poderão ter. o filme "O preço do amanhã" daria uma boa ideia de como possa ser essa nova sociedade futurista, onde e a sociedade é bem dividida entre os pobres, que trabalham, e os ricos, dominantes, sendo que só os ricos teriam viva eterna . 
+Feitas as devidas reflexões, percebe-se que o avanço da tecnologia é indispensável para a melhoria de vida da humanidade. mas o ponto chave é torna tau tecnologia acessível a todos. Para isso precisa-se que os governos invistam mais no desenvolvimento tecnológico e não apenas os grandes capitalistas que só visam o lucro. Para quem sabe assim, o governo possa através de suas políticas torna tau tecnologia acessível a todas as classes sociais.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

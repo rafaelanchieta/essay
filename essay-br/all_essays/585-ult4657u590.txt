@@ -1,0 +1,15 @@
+# prompt: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao
+# score: 4,0
+# title: A rigidez dos modelos sociais.
+Nossa sociedadee implacavel.Impoemodelos quesãoextremamentesrígidos.
+        Temos diversas tribos, ideologias religiosas,gastronômicas,
+        esportivas eestéticas. O caso divulgado recentemente da estudante Geisy
+        Arruda,eum grande exemplo dessaintolerânciapara com os modelosnãoaceitos pelas diversas esferas da sociedade.
+        Os modelos surgem,sãodivulgados pelamidiatelevisiva, programas populares, jornais e revistas e podem ounao seremaceitos. Fadados ounao aeternidadeefemera, que pode ser alguns meses ouquicaanos, passam a ser normais do ponto de vista das tribos, e aceitos pela sociedade. A partirdai, se tornam coisas corriqueiras. Atualmente, o uso de brincos pelos homensnao mais causam impactos.Hatempos, o cigarro era status social, atualmentedegradacao.
+          A individualidadeestaesquecida. Tudo o que for fora dessespadroes nao seraaceito. Essae a determinacao do padraosocial vigente. Um vestido curto,
+            um trejeito espojado , um sorriso malicioso e anao aceitacaopode acabar embarbarie. Atitudes animalescas,irresponsaveis e antidemocraticas. Fruto da rigidez dospadroesimpostos. Foi o que aconteceu com a estudante, pois elanãoestava nospadrosdo momento e no contexto social.Foraimplacavelmente depredada socialmente. Antes mesmo de aceitarmos ounaoem nossointimo, devemos fazer umareflexao. Jáque determinada atitude ou modeloestetico nãolhe condiz, que ao menos, externe sua civilidade, sua cidadania, seu respeito para com as individualidades alheias. Atitudesanimalescas, refletem acimade tudo, falta de estrutura familiar etambémdiscernimento do quee ou nãoproveitoso para sua individualidade.Desrespeito e irracionalidade, nao cabemem lugar algum.Respeite-setodas as individualidades e que se estruture o sensocriticopara avaliar o que deve ounaoser incorporado no cotidiano. A rigidez dos modelos sociaisrevelam[revela] atitudes de manada,ondeo barulho e a poeiraequemditamo norte a ser seguido.
+# C0: 0,5
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

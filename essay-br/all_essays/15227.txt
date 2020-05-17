@@ -1,0 +1,16 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 160
+# tittle: [Redação sem título]
+Relativo à democratização do acesso ao cinema no Brasil é correto afirmar que a massa brasileira se encontra nas periferias, possuem baixa renda  e com isso surge a dificuldade de frequentar o cinema . Porém com toda dificuldade podemos  ver a falta de conhecimento sobre o assunto. 
+Com isso a população não consegue se expressar em relação ao contexto cinematográfico. Por todavia também seria viável que uma base superior pudesse fornecer palestras e eventos com conteúdos históricos em comunidades relacionados ao cinema.  
+A maior parte da periferia brasileira é leiga em determinados conceitos, assim a falta de disponibilidade de acesso às redes sociais, livros e entre outros, acabam dificultando a aprendizagem.  
+Sendo assim  deverá ser alcançado mediante de ações que possam  resolver esse problema a ideia é fornecer programas que envolve a sociedade em um meio de aprendizagem e conhecimento sobre assuntos cinematográficos . Dessa forma, as pessoas que não conseguem ter acesso ao cinema com facilidade, o cinema vai até elas de forma divertida e didática. 
+
+
+
+
+# C0: 50
+# C1: 20
+# C2: 20
+# C3: 50
+# C4: 20

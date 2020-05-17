@@ -1,0 +1,17 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 600
+# tittle: Utopia da vacinação
+Thomas More, escritor inglês, na obra "Utopia",  retrata um mundo perfeito, no qual o corpo social padroniza-se pela ausência de conflitos e problemas. No entanto,  o que se observa na realidade contemporânea é o oposto do que o autor prega, uma vez que a efetivação das campanhas de vacinação enfrentam barreiras , as quais dificultam a concretização dos planos de More. Esse cenário antagônico é fruto tanto da ineficiência das políticas públicas pró-imunização, quanto do setor mídio-social  atual que corrobora para circulação de notícias falsas acerca das vacinas. Diante disso, torna-se fundamental a discussão desses aspectos, a fim do pleno funcionamento da sociedade. 
+
+Primeiramente, é importante pontuar que o déficit na taxa de imunização deriva da baixa atuação dos setores governamentais,  no que concerne à criação de mecanismos que coíbam tais recorrências. Segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto, isso não ocorre no Brasil . Devido à ineficiente de atuação das autoridades,  os multirões de vacinação não atende a todos, seja pela falta dos injetáveis ou pela recusa populacional às campanhas, e o reflexo desse impasse é o reaparecimento de doenças antes já erradicadas. Desse modo, faz-se mister a reformulação dessa postura estatal de forma urgente. 
+
+Ademais, é válido ressaltar o papel das redes sociais como impulsionador do problema . Com advento da Internet,  as informações circulam rapidamente, como isso,  notícias falsas podem seguir esse caminho. Em 1998, Andrew Wakefield, médico britânico, divulgou um artigo que relacionava uma vacina específica ao autismo. Posteriormente,  descobriu-se que o artigo era falso, mas já era tarde demais, a informação já havia se espalhado. Partindo desse pressuposto, hoje, com a consolidação do meio conectado, os boatos inverídicos contra à vacinação circulam de forma quase que incontrolável. Tudo isso,  retarda a resolução do empecilho, já que as mídias sociais contribuem para a perpetuação desse quadro deletério. 
+Assim, mudanças imediatas são necessárias para conter o avanço da problemática na sociedade brasileira. Dessa maneira, como intuito de mitigar o decréscimo do índice de vacinação, necessita-se, urgentemente, que o Tribunal de Contas da União direcione capital que, por intermédio do Governo Federal, será revertido na compra de injetáveis para manter os estoques altos. Juntamente com isso, o Estado deve destinar parte desses recursos para compra de veículos etinerantes de vacinação, que por meio de parcerias com os municípios,  serão usados para promover palestras de esclarecimento nos bairros com a participação dos agentes de saúde e a comunidade. Desse modo, espera-se que a queda do índice imunitário seja atenuada,  e a coletividade alcançará a Utopia de More. 
+
+
+
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,14 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 600
+# tittle: Modelo Educacional Brasileiro
+No livro "O Código da Inteligência",  o filósofo Augusto Cury faz crítica ao modo que a educação cognitiva se sobressai   a não cognitiva nas escolas, ou seja, as matérias tradicionais são desenvolvidas mas o pensamento questionador e reflexivo,  não. Analogamente com a obra, é evidente que a persistência do analfabetismo funcional no Brasil é reflexo de um modelo educacional ultrapassado e sem inovações,  que impedem tal ensinamento de ocorrer .
+
+De acordo com o filósofo Immanuel Kant, o homem é aquilo que a educação faz dele. Logo, se os moldes vigentes de ensino não adotam mudanças e não alteram seus métodos,  acabam formando cidadãos sem levar em consideração se possuem habilidades de interpretar, debater ou questionar determinados assuntos. Sendo assim, essa falha educacional acarreta prejuízos na formação individual e social dos estudantes, visto que não possuem incentivo para o desenvolvimento de um pensamento indagador. 
+
+Além disso, é válido ressaltar que essa lacuna na educação reflete diretamente na visão crítica dos indivíduos. Isto é, segundo Cristine Bragale, vice-presidente de comunicação do The News Literacy Project, um dos problemas do baixo nível de alfabetismo é que essas pessoas ficam vulneráveis a desinformação, especialmente quando se trata de memes e imagens falsas . Ou seja, acabam ficando suscetíveis a alienação e manipulação. 
+Diante do exposto, antes que a situação se agrave, é preciso intervir. Logo, cabe ao Ministério da Educação  promover um novo modelo de ensino que mantenha as matérias básicas  mas que também estimule o pensamento reflexivo dos alunos. Essa medida deve ser feita através de eventos culturais que promovam debates sobre temas sociais e tragam à tona figuras que discorreram sobre a educação, como por exemplo o filósofo Paulo Freire, incentivando assim o raciocínio crítico dos estudantes. Além disso, deve disponibilizar bibliotecas e livros com assuntos variados para que possa ocorrer leituras e debates construtivos acerca dos mesmos , tendo como resultado não apenas a formação intelectual dos cidadãos  mas também a capacidade de obter uma visão de mundo ampla e uma posição crítica.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

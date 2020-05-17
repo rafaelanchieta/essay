@@ -1,0 +1,12 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: [Redação sem título]
+Em sua canção "Alugar- se", o cantor Raul Seixas cria a metáfora " Amazônia é o jardim do quintal e o dólar deles vai paga nosso mingau", retoma a consoante da permuta já feita desde do período da colonização portuguesa sobre as trocas desiguais como de objetos, bijuterias, espelhos etc, ou mesmo transmitir doenças para dizimar tribos e tomar terras . Após 500 anos a mata Atlântica diminuiu em mais de 50% conforme divulgado pelo Ministério do Meio Ambiente, se não for tomada medidas a floresta Amazônica chegará as mesmas proporções. 
+
+A discrepância do desflorestamento são visíveis nas regiões das encostas dos rios,    com assoreamento resultado da perda das matas ciliares condizente com o surgimento de garimpo, povoados periféricos e a poluição por lançamento de resíduos. Clóvis de Barros Filho relata  " a natureza humana é cruel e injusta", aqueles agentes devido a sua vivência e costumes se enquadra nessa conjectura. 
+Outrossim, o governo federal  com auxilio da polícia ambiental  deverá propagar medidas de conscientização da população local para conservação, baseadas em pesquisas científicas  as quais ensinam meios sustentáveis de agricultura, pastagem, a Universidade Federal de Minas Gerais- UFMG publicou um artigo o qual informa que produziu métodos de fabricação de tijolos provenientes de rejeitos da mineração . Em suma, ressalta Immanuel Kant que a virtude é uma resistência a "natureza" em nós, exige educação e disposição em aprender. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

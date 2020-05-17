@@ -1,0 +1,22 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: Uma reforma sem efeito
+Mais uma vez sofremos  os transtornos de uma nova reforma da previdência social. A pergunta que não quer calar é,  será que realmente vale a pena? 
+
+Sabemos que nosso  país precisa de mudanças para se estabilizar e crescer  e esperamos  que essa reforma ajude a população. Mas há muitos pontos que devemos  observar antes de declarar qualquer posição. 
+
+O país está envelhecendo rapidamente e a taxa de natalidade diminuiu bastante, esse é um dos motivos da reforma da previdência. 
+
+Mesmo tendo, aparentemente, boas intenções para essa reforma e acabando com privilégios, que pelas regras propostas,  quem ganha mais deve contribuir mais com o sistema de aposentadorias. Há um grande porém que não podemos  descartar. O fato de que essa nova reforma dificultou bastante a aposentaria de todos  já que a proposta do governo de aposentadoria por idade  é muito alta e próxima da média de expectativa de vida de algumas pessoas. Como atualmente o nível de desemprego e de trabalhadores aumentou, fica mais difícil para essas pessoas, mais pobres, conseguirem se aposentar com um tempo de contribuição maior , sem falar do fato das mulheres, que por conta da dupla jornada, passam muito tempo no mercado informal, ou até precisam parar de trabalhar por alguns anos para cuidar dos filhos. Tem também a proposta que prevê que o Benefício de Prestação Continuada , destinado à idosos que não têm direito à previdência ou com deficiência, seja de apenas 400 reais entre 60 e 69 anos, e somente com 70 anos o idoso receberia um salário mínimo. Isso com certeza deixaria milhares de idosos na miséria, pois aqueles que recebem o benefício não têm condições de se sustentar sem o BPC. Isso tudo é um grande problema se pararmos  para pensar. 
+Sabemos que já era difícil antes, agora com certeza ficou mais. 
+
+Acredito que pode-se melhorar sem prejudicar os trabalhadores que se esforçam tanto para se manter. 
+
+Há muitos meios que o governo pode utilizar para se adequar a essa nova faze  fase do Brasil. Como  por exemplo, cortar gastos desnecessários , diminuir salários muito altos , cobrar dívidas previdenciárias de grandes empresas e impedir a desvinculação de receitas destinadas a programas sociais e previdenciários. 
+
+Como podemos ver, muito pode-se fazer sem prejudicar os trabalhadores. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

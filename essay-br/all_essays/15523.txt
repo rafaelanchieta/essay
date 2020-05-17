@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: Educação debilitada, uma estrutura que persiste
+A educação brasileira vem enfrentando momentos dolorosos,  a iniciar pela má estrutura nas escolas, professores desmotivados, grande evasão escolar e outros itens   que levam ao quadro de analfabetismo que vivemos   atualmente. Mesmo com acesso disseminado pela país,  a estrutura ainda não atende ao necessário, e claro, alguns conseguem driblar o sistema de educação regular e dar um "jeitinho" de serem aprovados com facilidade, a corrupção presente em outra forma que também é prejudicial. 
+Muitas escolas no país apresentam uma estrutura física debilitada para atender a demanda de alunos que possuem, a exemplo de: a falta de cadeiras, material didático, algumas não possuem água encanada, ou mesmo a conta de luz regulada. Tais pontos são totalmente prejudiciais para a formação do aluno, implicando em prováveis evasões, ou mesmo na facilitação da aprovação do aluno durante seu trajeto escolar, prejudicando seu desenvolvimento, 
+Segundo dados do IBGE , em média 30% da classe de professores de educação básica e fundamental tem se dedicado a pelo menos duas escolas, devido a baixa oferta salarial que recebem. Desmotivados com o emprego, acumulando ocupações em várias escolas  para conseguir uma renda mínima de sobrevivência, ficam estressados devido a carga excessiva e tem sua saúde mental prejudicada, levando a não serem tão efetivos no trabalho, não avaliando com maior rigidez os alunos, ou mesmo aprovando a classe de alunos para manter o emprego que é necessário. 
+A quantidade de alunos que abandonam a escola durante a educação básica e fundamental ainda é alarmante. Segundo dados publicados na revista sobre educação básica do Brasil, em média 25% dos alunos abandonam a escola durante essa fase devido a falta de incentivos no ambiente familiar, ou mesmo necessitando de sustento para si próprio, já que a família não tem como subsidiar o aluno. Desses que abandonam, poucos retornam futuramente, a maioria segue em trabalhos informais. 
+É necessário por parte do governo, que é o garantidor e mantenedor dos direitos sociais, prover politicas públicas que atendam a necessidade das famílias mais carentes, para que as mesmas  possam manter seus membros na escola, além de fiscalização efetiva para monitorar a eficiência da política aplicada. Prover também estrutura física para as necessidades dos alunos nos espaços escolares, e claro, revisar a faixa salarial dos professores, evitando assim a sobrecarga de trabalho. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

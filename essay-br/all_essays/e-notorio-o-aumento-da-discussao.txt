@@ -1,0 +1,12 @@
+# prompt: A ciência na era da pós-verdade
+# score: 560
+# title: É notório o aumento da discussão
+É notório o aumento da discussão acerca da influência da ciência na era da pós-verdade. Devido a existência de diversos grupos com pensamentos opostos, bem como o aumento da divulgação de informações a partir do advento da internet, há diversas teorias, consagradas no meio científico, sendo contestadas.
+Observando esse cenário, é possível perceber uma crescente divulgação de pensamentos divergentes de ideais antes tido como dogmas. Alguns grupos tem apresentado versões diversas que trazem a tona discussões acerca de algumas verdades historicamente construídas, tais como as que refutam a necessidade de vacinar as pessoas, evitando a proliferação de doenças. Quem se opõe, garante a não segurança da imunização, pois pode tornar os microrganismos responsáveis pelas doenças ainda mais resistentes. No entanto, de acordo com dados da Organização Mundial da Saúde, em 2017, quanto maior a cobertura da população com vacinações, menor é a chance do fortalecimento dos vírus e bactérias no ambiente.
+Além disso, é importante destacar o papel das redes sociais e outros meios de comunicação virtual na divulgação de dados nem sempre com respaldo científico. Essa ampliação maciça de notícias traz dúvidas pelo excesso de informações às pessoas, que não conseguem formar sua opinião a respeito dos fatos a partir de fontes imparciais.
+Logo, é importante que o governo amplie a divulgação, através de fontes oficiais, de dados e informações verídicas a respeito, sobretudo de temas importantes, como questões relacionadas à saúde pública, definindo a partir de evidências e comprovações científicas o que é verdade, evitando a disseminação de notícias que possam diminuir a segurança de todos.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 80

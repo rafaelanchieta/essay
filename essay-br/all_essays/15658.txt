@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 350
+# tittle: a preocupação de todos
+Nos últimos dias o mundo vem enfrentando  um problema seríssimo  contra a Covid-19  mais conhecida como novo coronavírus, oriunda da China, gerada a partir de uma mutação laboratorial.;  no qual o mesmo  trouxe também uma série de problemas a ser enfrentados por todos.  Por exemplo a crise econômica mundial, onde  gerou inúmeros desempregos pelo mundo. 
+Cientistas e especialistas vêm tentando  achar a solução para eliminar o vírus o mais rápido possível, pois, de acordo com Ministério da Saúde  foi ceifada aproximadamente um milhão de vidas no planeta.  Deixando  assim a população cada vez mais espantadas com a pandemia. O mundo  todo inclusive profissionais da saúde  preocupa-se com a doença, uma vez que,  o tratamento ideal para combater a mesma  não foi encontrado.  Mas,  a ciência e a tecnologia não desiste de tentar encontrar o recurso terapêutico para arrematar a Covid-19. 
+ O governos de todos os países têm adotado e imposto medidas de prevenção para a população, uma das tais medidas é a quarentena, ou seja, o isolamento social. O mesmo  também tem destinado fundos para o combate a doença. 
+ Sobretudo, a ciência tem desenvolvido um papel importante para todos, pois, a cura de milhares de doenças que existem no planeta foram descobertos pela mesma ;  ou seja;  ela possui um imensa importância para a sociedade no geral. Por exemplo, a própria, juntamente com a tecnologia  descobriu que a cloroquina  o remédio da malária  serviria para ajudar a combater a pandemia . Depois de diversos experimentos a mesma  observou que o remédio que trata a AIDS seria mais eficaz do que a cloroquina. 
+Sendo assim, pode-se dizer que todas as coisas  precisam ser baseadas na ciência, ou seja, no conhecimento. Segundo Isaac Asimov ''o aspecto mais triste da vida de hoje é que a ciência ganha em conhecimento mais rapidamente que a sociedade em sabedoria''. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 0

@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 400
+# tittle: A atual crise penitenciária brasileira
+Superlotações, convívio entre facções rivais, falta de água e de recursos necessários para o dia-a-dia dia a dia. Esses são só alguns dos problemas ocorridos em diversos presídios brasileiros,  que desencadeiam em conflitos internos e rebeliões, gerando por consequência a morte de muitos detentos. Esse problema cresceu muito na última década e parece estar longe de ser solucionado. 
+
+De acordo com estudos recentes, o Brasil é o terceiro país com a maior população carcerária do Mundo, atrás apenas dos Estados Unidos e China. Esse número é alarmante, visto que o país não tem estrutura para manter todo esse sistema em ordem. A alta concentração de detentos favorece dessa falta de controle, o que facilita o início de rebeliões. 
+Outro fator influenciador em rebeliões presidiárias são os confrontos entre facções rivais,  que disputam dominâncias de locais e regiões. A falta de análise jurídica, para conferir melhor a situação de cada indivíduo preso, acaba encarcerando integrantes de facções inimigas na mesma penitenciária. Gerando uma maior chance de conflito. 
+
+Portanto, para solucionar problemas relacionados à situação carcerária brasileira, que piorou recentemente, culminando numa crise de lotação. É necessário o apoio das autoridades, com criações de políticas públicas que visam diminuir a quantidade de presidiários. Isso por meio da ressocialização do indivíduo e pela diminuição da burocracia levada para julgar o acusado. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

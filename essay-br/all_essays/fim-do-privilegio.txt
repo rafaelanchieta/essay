@@ -1,0 +1,12 @@
+# prompt: O direito ao foro privilegiado
+# score: 250
+# title: Fim do privilégio!
+O foro privilegiado é o benefício que permite que políticos e ocupantes de determinados cargos públicos não sejam julgados na primeira instância como os cidadãos comuns. No Brasil o benefício foi herdado nos tempos da monarquia. Porém, é usado pelos detentores de poder com a intenção de se esconderem de seus crimes.
+Segundo o Jornal  El País, em 2016  eram 3000 nomes detentores de foro privilegiado investigados. Doze meses depois  o número ultrapassou 6000 nomes. Dentre eles estão autoridades que ocupam ou ocuparam nos últimos cinco anos cargos com direito a foro especial por prerrogativa de função.
+A distorção de uma regra que deveria servir para proteger os cofres públicos e aumentar a fiscalização das autoridades responsáveis por manejar recursos milionários, acaba  servindo de escudo no enriquecimento fraudulento de seus beneficiários.
+Os abusos são tantos que já não é sustentável a continuidade do foro. O seu fim só irá trazer melhorias na estrutura autoritária brasileira. Os beneficiários de hoje serão os condenados de amanhã.
+# C0: 50
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 50

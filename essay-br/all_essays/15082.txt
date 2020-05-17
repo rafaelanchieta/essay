@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 650
+# tittle: Futuro sustentável
+Localizada na região Norte da América do Sul, a Floresta Amazônica é uma das maiores florestas tropicais do mundo. Ela está presente em nove países do continente, no Brasil,  ocupa cerca de 60% do território nacional. Devido as suas proporções, constata-se a importância de sua função para o equilíbrio e estabilidade ambiental no planeta, equilíbrio esse que tem sido afetado pelo desmatamento e queimadas ocorridas atualmente, conforme noticiado em diversos meios de comunicação. 
+
+Segundo dados do Instituo Nacional Pesquisas Espaciais , o desmatamento e as queimadas têm aumentado substancialmente durante o ano de 2019. Em razão disso,  são liberados milhões de toneladas de carbono para a atmosfera, o que interfere no ciclo natural do ecossistema. A importância da preservação da Floresta se dá por vários motivos, como: variedade de espécies animais e vegetais, fitoterapia, água doce , capacidade de transferir calor e vapor para outras regiões, agropecuária. Destaca-se ainda a valia da Biotecnologia – técnica utilizada pela indústria farmacêutica com uso de agentes biológicos – para produção de produtos farmacológicos e substâncias de combate a pragas, por exemplo, no desenvolvimento da sociedade. 
+
+Ademais, os diversos problemas envolvendo a Amazônia chamou a atenção de ONGs e fundações que atuam visando a manutenção do bioma e das populações nativas. O Greenpeace, por exemplo, emite diversos relatórios que apontam o uso abusivo dos recursos naturais por parte de grandes empresas do setor pecuário e do agronegócio. É inegável que esses últimos são dois setores que recrudescem a economia do país, porém se faz necessário que desenvolvimento seja feito de forma sustentável e com uma fiscalização governamental mais presente nessa região. Cabe destacar ainda,  que em função desse cenário de queimadas e desmatamento,  o Brasil sofreu pressão internacional de diversos países para sanar esse imbróglio, entre eles da França, que ameaçou retaliar o recente acordo entre Mercosul e União Europeia caso o Brasil não adotasse uma postura diferente sobre a questão. 
+Diante do exposto, é notório que a preservação da floresta se faz necessária. Um país como o Brasil, que é referência internacional de proteção ao clima e ao meio ambiente  tem que empenhar esforços para se manter nesse patamar. O uso de bens e recursos naturais para o desenvolvimento de uma nação se faz necessário, porém não pode se sobrepor à manutenção saudável que garanta o futuro de novas gerações. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

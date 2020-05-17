@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 420
+# tittle: Respeito maior ao conhecimento
+Deve-se compreender, inicialmente, que pesquisa e desenvolvimento científico é algo de  extrema importância para que um país não fique à mercê de seu  próprio futuro. Sabendo que,  todos os países hoje considerados bem desenvolvidos exercem enormes investimentos no campo da ciência, e por consequência reagem melhor a crises que envolvem a saúde e a economia. 
+Em tempos onde   o mundo sofre com um vírus completamente viral,  os conhecimentos sobre todos os aspectos da ciências trazem mais facilidade para uma sociedade conseguir impedir o pico de proliferação da doença, descobrir como esse vírus age no sistema imunológico das pessoas, saber se a criação de uma vacina é algo possível faz com que a população do país não seja prejudicada em maneira excessiva, e para que o país possa se recuperar bem em um cenário pós-pandemia . A China é o melhor  exemplo para citar, lá foi onde  os primeiros casos foram identificados, várias mortes diárias, mas em questão de dias já se sabia a origem da doença e qual a forma de infecção. Nos dias de hoje, já não há mais registros do coronavírus na maior parte dela. 
+Um ótimo exemplo  de país que investe em ciência foi citado acima , diferentemente do Brasil, que após as graves queimadas sofridas pela floresta amazônica retirou verba da área de pesquisa e desenvolvimento , fazendo  com que cientistas e estudantes passem por dificuldade para realizar seu  trabalho, além de que o governo brasileiro ignora muitas informações e problemas relatados por esses profissionais, mas ignorá-los não os farão desaparecer . Quando o vírus em questão chegou ao Brasil, sua reprodução foi contida de certa forma, mas com o passar do tempo casos foram se multiplicando  e a falta de investimento em áreas de pesquisas refletiu em uma população com medo e uma alta demanda de exames para poucos profissionais e laboratórios disponíveis. 
+Por tanto Portanto, com o momento atual de crise de saúde que o mundo está passando , mostra-se cada vez mais o quanto cada país deve modificar seus programas de pesquisa e para de negligenciar suporte para profissionais  que estão dispostos a ajudar para a melhoria do país, seja no campo da saúde ou da economia. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 20

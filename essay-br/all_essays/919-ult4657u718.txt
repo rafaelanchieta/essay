@@ -1,0 +1,13 @@
+# prompt: o-que-e-ser-homem-nos-dias-de-hoje
+# score: 3,0
+# title: A essência humana
+Com a globalização a sociedade tende a se encaixar com a modernidade, as novas leis e novos conceitos. O homem evoluiu tecnologicamente e mentalmente conforme o tempo, com novas condutas, projetos e planos, sendoobrigadosa se adaptar cotidianamente aos efeitos da modernidade edesuasconseqüênciasMas se tem uma coisa que nãose evoluisão os sentimentos e sensações que acompanham a nossa personalidade.
+          O sentimento é uma patologia do ser humano que ainda não existe nenhuma droga para exterminá-lo ou curá-lo, existe tratamento de controle dos sintomas, como por exemplo a depressão, porque até hoje não se sabe de sua origem, não aparece emnenhuma ultrasonou raio X
+          . A depressão e oestresssãoconsideramosas maiores conseqüências do século XXI. É através desses sentimentos que somos impulsionadosàcertas atitudes incontroláveis, como por exemplo a raiva, ódio, inveja, ciúmes que levam o ser humano a cometer vários deslizes comportamentais e até mesmo levando-os a cometer delitos criminais ocasionando várias conseqüência negativas e psicológicas, que no homem, o mais recriminado é o "machismo" que é um sentimento de superioridade masculinaque nos deparamos até hoje,ocasionando emvários conflitos familiares e até mesmo nas escolas e nas ruas.
+            Uma mulher, por mais moderna que seja, é regidadesentimento materno edeuma amor incondicional
+              que a leva a instinto de proteção, insegurança e o medo que a leva a proteger um filho até mesmo com a própria vida se assegurando do seu total bem estar, e por essas mistura de sentimentos e por sua fragilidade até hoje são vitimas de violência sexual e doméstica aceitando calada essa situação. Por maistempo que se passea essência humana será a mesma, que é constituir família, trabalharpraseu sustendo e conforto tendo uma boa qualidade de vida independente da época.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

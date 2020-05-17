@@ -1,0 +1,13 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 6,0
+# title: Patriotismo não é paixão
+A paixão do brasileiro pelo futebol éum fato marcante, principalmente pelo
+        fato de ser o maior ganhador de Copas do Mundo de seleções e, talvez por isso, serconsiderada, no plano mundial, como a seleção que não pode faltar nesse torneio.Isso dá uma certa dignidade ao povo brasileiro.
+        Mas essa paixão não deve ser confundidacomopatriotismo, pois o brasileiro não é patriota.
+        Nós, brasileiros, não temos o sentimento e não agimos como uma nação, pois temos interesses individuais, não cooptamos pelo coletivo, pelo bem comum. Os patriotas se unem para esse intento e, em consequência, formam uma nação. Pelo dinheiro que a União arrecada, não deveriam faltar hospitais, médicos e remédios; estradas, portos e aeroportos; moradia, saneamento básico e ruas asfaltadas; escolas, professores e acesso a todos; policiamento, viaturas e aparelhos paracontenção; etc. Mas a maior parte do dinheiro é desviada para interesses individuais - como a construção do complexo olímpico no Rio de Janeiro que custou várias vezes mais que o previsto e muitas obras estão servindo para nada
+        - e enriquecimento próprio e de terceiros que tenham laços estreitos de amizade e/ou de negócios. Tudo isso em larga escala em relação ao que ocorre em outros países. Em uma nação, onde há o patriotismo, o judiciário agiria com rigor e não como ocorre aqui: dar a esses "amigos do povo" os melhores benefícios possíveis pelo que a lei diz ou pela interpretação do julgador . Diante desse caos, certamente o patriota agiria com maior discernimento e tentaria moralizar os três poderes da república brasileira, visando uma sociedade justa e com melhor distribuição da renda produzida pela nação. Assim, a paixão pelo futebol apenas desperta o ego do brasileiro em tentar alcançar sua aspiração individual visualizada nesse esporte para que, vencendo seus concorrentes, ganhe a Copa e seja respeitado pelos outros povos e nações. Respeito que não há entre os próprios brasileiros.
+# C0: 2,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

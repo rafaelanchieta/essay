@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Gravidez na adolescência
+Nos últimos anos vêm crescendo o percentual de jovens de 10 a 19 anos que engravidam e largam  os estudos para poder cuidar da criança, porém, gera uma grande porcentagem de mães que não concluirão o ensino fundamental . 
+Segundo a Organização Mundial de Saúde  o período da adolescência é um momento de muitas descobertas, que são chamadas de "pico dos níveis hormonais, mas nos dias de hoje existem várias maneiras de se proteger da gravidez ou até mesmo de possíveis doenças como Aids, um exemplo de proteção é a camisinha, e é distribuída gratuitamente em postos de saúde. 
+Dados de 2011  mostram que o país teve dois milhões novecentos e treze mil cento e sessenta nascimentos  no qual quinhentos e cinquenta e três mil cento e três foram de meninas entre 15 e 19 anos, e vinte sete mil setecentos e oitenta e cinco foram de 10 a 14 anos. 
+A gravidez na adolescência pode gerar problemas de saúde na gestante e também no bebê, pois o útero de uma menina jovem não está totalmente preparado para se ter um filho, pode acontecer da criança nascer com problemas mentais ou até mesmo com defeitos no corpo,  mas como já dito é possível acontecer, mas claro que também tem meninas jovens capazes de ter filho perfeitamente. 
+Conclui e-se que cada vez mais vem aumentando a gravidez na adolescência  e isso por falta de divulgação dos preservativo , se todos tivessem acesso ao conhecimento de como utilizar preservativos e o risco que uma gravidez pode causar esse número de nascimentos diminuiria muito. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

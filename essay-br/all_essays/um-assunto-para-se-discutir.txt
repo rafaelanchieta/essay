@@ -1,0 +1,14 @@
+# prompt: Carta-convite: discutir discriminação na escola
+# score: 500
+# title: Um Assunto Para Se Discutir
+Natal/RN, 17 de março de 2016
+Senhores,
+É notório que a cada dia que se passa o índice de preconceito contra os homossexuais aumenta. E ainda pode-se perceber que esse preconceito está também nas escolas, onde é um lugar  de convívio social com pessoas de diferentes formas de pensar e agir.
+É extremamente ignorante quando  em pleno século XXI  ainda exista o preconceito contra homossexuais, ainda mais quando é na escola onde  é um ambiente livre para todas as pessoas aprenderem sem importar sua opção sexual. Uma pessoa não pode ser violentada por causa de sua escolha e se ele está naquele ambiente que é a escola, é porque ela está querendo um bom futuro para ela como muitas pessoas consideradas "normais" também querem. Toda pessoa tem direito a  educação não importa sua cor, renda e até mesmo sua escolha sexual, pois ela é um ser humano igual a qualquer um outro do mundo 
+Portanto, convido todos para discutir de forma melhor e mais clara esse assunto e também para conseguimos  uma solução para esse problema o mais rápido possível.
+Obrigado pela atenção.
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

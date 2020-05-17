@@ -1,0 +1,10 @@
+# prompt: fomos-dominados-pelas-maquinas-que-inventamos
+# score: 4,5
+# title: Criatividade tecnológica
+Rádio-relógio toca, você acorda, vai tomar café, coloca o pão num forno elétrico e esquenta o leite no microondas. Assiste ao noticiário da televisão, se veste e vai trabalhar. Antes, no carro, liga o GPS para saber se há muito trânsito no caminho do trabalho. Chegando lá, liga o computador e fala ao celular. Enfim, querendo ou não, não podemos negar essa tecnologia que deixa nosso dia-a-dia mais rápido. Não dá para imaginar uma vida primária, tendo que esquentar algo no fogão à lenha, estudar à luz de velas e dormir às oito horas da noite. Anos se passaram e com eles vieram as tecnologias,aquelas que facilitam o cotidiano, mas torna o ser humano impensável. "É só ligar o TV num jornal eletrônico e assisti-lo. Pronto, estou informado". Em partes. Informado está, porém não está exercitando sua mente, o que acontece ao ler um jornal impresso ou uma revista.
+          A criatividade vem das coisas mais simples da vida, como por exemplo, uma criança que sempre brinca com seus amigos na rua, inventando novos jogos , e uma criança que nunca largou de seu video-game e computador. A vivência é outra; a primeira usa a mente como principal instrumento de brincadeira, já a segunda usa a mão, uma vez que ela não precisa criar nada, só jogar. A questão é : conseguiríamos sobreviver, já que no mundo de hoje tudo vem pronto?Viver conseguiríamos, sobreviver não.Os objetos de tomada trazem alguns benefícios, como por exemplo, o avanço da ciência na descoberta de doenças e na cura delas; mas também, como desvantangem, tira do ser humano sua capacidade de pensar e de criar, que é algo que não se compra na loja de eletro-eletrônicos, vem conosco, mas o eletrônico acaba nos tirando esse dom.
+# C0: 1,0
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

@@ -1,0 +1,9 @@
+# prompt: Impeachment: a presidente deve perder o mandato?
+# score: 150
+# title: Quem atira a primeira pedra?
+Sempre vi a Presidente  Dilma Rousseff uma líder omissa, a  impressão que ela passava na maioria de seus discursos era  de uma subordinada, nunca  se comportou como líder pública, era como se estivesse na verdade  guardando um lugar. Acho que esse foi o ponto de partida que os opositores usaram para começar a bombardear seu mandato, chegando à  tentar aplicar o crime de responsabilidade  o que a levaria até o impeachment.  Não acredito que o impeachment da Presidente  Dilma Rousseff salvará o Brasil. O que realmente faria à diferença, seria  a punição à impunidade para todos os políticos corruptos no Brasil. Uma lei que realmente puna com prisões e os faça ressarcir desvios de dinheiro público e privado no país, talvez assim aja  a esperança de um Brasil melhor.
+# C0: 100
+# C1: 50
+# C2: 0
+# C3: 0
+# C4: 0

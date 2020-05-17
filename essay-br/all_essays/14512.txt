@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 750
+# tittle: Manifesto Indigenista
+Mário de Andrade, em sua obra “Macunaíma”, evidencia a importância dos indígenas na formação da identidade étnica e cultural brasileira. Não obstante, nota-se que, desde a colonização até os dias atuais, os nativos são vítimas de preconceito e segregação. Nesse contexto, faz-se necessário analisar como a negligência governamental e os fatores histórico-culturais influenciam a questão. 
+
+A princípio, nota-se que o Estado é falho no que tange à garantia dos direitos constitucionais das populações indígenas, que deveriam ter seus territórios garantidos e suas culturas respeitadas . Além disso, consoante a Nick Couldry, os nativos brasileiros passam por uma “crise de voz”, uma vez que, embora tenham o direito de se expressarem e lutarem pelos seus direitos, nem sempre eles são de fato ouvidos, fato que está diretamente ligado à ausência de indígenas na política brasileira. Atrelado a isso, com o avanço do agronegócio e o fortalecimento da bancada ruralista, esses povos vêm sendo submetidos a um espólio territorial pelos fazendeiros,  que buscam expandir suas terras. 
+Outrossim, conforme o sociólogo Max Weber, algumas ações do indivíduo são explicadas pelos hábitos e costumes existentes na sociedade. Nesse sentido, nota-se que a desvalorização e o preconceito pelos quais os indígenas são vítimas decorrem da estereotipação sofrida por estes no âmbito social brasileiro. Sob esse viés, no dia 19 de abril, em comemoração ao “Dia do Índio”, é comum ver crianças indo à escola fantasiadas de índio, o que fortalece a imagem desses povos como seres folclóricos. 
+
+Destarte, urge que as ONG’s ONGs  – Organizações que suprem a ausência estatal em diversos setores –, em parceria com o a sociedade civil organizada, pressionem o Estado para criação e aprovação da lei de cotas para índios no Legislativo, mediante protestos e petições online, como intuito de garantir uma maior representatividade indígena no âmbito político. Ademais, é papel do Ministério da Educação  orientar as escolas para que, no tradicional “Dia do Índio”, haja eventos nessas instituições que visem homenagear e dar maior visibilidade às dificuldades sofridas pelos nativos.
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 150

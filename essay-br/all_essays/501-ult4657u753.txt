@@ -1,0 +1,9 @@
+# prompt: juventude-e-alcoolismo-um-problema-social
+# score: 7,0
+# title: Uma Questão Etílica
+Todo jantar o pai entorna uma "loira gelada" enquanto comerciais da que não desce triangular pipocam na TV junto com muitas outras. O adolescente já provou e sabe que se quiser mais tem na geladeira. Ou ali, no bar da esquina. A vontade de conhecer coisas novas e repetir as boas é natural. Mas qual linha divide o bom do ruim? A linha careta do governo ou a liberal, apoiada muitas vezes pela mídia e até por amigos e familiares? Para que o adolescente consiga alcançar um bom posicionamento no processo de socialização, um dos pontos mais importantes para ele, o álcool funciona como uma torcida para esse time caído e, às vezes, já com um pé no pódio . "Usando álcool, eles  passam a sentir o que chamo de 'onipotência juvenil', sentem-se e agem como deuses que podem tudo", afirma o psiquiatra Içami Tiba. Além da socialização, existe também o fator sociedade. É comum familiares incentivarem adolescentes, e até mesmo crianças, a provarem álcool, criando a ideia falsa de que essa é uma postura correta. Para diminuir os 25% dos estudantes de ensino médio e os 14,2% dos de 7ª e 8ª série que se embriagaram pelo menos uma vez no mês anterior ao da pesquisa feita pela Unifesp, é preciso muito mais que leis que só existem no papel e folhetinhos do governo. As campanhas publicitárias de bebidas alcoólicas nãodesistimulamo consumo por menores, apenas o tornam mais atrativo com situações divertidas e mulheres bonitas. E a sociedade precisa enxergar os futuros adultos que estão sendo criados. Quem quer outro presidente amigão do etanol?
+# C0: 2,0
+# C1: 1,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

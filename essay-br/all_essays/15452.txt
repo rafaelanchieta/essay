@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 600
+# tittle: Gravidez na adolescência
+De acordo com dados do IBGE , 1 em cada 5 bebês que nascem no Brasil tem mãe com idade entre 15 e 19 anos. Devido a falta de educação sexual nas escolas, que colabora para o aumento de adolescentes grávidas, há um consequente aumento da desigualdade econômica na sociedade brasileira. Sob essa ótica, encontram-se, atualmente, meninas pobres e marginalizadas, sem nenhum amparo do Estado . Sendo assim, faz-se necessária uma rápida decisão governamental para garantir, na prática, os direitos das adolescentes brasileiras.
+Em primeiro lugar, é importante destacar que a falta de educação sexual nas escolas é um problema que se arrasta até os dias atuais. Segundo o filósofo Immanuel Kant, "O ser humano é aquilo que a educação faz dele" . Por conta disso, o fato de não se trabalhar questões sexuais nas escolas é um ponto considerável que colabora decisivamente para o aumento de adolescentes grávidas. Não é novidade para ninguém   que a educação brasileira, focada apenas em vestibulares, peca, e muito, no que se refere a formar cidadãos e moldar o caráter da nação. 
+Por conseguinte, presencia-se um forte fenômeno sociocultural, uma vez que essas jovens são descartadas pela sociedade e pelo Estado, aumentando a desigualdade econômica nacional, profundamente enraizada em nosso   país. Dados divulgados pela Organização das Nações Unidas  revelam que o Brasil é o 8º país com maior índice de desigualdade social e econômica do mundo. Essa realidade está longe de ser alterada, na verdade ela é acentuada ainda mais com o aumento de adolescentes grávidas, já que, em sua maioria, elas não conseguem bons empregos e muitas nem mesmo concluem o ensino médio. 
+Diante do exposto, é mister que providências sejam tomadas para reverter a situação atual. Para a redução do número de jovens grávidas e, consequentemente, atenuação das desigualdades sociais, urge que o Ministério da Educação , responsável pelo ensino em nosso país, assegure, por meio de mudanças na Base Nacional Comum Curricular , a obrigatoriedade de se ministrar nas instituições de ensino aulas sobre educação sexual. Destarte, poder-se-á traçar os caminhos para uma sociedade que ampare seus jovens e ajude seus cidadãos a construírem, preparados e bem informados, suas famílias.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

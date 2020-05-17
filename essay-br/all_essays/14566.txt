@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 550
+# tittle: Do romantismo até a atualidade
+Com a chegada dos portugueses no território brasileiro em 1500, a vida dos nativos que aqui estavam se modificou totalmente de forma cultural e espacial, pois grande parte dos que moravam no litoral foram expulsos para o interior . Esse empecilho se mantém até os dias atuais, visto que não há a devida inclusão dos índios na sociedade brasileira, acarretando um descaso com a sua cultura e a invasão de sua terras. 
+
+No período romântico indianista, ocorrido no século XIX, houve uma grande valorização dos primeiros habitantes do Brasil por literatos como Gonçalves Dias e José de Alencar, entretanto, atualmente este enaltecimento não ocorre de modo adequado.  já que vários direitos  não são prestados de forma correta a esses povos, corroborando a uma desvalorização a esses grupos. Logo,é extremamente necessário que regras sejam feitas para garantir as condições de vida deles. 
+Além da carência de medidas institucionais, estas etnias também convivem com a intensa luta de preservação de seus espaços, pois com a crescente ampliação da criação de gado e extrativismo florestal na região norte, que contém um maior número de povoados indígenas no país, cada vez mais esses grupos se sentem ameaçados. Infelizmente, não existe muita interferência a favor dos ameríndios para a preservação de seus ambientes de vivência. 
+
+Destarte, é imprescindível que medidas sejam feitas para combater esse empasse. Assim, o Governo Federal deve agir a favor das diversas tribos afetadas, por meio de leis que garantam lugares demarcados aos índios, além de implantar formas socioeducativas como a divulgação de livros, palestras e documentários que valorizem a importância dessa etnia no contexto social atual. Com isso, será possível amenizar essa problemática e fazer com que o indígena seja enaltecido como no momento indianista. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

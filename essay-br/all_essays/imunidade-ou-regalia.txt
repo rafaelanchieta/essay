@@ -1,0 +1,13 @@
+# prompt: O direito ao foro privilegiado
+# score: 800
+# title: Imunidade ou Regalia?
+No Brasil, as questões relacionadas ao direito do foro por prerrogativa de função oportunizam reflexões sobre a credibilidade do Art. 5º da Constituição Federal, que afirma a igualdade de todos perante a lei. Nesse sentido, cabe avaliar até que ponto a sociedade brasileira é beneficiada com esse tipo de medida.
+Em relação aos aspectos negativos do foro privilegiado destacam-se  a morosidade do Supremo Tribunal Federal, com constantes e crescentes absolvições por questões processuais, como a prescrição, gerando uma sensação de impunidade e descrédito no Supremo. Além disso, há uma relativa facilidade em um acusado manipular a jurisdição do caso, como a renúncia do cargo para mudança de instância e postergação do julgamento. Em sentido contrário, na primeira instância poderia haver maior possibilidade de interferência politica  contra ou em prol de um réu, favorecendo perseguições politicas  e partidárias.
+No país, aproximadamente 55.000 autoridades detém  esse benefício. Em alguns estados, como o Rio de Janeiro, até mesmo vereadores são julgados em instâncias diferentes. No entanto, em países desenvolvidos, como os EUA e o Reino Unido, não há esse tipo de resguardo, o que propicia o julgamento equânime entre todos os cidadãos, inclusive sua maior autoridade, como o presidente.
+Cabe também mencionar que, as  consecutivas prisões de Eduardo Cunha e Lula deram-se após o fim do foro privilegiado. Isso sugere que o foro possa ser um dos motivadores das recorrentes absolvições levianas que corroboram as falhas no sistema judiciário. Nesse contexto, é possível inferir que o foro por prerrogativa de função tem, no geral, mais aspectos negativos que positivos.
+Dessa forma, as implicações associadas ao direito do foro privilegiado não podem ser desconsideradas. Embora a medida exista para evitar interferências arbitrárias nos processos,  contribuiu para que a ineficiência jurídica se manifestasse em favor dos acusados e em despeito à  Constituição.
+# C0: 200
+# C1: 150
+# C2: 150
+# C3: 200
+# C4: 100

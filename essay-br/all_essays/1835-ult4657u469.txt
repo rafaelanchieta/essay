@@ -1,0 +1,13 @@
+# prompt: combate-ao-fumo-autoritarismo-ou-dever-do-governo
+# score: 8.0
+# title: Proibição para fumantes: perda de liberdade ou respeito para com os abstêmios?
+A proibição ou permissão de fumantes em locais públicos é um problema que há tempos causa polêmica. No começo desseano, o governador de São Paulo,aprovou uma lei antifumo, que dividiu a população em dois grupos: os fumantes, que são contra essa proibiçãopois acham quese forem proibidos de fumar em um local público, perderão boa parte de sua liberdade e os abstêmios, que sofrem praticamente as mesmas consequências que um fumante quando respiram a fumaça de um cigarro.
+        Os fumantes entram em contradiçãoconsigo mesmosquando justificam sua desaprovaçãomediante essalei como uma perda de liberdade, tendo em vista quea partir domomento queum fumante entra em um local público e acende um cigarro perto de um abstêmio, ele acaba invadindo a liberdade individual dessa pessoa também.
+          Uma boa solução para esse problema polêmico, que garantiria, pelo menos em partes, a liberdade individual de ambas os lados,mas que ainda não resolveria o problema de lugares grandes, como shoppings, por exemplo,seria a reserva, em cada local, de uma área para os fumantes e outra para os
+            não-fumantes. Essa é uma medida que já vem sendo tomada em alguns restaurantes da grande São Paulo, a fim de que os fumantes possam ter o direito de fumare os abstêmios de garantir que a concentração de nicotina em seu sangue não atinja altos níveis e que seus pulmões não sejam prejudicados pelo cigarro.
+            Mas enquanto soluções como esta são inviáveis, o certo asefazer é o fumanteseconscientizar de que sua liberdade acaba quando a de outra pessoa começae que a intenção dessa lei não é "marginalizar" as pessoas que fumam, e sim criar entre fumantes e abstêmiosumrespeito mútuo,ou seja, o fumante não deve ser encarado como"anomalias", como Clarah Averbuch, escritora da Revista da Folha diz que essas pessoas são, e os fumantes passivos não sejam prejudicados pelo cigarro.
+# C0: 1.5
+# C1: 2.0
+# C2: 1.5
+# C3: 1.5
+# C4: 1.5

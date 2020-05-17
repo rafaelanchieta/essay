@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: [Redação sem título]
+Durante o início do século XX, a cidade do Rio de Janeiro passou por uma intensa reforma sanitária  liderada pelo então diretor de saúde pública,  Dr. Oswaldo Cruz. Dentre suas medidas,  se destacou a imposição da vacinação obrigatória para o povo da cidade, com o intuito de prevenir doenças como a varíola e a febre amarela. O projeto do doutor foi um sucesso e a vacinação se tornou cada vez mais comum no Brasil, sendo responsável até pela erradicação de diversas doenças. Já no início do século XXI, entretanto, as coisas saíram do rumo, visto que diversas doenças erradicadas no país voltaram a ser diagnosticadas. Sendo assim, cabe analisarmos esse problema e buscar uma maneira de contorná-lo. 
+
+Primordialmente, é necessário enfatizar a importância da vacinação,  de tal maneira que é prevista por lei como sendo obrigatória na infância, pelo Estatuto da Criança e do Adolescente. Todavia, segundo dados fornecidos pela Organização Mundial da Saúde, o índice de vacinação no país vem só diminuindo. A aplicação da vacina tríplice viral, por exemplo, reduziu em 15% em um período de três anos. Assim sendo, notamos   que existe um desafio e que soluções devem ser tomadas. 
+Além disso, cabe ressaltar o papel da falta de informação e até mesmo a negação da mesma ,  na geração do problema. O visionário norte-americano Martin Luther King,  dizia que nada é mais perigoso que a ignorância sincera e a estupidez consciente. Atualmente, o que se vê no Brasil é justamente isso, uma vez que o povo sabe da questão da vacinação, mas não a atribui sua devida importância, o que facilita no retorno de doenças extintas. 
+
+Com base no que foi exposto acima, podemos   concluir, portanto,  que há motivos para que novos surtos de doenças obsoletas ocorram no país e que soluções cabíveis são urgentes. Diante disso, cabe ao Ministério da Justiça a missão de endurecer as leis de obrigatoriedade de vacinação, exigindo o cartão de vacina do cidadão nas mais variadas situações, como na procura de um empregou ou na bilheteria de um show, para que a prática de ser vacinar se torne comum novamente. Desse modo, podemos manter um controle de doenças estável no país valorizando a importância da vacinação. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

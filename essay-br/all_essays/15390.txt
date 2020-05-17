@@ -1,0 +1,14 @@
+# prompt: Gravidez precoce: um problema?
+# score: 320
+# tittle: Os problemas da Gravidez Precoce
+A gravidez precoce pode ser um problema quando não planejada da melhor maneira.  Na Série de televisão “Merlí”  a personagem Oksana, uma estudante do Ensino Médio que teve um filho aos 16 anos, passa por situações nas quais percebe que suas vontades como jovem interferem na criação do pequeno . A gestação na adolescência pode tirar dos jovens algumas vantagens dessa idade. 
+
+Primeiramente, pode ser dito que nessa época da vida as pessoas tendem a gostar de sair com os amigos para festas, por exemplo.  Porém, quando se tem um filho fica mais difícil marcar essas atividades  levando em consideração que nem sempre terá outra pessoa disponível para cuidar da criança. Existem também as dificuldades de conciliar os horários de estudo ou de trabalho com os de cuidar do filho. 
+Além dissonem uma gestação não programada  ou até mesmo em uma gravidez planejada  porém precoce, o pai e a mãe, em muitos casos, não têm maturidade e preparo para criar um filho. Dessa maneira passam por complicações na hora de escolher uma instituição de ensino ou um profissional da saúde para acompanhar a criança. Em algumas situações algum dos responsáveis nem aceita o filho como seu e assim, o mesmo cresce sem a figura materna ou a paterna. 
+
+Por conseguinte, é necessário que as escolas apresentem palestras sobre maternidade aos alunos do ensino médio  e por meio de campanhas juntem alunos de diversas instituições para assisti-las. Isso, a fim de informar aos jovens sobre as responsabilidades incluídas na criação de um filho, assim, caso realmente queiram ter descendentes com essa idade, estarão preparados para isso .
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

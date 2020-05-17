@@ -1,0 +1,16 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 320
+# tittle: A democratização do acesso ao cinema no Brasil.
+A produção cinematográfica brasileira "Nada a perder" bateu recorde nas bilheterias e se tornou o filme nacional mais visto na história do país  com cerca de 12 milhões de ingressos vendidos. Apesar desse grande exemplo de sucesso, o cinema brasileiro enfrenta grandes problemas em relação ao seu acesso. Veja os problemas do acesso ao cinema no Brasil em dois pontos principais. 
+Para começar, em primeiro  lugar é essencial entender que o processo de urbanização brasileira influência influencia na democratização do cinema. Pois os pontos de cinema acabaram se concentrando em grandes centros urbanos brasileiros e excluindo as cidades menores desse meio cultural. Geralmente as pessoas que moram em cidades menores precisam se deslocar há a cidades maiores para assistir há a um filme. 
+Em segundo lugar, um dos motivos que dificultam o processo de democratização do cinema são os preços exorbitantes. Para um cidadão comum muita das vezes não é tão vantajoso pagar para ir ao cinema sendo que existem passatempos mais acessíveis e que trás um parecido bem estar social. 
+
+Para solucionar essa dificuldade,  é preciso que medidas sejam tomadas. O governo, junto com outros órgãos sociais  deve criar um cinema controlado pelo estado . Assim podendo financiar a construção de cinemas em cidades menores e controlar os preços dos ingressos. Com essa atitude, o cinema fica mais acessível ao público. 
+
+
+
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

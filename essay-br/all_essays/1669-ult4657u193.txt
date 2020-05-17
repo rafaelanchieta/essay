@@ -1,0 +1,12 @@
+# prompt: fomos-dominados-pelas-maquinas-que-inventamos
+# score: 5,5
+# title: A Sucumbência do Homem perante a Máquina
+Hoje em dia as máquinas estão em todas as partes.Elas estão na padaria, no escritório, nas ruas, nos shoppings, nas escolas,enfim em todos os lugares do nosso dia-a-dia. Nós nos tornamos dependentes delas, como trabalhar se o servidor da internet caiu?
+        A nossadependência com para as máquinasé tão grande que a simples paralisação dos semáforos pode deixar uma cidade inteira parada durante horas nos engarrafamentos. A simples retirada de dinheiro da nossa conta em um banco pode se transformar em um grande transtorno se os caixas automáticos pararem de funcionar, o que nos levará a passar um tempo, provavelmente não planejado, na fila.
+          Na virada do século passado, um medo assolou o mundo, um medo que nos levaria a voltar a nossa tecnologia em 100 anos, que iria ser o "bug do milênio". Esse acontecimento demonstrao quão não independentes nós somos, em relação as máquinasque nós mesmos construímos para nos auxiliar no nosso cotidiano.
+            Essa relação homem x máquina pode ser danosa no futuro quando a inteligência artificial atingir um ponto mais elevado. Pois hoje o mundo é controlado por computadores, o filme "Duro de Matar 4.0" nos mostra o quão fácil seria atacar e disseminar o caos em um país apenas com alguns computadores.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

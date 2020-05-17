@@ -1,0 +1,11 @@
+# prompt: maconha-manter-proibicao-legalizar-descriminalizar
+# score: 3,0
+# title: A maconha contra-ataca
+Este assunto ronda nossa população há muitos anos e desde então fala se em legalizar o uso da maconha com suas controvérsias . Em outros países subdesenvolvidos seu uso é comum, a planta é usada como erva medicinal, um exemplo é uma criança com epilepsia tendo crises diárias e ao mascar a folha elimina a crise convulsiva. Um tema delicado comoesterequer cuidado e
+         muitos debates a serem discutidos , haveria uma logísticasuper desenvolvidapor trás: um controle, uma autorização, uma fiscalizaçãoseria indispensávelpara manter a disciplina e regularização e não exceder os limites e princípios dasociedade, issogeraria mais impostos, mais tributos a serem pagos para conservar tal operação.
+         Uma erva que diminui a concentração, mata neurônios, faz mal para o pulmão, não extinguirá ou reduzirá a marginalidade, criminalidade e tráfico de drogas, pelo contrário, abrirá portas para drogas mais pesadas e seu uso contínuo. Com todos seus malefícios, a droga não trará benefício nenhum para o país, logo não há motivos para sua legalização.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

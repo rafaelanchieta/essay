@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 350
+# tittle: A superlotação carcerária
+Hoje em dia,  um dos maiores problemas no Brasil é a superlotação nos presídios. Com isto, as rebeliões,  são frequentes como a de Manaus com 55 mortes. 
+
+A falta de controle da administração pública fica nítida,  com as facções controlando a criminalidade, o tráfico de drogas, entre outros, através do uso de celulares que são contrabandeados para os presídios. 
+
+Um começo para reverter o cenário atual, o Brasil, precisa adotar medidas a longo prazo , como investir no sistema educacional, e a curto prazo como atualização das leis. Isso tudo, combinado, poderia ajudar a reduzir a taxa de crimes e, consequentemente  reduzir a população criminal. 
+Portanto, " O melhor presente que uma sociedade pode dar para si mesma é a boa educação dos seus filhos"  . Com um bom investimento na educação para todos e as mudanças nas leis poderíamos  começar a melhorar o sistema carcerário. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

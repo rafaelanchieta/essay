@@ -1,0 +1,11 @@
+# prompt: a-sociedade-esta-perdendo-a-batalha-contra-o-crime
+# score: 7,0
+# title: A Questão da Violência
+Questão frequente nos debates a respeito da sociedade brasileira, a violência sem dúvida pode ser classificada com um dos males que mais aflige a população, porem quando falamos de violência precisamos considerar que este não é um fenômeno uno, apresenta mais de um aspecto a ser analisado. O primeiro é o crescente poder do crime organizado em torno da atividade detraficode drogasilícitas, presenteem grande parte do território nacional esta atividade criminosa sem dúvida atinge seu ápice nos grandes centros urbanos, nos quais o consumo de drogas chega a níveis altíssimos. Por conseguinte, o poder do crime organizado nessas áreas só cresce, o que possibilita a compra de mais armamentos e ainda atrais para a vida do crime inúmeros outros jovens seduzidos pelas “facilidades” em ganhar dinheiro.
+         Outropontoda violênciapublicaseria ocrescente índice de assassinatos Brasil afora, claro que não podemos descartar a grande quantidade de crimes passionais, porém a principal causa desses crimes, principalmente no norte e nordeste do país, é a disputa sangrenta pela posse da terra, disputa esta que leva a inúmeros assassinatos
+         chegando a vitimar inclusive uma missionária, isso pra ficar apenas em um caso de grande repercussão na mídia nacional. Enfim, a resoluçãodestesconflitos não vai se dar em um passe de mágica, porém algumas ações do governo poderiam segmentar o caminho para uma significante amenização da questão da violência. Por exemplo, no caso do tráfico de drogas a legalização controlada da venda e consumo reduziria substancialmente o poder do crime organizado, no caso da disputa pela terra uma ação séria pela reforma agrária destinando a terra a sua função social constitucional já seria um passo enorme para por umpontonas disputas.
+# C0: 1,5
+# C1: 1,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

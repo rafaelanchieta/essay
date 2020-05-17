@@ -1,0 +1,12 @@
+# prompt: cotas-nas-universidades-voce-e-a-favor-ou-contra
+# score: 4.5
+# title: Política de cotas e prioridades sociais
+O sucateamento do sistema público de educação, durante a ditadura militar, intensificousignificamentea discrepância entre os segmentos sociais. A competitividade tornou-se desigual e ocontigentedeestudandese profissionais negros ficou submetido ao subemprego. Reverter essa situaçãopressupôea inclusão da classe desfavorecida nas universidades, priorizando não somente a entrada, mas também a permanência dos alunos nas instituições.
+        O completo abandono das instituições públicas, no governo militar,subordinado às "regras" do neoliberalismo, aprofundou a histórica diferença econômica e educacional da população brasileira. A educação transformou-se em privilégio para uma minoria, pois com o ensino fundamental e médio comprometidos, o acesso à universidade ficourestrito à alunosda rede privada. Como resposta imediata a essa situação, o governo cria um sistema de cotas com o objetivo de diminuir essa disparidade. Entretanto, essa alternativa apenas mascara e disfarça um problema de dimensões imensuráveis. O nivelamento de fato não acontece, de modo que a condição dosestudandesde baixa renda ainda permanece precária.
+          A política de cotas insere o indivíduo no curso superior, mas não abrepespectivaspara a reestruturação da educação como um conjunto amplo de reformas. O reflexo desse sistema é o abandono progressivo das universidades por parte daqueles que não possuem recursos financeiros suficientes para permanecer estudando. Além do mais, para que haja uma aprendizagem consolidada e eficiente, é fundamental que a vida do aluno seja ao menos digna, haja vista que o suporte emocional constitui requisito básico nas tarefas intelectuais. Ou seja, o governo tem que darprioridade à problemasmais elementares, como habitação, segurança alimentar e educação fundamental e média.
+            O crescimento de um país deve ser aferido, antes de mais nada, pelo nível de educação do seu povo. É isso que realmente garante uma qualidade de vida humana, digna e exemplar. Para tanto, o sistema educacional deve ser retificado por completo e não apenas em determinadas etapas do seu processo. É essa a tarefa do Estado, proporcionar uma formação de qualidade para todos os cidadãos, sem distinções.
+# C0: 1.5
+# C1: 0.0
+# C2: 0.5
+# C3: 1.5
+# C4: 1.0

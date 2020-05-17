@@ -1,0 +1,13 @@
+# prompt: cultura-do-estupro-a-culpa-e-da-vitima
+# score: 2,0
+# title: Vou ser estuprada, estou usando uma blusa decotada
+Estupro, um tema muitopolemico, visto em todo mundo, principalmente no Brasil pelo seu índiceauto, sendo uma violência sexual, atingindo crianças e adolescentes.
+         Vestidos curtos, blusas decotadas, são uns dos principais motivos de estupro? Uma pesquisa da IPEA, declara que 26% da população entrevistada concordaque o modo de vestir das mulheres ajuda na violência sexual. Um absurdo, pois a maioria dos casos são crianças e adolescentes , que são atingidos dentro da sua própria casa.
+         Pessoas mal informadas não percebem que a roupa nãoinfluência, porque o autor da violência não olha o que você está vestindo,
+         mas sim o seu interior . Se a mulher mostra seucorpo maisde maneira adequada, não sofrerá assédios,pois, aeducação e o respeito a sipróprio, mudasua postura.
+         Por isso, precisamos sim acabar com essa “cultura do estupro”, por causa desse pensamento populacional , o Brasil não chegará a lugar algum.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,0

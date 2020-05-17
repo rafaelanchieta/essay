@@ -1,0 +1,13 @@
+# prompt: A terapia de reversão da orientação sexual
+# score: 500
+# title: Preconceito ainda é evidente
+Sem dúvidas  nenhuma, a homossexualidade nunca foi um tema tão ativo e pertinente como nos dias de hoje, e não é para menos. O tempo passa, as coisas evoluem, mas a mente de milhares de pessoas não. O preconceito ainda é gigantesco e mata demais.
+Nesse contexto, o juiz  ao conceder a liminar aos psicólogos para reverter  homossexuais, pratica mais um ato preconceituoso. Ainda que tenham  argumentos de que  é opcional e ninguém é obrigado  não os  dá a razão , visto que ninguém fica mudando sua sexualidade quando e como quer, não é uma brincadeira. 
+Com essa ideia, o profissional de Direito faz prevalecer o pensamento dos ignorantes  que se acham superiores aos que possuem outra opção sexual, pois ao invés de  entenderem as diferenças, acabam sendo influenciados por um juiz que pensa que gays, lésbicas e outros podem se “converterem” e virarem  heterossexuais novamente.
+Torna-se evidente, portanto, o grau de preocupação que essa liminar pode trazer , pois isso, indubitavelmente  pode influenciar ainda mais na violência tanto verbal como física, e o Brasil já é um dos países que mais mata por preconceito sexual no mundo. 
+Com isso, fica claro que tem que se mudar algo. O problema está em todo lugar e o governo tem que tomar uma atitude. Poderia começar dando mais espaços aos movimentos e manifestações LGBTs, apoiarem  suas causas e incentivá-los a mudar o mundo. Conceder  palestras em escolas, universidades, com o intuito de abrir mentes e levar o conhecimento até as pessoas. Mas muito mais que o governo, a família  ensinar desde cedo as  suas crianças que as diferenças existem, basta respeitá-las.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 150
+# C4: 100

@@ -1,0 +1,13 @@
+# prompt: agua-aprenderemos-com-a-atual-crise-hidrica
+# score: 5,0
+# title: Água, um tesouro desvalorizado
+Há cerca de duas décadas, jáéramosinformadosque a água doce é um recurso escasso eesgotável, e amais de um ano , o Brasil comprova isso com a crise hídrica do Sudeste. Fato de algumas pessoas acharem que esse problema só existia no Nordeste, e que não tinha possibilidades de ter em outras regiões, mas agora estão vendo que esse pensamento é totalmente errado. O grande período de seca não é o único motivo que justifica essacrise, e simum conjunto de razões, como desperdícios, a má gestão dos reservatórios e a falta de preservação das nascentes dos rios, que nos fez chegar aonde estamos, com reservatórios quase secos, como o Cantareira que chegouficar com 5% de sua capacidade.
+         A crise veio para nos dar uma lição, foi um "se liga!" aoshumanos.Poisse não usarmos a água da maneira correta, ela irá desaparecer. De certa forma aprendemos muito,
+         porém algumas pessoas sótem esseaprendizagem por enquanto, porque quando o problema começar a aliviar, irão voltar a agir como antes, mas é errado fazer isso, devemos executar o que é certo independentemente da situação.
+         Para que isso não mais aconteça, é correto que as escolas incentivem as crianças à preservação da água, para que cresçam como ideal de pessoas ecológicas.Entretantosomente isso não seria suficiente, é preciso preservar as nascentes dos rios, repondo vegetação ao redor, para que elas possam reter melhor a água das chuvas.
+         Também precisamos evitar o desperdícios nas moradias e o governo deve fazer manutenção dos encanamentos, para reduzir os vazamentos. Enfim se executássemos todos esses pontos,iriamosmelhorar muito a situação em quevivemos, eevitar vários problemas futuros, com a nossa preciosa fonte de vida, a água.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

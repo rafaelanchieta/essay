@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 550
+# tittle: A importância das vacinas para a sociedade
+“No meio do caminho tinha uma pedra”, o trecho do poeta modernista Carlos Drummond de Andrade trata-se de uma metáfora para os obstáculos. De maneira análoga a essa realidade poética são os desafios para combater o retorno de doenças erradicadas pela falta de vacinação. Essa problemática se deve principalmente por causa das falsas informações vinculadas sobre as vacinas, além,  da despreocupação por parte da população sobre os riscos dê-se  não tomar as vacinas. 
+
+Primeiramente cabe pontuar as divulgações de falsas notícias sobre as vacinas. Conforme a matéria do dia primeiro de setembro de 2019  do site agência Brasil  nas mais de 100 notícias falsas desmentidas pelo Ministério da Saúde em um ano de combate a fake news e boatos que circulam na internet, as vacinas se destacam como um dos principais assuntos . Este ato faz com que a população acredite que as vacinas iram irão prejudicas prejudicar sua saúde e não beneficiar, consequentemente, este ato de divulgação faz com que as doenças, já erradicas, voltem a assombrar a população. 
+
+Ademais  é também válido ressaltar a omissão da sociedade brasileira em relação as doenças extintas. Segundo George Santayana, pseudônimo do filósofo espanhol Jorge Santayana, aqueles que não conseguem lembrar do passado estão condenados a repeti-lo. Portanto, caso a população brasileira não se lembre das inúmeras mortes causadas por doenças, como o sarampo por exemplo, e não se mobilizarem a domar  tomar as vacinas necessárias , a frase do mencionada será aplicada no Brasil, visto que as vacinas, em conformidade a meterias do ano de 2017  do site da UNIMED, foram responsáveis pelo controle de inúmeras doenças. 
+Infere-se, portanto,  que o problema se mostra uma grande pedra a ser removida do caminho para o desenvolvimento do país. Nesse sentido é imprescindível que o Ministério da Saúde  em conjunto com a Secretaria Especial de Comunicação Social  promovam propagandas publicitarias em veículos de comunicação, como a Televisão e os jornais impressos, divulgando a necessidade das vacinas para a saúde da população  divulgando dados sobre como a imunização funciona no corpo humano, demostrando que o ato de vacinar é de extrema importância para vida humana. Com tais implementações esta pedra poderá ser retirada e se tornar um mazela passada na história do Brasil. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

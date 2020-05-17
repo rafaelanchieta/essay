@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 700
+# tittle: Analfabetismo funcional mais uma variante do contexto educacional
+A análise do analfabetismo funcional no contexto brasileiro faz parte do próprio processo evolutivo por qual passa a educação, já que inicialmente buscava-se a oferta de um ensino gratuito que ganhou grande destaque com a publicação do manifesto dos pioneiros da educação, em 1930. Posteriormente, houve toda uma  preocupação de estender essa gratuidade para outras modalidades, além do primário. Em seguida, procurou-se garantir o acesso da população a este ensino, de maneira que na década de 1970 o poder público inciou um movimento de alfabetização voltado principalmente para aqueles que não tiveram oportunidade de estudar na faixa etária certa. 
+O objetivo nesse período era que uma parte significativa da população aprendesse a ler e a escrever. Desse modo, o poder público lançou mão do método de alfabetização de Paulo Freire, procurando adequá-lo a política pública educacional que se instalara. Na época, parte dessa ação foi alcançada, mas por outro lado devemos  compreender que esse processo estava atrelado aos acordos internacionais firmados pelo Brasil para melhorar as condições da educação básica. 
+Essa busca tem se processado até os dias atuais, já não tanto sob o argumento do acesso, mas da qualidade da educação a ser ofertada. Nesse aspecto, a alfabetização vem a ser uma das variáveis responsável por esse alcance, mas quando sua oferta não permite a capacidade mínima para que o sujeito interprete textos simples, seu atendimento torna-se algo preocupante, especialmente se sua realização for mais direcionada para o atingimento de índices educacionais. 
+Diante disso, as políticas que envolvem sua elaboração e planejamento devem ser repensadas, pois a sua execução não deve ser feita aligeiramente e suas ações devem ser realizadas de forma estrutural, focando na formação de profissionais alfabetizadores, bem como conjuntural instigando o contato da população com os diversos gêneros textuais por meio de rodas de leitura  e também pela introdução do cinema como instrumento para potencializar esse processo . Acredita-se que essas atitudes possam minimizar o problema do analfabetismo funcional na sociedade, garantindo ao sujeito o desenvolvimento de habilidades interpretativas para ler o mundo. 
+# C0: 150
+# C1: 150
+# C2: 150
+# C3: 150
+# C4: 100

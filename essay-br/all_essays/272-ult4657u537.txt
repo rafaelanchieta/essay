@@ -1,0 +1,18 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 4.0
+# title: A nova realidade
+Virtual ou fisicamente . Nãoimporta. Quem faz o ensino valer a pena é o estudante. Estar na
+        Universidadenão garante que o
+        individuoseráum bom profissional, ou
+        "freqüentar"o ensino Ead não
+        pressupõeque o individuo sairá sem qualidades. É preciso perceber que estamos dianteuma nova realidade: a interatividade virtual. As relações interpessoais há muito tempo já não são as mesmasdepois do avanço da tecnologiae consequentemente a educação foi atingida.As pessoas estão cada vez mais sentindo que o tempo está curto e querem se qualificar, mas também precisam trabalhar, e para evitar um deslocamento, queasvezes, é extremamente cansativo e pode prejudicar seu rendimento dentro da sala de aula, a educação a distância aparece como alternativa.Já existem instituições respeitadas no mercado, autorizadas pelo MEC
+        ,cabe ao estudante pesquisar a procedência
+        das mesmase se dedicar da mesma forma como se dedicaria
+        noensino presencial.Essa é a nova realidade
+        ,aliar tecnologia e educação
+        , para que assim caminhem juntas a favor do conhecimento.
+# C0: 1.5
+# C1: 1.0
+# C2: 0.5
+# C3: 0.5
+# C4: 0.5

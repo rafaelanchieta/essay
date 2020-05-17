@@ -1,0 +1,13 @@
+# prompt: Carnaval e apropriação cultural
+# score: 600
+# title: Carnaval: sinônimo de composição cultural
+A cultura brasileira é resultado da mistura de raças, etnias, crenças, valores, entre outros . Logo, o carnaval é fruto dessa miscigenação. Por isso, afirmar que essa festa - sinônimo de alegria e união - não deve receber contribuições externas, é um equívoco.
+Ademais, na contemporaneidade, vive-se uma realidade globalizada, o que resulta na unificação política, econômica e, também, cultural. As interferências culturais não são mais vistas como uma ameaça, mas sim como um meio de unificar a humanidade.
+Nas últimas décadas, os sambódromos têm sido palco de inúmeras questões políticas, geográficas, ideológicas ou étnicas. Essa festa não tem apenas retratado a realidade brasileira como também a realidade universal. Destarte, por que não inserir a cultura nativa nos diversos espaços ou contextos?
+Intelectuais da literatura, como Oswald de Andrade, defendiam a aglutinação cultural estrangeira para, assim, criar uma nova cultura. Portanto, a troca de culturas é algo idealizado há tempo.
+Por conseguinte, é imprescindível que cada indivíduo perceba o povo como um só - único, universal - mesmo repleto de diferenças. Dessa forma, a inserção de culturas distintas, onde quer que seja, será vista como parte de um todo e não como símbolo de discriminação ou preconceito.
+# C0: 120
+# C1: 120
+# C2: 120
+# C3: 120
+# C4: 120

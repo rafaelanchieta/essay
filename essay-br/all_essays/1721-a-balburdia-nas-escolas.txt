@@ -1,0 +1,12 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 2,5
+# title: A balbúrdia nas escolas
+A violência é um fleumático problema . E isso é ainda maisagravantequando acontece nas escolas, ondeos cúmplices delatrocam os livros pela balbúrdia.Tornou-se comum vermos na TV, ou até mesmo serem manchetes de jornais, a violência dos jovens nas escolas brasileiras. Mas por que isso acontece? Geralmente ela estádisseminadaao uso de drogas (eventualmenteligadasao narcotráfico),bullying ou até mesmopormotivos banais.
+         Ofenômeno, "ciberviolência"também tornou-se algo corriqueiroaosjovens atuais. Com a erade smatphoneseinternet, o compartilhamento da violência éextensa, eo exibicionismo é algo de valoraosignóbeis praticantes da violência.
+         Para"freiar"essa violência generalizada, escola em tempo integral, oportunidade de desenvolvimento profissional e participação dos pais na vida do jovem dariam uma repressão àbalbúdia, fazendo-o ter ferramentas decisivas para o seu futuro.
+         Enfim, é imprescindível que o governo tenha propostas ponderadas para combater a violência que vem se tornando trivial.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

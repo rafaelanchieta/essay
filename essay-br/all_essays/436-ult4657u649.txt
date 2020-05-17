@@ -1,0 +1,12 @@
+# prompt: como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet
+# score: 4,0
+# title: Agressão escolar
+No mundo contemporâneo , aumentaram-se os debates sobre a conduta violenta entre os estudantes. Essa prática, conhecida como "bullying", aumentou nas escolas brasileiras. Tal fato se deve pela forma que a cultura brasileira foi elaborada. Além disso, surgiu um novo conceito de "bullying", o "Cyberbullying". A forma de colonização do Brasil enraizou na nossa cultura a ignorância e o preconceito. Com isso, muitas crianças brasileiras acabam sendo educadas de forma errada e, assim, acabam demonstrando isso nas escolasatravés daprática do "bullying".
+          O estudante que sofre esse tipo de agressãoatravés deapelidos, exclusão e de humilhação diminui o seu rendimento escolarpodendo até contrair doençascomo a depressão.
+          Quando um aluno entra numa extrema crise psicológica, pode até chegar a assassinar esses estudantes que ohumilhou, além de matar estudantes inocentes. Um dos casos mais conhecidosfoinos EUA, no Colégio de Columbine, no Colorado, onde dois jovens mataram 13 estudantes e professores e depoissuicidaram. Casos como esses acontecem todos os anos em diferentes países, inclusive no Brasil.Com o avanço tecnológico, aumentou o número de pessoas conectadas <wrong>a</wrong> <correct>à</correct> internet. Com isso, o "bullying" infiltrou na internet como um vírus e ficoue ficou conhecido como "Cyberbullying". Ele ocorreatravésde sites, e-mails e comunidades em sites de relacionamento que insultam e ridicularizam estudantes, mas também professores que são expostos para milhares de pessoas que circulam na internet.
+              Em virtude dos fatos mencionados, devem-se tomar medidas rapidamente para solucionar esse problema queafligemas escolas brasileiras. As escolas deveriam punir severamente esses alunos e os pais auxiliarem os seus filhos através doauxiliode um psicólogo, caso sejam vítimas dessa agressão. Com isso colocaremos as escolas mais próximas dos alunos e teremos jovens com atitudes corretas, melhorando o país.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

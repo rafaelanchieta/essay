@@ -1,0 +1,11 @@
+# prompt: automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens
+# score: 4,0
+# title: O costume brasileiro
+O costume de ir até a farmácia e comprar vários medicamentos sem orientação de um médico ou farmacêutico é comum no Brasil. Essa facilidade acarretanouso irracional e coloca em risco a saúde da população.
+         O Brasil, país com elevado consumo demedicamentos, enfrenta grande dificuldade para promoção do uso racional demedicamentos. Visto que, os jovens desde cedo veem o mal exemplo de seus pais e acabam se influenciando. Dessa forma, ocasiona um consumo desenfreado de fármacos no País.
+         Muitas vezes, a vidaagitada, colocao jovem em situaçõesondeele prefereo meio mais rápido e fácil para automedicar-sedo que a segurança de sua saúde. Os casos de intoxicação medicamentosa não são raros e são facilitadospelo dolivre acesso de farmácos nas farmácias do país. Portanto, para reverter essa situação, a ANVISA deve promover campanhas alertando os jovens sobre o perigo da automedicação, além de criar leis mais rígidas com relação ao fácil acesso e dispensação de medicamentos.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0

@@ -1,0 +1,16 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 450
+# title: O que contamina o homem não é somente o que sai da boca...
+Saudações, V. Exc.ª, os transgênicos são alimentos geneticamente modificados, que foram criados com a promessa de resolver a crise mundial de abastecimento e pela escassez de área para plantar.
+Com a manipulação genética, é possível desenvolver grãos e outros gêneros alimentícios mais resistentes às pragas e secas, contudo, ainda é cedo para afirmar que tal alteração seja nociva à saúde humana ou não.
+Há quase quinze anos da lei 10.688, que liberou o uso da engenharia genética para manipular a soja, tornando-a resistente a um herbicida, não existe comprovação científica suficiente que ateste seus efeitos prós ou contras. Desse modo, é salutar  que tal produto tenha em sua embalagem um rótulo classificando-o como transgênico.
+Isso já acontece e torna-se transparente para nós consumidores, no  entanto, tramita no Senado Federal, casa da qual V. Exc.ª faz parte, um projeto, o PLC nº 34, que altera a Lei de Biossegurança para liberar os produtores de alimentos de informar ao consumidor sobre a presença de componentes transgênicos, quando inferior a 1% da sua composição.
+Acredita-se  que com essa decisão, seremos prejudicados, enquanto consumidores, pois independente  do percentual de mudança na composição de um produto  temos o direito de saber o que estamos levando a  boca.
+Para finalizar, contamos com o apoio e influência de V. Exc.ª para barrar este projeto.
+
+J.E.B.
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

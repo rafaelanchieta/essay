@@ -1,0 +1,12 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 4,0
+# title: É MELHOR ASSISTIR OS JOGOS, QUE LÊRaos jogos que lerOS JORNAIS
+Acopa do mundoé o evento esportivo mais esperado do planeta. O esporte mais popular atinge seu ápice após quatro anos de preparação, culminando em 30 dias de muita festa.
+        Muitos são os problemas no Brasil: violência, pobreza, corrupção entre tantos outros,queacabamos confundindo-os com o próprio Brasil.
+          Uma nação não pode ser vista com maus olhos por conta da postura de uma minoria oligárquica que manda e desmanda, mas sim pela postura da maioria que é mandada,maisque pode dormir tranqüila, com a consciência limpa.Quandoa seleção entra em campo, não confundimos mais a nação com a corrupção ou a violência, massim, confundimos como excrete canarinho, que há muitas décadas, vem se mostrando competitivo e vitorioso. É o momentoquecada um se sentecomo partedaquela seleção e, como tal, nos sentimos vitoriosos e bem sucedidos.
+            É normal que o colorido se destaque quando mostrado ao lado do descolorido, que o grande tenha mais atenção diante do pequeno. É normal que as coisas boas tomem o espaço das ruins. Nada mais coerente, diante do maior evento esportivo do planeta, que se dê mais atenção àcopa, pois ela é só de quatro em quatro anos, e os problemas, esses estão poraitodos os dias.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 0,5

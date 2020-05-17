@@ -1,0 +1,12 @@
+# prompt: O Brasil paralisado: o que você pensa sobre a greve dos caminhoneiros?
+# score: 600
+# title: A greve dos caminhoneiros e a malha ferroviária
+A grande importância dos caminhoneiros para o país foi perceptível por todos durante a greve, que recebeu o apoio de 87% dos brasileiros, de acordo com uma pesquisa DataFolha . Porém, existem alternativas mais inteligentes e sustentáveis que o transporte rodoviário de mercadorias, como  por exemplo  o transporte por malhas ferroviárias.
+A escassez de alimento e de combustíveis em todo o país foram apontados  como consequência da falta de transporte dessas mercadorias por conta da paralisação dos caminhoneiros. Porém, essa escassez só ocorreu devido ao desespero das pessoas que acabaram comprando quantidades exageradas de alimento, sendo necessário que as redes de supermercado limitassem a quantidade de produtos por pessoa  que poderia ser comprado. No caso dos combustíveis, muitos optaram por garantir o abastecimento dos seus automóveis se submetendo a pagar valores altos para isso.
+Por outro lado, a minoria das  pessoas não se entregou para os  problemas enfrentados pela greve e optaram  por formas mais sustentáveis de se locomover, fazendo uso de transporte público, bicicletas ou caminhando. O transporte rodoviário de mercadorias é um sistema atrasado e caro, fazendo com que os impostos cobrados sejam elevados. No Brasil, temos uma malha ferroviária que foi esquecida pelo governo  federal e empresas privadas, seu funcionamento foi interrompido na década de 50, fazendo, então, com que essa ferrovia se encontre em situações precárias atualmente.
+Após o fim da greve, o presidente da república  Michel Temer  anunciou que verbas públicas para a educação e saúde serão cortadas para cobrir a diminuição do preço do diesel (o valor alto do diesel foi o principal motivador da greve)  . Porém, não seria mais inteligente se o presidente investisse novamente no transporte por ferrovias? A malha ferroviária possui baixo custo de frete, baixa taxa de poluição ambiental, baixo custo de manutenção, isenção de pedágios e o transporte ocorre de forma mais rápida e segura.  Com isso, o governo teria um maior retorno monetário  e a população pagaria menos impostos pelos produtos, fazendo assim com que fosse desnecessário prejudicar ainda mais o investimento em educação e saúde pública brasileira.
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

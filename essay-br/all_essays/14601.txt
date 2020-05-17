@@ -1,0 +1,22 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 320
+# tittle: Patrimônio do Brasil direitos iguais para os Indigenas
+Os povos indígenas que vivem no Brasil apresentam semelhanças, mas também são muito diferentes entre si , possuem costumes lutas territoriais iguais aos seus   ancetrais, Escolas, Saúde ,Reconhecimento e direito. 
+
+Habitantes do Brasil bem antes desde da época do Brasil colonial existiam por aqui entre um e dez milhões de índios mais Atualmente, a população de índios no Brasil ainda segue em luta por direitos a território e condições dignas de vida . Segundo dados divulgados em abril de 2013, resultantes do último Censo realizado pelo IBGE  em 2010, atualmente existem aproximadamente 900 mil índios no país. Destes, aproximadamente 518 mil vivem em territórios indígenas, o restante divide-se entre a zona urbana  e a zona rural 
+
+Primeiramente FUNAI , órgão governamental responsável exclusivamente por cuidar da população indígena, a lidar com uma série de desafios , tenta um acordo com Governo estadual e federal o direitos de territórios para os ´nossos índios que estão entrando em conflitos com fazendeiros por disputa de Território, uma Lei a favor dos nossos índios a dificuldades para a manutenção das práticas culturais e a própria sobrevivência das populações indígenas são diversas. Sobretudo no Mato Grosso do Sul, existe uma franca disputa territorial entre índios e fazendeiros . A violência, a dificuldade para sobreviver dos recursos da floresta e a miséria decorrente destas circunstâncias têm levado à degradação das tribos. Grupos indígenas inteiros são encontrados à beira das estradas, o vício em álcool ganha dimensões alarmantes e a taxa de suicídios entre jovens índios é causa de evidente preocupação 
+Por outro lado  apesar de todas estas dificuldades e do clima de tensão crescente, os índios brasileiros continuam resistindo. Demonstram, assim, a força da ancestralidade que carregam e a sabedoria que trazem de seus antepassados. Esta força resulta também do contato direto com os ensinamentos oferecidos ao longo de séculos pela natureza ,  A Funai deve elaborar um plano e nossas  autoridade de poder políticos devem governar o povo indígena  criando leis que os favoreçam , Saúde criar um ambiente para que todo mês posso ser consultados por um Médicos , um posto de Saúde em seu território, Nossos indios tem direitos educação criar uma escola para aprender a ler que irá ajudar cuidar da terras e mais coisas que é proporcionado educação escolar 
+
+
+
+"A arte brasileira vai acordar um dia e perceber que a cultura indígena nacional é o que há de mais moderno, minimalista e contemporâneo."
+
+
+
+Ricardo V. Barradas 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 50
+# C4: 20

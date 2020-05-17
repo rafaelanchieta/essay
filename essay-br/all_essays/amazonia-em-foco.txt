@@ -1,0 +1,12 @@
+# prompt: Preservação da Amazônia: Desafio brasileiro ou internacional?
+# score: 760
+# title: Amazônia em foco
+Atualmente, no Brasil, há um número alarmante de focos de incêndio, sobretudo, na região Amazônica. Tal situação trouxe à tona discussões em países europeus sobre a proteção desse bioma. Assim, é preciso considerar a preservação das florestas brasileiras como um desafio a ser enfrentado de maneira mais organizada pelo Estado soberano em acordo com a comunidade internacional. Nesse sentido, convém analisarmos os principais impasses dessa problemática.
+É fundamental pontuar, de início, que o Brasil é considerado o grande exportador mundial de carne bovina, tendo como consumidores os mercados asiáticos e da União Europeia. Logo, é importante colocar que esses países contribuem ativamente com a destruição do ecossistema local. Segundo o Greenpeace, nas últimas décadas, o consumo europeu desmatou uma área equivalente a Irlanda, em países como Índia, Brasil e África. Portanto, a situação de degradação da Amazônia não é causada apenas pelas necessidades nacionais, mas também pela demanda insaciável por carne, leite e derivados vinda de outras partes do globo.
+Vale ressaltar também que  apesar de o país possuir uma legislação ambiental abrangente, a fiscalização é muitas vezes ineficaz visto as dimensões da região. Além disso, a diversidade de interesses econômicos que podem ser gerados a partir da biodiversidade local, abre espaço a ação de pessoas mal-intencionadas que tomam posse das áreas. Dessa maneira, é fundamental que os países desenvolvidos contribuam com a conservação, sem ameaçar a soberania nacional.
+Portanto, o Governo Federal deve promover a proteção ambiental em território por meio de investimento em tecnologias de imagem e rastreamento de queimadas e desmatamento, aumentar o número de fiscais de meio ambiental e buscar formas de agronegócio sustentável através de estudos e pesquisas relacionados a área. Espera-se, com isso, reduzir a incidência de crimes ambientais e promover a valorização do nosso patrimônio natural.
+# C0: 160
+# C1: 160
+# C2: 120
+# C3: 200
+# C4: 120

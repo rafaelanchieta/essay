@@ -1,0 +1,13 @@
+# prompt: Gravidez precoce: um problema?
+# score: 350
+# tittle: A Educação Sexual é a chave
+“Sex Education” é uma série televisiva quem como pauta principal   a educação sexual dos adolescente no ambiente escolar, através dos alunos Otis e Maeve . Fora da ficção, o assunto sexo ainda é tabu na sociedade, no ambiente familiar e escolar. 
+Por causa desse tabu, os adolescentes iniciam sua vida sexual sem nenhuma orientação e essa desinformação pode trazer sérias consequências, como uma gravidez precoce . Dados de 2011 ,  mostram um índice de 2.913.160 nascimentos, sendo que 533.103 nascidos são de meninas de 15 a 19 anos  e 27.785 de meninas de 10 a 14 anos. 
+Outro impacto que essa desinformação traz para a vida do adolescentes são os problemas de saúde durante ou pós-parto  e os problemas psicológicos como uma depressão, além do impacto socioeconômico, já que muitas dessas meninas não terminam seus estudos  dificultando seu acesso ao mercado de trabalho. 
+Portanto, cabe ao governo, à mídia, a escola e à família orientar e educar esses adolescentes . O governo junto com a mídia criarem campanhas abordando o assunto para serem transmitidos através dos meios de comunicação.  Além disso, a criação de cartilhas informativas sobre a saúde feminina e métodos contraceptivos que seriam distribuídos nos Postos de Saúde. 
+No que se refere à escola, inserir em sua grade curricular a disciplina de Educação Sexual,  a partir do 7° ano do ensino fundamental, que tem como objetivo esclarecer e informar os adolescente para uma vida sexual segura . Por sua vez, os pais conversarem com seus filhos sobre o assunto abertamente, além de ouvi-los e tirarem suas dúvidas. Então, só assim, será possível reduzir os altos índices de gravidez precoce entre os adolescentes. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

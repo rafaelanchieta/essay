@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 370
+# tittle: Gravidez em crianças e adolescentes no Brasil
+No Brasil, o Estatuto da Criança e do Adolescente  define a adolescência como a faixa etária de 12 a 18 anos de idade, casos de gravidez, considerando a idade definida no país, estão ocorrendo tanto em adolescentes como em crianças, tornando-se um problema, pois muitas jovens acabam abandonando os estudos e falecendo por complicações. 
+Quando uma criança ou adolescente engravida, acaba tendo sua vida transformada, e em decorrência disso, muitas abandonam os estudos e em alguns casos, pouco tempo depois acabam tendo a segunda gravidez.
+O risco de morte materna se duplica entre mães com menos de 15 anos. Segundo Clarissa F. Etienne, diretora da Organização Pan Americana da Saúde , a gravidez: “Não apenas cria obstáculos para seu desenvolvimento psicossocial, como se associa a resultados deficientes na saúde e a um maior risco de morte materna.” 
+Em vista disso, pode-se concluir que a gravidez na adolescência é um problema social e de saúde pública  que deve ser discutido pelo Ministério da Saúde e levado às escolas, com aulas de educação sexual, para informar os jovens sobre a prevenção com métodos contraceptivos, diminuindo assim os índices de gestações e mortes de crianças e adolescentes no país. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

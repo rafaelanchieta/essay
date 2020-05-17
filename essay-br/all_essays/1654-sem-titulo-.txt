@@ -1,0 +1,11 @@
+# prompt: terrorismo-o-brasil-tem-razoes-para-teme-lo
+# score: 4,0
+# title: (Sem título 039)
+O Brasil não tem muito com o que se preocupar em relação a atos terroristas de cunho religioso ou cultural, que são os mais comuns , tendo em vista que é um país cosmopolita e tolerante com diferentes culturas e religiões. Remontando-se á época da colonização pode-se buscar um contexto de miscigenação para a formação da cultura e identidade brasileira, fazendo com que o país tenha todo um histórico de tolerância com o estrangeiro.Issoassociadoásgrandes levas de imigrantes que vieram para o Brasil durante oseculo XIX e inicio do seculo XXcontribuiu para um quadro de aceitação e incorporação de diferentes culturas e religiões.
+         Situação totalmente oposta está presente em países que são os alvos favoritos dos terroristas, a exemplo dos EUA e da Inglaterra. Nesses paíseso xenofobismoé maior, assim como a formação de gruposradicalistasa exemplo dosskinheadsalém das dificuldades de se encontrar um emprego digno quando se é estrangeiro ou adeptoáuma religião
+         "vista com maus olhos" . Além disso, o Brasil não é foco de tensão global e vem desenvolvendo uma razoável política externa bilateral , no sentido de evitar conflitos e colaborar para a tranquilidade social. A segurança nacional deve se voltar para o território interno , para a violência crônica em que vive o país atualmente, pois é esta forma de "terrorismo travestido" que ainda aterroriza e intranquiliza a população
+# C0: 1,0
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

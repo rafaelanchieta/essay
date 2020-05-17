@@ -1,0 +1,11 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: A importância de preservar a floresta amazônica
+Atualmente, muito se tem discutido acerca da importância de preservar a floresta amazônica. A floresta amazônica é considerada o "pulmão" do mundo  e, também, a maior floresta tropical do planeta. Por esse motivo é importante preservá-la, pois, ao longo dos últimos anos, ela vem sendo desmatada, sofrendo incêndios e animais sendo caçados. 
+De acordo com o site G1  um a cada três focos de queimadas na Amazônia está relacionada com o desmatamento. São várias as consequências e impactos gerados pelo desmatamento, com a intervenção do homem sobre o meio natural acarreta desequilíbrios como,  a perda da biodiversidade, a erosão dos solos, extinção de rios, entre outros. 
+Portanto, medidas precisam ser impostas para minimizar esse problema. É preciso que o governo proponha palestras nas escolas para incentivar a sustentabilidade, o plantio de árvores e a exploração das áreas e dos recursos naturais de uma forma que não prejudique o meio ambiente. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

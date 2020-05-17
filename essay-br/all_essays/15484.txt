@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 270
+# tittle: A importância da motivação
+Um analfabeto funcional é uma pessoa incapaz de fazer interpretações textuais e resolver cálculos matemáticos, isso ocorre por falta de motivação aos estudantes, por falta se um ensino qualitativo e pode ser o resultado de uma gravidez precoce, porque a adolescente que engravida tem que cuidar do seu filho, portanto, ela abre mão dos seus estudos. 
+De acordo com o INAF  mais de 30% da população é um analfabeto funcional  , no  na qual,   a maioria desiste de estudar por se achar incapaz de aprender ou por ter sido reprovado anteriormente, mas tem  têm casos que a escola que   não oferece um ensino de qualidade,  por causa do governo que não ajuda com a cota e pela profissão dos professores estar sendo menos concorrida ultimamente. 
+No Brasil, há uma estimativa de 66% de adolescentes grávidas , entretanto,  esse pode ser um dos motivos de ainda existir pessoas analfabetas funcionais . 
+Enfim, se houvesse um órgão governamental para influenciar esses grupos de pessoas a estudarem talvez o índice de pessoas analfabetas funcionais diminuiria e se o governo desse mais importância a educação  existiria menos pessoas passando por essa situação. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 50
+# C4: 20

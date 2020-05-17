@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 450
+# tittle: [Redação sem título]
+No início do século XX,  o governo tinha como desejo vacinar a população de forma compulsória.Por desconhecimento do que estava sendo aplicado, o povo organizou uma revolução anti-vacina antivacina, conhecido como '' revolução da vacina ''.Analogamente, no Brasil do século XXI, mesmo após tanto fatos verificados, há o retorno de movimentos anti-vacinas , prejudicando tanto o convívio em sociedade  como retomando pensamentos conspiracionistas. O exposto é fruto não só do desconhecimento científico, como também por motivos religiosos. 
+
+Em primeira análise, é importante destacar a pseudociência como um dos proliferadores do movimento anti-vacina no Brasil. A princípio o movimento contra a vacina ganhou força após um artigo cientifico ser publicado na revista '' Lancet ''. Nesse artigo em questão , o médico inglês Andrew Wakefield associou o número de crianças autistas com a vacina tríplice viral. Ademais, mesmo após o artigo e a associação serem provados falsos, muitos pais assustados deixaram de vacinar seus filhos, assim colaborando para a disseminação viral. 
+
+Além disso, é necessário explicar a relação entre motivação religiosa e o movimento anti-vacina. Segundo artigo da BBC, nos Estados Unidos, 48 estados possuem isenção na vacinação de crianças por motivos religiosos. Outrossim, de acordo com o '' CDC ''  no ano de 2013 foi apresentado 24 mil casos de coqueluche no país, que poderiam ser evitados através da vacinação. O apresentado conseguiu o feito de transformar doenças, que até então , apresentavam casos ínfimos,  em um verdadeiro crescimento exponencial de vítimas. 
+Portanto, medidas são necessárias para impedir tanto o movimento anti-vacina como a propagação de ideias falsas sobre o assunto.Nesse contexto, cabe ao ministério da saúde-em parceria com ongs e as escolas- organizar palestras, apresentações lúdicas e campanhas extensivas. Com o fito de trazer a verdadeira ciência até a população em geral,  e desmascarar ideias falsas sobre a vacina. Se essas medidas forem postas em prática, o Brasil,  enfim poderá ficar livre de movimentos anti-vacinas, e por fim,  impedir novas revoltas da vacina. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

@@ -1,0 +1,10 @@
+# prompt: a-energia-nuclear-e-uma-boa-solucao-para-o-brasil
+# score: 3,5
+# title: O desenvolvimento do Brasil
+O Brasil parece caminhar a passos lentos em direção ao desenvolvimento. Essa lentidão é devida a uma total ausência de um planejamento elaborado em relação a situação econômica, social e cultural do país. O pais nutre um enorme desejo de ingressar na comunidade dos países ricos. No entanto, parece não querer tomar as atitudes necessárias para tal ascensão,reformas lingüísticas, programas espaciais, usinas nucleares; são atitudes interessantíssimas, porém não refletem a realidade do nosso país.Vivemos em um pais no qual 14,6 milhões de pessoas são analfabetas, muitas delas passam fome; cerca de 5% da população concentra mais de 70% das riquezas, ou seja, um país extremamente contrastante no qualo governo, responsável por gerir o estado, simplesmente fecha os olhos a todos os problemas.Tais problemas se formam como resultado da alienação da população e do governo. Essa situação evidencia a necessidade de uma reformulação da educação nacional, pois o caminho do desenvolvimento passa pela preparação intelectual da população. Em países como a China, Japão e Coreia tal mudança ocorreu e sem sombra de dúvida estão refletidas no atual crescimento de tais países.
+               Portanto, Usinas Nucleares certamente tem uma enorme importância, mas não correspondem a realidade e necessidade brasileira. Somente medidas concisas que reestruturem o pais proporcionarão o desenvolvimento tão almejado.
+# C0: 1,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

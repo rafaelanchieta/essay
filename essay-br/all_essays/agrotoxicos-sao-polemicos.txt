@@ -1,0 +1,11 @@
+# prompt: Agrotóxicos ou defensivos agrícolas: dois nomes e uma polêmica
+# score: 280
+# title: Agrotóxicos são polêmicos
+Agrotóxicos são polêmicos, alguns falam que é um mal necessário para defender os campos agrículas , outros que são compostos carcicogênicos que são totalmente desnecessários para a presevervação do meio agrícola .
+E realmente existem produtos sem pesticidas artificiais, que são chamados de orgânicos e para identificar esses produtos tem um selo em todos os produtos orgânicos, existem produtos com uma menor adição de agrotóxicos que são menos prejudiciais. Mas mesmo assim contém agrotóxicos, e tanto os produtos orgânicos quanto os com menos adição de agrotóxicos possuem uma melhor qualidade para a comida e o paladar, e uma qualidade bem melhor para a saúde. Principalmente os orgânicos que não tem a capacidade de causar câncer por causa de não terem a adição de pesticidas, por outro lado vendo pela economia os agrotóxicos são ótimos, pois eles conservam e protegem o campo agrícola e são baratos, já fazendo uma plantação orgânica o custo é muito mais alto. E o tempo para produzir os campos agrícolas sem pesticidas demora muito mais.
+Então é algo muito complicado, pois para a saúde os pesticidas são péssimos, já para a economia são muito benéficos, o melhor jeito de criar um consenso entre a economia e a saúde seria diminuir o uso de agrotóxicos, usar agrotóxicos cientificamente comprovados que fazem menos mal, ou usar um jeito de conservar o meio agrícula de uma forma orgânica e barata.
+# C0: 80
+# C1: 80
+# C2: 20
+# C3: 20
+# C4: 80

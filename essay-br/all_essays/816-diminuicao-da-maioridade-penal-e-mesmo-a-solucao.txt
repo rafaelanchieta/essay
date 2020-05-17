@@ -1,0 +1,13 @@
+# prompt: deve-se-reduzir-a-maioridade-penal-no-brasil
+# score: 4,0
+# title: Diminuição da maioridade penal é mesmo a solução?
+Atualmente, uma das notíciasque mais ouvimosfalar, são dedelitos cometidos por menores de idade.
+         A polêmica fica acerca do aumento abusivo desses crimes, sem que haja uma punição severa para os mesmos. Além de roubos, estão partindo para a violência , chegando algumas vezesàmatar.
+         Se pararmos para pensar, são apenas "crianças". Frutos de uma educação de baixa qualidade. Sendo na maioria deles, garotos de baixa renda. O que leva a crer, que talvez nunca tenham frequentado uma escola, ou terem tido uma educação deplorável. Querendo melhorar de vida e pensando no dinheiro, são influenciados por mais velhos a praticar crimes.Prendê-los, sófará com que a situação se agrave. A justiça no Brasil éfalha,ficarão presos por pouco tempo, haverá mais superlotação nas cadeias e o problema não será resolvido. Somente
+         deixará eles com raiva, querendo vingança e aprendendo mais coisas ruins. Sairão pior do que entraram. Crianças e adolescentes são facilmente influenciáveis. Ninguém nasce sabendo roubar ou matar, nós aprendemos. Se esses adolescentes tivessem tido uma educação de qualidade e um incentivo maior para iraescola, a situação não estaria nesse ponto. Elas aprenderiam a ter educação, respeito e, principalmente, uma perspectiva diferente para a vida.
+         Com os adolescentes que já estão nessa situação, uma solução viável seria colocá-lasem internatos escolares, não em cadeias. Para que aprendam a ler, escrever, ter valores. Crescerem com tranquilidade, ter uma adolescência digna de adolescentes. Seria um trabalho social muito forte,no qualmobilizaria a todos, mas que, com certeza,haveriammelhores resultados.
+# C0: 0,5
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,0

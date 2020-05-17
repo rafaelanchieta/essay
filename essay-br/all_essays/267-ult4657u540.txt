@@ -1,0 +1,18 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 7.0
+# title: Má Educação: Apenas o Governo é o Culpado?
+Basta ligar a televisão ou ler jornais e revistas para que anúncios e mais anúncios de cursos e faculdades a distância encham os olhos e ouvidos dos telespectadores e leitores. São inúmeros os cursos oferecidos ;corte e costura, conserto de eletrodomésticos, aulas de música, inclusive bacharelado em algumas faculdades.
+        O sistema de ensinoadistância possui pontos favoráveis
+          aoaluno, uma vez que
+          elepode escolher o horário para as aulas,assistí-lasdentro da própria casa, quantas vezes desejar. Isso sem falar no custo, que é bem mais baixo do que
+          emuma faculdade em que professor e aluno interagem pessoalmente.
+          Entretanto,a medida quea distância entre o estudante e o professoraumentam, a qualidade geralmente decresce. Esquematizar e montar trabalhos em grupo via internet, enviar dúvidas por e-mail, e ter que aguardar para receber a resposta não parece uma das melhores saídas para a falta de tempo dos estudantes.
+            A falta de qualidade em atividades da educaçãoadistância é um problema que pode ser resolvido sem muitos contratempos. A principal solução é a fiscalização dos
+              orgãoscompetentes
+              nasreferidas instituições, para que se prezem
+              pelo bom ensinamento, e não por fins lucrativos.
+# C0: 1.0
+# C1: 1.5
+# C2: 1.5
+# C3: 1.5
+# C4: 1.5

@@ -1,0 +1,13 @@
+# prompt: cotas-para-universidades-federais-solucao-ou-problema
+# score: 5,5
+# title: As cotas e a desigualdade
+Todo ano é a mesma história : a luta para ingressar no ensino superior. Apesar da grande concorrência, encontramos meios que auxiliam o estudante, como cursinhos, aulas na escola, bibliotecas e até mesmo a internet. Anos atrás, a situação era muito diferente. O ingresso no ensino superior era um luxo que apenas os ricos poderiam se dar. Com a ajuda do governo, conseguimos reverter um pouco essa situação. Contudo, ainda nos deparamos com uma grande polêmica: as cotas. Hoje temos cotas para negros, oriundos de escola pública, indígenas e até mesmo para professores que já estão formados. Seanarlizarmosbem essa situação,
+          as cotas geram desigualdade entre os concorrentes , é como se o cotista fosse o menos capaz dentre os outros candidatos. Com tanta desigualdade, o cotista pode até mesmo sofrer "bullying" na universidade, já que a nota de corte para cotistas é inferioranota de corte com ampla concorrência. O cotista é tão capaz quanto o outro candidato, contudo,lhe faltaoportunidade de estudo.
+          Muitas crianças não estudam porque ajudam os pais em casa por viverem em extrema pobreza e outros estudam em escolas com o ensino precário, com professores despreparados e até mesmofalta dematerial didático de qualidade.
+          Diante disso, é preciso ir diretonaraíz do problema
+            : a qualidade do ensino. As cotas são usadas para mascarar o real problema da nossa sociedade. É preciso reforçar a educação e também auxiliar os mais necessitados, com isso é possível criarmos verdadeiros estudantes, pois o verdadeiro estudante é aquele que estuda , não só aquele que vai à escola sem nenhum interesse no aprendizado. Com o ensino de qualidade, não haveria a necessidade para o uso de cotas e todos, finalmente, seriam tratados de igual para igual , pois a raça e a situação econômica nãopode ser usadocomo critério para o ingresso na faculdade.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

@@ -1,0 +1,11 @@
+# prompt: biografias-personagens-e-autores-em-confronto
+# score: 9,0
+# title: Até onde vai a liberdade.
+As biografias não autorizadas são, sem dúvida, uma “pedra no sapato” de diversas personalidades brasileiras, pois diversas vezes acabam divulgando para o público fatos que o biografado não estava com a intenção de revelar. Ou pior, não raro as informações passadas ao leitor são irreais, mas passam a ser encaradas como “verdades absolutas” por fãs e pela mídia. Tais situações ocorrem principalmente porque muitos biógrafos mal preparados e sedentos por informações “bombásticas” acabam consultando fontes não confiáveis. Muitas vezes chegam ao absurdo de basearem-se em informações da imprensa, que costuma impor o sensacionalismo acima da informação. Em biografias autorizadas isso não ocorre, pelo fato de a fonte da informação ser a própria personalidade. Quando não, parentes e amigos próximos, que poderão passar informações mais fiéis à realidade. Muitos artistas consagrados na música popular brasileira como Erasmo Carlos, Gilberto Gil e Caetano Veloso foram duramente criticados por serem contra a publicação de biografias não autorizadas, sendo que, na época da ditadura militar foram ativos na luta a favor da liberdade de expressão. Tais críticas não devem ser levadas em conta, pois o direito implícito a cada cidadão de seexpressar acabaa partir do momento em que este fere a integridade moral de outro cidadão.
+         As biografias sem autorização desrespeitam o direito à privacidade.Poisapesar de serem “pessoas públicas”(como são conhecidas pela maioria da população), os artistas são, acima de tudo, cidadãos brasileiros, e desse modo estão sujeitos aos mesmos direitos e deveres de todos.
+         Uma alternativa que pode ser adotada para tentar resolver essa situação é a publicação de biografias não autorizadas contendo uma nota esclarecendo que, por se tratar de uma obra não autorizada, não deverá ser levado em conta tudo o que será lido na mesma . Assim, os biógrafos sem autorização não sairão completamente prejudicados e os direitos dos artistas serão respeitados.
+# C0: 2,0
+# C1: 1,5
+# C2: 1,5
+# C3: 2,0
+# C4: 2,0

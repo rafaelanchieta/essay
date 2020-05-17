@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 370
+# tittle: Nível de informações
+No Brasil o alto Índice de gravidez precoce é algo comum , pois,  possui causas e consequências que podem gerar problemas psicológicos, econômicos e sociais . 
+Certamente , a adolescência é um período de vida preocupante  pois é uma fase de adaptação e mudanças que envolve o principal fator a gravidez na adolescência que gera problemas tais como: riscos na gestação para a mãe quanto ao bebê , aumento de doenças sexualmente transmissíveis , a jovem não estando preparada fisicamente e psicologicamente, dependência econômica da famílias e até mesmo o abandono dos estudos ou trabalho. 
+Além disso, esses fatores geram conflitos entre as famílias em ambas partes , impactos na saúde e o baixo índice de escolaridade também contribui pois,  as poucas informações sobre esse assunto diminui o desempenho e sofrem uma pressão da sociedade e da família. 
+Portanto, é necessário possuir mais informações sobre o assunto , ouvir e esclarecer duvidas, realizar campanhas de conscientização nas escolas sobre as formas de prevenir a gravidez na adolescência, orientar e manter o diálogo entres os filhos . 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 20

@@ -1,0 +1,15 @@
+# prompt: o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor
+# score: 6,0
+# title: Democrácia pela democrácia
+A grande descoberta do marketing epropagandas publicitárias alavancaram e fomentaram o comerciomundial, que passou a vender quantidadesde produtos – que eram divulgados pela mídia –exorbitante, sendo não maisvendidopela a utilidade e sim pela marca.Nessescontexto, a propagandaeleitoral políticagratuita e obrigatória mostra-nosque esta não passade publicidade e marketing, em que"vendes-se"o político e não a proposta de campanha, fugindo assim
+         ao objetivo de expansão da proposta política do partido ao eleitor, em que é inutilizada a propaganda política. Umas das principais causas para a propaganda política não funcionar efetivamente vem do exagero donumerode partidos, em que o tempo para a apresentação da proposta política é consumido pelos candidatos quelimitam-sea anunciar seus nomes e números. Assim, surge o sentimento no eleitor de que assistir a propaganda não adianta, deixando-se
+         o programa eleitoral paracriançasque, muitasvez, só aguardam o retorno da programação normal.
+         Com isso, o prejuízofinanceirosem surtir o efeito esperado no eleitor, faz do horário político uma piada, vista pormuitos, comouma programação a ser ignorada.Sendo também, ignoradaos 840 milhões de reais vindos de nossosbolsosque pagam por um programa ineficienteaoqual não queremosvê-lo.
+         Sendo assim, é necessário introduzirmos uma política que faça com que o político paguepelo o seustempo de programação, pague para expor a suaideia. E, assim, valorizemoso horário político fazendo com queele sejalevado aserioe surta o efeitoqueo eleitor precisa.
+         Outrossim, ésine qua non realizarmos um plebiscito nacional em que toda a população opine acerca do horáriopolíticose deve ser gratuito ou não, fazendo com que
+         direitos democráticos sejam utilizados parademocracia. Pois, sóa com a democracia efetivaremos nossa democracia.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

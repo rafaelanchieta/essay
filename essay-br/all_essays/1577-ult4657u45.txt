@@ -1,0 +1,9 @@
+# prompt: nacional-ou-importada-qual-a-cara-do-brasil
+# score: 4,5
+# title: Brasil, meu Brasil brasileiro
+O povo brasileiro sempre foi muito influenciado pela cultura de outros países, desde a colonização até a globalização. E nós realmente nos deixamos levar por essas influências? Na minha opiniãoos jovens estão sim muito "importados", mas sofrem influências tanto quanto todo o mundo globalizado, pois todos estão passando por essa miscigenação de culturas. Se nós perdemos, o resto dos países também perdeu suas raízes.Mas e os barzinhos, o carnaval e a feijoada de domingo?Isso tudo ainda existe, e é muito valorizado por muitos de nós. Se o Brasil tivesse realmente perdido sua cultura, não teríamos tantos turistas e tanta diversidade.Então pode-se dizer que, mesmo com toda a influência o Brasil não perdeu sua identidade, e se pararmos para avaliar, nosso país sempre foi uma mistura de várias culturas.
+# C0: 1,5
+# C1: 0,5
+# C2: 1,0
+# C3: 1,0
+# C4: 0,5

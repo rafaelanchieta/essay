@@ -1,0 +1,12 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 400
+# tittle: [Redação sem título]
+No Brasil,infelizmente,o número de detentos cresceu de forma expressiva. Mas,  é notável que,  o governo não estava preparado com tal crescimento.Dessa forma,é preciso reverter este caso,já que,  a superlotação e a desordem,  são problemas na qual nos quais,  devem ser resolvidos. 
+Os presídios brasileiros,  não dão o suporte humanitário necessário para os presos. Uma vez que,  há celas onde em que cabem 8, e dentro delas estão 16 pessoas por exemplo, já que,  a falta de estrutura, e sem mais presídios,dão como desumano, a situação dos presos . Assim,não é efeito feito jus ao art. 40 da Constituição Federal, em que,  diz respeito à integridade física e moral dos condenados. 
+Além disso,a desordem nas prisões,  mostra a precariedade do sistema. Um caso no Brasil,  foi a rebelião no presídio de alcaçuz no RN , em 2017,na qual, duas facções criminosas brigavam entre si,disputando o "poder" na prisão. O final foi com 27 mortos, mostrando a ineficácia da segurança. 
+Portanto,é preciso que o governo libere verbas para o ministério da segurança pública, e que ele construa novos presídios,e coloque mais agentes penitenciários neles,com o objetivo de tornar mais humanitário a vida dos presos, e evitar novas rebeliões. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 100

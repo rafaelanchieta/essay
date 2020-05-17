@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 400
+# tittle: O Passado remete ao Presente.
+No que se concerne a importância da ciência para a sociedade, quando trata-se do coronavírus, não é a primeira vez que acontece uma pandemia . A a sociedade não está preparada para a doença ,  por afetar a economia, a saúde pública e o cotidiano do ser humano.
+Em 1918, surge uma pandemia chamada de gripe espanhola ,  De acordo com a Organização Mundial da Saúde , estima-se que 50% da população foi contaminada, existiam poucos medicamentos e vacinas antivirais  que agora podem ajudar a conter sua propagação e promover uma recuperação mais rápida dos doentes. O passado remete ao presente,  quando se trata de pandemia,  De forma indireta, a gripe espanhola contribuiu para o surgimento  em 1930  dos ministério dos negócios  da saúde e da educação pública quanto a do sistema único de saúde, em 1988. 
+ O ano é 2020 , e devido ao cortes de verbas na ciência, segundo mandato da presidente Dilma Rouseff, seguiram na gestão de Michel Temer e se acentuaram com Jair Bolsonaro, travaram o andamento do processo .""com 5 milhões de reais, seriamos capazes de realizar os testes em humanos,mas está tudo parado por falta de verba.""afirma,  o bioquímico Paulo Ivo Homem de Bittencourt Junior, professor na Universidade Federal do Rio Grande Do Sul. 
+Em suma, o governo deverá liberar verbas na ciência, para que os estudos possam ser realizadas, e para que busquem a cura com maior facilidade. Além da ciência, liberar verbas na educação é importante para a sociedade como todo, assim todos ficaram  ficarão cientes de que a doença não é brincadeira. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

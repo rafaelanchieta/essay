@@ -1,0 +1,15 @@
+# prompt: o-que-voce-acha-do-novo-acordo-ortografico
+# score: 8.0
+# title: Reforma ortográfica: boa ou ruim, somente o tempo dirá.
+Os benefícios e malefícios trazidos pela reforma ortográfica ainda não podem sermensurados, tomandopor base as opiniões de diversos especialistas, verifica-se que a reforma ortográfica causa muitas divergências.
+        Eis alguns pontos levantados para os que são favoráveis à reforma: os documentos dos organismos internacionais que adotam o português precisam ser duplicados, devendo ser publicados nas duas línguas;os materiais didáticos, como dicionários e gramáticas precisam ser reproduzidos tanto no Brasil quanto em Portugal.
+          Nesse sentido, a reforma trará benefícios, promovendo a unificação da ortografia, facilitando a tradução de documentos oficiais,aincluindo o idioma em um cenário mais amplo no meio internacional e promovendo o intercâmbio cultural entre os países deorigemlusófona.
+            Outro aspecto positivo a ser analisado é a redução de gastos na edição de livros, estimulando os países a se interessarem pela literatura de outros países que também adotam a língua portuguesa como língua oficial, estimulando o interesse em conhecer a literaturaalheia, tornando-a mais acessível a todos.
+              Por outro lado, há os que são contra e alertam para os gastos na reedição de livros distribuídos nas escolas, que podem gerar gastos incalculáveis, bemcomo, atarefa de reeducar as crianças que foram alfabetizadas recentemente sob as regrasantigas, hátambém o temor de Portugal perder sua identidade, sendo reconhecido apenas oPortuguêscomo o português do Brasil.
+                Outros afirmam quea reforma nos moldes em que se encontra trará poucas vantagens para o ensino,devido os custos serem maiores que os benefícios, alegando que a mudança é muito mais uma reforma política do que linguística.Sem contar que, não se pode avaliar se realmente ocorrerá o intercâmbio esperado com a unificação, entre os países falantes desse idioma. Eles alegam também que o interesse internacional por um país surge quando ele cresce e evolui econômica e culturalmente.
+                  Diante dos fatos analisados, conclui-se que, é muito cedo ter um posicionamento a favor ou contra a reforma, a verdade éque, nenhumamudança é confortável, ainda mais quando se trata de algo que mexe com a vida de tantas pessoas.Tudo é muito novo, não é possível avaliar os resultados ainda, se bom ou ruim, somente o tempo dirá
+# C0: 1.5
+# C1: 2.0
+# C2: 1.5
+# C3: 1.5
+# C4: 1.5

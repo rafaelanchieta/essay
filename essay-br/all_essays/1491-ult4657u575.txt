@@ -1,0 +1,12 @@
+# prompt: idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados
+# score: 2,5
+# title: Os desafios dos sábios
+Há um momento na vidaquefinalmente, ganhamos a sabedoria. Nos tempos atuaisa própriapode ser
+        a chave do sucesso, para muitos assuntos a serem discutidos. E os cidadãos sábios de hoje, que se encontram muitas vezes em asilos, estão sendo respeitados? Haveria algo a se fazer? Como era de se esperar, os idosos (considerados sábios), não estão ganhando o valor quedever-se-iaganhar da sociedade atual.
+          Por essas e outras, a sociedade caminha lentamente para o futuro desejado. Isso ressaltaàpraticamente total desvalorizaçãodaqueles, emque um dia ajudaram a construir o país que conhecemos hoje... O governo, percebendo, que estava perdendo resolveu investir um "pouquinho" . Perder sabedoria? Talvez esse seja o motivo, o único motivo, que levou o governo a pagar a aposentadoria que não é satisfatória, pois não se compra um, dos diversos remédios que uma pessoa idosateque ingerir para poder continuar viva, com a miséria que o governo dá, e muitas vezes atrasa. Respeitar o idoso, é respeitar a si próprio eàseu direitos, por que um dia você vai estar sendo o idoso. Para podermos sonhar com um
+              país justo e futurista, temos que valorizar aqueles que têm algum ensinamento a nos dar.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

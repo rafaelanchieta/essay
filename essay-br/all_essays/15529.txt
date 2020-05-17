@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 600
+# tittle: Analfabetismo funcional no Brasil
+Os níveis de analfabetismo no Brasil é acompanhado de forma intensa pelo Indicador de Analfabetismo Funcional  desde 2001. Os dados de 2018 nos   mostram que três a cada dez pessoas de 15 a 64 anos são analfabetos funcionais,  29% da população do país – 38 milhões de brasileiros. O analfabetismo funcional é a dificuldade  de interpretar e compreender pequenos textos ou simples cálculos matemáticos. 
+Esse déficit acompanha milhões de pessoas a partir dos primeiros anos educacionais e, muitas vezes, até mesmo durante o ensino superior. Isso acontece por muitos motivos, alguns deles são a baixa qualidade dos sistemas de ensino, a falta de estrutura nas instituições, pouco hábito em  de leitura, falta de incentivo educacional e etc. 
+De acordo com o Inaf e como um dos textos motivadores também nos relembra , a alfabetização pode ser classificada em quatro níveis, esses níveis nos mostram com que intensidade o déficit está em nossa população. Apesar da situação ter melhorado nos últimos 10 anos, ainda não chegamos   nem perto de países desenvolvidos como a Suécia, que tem mais de 97% da população, acima dos 15 anos, alfabetizada.
+Em suma, tanto os professores  quanto bibliotecas públicas e digitais seriam de incrível ajuda para incentivo à leitura e o combate ao analfabetismo até mesmo para pessoas que já passaram da fase de aprendizado infantil e jovem ou não tem acesso a meios educacionais . O incentivo a bibliotecas locais e a facilidade de alcance a livros e instituições de qualidade que possam motivar à leitura, interpretação e cursos de matemática básica. Além,  dos professores preparados para auxiliar isso nos primeiros anos da criança que é, afinal, a fase de mais fácil aprendizagem. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

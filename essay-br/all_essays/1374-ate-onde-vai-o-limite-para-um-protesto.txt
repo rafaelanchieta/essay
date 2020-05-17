@@ -1,0 +1,10 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 7,5
+# title: Até onde vai o limite para um protesto?
+Os acontecimentos recentes na sociedade brasileira mostram que as revoluções e revoltas que se iniciaram em 2013 ainda não acabaram. A população mostra seu descontentamento através de greves, passeatas e manifestações que infelizmente adquirem caráter violento e caótico. A população sai às ruas com o intuito de fazer reivindicações, lutar por melhorias, porém não são todos os integrantes que agem de forma pacífica. Muitos acreditam que a violência é o único modo de se fazer ouvir, de transformar uma rua em um caos tão grande que desperte a atenção de todo o país. Manifestantes como os Black Blocs extrapolam no direito de democracia e ultrapassam o limite do bom senso. A polícia tem que fazer seu papel, mesmo sendo também cidadãos que precisam de melhorias. Essa luta violenta atinge inocentes, como no caso do cinegrafista Santiago Andrade, atingido por um artefato no Rio de Janeiro. O artefato foi arremessado durante um protesto contra o aumento do valor do transporte coletivo. A polícia militar afirma que o rojão foi atirado por vândalos, e especialistas dizem que a PM não utiliza esse tipo de artefato. Desse modo,subtende-seque o rojão partiu de vândalos.
+         O papel da polícia é manter a ordem pública, por meio de proteção para a população. Manifestantes como os Black Blocs representam os interesses do restante da população que se manifesta pacificamente, visto que esses manifestantes buscam também por mais democracia e igualdade social. Porém, o modo como esse protesto é realizado deveria ser observado com mais atenção, pois quem quer o bem da população não tomaria atitudes como essas. Desse modo, é evidente que a polícia deve cumprir seu papel, e os manifestantes não devem exceder o limite dos protestos, já que a população deve lutar pelo bem da sociedade como um todo.
+# C0: 1,5
+# C1: 2,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

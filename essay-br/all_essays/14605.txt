@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 450
+# tittle: Dilema indígena
+Hodiernamente  a valorização indígena é tratada com maior delicadeza  já que é um assunto complexo que merece cuidado  e que todas as partes envolvidas sejam escutadas e estudadas, principalmente os índios que não podem ser representados por quem não convive com a sua realidade. 
+
+Conforme o artigo 5º da Constituição Federal todos temos  direitos a serem seguidos, entretanto como é de conhecimento público isso não se aplica de forma concisa aos indígenas sobreviventes nas suas terras . A sua importância histórica, biológica e cultural é colocada em segundo plano, a datar do início do período colonial, mesmo sendo a grande maioria também era a mais frágil contra as armas e poderes europeus .
+
+A falta de cumprimento dos direitos básicos constituídos em lei como saúde, educação,  e direito à liberdade gera um grande ninho de problemas , juntamente com a incessante caça de produtores por suas terras demarcadas  ocasionando diversas mortes violentas e grandes desmatamentos ambientais, e a difícil sobrevivência só tem afetado de forma negativa a permanência de indígenas em seu habitat natural, os trazendo as grandes cidades com extenso sofrimento e árdua adaptação. 
+Portanto, medidas são necessárias para combater o impasse, o cumprimento das leis federais é o mínimo que se espera para qualquer cidadão , principalmente os mais fragilizados na sociedade, o mantimento de suas áreas de demarcação em conjunto com proteção contra qualquer tipo de perigo que os possam cercar, auxílio com alimentação,  e a preservação das áreas florestais aos quais eles habitam é um plano que o governo poderia adotar, trazendo benefícios para sua comunidade, meio ambiente e a conservação de seu povo primário. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 6,5
+# title: Pátria amada, Brasil
+Um indivíduo é considerado patriota, não somente quando ama, mas também quando desempenha serviços a sua pátria, visandoaascensãoda mesmanas mais diversas áreas.
+        Embora a maioria dos brasileiros se autodenomine amante de sua pátria, esse sentimento é abalado quando se fala por exemplo em política, educação e saúde. Isso se deve ao fatodessesaspectos se mostrarem ainda defeituosos -
+          na política, os governantes não trabalham em prol da população, fazendo com que a boa qualidade na educação e saúde ainda pareça utopia - despertando assim um sentimento antipatriótico, com críticas constantes, e comparações com países desenvolvidos . Já em época decopa do mundoacontece o contrário, o futebol brasileiro, por viver um momento de forte reconhecimento
+            lá fora , acaba proporcionando aos torcedores um sentimento de orgulho, reacendendo o patriotismo que encanta a todos e que esteve deixado de lado. As causas desse acontecimento são os cinco títulos mundiais e os atletas que conquistam o carisma do público, representando o povo no esporte mais amado do Brasil. Infelizmente o evento organizado pelaFifa,só acontece de quatro em quatroanos cabe,então, ao povo olhar para os problemas da nação com mais vigor . Sair às ruas, lutar por mudanças, transformar o país, fazer crescer o patriotismo como um sentimento permanente. Só assim o orgulho de ser brasileiro trará para a nação o tão esperado desenvolvimento e a necessária redução das diferenças sociais que tanto oprimem e maltratam seu povo.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

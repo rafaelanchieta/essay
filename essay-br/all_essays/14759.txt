@@ -1,0 +1,14 @@
+# prompt: Reforma da Previdência: uma solução ou um problema?
+# score: 400
+# tittle: Reforma da Previdência: uma ameaça aos direitos sociais
+É colocada em pauta a questão da Reforma da Previdência Social no Brasil,  que afetaria diversos segmentos sociais, como os investimentos em aposentadoria, educação e saúde pública. A real necessidade da Reforma Previdenciária é a de gerar elevação da renda e do emprego para a população,  ao diminuir certos gastos públicos. A questão a ser abordada é: seria essa Reforma uma solução ou um problema? Para responder a essa pergunta, é necessário avaliar os prós e os contras dessa PEC . 
+
+De acordo com o IBGE , a expectativa de vida dos brasileiros em 2017 é de 76 anos. Ademais, segundo a análise de dados desse Órgão, a população idosa no Brasil tem aumentado. A problemática vivenciada é, principalmente, a de que a população aposentada tem sido maior do que a PEA , que contribui ao INSS . 
+Com a atuação da Reforma da Previdência,  o conceito de Aristóteles,  de "dar desigualmente aos desiguais" pode ser "ameaçado", de certa forma. Como já abordado ao longo do texto, a Reforma Previdenciária pode recuperar a economia brasileira e estabelecer os investimentos, nacionais  e internacionais . 
+
+Em contraste, a proposta do atual Governo corrobora a ideia de pobreza da população, uma vez que apertaria demais os direitos sociais. Nessa linha de raciocínio, ao trabalhar além da idade prevista, o contribuinte pode necessitar de mais recursos em saúde pública, o que aumenta os gastos governamentais. Como reflexão, cita-se a fala do filósofo Nietzche: "a desigualdade dos direitos é a primeira condição para que haja direitos". 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

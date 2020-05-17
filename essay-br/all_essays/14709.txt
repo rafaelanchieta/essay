@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 650
+# tittle: Marginalização desnecessária
+Na obra japonesa de animação “Death Note”,  é retratado os esforços de um estudante em punir criminosos do mundo todo e servir como a forma última de justiça. Utilizando um objeto sobrenatural capaz de causar ataques-cardiacos ataques cardiácos, ele pune os criminosos de forma que ele acha justo, mas que causa medo e apreensão a todo o mundo. Fora da ficção, o sistema carcerário brasileiro também representa uma tentativa falha em melhorar a sociedade, que resulta do descaso do estado e da visão errônea da função do encarceramento.
+
+Primeiramente, é importante destacar que,  apesar de ser o país com o 3º maior número de detentos no mundo, o Brasil não possui a infraestrutura necessária para acomodar este número. Este fato é corroborado pela superlotação das prisões de todo o país que, por conseguinte, resulta em condições insalubres e desumanas para os detentos. Fica claro, então, o descaso do Estado em relação à infraestrutura das prisões e à vida dos presos. 
+
+Ademais, o ambiente resultante,  ao invéz invés de ressocializar os detentos,  contribui para sua marginalização. No filme Carandiru, que descreve a realidade de uma das maiores prisões do país, o diretor da instituição informa ao médico que está ali para tratar os presos aidéticos que “a ordem do presídio só existe porque os presos assim desejam”. A fala do personagem é evidenciada nas prisões da vida real que,  periodicamente sofrem com revoltas e massacres causadas pelos presos que guerream entre si graças à prevalência das facções neste ambiente. O biológo Jean-Batista Lamarck acreditava, como descrito em sua teoria da evolução, que o ambiente molda o indivíduo. Logo, é inegável que o resultado de viver nas prisões é marginalização mais profunda dos detentos. 
+Portanto, fica evidente a necessidade de ação para resolver a problemática. Para resolver a superlotação e a marginalização no ambiente carcerário é necessário que, por meio de verbas governamentais, o Ministério da Justiça urja o Executivo a não apenas construir novos presídios nos estados com maior índice criminal, mas também é essencial que nestes presídios seja incentivado a ressocialização dos detentos, promovendo ensino básico e técnico, possivelmente ministrado por ex-detentos recuperados. Apenas assim a sociedade se afastará de um sistema focado em punir e marginalizar, movendo rumo a uma sociedade mais acolhedora e com um Estado que se importa com todos os cidadões e procure o melhoramento de cada indivíduo. 
+# C0: 100
+# C1: 200
+# C2: 100
+# C3: 150
+# C4: 100

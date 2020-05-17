@@ -1,0 +1,12 @@
+# prompt: por-que-o-patriotismo-brasileiro-so-se-revela-em-epoca-de-copa-do-mundo
+# score: 7,0
+# title: O outro lado da Copa do Mundo
+É verdade que a Copa do Mundo é um momento em que pessoas de países do mundo inteiro se unem para torcer e comemorar as vitórias e conquistas do time de seu país, além de promover o patriotismo e a união entre diversos grupos sociais visandoomesmo objetivo: a vitória. E o Brasil não foge a essa regra. Mas é verdade também que a Copa "camufla" os problemas sociais e políticos brasileiros, e que muitas pessoas
+        só vestem a camisa do Brasil e dizem-se brasileiros "com muito orgulho e com muito amor" apenas em Copas do Mundo. Nesse tempo de Copa do Mundoos telejornais, os jornais, as revistas e todos os meios de informação focam apenas os acontecimentos da Copa, ignorando, muitas vezes, a real situação brasileira. Um exemplo bem claro disso é o reajuste salarial de mais de 50% para os senadores ejudiciários, que foi aprovado pela Comissão de Trabalho e Serviço Público nesse último 24 de junho. Fatos como esse acontecem por detrás da camuflagem da "Copa do Mundo" e os brasileiros sequer pensam sobre o assunto.
+          Há também um aumento no consumo de certos produtos e grandes empresas como Nike, Adidas, Reebok, Mizuno, Sony, Coca Cola e Hyundai aproveitam deste evento para propagar e vender mais no mundo todo, ou seja, em nosso mundo capitalista globalizado, onde o consumo sem limites é estimulado, a Copa do Mundo não passa de mais uma ferramenta para acelerar as vendas e aumentar os lucrosdestasempresas.
+            Então, ser patriota é muito mais do que vestir a camisa do Brasil na Copa e se dizer orgulhoso por pertencer ao país do futebol. É participar das decisões do governo, é lutar pelos direitos, é ajudar quem precisa, é ser um eleitor consciente e bem informado, e é principalmente exercer seu papel de cidadão com sabedoria.
+# C0: 2,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

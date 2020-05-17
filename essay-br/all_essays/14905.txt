@@ -1,0 +1,16 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 500
+# tittle: [Redação sem título]
+Enquanto a palavra fome nos dias atuais está sendo usada mais no sentido metafórico, significando um desejo ou ambição, não devemos  ignorar o seu sentido literal, privação de alimentos, que ainda é um dos maiores problemas da atualidade. 
+
+Um dos agravantes desse problema é a má distribuição de renda, principalmente nos países pobres e subdesenvolvidos, pois enquanto uma pequena parcela da população vive no luxo, ostentando refeições que valem mais do que um salário mínimo, uma boa parcela não consegue fazer mais do que duas refeições por dia, tampouco suprir as necessidades básicas de calorias para uma vida saudável. 
+
+Antigamente o maior obstáculo em relação a fome era não haver produção de alimentos suficientes para toda a população , mas com os avanços tecnológicos e científicos,  a produção de alimentos hoje é mais do que suficiente para acabar com a fome no mundo. 
+Entretanto, como a taxa de desemprego continua a crescer em países como o Brasil, uma parcela da população se vê obrigada a sacrificar alimentos saudáveis por uma maior quantidade de alimentos prejudiciais à saúde se consumidos com frequência, por serem mais baratos. 
+
+Tendo em vista isto, cabe aos órgãos competentes do governo reduzir impostos nos alimentos de origem natural, tornando-os mais acessíveis à população com baixa renda, bem como auxiliar financeiramente pessoas em situação de extrema pobreza, além de implantar programas de capacitação profissional e inserção no mercado de trabalho para estas pessoas.Ademais, também promover campanhas e palestras sobre alimentação saudável. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

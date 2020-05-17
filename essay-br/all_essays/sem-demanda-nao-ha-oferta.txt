@@ -1,0 +1,12 @@
+# prompt: Violência e drogas: o papel do usuário
+# score: 500
+# title: Sem demanda não há oferta
+Conflitos ocasionados pelo tráfico de drogas não são uma exclusividade desse período, um  exemplo disso é a guerra do ópio, que aconteceu em meados do século XIX. Porém, na atual conjuntura, uma nova questão deve ser abordada: Será  que o usuário é culpado pela violência causada pela venda de drogas?
+De acordo com a lei da oferta e demanda redigida  pelo economista Adam Smith, as drogas só são vendidas porque há quem compre. A violência advinda do consumo de drogas, não  é diretamente ocasionada pelos usuários, porém, o dinheiro que os traficantes arrecadam com a venda, é  utilizado financiar a compra de armas e instrumentos que viabilizam as brutalidades que o tráfico produz, sendo assim, mesmo que indiretamente, os compradores também têm sua parcela de culpa.
+Apesar de, economicamente, ficar claro a culpabilidade do consumidor de drogas, as leis no Brasil os  isentam da responsabilidade, pois um usuário que for pego consumindo será julgado por um tribunal especial e receberá como pena a realização de serviços sociais, enquanto que  em países que seguem o contrário disso , como a Suécia, que  de acordo com a revista época  previu  prisão para usuário e vendedor, o número de consumidores diminuiu consideravelmente, o que, como consequência, enfraquece o financiamento do tráfico.
+Portanto, fica claro que  para resolver a problemática da violência ocasionada pelo uso de droga no Brasil  é necessária uma mudança nas leis, para que usuários possam ser punidos com mais severidade, além disso, deve ser considerada a legalização do uso das drogas, para que o tráfico perca o capital arrecadado com as vendas e fiquem  sem meio de financiar suas brutalidades.
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 50

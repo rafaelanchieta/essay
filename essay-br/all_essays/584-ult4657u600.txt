@@ -1,0 +1,10 @@
+# prompt: caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao
+# score: 0,0
+# title: Quem nunca errou[jogue]a primeira pedra.joga
+O excesso de exibição física acarretou uma grande avalanche de revoltas dos alunos da universidade tais como: machismo, intolerância e a má educação. A forma deexpressar do ser humano, tanto físicaoumental, causa uma série de ações favoráveis ou contrárias que são apresentadaspelasalgumas pessoas. No caso da mulherna maneira em que se veste, a certo tipo de roupa, traz honestidade ou lascívia para ela, causando opiniões divididas ou até mesmo machismo por alguns homens através de cantadas. O nível de sensualidade que apresenta em um singelo pano decotado, traz a intolerância e o ciúme de algumas mulheres, acarretando discriminação e revoltas. Assim, basta saber usar em certos tipos de ambientes e locais apropriados. O fenômeno que ocorreu no Brasilo caso da aluna "Geisy de Arruda que foi com vestido curto na universidade", a falta de educação ocorreu nos dois aspectos no caso da aluna e dos alunos: ela não foi bem sucedida no seu vestuário e eles porcomportarem como animais no campode vez a conselha-lá.
+        O fato de sentir-se bem mostrando a sensualidade não é aceitável por algumas pessoas quetrazintolerância, má-educação, machismo e discriminação social. Portanto, vivemos em um país livre, sem interferência nos costumes particulares das pessoas, não podemos jogar pedra na vontade do outro, quem nunca erroujogaa primeira pedra.
+# C0: 0,0
+# C1: 0,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

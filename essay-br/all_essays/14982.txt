@@ -1,0 +1,18 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 320
+# tittle: Qual floresta queremos para o futuro?
+Muito tem se se tem falado nos noticiários à respeito das queimadas e desmatamentos na Amazônia, cujo problema é considerado de caráter ambiental, podendo trazer consequências irreversíveis ao ecossistema. 
+
+Contudo, as queimadas em florestas causam poluição do ar;  pois provocam a emissão de gás carbônico na atmosfera. Porém, outro agente  poluidor são: os combustíveis fósseis, o processo de combustão em automóveis, as termoelétricas e as siderúrgicas,  que acabam emitindo esse tipo de gás. 
+
+Sobretudo, nos últimos trinta anos,  inúmeras florestas, incluindo a Amazônia, foram desmatadas intensamente com o intuito exclusivo de "interesses econômicos e altos índices de consumo". 
+Uma das maneiras para a diminuição da emissão de dióxido de carbono,  foi a criação do Protocolo de Kyoto, que inclui os países desenvolvidos. Mas o maior emissor, os Estados Unidos, negou-se a fazer parte desse protocolo. 
+
+É necessário que se tomem medidas urgentes para um bem considerado o "pulmão mundial", tais como: fiscalização e cobrança de taxas para quem não respeitar as leis impostas pelos governantes. 
+
+Entretanto, corre-se o risco de vermos  nos principais meios de comunicação, uma Amazônica em "extinção". 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 20

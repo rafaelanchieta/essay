@@ -1,0 +1,13 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 320
+# tittle: [Redação sem título]
+No Brasil, é um desafio a conscientização da população sobre a importância da vacina. Essa temática que foi um assunto recorrente no, durante a revolta da vacina, está novamente em destaque nas mídias . No entanto, o que está em evidência atualmente é o retorno de doenças erradicadas e o retrocesso da população no interesse em se vacinar.
+Em princípio, cumpre destacar que o ressurgimento de doenças mostra que é necessário um posicionamento diferente diante desse fator. Isso porque, de acordo com o líder africano Nelson Mandela, "quando se tem um problema, há que enfrentá-lo e não disfarçá-lo". Nesse sentido, o agravante é a falta desse ímpeto de falar para os outros sobre os impactos causados pela não vacinação. 
+Em seguida, cabe analisar que houve um regresso na maneira como a população reage às campanhas. Segundo Drauzio Varella "é humilhante a sensação de que a vida se esvai em consequência de um descaso pessoal". Nota-se,  que são humilhantes alguns acontecimentos como a propagação de campanhas antivacinação que mostram a falta de consciência da sociedade. 
+Em suma, a importância das vacinas deve ser vista de forma especial. Dessarte, cabe ao legislativo a criação de lei complementar que reafirme o dever do cidadão em aderir a cultura de se vacinar regularmente, estando sujeito a multa se não o fizer. Pois essa resistência afeta a todos e não somente a ele. 
+
+# C0: 100
+# C1: 50
+# C2: 100
+# C3: 50
+# C4: 20

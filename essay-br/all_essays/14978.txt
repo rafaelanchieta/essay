@@ -1,0 +1,74 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 450
+# tittle: Desastres ambientais: Qual o preço do desenvolvimento?
+José de Alencar e outros autores do romance indianista nos fizeram conhecer e
+
+entender a relação do índio com a natureza: subsistência, exploração saudável
+
+e freada, cooperação. Esse modo de se utilizar da fauna e da flora, no entanto,
+
+não é o mais prevalecente no mundo, já que o homem, desde muito antes
+
+de essas histórias serem contadas, têm para si duas únicas palavras-chave:
+
+desenvolvimento e lucro. A fim de satisfazer essas necessidades inventadas,
+
+viemos  explorando, desenfreada e irresponsavelmente, a natureza,  sem
+
+pensar que – um dia – a humanidade pode ser engolida por essas ações, como
+
+recentes acontecimentos vêm sugerindo. 
+
+Primeiramente, é preciso compreender de que maneira ocorre a exploração
+
+de bens naturais. Viemos retirando do meio ambiente muito mais do que
+
+necessitamos, muito mais do que o imprescindível para a vida, isso porque nosso modo de viver está intimamente associado ao que é supérfluo. Se necessitamos, por exemplo, de certa quantidade de madeira para a construção de utensílios básicos, encontramos uma maneira de inventar algo de que
+
+não precisamos verdadeiramente e acabamos extraindo muito mais do que a
+
+quantidade inicial. Essa é, então, uma exploração totalmente irresponsável.
+
+Nada disso, porém, seria tão prejudicial se tivéssemos consciência e o mínimo
+
+de preocupação com a prevenção de desastres. Falta-nos entender que a
+natureza não é totalmente autorrenovável e que, mesmo se fosse, ela não teria
+
+uma força de regeneração diretamente proporcional à nossa capacidade de
+
+degradação. Precisamos extrair menos, de forma consciente, para ajudar esse
+
+processo natural e agir ativamente para reparar os danos que fazemos. Além
+
+disso, é necessário que tenhamos discernimento e que sejamos consequentes
+
+ao nos utilizarmos do meio ambiente,  para que verdadeiras tragédias, como o
+
+recente rompimento de uma barragem da mineradora Samarco, em Mariana,
+
+Minas Gerais, não voltem a acontecer. Isso é possível com um planejamento de prevenção.
+
+Fica evidente, portanto, que o jeito com que conduzimos as coisas  até agora
+
+precisa ser mudado. Já que o caminho mais certo – o de mudar nosso modo de
+
+vida e, por consequência, de consumo – é, também, o mais árduo e demorado,
+
+deveríamos, pelo menos, nos preocupar com a extração consciente e com
+
+preparo contra desastres. Para isso, instituições internacionais, como a ONU,
+
+deveriam, juntamente a organizações como a União Europeia e os BRICS,
+
+pensar em políticas públicas de regulamentação sobre a utilização dos recursos
+
+naturais, além de desenvolver medidas punitivas aplicáveis a empresas ou
+
+Estados responsáveis por acidentes. A responsabilidade é a palavra-chave que,
+
+de fato, devemos seguir.
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 100
+# C4: 50

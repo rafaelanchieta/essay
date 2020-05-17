@@ -1,0 +1,13 @@
+# prompt: O Brasil e os imigrantes no mundo contemporâneo
+# score: 380
+# title: Século XXI: o Brasil e o novo panorama da imigração
+Nos últimos anos a mídia mostrou uma mudança no cenário mundial alarmante , milhares de pessoas pessoas, em todas as partes do mundo  fugindo dos seus países para procurar uma vida um pouco melhor e mais segura em outros países .
+Essa situação sempre ocorreu, sempre ouvimos falar aqui na América dos imigrantes que tentam entrar nos Estados Unidos pela fronteira com o México, mais  aqui tomamos conhecimento da onda de imigração do Oriente principalmente para países da Europa, pelo desespero com que essas pessoas tentam buscar uma oportunidade se arriscando, sempre se é noticiado  os mortos nessas tentativas, inclusive não se pode esquecer da foto daquela criança morta na praia que se tornou um símbolo triste dessa situação.
+Esse novo panorama também tem afetado a América, o Brasil também tem sido alvo de um fluxo grande de imigrantes entrando ilegalmente, alguns países da América tem sofrido com grandes crises, guerras civis, catástrofes naturas , com isso a imigração se tornou um problema com  difícil solução, temos por exemplo o caso dos haitianos que entraram no país pelo Acre de forma ilegal, deixando o Estado numa situação caótica, pois não tinha estrutura para receber esses imigrantes. Também temos o casos dos venezuelanos que estão vindo para o Brasil fugindo da crises no seu país.
+O Brasil e  conhecido como pacifico , não temos guerras civis, pelo menos não declaradas abertamente, somos um país hospitaleiro, mais  o fato e  que não temos estrutura para receber tantas pessoas, temos graves problemas internos: corrupção, violência, saúde precária, educação deficiente, falta de empregos, serviços básicos que estão em colapso e que não conseguem atender nem nossa população, quanto mais ajudar e atender as necessidades dessas pessoas.
+O Brasil tem que colaborar de alguma forma para ajudar essas pessoas, diplomaticamente, ou até mesmo financeiramente, apesar da crise na nossa economia, mais  não adianta bancar o generoso se não consegue resolver primeiro os problemas internos mais graves.
+# C0: 80
+# C1: 120
+# C2: 80
+# C3: 80
+# C4: 20

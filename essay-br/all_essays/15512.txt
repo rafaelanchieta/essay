@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 400
+# tittle: Analfabetismo Funcional no Brasil
+É de fundamental importância discutir a problemática da persistência do analfabetismo funcional no Brasil. Esse problema educacional converge com as poucas políticas de incentivo à leitura no âmbito da educação brasileira. Dessa forma, é importante salientar medidas de análise e pacificação. 
+No que tange à respeito dos meios de ensino brasileiro, é inegável que,  ocorre um alto grau em ignorar a prática de ler, uma vez que,  o que acontece é um acúmulo de livros nas bibliotecas escolares e uma ausência de ações para implementar o uso de tais materiais. Além disso, a falta de leitura, posteriormente, pode acarretar em sérios impasses . Sendo assim, é necessário não somente tentar resolver o problema de forma parcial -enviando livros para escolas-, porém sim de maneira   completa -implantando meios de uso. 
+Convém lembrar que,  os cidadãos ficam mais suscetíveis a problemas causados pela escassez do ato de leitura, desde interpretações distorcidas, como também o fácil lubidriamento acerca de informações "fakes". O sociólogo Karl Marx,  evidencia esse fato em sua teoria da alienação, o qual ressalta a perda de identidade do indivíduo, ou seja, a incapacidade de agir por si próprio. Dessarte, vê-se o quão relevante é a leitura, porquanto, eleva a capacidade de avaliação dos acontecimentos que nos   cercam. 
+Em suma, é necessário que haja uma parceria entre Governo e Ministério da Educação  -orgão assegurado por gerir a educação no Brasil-, para elaborar políticas de estímulo a leitura com acompanhamento online do andamento dos estudantes, por meio de parceiragem   com escolas e corpo docente, a fim de existir um apaziguamento do entrave, de modo que também,  formem pessoas pensadoras de si e livres da alienação. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

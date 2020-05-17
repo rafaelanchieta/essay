@@ -1,0 +1,13 @@
+# prompt: Estupro
+# score: 4,0
+# title: A epidemia do estupro
+ A cultura do estupro virou uma epidemia no Brasil. Diante de  vários casos de abuso sexual, a maior parte deles estão entre  jovens de 13 à  17 anos, e  isso é um problema gravíssimo, pois  além delas  serem muito jovens, o psicológico delas está sendo formado.
+ A impunidade é o que torna o estupro mais comum, pois, a  maioria dos casos de estupros, não são resolvidos  da forma que deveriam ser, estupradores  que deveriam está  atrás das grades, estão  rodando nas ruas como se nada tivesse acontecido.
+ Devido ao machismo, homens se acham no direito de tocar nas mulheres sem o consentimento delas, e  as culpam por serem estupradas. Hoje, no Brasil, cerca de milhares de mulheres são estupradas a cada ano, e  apenas um terço desses estupros são resolvidos e o agressor é punido.
+ Os principais autores desse crime é quem nem se imagina. Podem ser primos, pais, padrastos, tios e até amigos mais próximo da família. Por causa disso, a vítima sente medo de denunciar e o agressor fica imune, e por  mais que insistam em perguntar o que está acontecendo  a vítima não diz, ou por ameaças, ou medo de que aconteça algo pior. 
+ A família é a base de tudo, então, é nela que se aprende que não  deve agredir pessoas sexualmente. A família tem que ensinar os filhos desde a infância, que o modo de como  a mulher se veste, o jeito de ser,   não define  se ela quer ou não ser estupradas  e que sexo tem que ser os dois que queiram e não por força maior. O governo também faz parte, pois, a  impunidade é o  faz com que o abuso sexual seja frequente. O governo tem que investir mais em leis que dão resultados, e  coloquem esses agressores atrás das grades. 
+# C1: 0,5
+# C3: 1,5
+# C5: 0,5
+# C7: 0,5
+# C9: 1,0

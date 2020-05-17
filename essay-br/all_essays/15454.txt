@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 350
+# tittle: Gravidez precoce: um problema que precisa ser resolvido.
+Muito se tem discutido, recentemente, acerca de gravidez precoce, visto que,  os casos corroboram para um estilo de vida negativo onde   jovens desinformados e imaturos  estão envolvidos, ademais, presenciamos   uma estrutura e atendimento público precário devido a falta de investimentos na área. Em síntese, medidas a respeito do assunto – em específico as duas problemáticas - precisam urgentemente ser realizadas. 
+Em primeiro lugar, é valido ressaltar as condições de postos de saúde públicos que se encontram insatisfatórias. A Constituição Federal de 1988 estabelece como direito social fundamental a saúde e proteção à maternidade,  porém, a realidade em nosso   país é outra. Atender a população se torna um desafio, situação que,  se agrava quando jovens necessitam de atendimento médico, muita das vezes pela falta de dinheiro para clínicas particulares. 
+Outrossim, a juventude é relacionada com a pureza, tornando assim o sexo um tabu. Dados comprovados pela revista acadêmica “Reproductive Health”,  dizem que apenas 25% dos pais falam sobre sexo com os filhos, por conseguinte, a falta de informação gera adolescentes leigos , em conjunto de, imaturidade e irracionalidade quanto ao assunto, geram situações como a gravidez precoce. 
+Logo, medidas estruturais de investimento em problemas públicos iria de fato garantir o artigo 6º na   Constituição brasileira, contudo, isso de fato não resolve o problema como um todo, já que,  a necessidade da mudança no indivíduo é necessária, exercidas por diálogos e educação sexual que podem ser realizadas por meio de escolas com palestras do Ministério da Saúde, visando assim uma vida melhor e segura para todos os jovens. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 50

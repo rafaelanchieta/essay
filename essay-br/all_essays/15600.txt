@@ -1,0 +1,10 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 370
+# tittle: Pandemia coronavírus e a importancia da ciência
+O coronavírus, uma pandemia que matou milhares de pessoas e ainda mata, está sendo estudada pela ciência, que contribui a cada momento com dados sobre o vírus que se modifica a cada continente que passa. 
+ Até agora, as informações dadas pela ciência são essenciais para se prevenir contra o '  vírus, como : lavar as mãos, usar máscaras em lugares públicos, não tocar em regiões que tem mucose, evitar lugares públicos,  etc. Além de manter a cada dia as pessoas informadas sobre essa pandemia que a cada dia  se alastra e mata pessoas. 
+# C0: 150
+# C1: 100
+# C2: 20
+# C3: 100
+# C4: 0

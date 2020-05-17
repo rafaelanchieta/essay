@@ -1,0 +1,13 @@
+# prompt: cotas-nas-universidades-voce-e-a-favor-ou-contra
+# score: 5.0
+# title: Melanina x essência
+A vaga no curso desejado numa faculdadepública, éo que sonho de todo estudante de ensino médio. Mas, o governo brasileiro na tentativa de corrigir erros de base, implementou as cotas raciais e de alunos vindos de escola pública. Medida que hoje é o carro chefe das brigas entre estudantes e faculdades.
+        A discrepância entre ensino particular e público é gigantesca, desde as séries iniciais. Isso faz com que o estudante de escola pública fiquelesadodiante de um aluno da rede privada, e no confronto definitivo chamado vestibular, éobvioque um sesaíamelhor que o outro.
+          O que o governo está fazendo é apenas tentar melhorar a sua situação. Ele precisa é começar a organizar a estrutura no cerne, ou seja, um ensino público de qualidade bom, desde o primeiro ano escolar. Enquanto isso estudantes de escola particular sofrem com a concorrência que aumenta ainda mais com as cotas. Porque uma parte das vagas fica restrita, easvezes as mesmasnensão preenchidas pelos alunos beneficiados, e é desleal a diferença da nota de corte.Cursos concorridíssimos se tornão ainda mais, ao passo que pelas cotas a nota de corte chega a cair pela metade.
+              O beneficiado pelas cotas raciais quando aceita acondição; deestar entrando no ensino superiornaõpelo seu esforço, mas sim por apenas um pouco de melanina a mais, se afirma diante da sociedade como incapaz e segregado. Situação no mínimo humilhante.
+                A raça negra veio de um passado deficiente desde os primórdios, mas a situação do negro vem mudando. E essa política de cotas definitivamente não é a melhor solução. Em suma, podemos concluir que o negro, quando se destitui totalmente de seus preconceitos não deveria aceitar a cota como sinal de reconhecimento por ser inferior, mas sim como mais uma forma deseparação, coisa que o negroreindivicasempre.
+# C0: 1.0
+# C1: 1.0
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

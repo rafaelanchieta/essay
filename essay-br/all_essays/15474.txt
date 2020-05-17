@@ -1,0 +1,12 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 500
+# tittle: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+Não há como negar que ,  a falta de oportunidade é um dos maiores inimigos dos iletrados, e aliado ao aumento de desigualdade no Brasil. Segundo o Inef , em 2009, 27% dos brasileiros eram considerados analfabetos funcionais - e o índice se repetiu em 2011 a diante. 
+É importante ressaltar, em primeiro plano, de que forma o governo tenta ajudar essas pessoas necessitas de informações . Nesse sentido, a gestão pública, prefeito/governador interessam-se muito mais na educação tecnicista dos jovens, pois é uma parcela pequena, esquecendo-se de milhares de brasileiros que tem dificuldade de compreender textos simples.  Sob esse âmbito, há extrema necessidade de acometer na educação, pois à a riqueza e o poder de um país como um todo,  são prejudicadas quando pessoas comuns são iletradas. 
+Outro aspecto a ser abordado,  é a falta de interesse dos próprios desconhecedores . Segundo pesquisas, os analfabetos funcionais são usuários frequentes das redes sociais, no que concerne na falta de estímulo para deixar de ser iletrado, por esses indivíduos acharem que são capazes de navegar em redes sociais diariamente, não se libertam da situação na qual se encontram sujeitados - neste caso o analfabetismo funcional. 
+Portanto, a falta de investimento juntamente com a falta de interesse,  são os pilares para ainda existir analfabetos no Brasil. Mediante isso, o Ministério da Educação em conjunto com uma empresa de aplicativos, deveriam  desenvolver programas que incluísse  incluissem pessoas de meia e terceira idade, com funções de voz, compreensão de texto, entre outros. Com o propósito de erradicar de vez o analfabetismo funcional do Brasil. 
+# C0: 100
+# C1: 150
+# C2: 50
+# C3: 150
+# C4: 50

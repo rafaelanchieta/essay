@@ -1,0 +1,12 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: A importância da valorização dos direitos
+No inicio do século XVI  quando os europeus chegaram na América se depararam com pessoas diferentes, tanto em cultura, quanto em seu idioma, dentro dessa visão eles se autodenominaram "civilizados" . A partir desse termo encontraram uma espécie de "direito" que dava a eles poder sobre o povo que ali encontraram, passaram a tomar as terras para si e tentaram desestruturar uma cultura instituída séculos antes de chegarem. 
+
+Depois de um longo período finalmente conseguiram uma constituição que zelava por seus direitos. Os territórios pertencentes a esses povos atualmente estão sendo ameaçados por possíveis ações  que possam violar a Constituição, os povos nativos são como "guardiões" de nossa  natureza como a conhecemos  hoje, com o cuidado que exercem sobre a fauna e a flora ao tirar apenas o que precisam. Com a retirada das terras desses povos a natureza restante no país estaria basicamente condenada, levando em consideração a extinção de diversas partes do ambiente natural do país por meio das terras exploradas, além da perda cultural desses povos. 
+Por fim é preciso que por meio de ONG's ONGs  e mídias sejam criadas campanhas para conscientização sobre a valorização dos direitos e sobre a importância ambiental e cultural da preservação dos territórios e direitos indígenas, também é preciso que diante dessas campanhas a sociedade se una para defender os direitos desses povos, que precisam ser preservados. Assim o governo poderá ver a importância de preservar os direitos e garantir que os povos indígenas possam ter seus direitos preservados para que não ocorra a privação e nem a suspensão de seus direitos . 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

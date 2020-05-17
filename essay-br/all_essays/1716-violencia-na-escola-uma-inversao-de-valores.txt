@@ -1,0 +1,12 @@
+# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
+# score: 5,0
+# title: Violência na escola: uma inversão de valores
+O ambiente escolar se tornou uma vítima da violência física e moral. Com oaventoda tecnologia para propagar esse tipo de violência, um problema que já existia agravou-se, trazendo
+         insegurança a pais efilhosque já
+         não se sentem seguros em um lugar feito paraacolhe-los.Cresceentão, a preocupação sobreo qualserá o futuro dos jovens que estão expostos a esse tipo de problema diariamente.
+         As escolas, sejam elas públicas ou particulares, servem como fator determinante na formação social do indivíduo. Quando não se tem controle sobre essa formação, o problema deixa de ser algo individual e passa a ser um problema coletivo, de toda a sociedade. O que antes eram problemas como, nota vermelha no boletim, os diretores de escolas estão tendo problemas cada vez maiores como, por exemplo, formação de gangues, uso de drogas, pichações, porte de armas, e inclusive, tráfico. Consequentemente, tem-se uma inversão de valores no cenário escolar. Alunos estão pouco preocupados com sua formação acadêmica e profissional, passando a valorizar o exibicionismo da violência na Internet. É necessário exporacomunidade que isso não é apenas um problema da escola, mas de todos que estão relacionados. E com a ajuda da comunidade e dos pais, as escolas podem começar um projetoparticipativo trazendoa importância da formação profissional do indivíduo. Isso pode trazer de volta aos estudantes o valor da educação e o papel da escola na sociedade,fazendo com que estes, entendamque escola é lugar paraestudar, enão para brigar.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 0,5
+# C4: 1,0

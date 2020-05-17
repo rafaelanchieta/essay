@@ -1,0 +1,15 @@
+# prompt: qual-e-o-limite-entre-o-trote-e-o-crime
+# score: 3,5
+# title: Os trotes universitários nos oferecem riscos?
+No Brasil, todo ano são praticados os trotes universitários, que são considerados como rituais para a entrada dos estudantes na universidade. Infelizmente, eles são aceitos pelas pessoas sem dificuldade. Elas osvêemcomo brincadeira,
+         os vêem apenas como diversão.Estaspessoas não estão vendo
+         a proporção que esse tipo ato violento e mascarado está promovendo. No Brasil, os trotes têm se tornado cada vez mais violentos, causando acidentes e perdas de vidas humanas. Esses trotes são praticados de maneira excessiva, abusiva e humilhante. A pessoa que é submetida ao trote pode se sentir ofendida, denegrida, agredida e humilhada, correndo o risco de ficar abaladaemocionalmente, podendoaté ter que buscar
+         uma ajuda profissional. A partir do momento em que uma pessoa precisa da ajuda de um profissional, isso não pode ser considerado somente como um trote, e sim comobullyng. Este ato é inaceitável. O trote deveria promover a integração dos novos alunos com os veteranos e não causar danos à saúde
+         do mesmo. Para conter o número de acidentes e vidas humanas , o governo e a reitoria dauniversidade, têmde trabalhar juntos,
+         conscientizando a população sobre os riscos que podem ocorrer durante um trote. Caso a universidade defenda que os trotes devem ser mantidos, pondo regras e limites, eles deveriam proporos trotes a serem feitos,
+         todos sem riscos de vida e preservando a saúde dos estudantes.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

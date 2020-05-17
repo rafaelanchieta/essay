@@ -1,0 +1,14 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 650
+# tittle: Analfabetismo no Brasil.
+A educação é um direito social que foi reconhecido pela Constituição da República Federativa do Brasil de 1988, portanto,  o Governo tem obrigação de oferecer à todo cidadão,  uma educação de qualidade. Mesmo assim , um dos principais problemas no país é o analfabetismo, que apesar de ter sido minimizado nos últimos anos, continua sendo uma adversidade preocupante para a sociedade.
+
+Segundo o IBGE , por dados divulgados no PNAD , o índice de analfabetismo no Brasil no ano de 2013  corresponde a 0,4 ponto percentual a menos que no ano interior . Apesar de uma melhora notável, ainda existem cerca de 13 milhões de brasileiros com idade acima de 15 anos que são analfabetos . Isso evidencia um grave problema social,  que precisa ser solucionado para que as pessoas tenham igualdade de direitos, assim como está escrito na Constituição. 
+
+ O conhecimento é fundamental para que um indivíduo tenha a possibilidade para questionar o corpo social,  em que ele mesmo se encontra. É o caminho para formação intelectual e capacitação profissional . A falta de uma educação básica de qualidade  no Brasil,  aumenta a desigualdade social que já é muito grande . Não dá oportunidade para que muitas pessoas possam mudar de vida, e acaba contribuindo com a pobreza, já que estes cidadãos analfabetos não conseguem se qualificar para trabalhos bem remunerados . O governo que omite um direito constitucional á a grande parte de sua população, está sendo injusto .
+Sendo assim, é de suma importância que o governo brasileiro proporcione aos cidadãos mais pobres a possiblidade de uma educação básica de qualidade. O país tem que investir principalmente nas áreas mais precárias, para que sejam criadas novas escolas e outras instituições de ensino . Oferecer um ótimo salário aos professores que irão trabalhar nesses locais, até para que profissionais de outras cidades sintam-se estimulados a irem para esses lugares. Além disso, devem ser criados centros de capacitação para jovens e adultos, onde eles serão alfabetizados enquanto adquirem uma formação para o mercado de trabalho. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

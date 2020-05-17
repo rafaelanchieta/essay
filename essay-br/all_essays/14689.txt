@@ -1,0 +1,14 @@
+# prompt: Como reverter o cenário da atual situação carcerária do Brasil?
+# score: 550
+# tittle: A problemática da população carcerária no brasil e a ordem social
+A problemática da população carcerária no Brasil se dá pela superlotação do sistema carcerário e sobretudo pela falta de presídios, em razão disso,  tem-se as conhecidas rebeliões responsáveis por centenas de mortes dentro do sistema carcerário, criando assim,  uma situação quase que irreversível aos olhos da sociedade e um problema desafiador para o Estado enfrentar.  
+
+Vale ressaltar antes de tudo,  que a população carcerária é formada por indivíduos que infligiram a lei num determinado momento de suas vidas, o que consequentemente os levou a estar aonde  onde estão, isto é, na cadeia. Entretanto, sabe-se que assim como qualquer outro ser humano,  a população carcerária é possuinte  possuidora de direitos fundamentais que não podem ser violados por uma perspectiva ou julgamento moral de seus atos. A falta de atenção devida do Estado para com essa pequena parte da sociedade,  tem sido responsável pelas barbáries que hoje se vê noticiadas nos meios de comunicação. 
+
+Um sistema carcerário que funciona de forma devida,  contribui para a ordem social e o bem comum, tendo em vista que enquanto esses sujeitos marginalizados são devidamente tratados dentro de um sistema carcerário que funciona de forma eficiente, menos risco de fuga .rebeliões, e até mesmo de coligação com o tráfico e formação de ''tribunais do crime'' dentro das prisões , será representado para o Estado , o que vislumbrado na sociedade atual,  resultaria numa ínfima ou quase inexistente preocupação dos cidadãos de bem em verem, por exemplo, correndo nas ruas um sujeito que outrora preso,  escapou da prisão. 
+Portanto, pode-se concluir  que não é eficaz apenas prender alguém enquanto o sistema carcerário sofre de diversas deficiências internas, o que não significa dizer que não se deve prender, mas sim que se deve rever a funcionalidade do sistema carcerário num país onde   uma cela que tem a capacidade de abrigar 20, tem abrigado 40/50, num país onde   rebeliões ceifam a vida de centenas de pessoas não somente dentre os detentos, mas de carcereiros e policias que atuam dentro dos presídios. A ordem social está sujeita á violações quando a funcionalidade de um sistema responsável pelo afastamento de marginais da sociedade,  está pairando completamente alheio do que deveria ser. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 50

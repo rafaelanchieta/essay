@@ -1,0 +1,15 @@
+# prompt: toque-de-recolher-protege-juventude-e-sociedade
+# score: 6.5
+# title: [Sem título]
+Juízes, em resposta à onda de violência, decretaram o toque de recolher em cidades do interior paulista e no Paraná. A lei demonstra a incapacidade dos municípios emgarantir segurança.
+        O direito de ir e vir, garantidospelaconstituição, é claramente violado com essa medida [;] além disso, é o poder legislativo e não o judiciário que deve decretar leis.
+          Outro aspecto importante é o fato de muitos pais concordarem com tal medida, alegando que não conseguem manter a ordem. Este não é um problema do municipio, é da família,
+            naestrutura dela,
+            naincapacidade de educar.Por esse motivo, adolescentes que sabem viver em sociedade e se comportam adequadamente
+              , serão punidos, impedidos de sair, ver seus amigos, relaxar depois de uma semana inteira de estudos. O toque de recolher é uma medida desesperada de tentar conter a violência, mas a causa desta quea precária situação de ensino no paísnão
+                éresolvida. Investimentos e projetos para a educação certamente resolveriam o problema, sem a necessidade de ferir o direito de ir e vir.
+# C0: 1.0
+# C1: 1.5
+# C2: 1.5
+# C3: 1.0
+# C4: 1.5

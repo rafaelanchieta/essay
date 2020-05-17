@@ -1,0 +1,13 @@
+# prompt: horario-politico-obrigatorio-bom-para-quem
+# score: 2,5
+# title: Programações indesejadas
+Segundo a Constituição Federal em períodode política, emissoras de TV e rádio devem ceder determinado tempo para os partidos políticos. Esse horário cedido pelas emissoras aos partidos é rigorosamente distribuídoemtodos os candidatoscerto tempo paraquepossa apresentá-loaopublicode formacriticaetransparente e suaspropostas de governo queira exercê-las nesses quatroanos de mandato.
+         O horário eleitoral foiàforma mais ‘’democrática’’ que o governo estabeleceu paraque possa ter aapresentação dos futuros nomes queassumiramo poder legislativo ou executivo. Porém não é gratuita comopublicam,uma boa parte do dinheiro paraa obtençãodo horário nas emissorasvêemdos cofres públicos, ou seja, o governo gasta cerca de 600milem publicidade que serão distribuídos aos partidos políticos parao seu aproveitamento entreseus candidatos.
+         O que atualmentepode-se observanos programas políticosumbaixo nível de conteúdoem queos candidatos expõem aos seuseleitores, propostas entre outros formas que deveria ser utilizado naquele momento são deixadospara agressões a outros candidatos
+         ou temas ‘’pitoresco ‘’da realidade do programa eleitoral.De Tal forma queboa parte da população nega oHorário Gratuito porcontribuir poucodo que possa esperar daquelemomento democrático.
+         Diante dos fatos, se se houve certo investimento e preparo sobre questões políticas e básicas para um governante em cima dos nossos candidatos, aonde que possam utilizar o programa eleitoral para debater suas propostas de forma clara, ou o reaproveitamento do horário político intervindo em questões culturais de certa região, ou seja, torna aquele momento igual para todos sobrando tempo para que aconteça informativo sobre a política local, sobre o que faz um prefeito, vereador; fazendo um momento produtivo.
+# C0: 0,5
+# C1: 1,0
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

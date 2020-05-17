@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 450
+# tittle: [Redação sem título]
+Antes de 1500, ano da colonização portuguesa na América, os índios já habitavam essas terras e organizavam-se em diferentes etnias. Entretanto, foram submetidos a um processo civilizatório, pois eram considerados como selvagem, com isso a cultura dos nativos aos poucos vem sendo excluída. Dessa forma, evidencia-se a desvalorização cultural, bem como a violação dos direitos indígenas. 
+
+Convém ressaltar, a princípio, a desvalorização cultural dos nativos por parte da sociedade brasileira. Isso ocorre  porque, desde o período colonial, influenciado não só pelos colonizadores, mas também pelos jesuítas, a cultura indianista molda-se de acordo com a do europeu. Segundo o sertanista Orlando Villas Boas, o índio só pode viver dentro de sua cultura, isso mostra que para manter o índio é necessário valorizar sua cultura. 
+
+Em segundo lugar, vale ressaltar a violação dos direitos garantidos aos índios. O artigo 231, da Carta Magna de 1988, garante a eles terras, além do reconhecimento de suas organizações. No entanto, essa lei é violada pelos grandes proprietários de terras, contribuindo ainda mais para a desvalorização da culta dos nativos, pois a demarcação dos T.I.´s , é o principal fator para a conservação da cultura indígenas. 
+Em suma, faz-se imprescindível a tomada de medidas atenuantes ao entrave abordado. Posto isso, cabe à FUNAI  em parcerias com os Ministérios da Educação e Cultura, e também o Ministério da Justiça, esclarecer à população a importância de valorizar a cultura dos nativos, por meio de palestras e aulas de campo em aldeias indígenas, além de fiscalizar o cumprimento das leis indígenas, a fim de manter as etnias dos índios que existem no país. Desse modo, a história dos nativos não será esquecida. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

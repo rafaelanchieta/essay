@@ -1,0 +1,12 @@
+# prompt: qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro
+# score: 6,0
+# title: Consequências da crise
+Em virtude do processo de globalização, a interdependência dos países se tornou algo significativo. Crises financeiras, ocasionadas principalmente pela desvalorização ou instabilidade da moeda de um país em relaçãoa outra, provocam reações em série em toda a estrutura econômica mundial.
+         Atualmente, a crise financeira surgida nos países dazona do eurovem prejudicando as exportações brasileiras, tendo em vista que a Europa é uma das maiores consumidoras de produtos oriundos do Brasil.
+         Outra consequência que a crise europeiaestargerando nos países envolvidos é a divergência de ideias e o consequente fim das relações diplomáticas entreambos,
+         já que nessas horas ninguém quer perder dinheiro e prestígio. Diante de tais fatos, somente uma política econômica bem planejada é o que podeporfimacrise e recolocar os países no eixo da prosperidade novamente.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

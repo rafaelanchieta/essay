@@ -1,0 +1,13 @@
+# prompt: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+# score: 450
+# tittle: Analfabetismo funcional no Brasil: por que esse problema ainda persiste?
+“O ser humano é aquilo que a educação faz dele”.   A frase do filósofo Immanuel Kant parece fazer alusão à necessidade do ser humano em ser educado . Entretanto, essa necessidade nem sempre é completamente suprida, ocasionando em problemas como o analfabetismo funcional. 
+Entende-se por analfabetismo funcional a incapacidade que um indivíduo tem para interpretar textos considerados simples, mesmo sendo tecnicamente alfabetizados. Um dos motivos que torna isso uma realidade são os modelos de educação arcaicos , que restringem a capacidade criativa e interpretativa dos sujeitos. 
+É importante salientar que a problemática não se deve apenas à falta de educação escolar, pois é inquestionável a importância do trabalho conjunto entre pais e professores. 
+Engana-se quem acredita  que pertence somente à escola o papel de alfabetizar corretamente os estudantes, visto que a leitura e interpretação está presente muitas vezes em situações cotidianas. 
+Diante dos fatos supracitados, é necessário que o Governo, através do Ministério da Educação   insira modelos educacionais mais dinâmicos, que não tolham a capacidade criativa dos alunos. Outras medidas também devem ser tomadas, mas,  como disse o escritor Oscar Wilde: “O primeiro passo é o mais importante na evolução de um homem ou nação”. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 100

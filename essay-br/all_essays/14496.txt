@@ -1,0 +1,14 @@
+# prompt: A importância de valorizar e garantir os direitos dos povos indígenas no Brasil
+# score: 500
+# tittle: Não deixe a história morrer
+É sabido que os índios   em meados de 1500  vieram a sofrer sofreram nas mão dos colonizadores, devido a sua força bélica ser inferior a deles. Seus direitos desde então foram completamente desvalorizados, e até hoje não são reconhecidos pela sua grandeza. Garantir seus direitos é valorizar toda a história que passamos  e fazer com que não seja esquecida a sua importância. 
+
+Tribos como Guarani-Kaiowá, Xavante, dentre outros, aguardam seus direitos até hoje . São tratados como pessoas que não contribuem para o estado e com isso não valorizados, contudo esquecem que eles são um dos principais motivos ainda para se ter terras que não agredidos no solo com máquinas e construções. São preservadores da natureza que não pedem nada além de seus direitos para permanecerem ali. 
+
+Visando que a população indígena atualmente não é grande o suficiente para causar um impacto na sociedade, é preciso reconhecer as dificuldades enfrentadas por eles, em questões a princípio como a falta de terra para se instalarem e a falta de apoio dado a eles, pois eles sofrem cada vez mais com as construções desenfreadas feitas pela sociedade.  
+Portanto medidas devem ser tomadas para solucionar o impasse. Visando o contexto geral, o fato das tribos terem cada vez menos pessoas povoando é um agravante   porém não uma desculpa. O fato é,  que com uma população tão pequena o governo não tem contra-argumentos para invalidar um apoio que não afetaria potencialmente na economia brasileira. Contudo é justificável pedir um reconciliamento com os índios e entrarem em um acordo, cedendo parte de uma terra para que pudessem habitar, assim agregaria pontos positivos para ambos os lados, onde uma parte teria uma terra conservada e a outra teria um lugar para morar. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

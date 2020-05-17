@@ -1,0 +1,13 @@
+# prompt: justica-x-vinganca-como-nao-confundir-as-duas-coisas
+# score: 6,0
+# title: Justiça x Vingança
+Justiça e vingança são valores que até podem ser confundidos, mas que napraticasão bastantedistintas,a vingança mira o mal, enquanto a justiça tenta preservar o bem estar.
+         A justiça é baseada em leis que podem variar de país para país, e visa sempreobem estar eapreservação da vida, por meio de punições aos que agem de forma ilícita. Suas punições são regulamentadas e variam de acordo com a ação feita.
+         Já a vingança, por melhor que sejam as intenções, sempre visaomal e sempre é impulsionada por sentimentos ruins, comoa raiva, ódio, rancor. A vingança segue a argumentaçãodeolho por olho e dente por dente,tem que sofrercom a mesma moeda
+         .Para umapessoa que perde um ente querido, vitima de uma morte brutal causada por algum outro ser humano, obviamente perde o controle e se tiver oportunidade acaba se vingando, muitasvezesculpa de um
+         sistema penal falho que faz com que alguns fiquem impunes. Por mais que a justiça às vezes falhe, a população tem que acreditar nela incondicionalmente e nãopodemtentar fazer justiça com as próprias mãos, para não voltarmos aos tempos de barbárie.
+# C0: 1,5
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,0

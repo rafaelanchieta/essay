@@ -1,0 +1,11 @@
+# prompt: mentira-e-doenca-problema-moral-necessidade-ou-brincadeira
+# score: 5.5
+# title: MENTIRA, UM MAL NECESSÁRIO!
+A mentira, ao contrário do que muitos afirmam, não é algo de todo condenável, é inerente à natureza da raça humana. A capacidade de mistificar, fantasiar, abstrair e distorcer a realidade é atributo do homem, podendo-se, até mesmo, afirmar ser uma necessidade.O homem, embora seja racional e atuante com base na razão,não é desprovido da natural capacidade de abstrair, de fantasiar, de mistificar a realidade, o que é bastante perceptível nas artes, na literatura, na música, no cinema, na religião.Trata-se de algo natural, inerente à própria espécie.Ainda, comrelação ao homem, estudos sociológicos e históricos demonstram se tratar de um ser gregário por natureza, que tem necessidade de viver em sociedade por razão da própria subsistência.
+            A vida em sociedade depende do bom relacionamento entre os indivíduos, sob pena de se tornar impraticável. Ocorreque, dadassituações podem desestabilizar o homem nas suas relações, podem ser fonte de dor, provocar a ira, a raiva e despertar uma vasta gama de sentimentos prejudiciais,fulminandonum ambiente hostil e de animosidade entre os indivíduos. Diante de tais verdades, o homem se viu premido por uma necessidade e,graças a capacidade de mentir, encontra uma forma de evitar a desestabilização das relaçõesinterpessoais necessáriasao bom convívio em sociedade.
+              Assim sendo,a mentira deve ser vista como um atributo inerente à própria natureza do homeme justificável diante das necessidades do homem no convívio em sociedade, ou, para os que afirmam ser um mal da humanidade, ser vista como um mal necessário!
+# C0: 1.5
+# C1: 1.0
+# C2: 1.0
+# C3: 1.0
+# C4: 1.0

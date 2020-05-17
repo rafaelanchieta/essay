@@ -1,0 +1,13 @@
+# prompt: justica-x-vinganca-como-nao-confundir-as-duas-coisas
+# score: 5,5
+# title: "A indigestão da vingança".
+Falar de justiça e de vingança nos Estados Unidos e no Brasil é uma questão bastante distinta. Lá as coisas funcionam, a justiça é célere e os criminosos são penalizados na exata proporção que a infração exige. No Brasil, convivemos há anos com um código penal falido em que a maioria dos crimes podem ser ?amenizados? com o pagamento de fianças e com a progressão penal que beneficia muitos criminosos ditos ?primários?. A questão do atentando do onze desetembro, só trouxeà tona o que muitos de nós já sabíamos, porque também sentimosjá que somos parte de uma mesma espécie: o ser humano é movido por paixões e impulsos. Ainda que a justiça deles exista, ela não seria capaz de aliviar tamanha humilhação e dor que a população americana sentiu naquele fatídico dia. Então não bastaria prender Osama Bin Laden, teriam que matá-lo, como se estivessem dando um conforto a todos os cidadãos que esperaramàquelemomento por quase 10 anos.
+         No Brasil, os argumentos que justificariam a vingança poderiam ser até mais fortes, porque aqui, quando não se age com vingança, entendida como a ação que leva à morte, corre-se um risco imenso de termos vários assassinos soltos em poucos anos, beneficiados pelocódigo penal?da progressão de pena e da fiança?
+         . Isto quandoos mesmossão julgados ou pelo menos presos, porque
+         no Brasil a impunidade é algo com a população brasileira é obrigada a conviver. No entanto,independenteda sociedade, seja ela americana ou brasileira, as consequências da vingança são desastrosas e recaem, sobretudo, em pobres inocentes das regiões mais vulneráveis, estejam estes no Paquistão ou nas favelas cariocas, vitimados por revanchismos às ações de combate ao terrorismo ou ao narcotráfico.
+         No Brasil, a reformulação das leis penais, com o fim de certos mecanismos que só fortalecem a idéia de impunidade, é crucial para a dissociação dos conceitos de justiça e vingança. À medida que estas ações forem realizadas, juntamente com o fortalecimento das polícias e do poder judiciário, a população passará a crer que ?a vingança não passa de um prato indigesto, que faz muito mal ao coração?.
+# C0: 1,0
+# C1: 0,5
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

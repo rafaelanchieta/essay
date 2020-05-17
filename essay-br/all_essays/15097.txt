@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 300
+# tittle: As Vacinas Como um Meio de Prevenção de Doenças
+As vacinas foram criadas por meio de estudos a há muitos anos atras, é um dos principais mecanismos de proteção do organismo, ela estimula o corpo a produzir anticorpos. Algumas das doenças as quais possuem vacina pra para prevenção,  são caxumba, gripe, hepatite, febre amarela, sarampo, entre outras doenças. 
+
+Alguns tipos de vacinas como a da gripe deve ser feita uma vez por ano,  para que essa funcione corretamente. E ainda tem os tipos que são feitas nas crianças, desde que nascem, para o organismo criar anticorpos. 
+Além disso, o que pode ocorrer como efeitos colaterais é dor no braço, vermelhidão, e as vezes febre ou mal estar passageiros. Mas não causam reações alérgicas como alguns medicamentos. 
+
+Contudo, as vacinas são essenciais para a prevenção de doenças, como foi citado anteriormente. Sendo assim, existem varias campanhas de vacinação que são transmitidas na mídia em algumas épocas do ano. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 0

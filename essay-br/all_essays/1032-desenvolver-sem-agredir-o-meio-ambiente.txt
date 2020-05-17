@@ -1,0 +1,9 @@
+# prompt: o-brasil-e-o-conflito-defesa-do-meio-ambiente-x-desenvolvimento-economico
+# score: 9,5
+# title: Desenvolver sem agredir o meio ambiente
+O Brasil se sente confuso em relação a defender o meio ambiente ou se desenvolver economicamente, principalmente após a publicação do relatório do IPCC que aponta situações climáticas catastróficas, porém duvidosas. Nos dias atuais, as pessoas parecem se preocupar mais com as mudanças climáticas, não só pelas alterações causadas(enchentes, secas prolongadas, mudanças bruscas de temperatura) mas também pela extrema atenção que a mídia dá a estes fatos. É importante ressaltar que essas mudanças estão ocorrendo sim, mas até que ponto se pode confiar na veridicidade de relatórios como o do IPCC? Este possui uma reputação abalada após ter se confirmado que houve fraude em uma de suas pesquisas. Mesmo estando nesse conflito, o Brasil tem tomado boas medidas para diminuir os impactos causados ao meio ambiente, como a adoção de novas fontes de energia. O país possui uma matriz energética equilibrada, que pode servir de exemplo a outros países. O Brasil, uma nação emergente, não deve deixar o desenvolvimento econômico de lado, principalmente por ser membro de blocos econômicos, como o BRIC (juntamente com a Rússia, Índia e China constituem uma economia promissora) e o G-20, que reúne as 20 maiores economias do mundo. Apesar de não se ter relatórios confiáveis em relação ao clima, o Brasil deve fazer o possível para desenvolver sem agredir o meio ambiente, utilizando como alternativa o desenvolvimento sustentável.
+# C0: 2,0
+# C1: 2,0
+# C2: 1,5
+# C3: 2,0
+# C4: 2,0

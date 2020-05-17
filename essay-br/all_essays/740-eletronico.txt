@@ -1,0 +1,16 @@
+# prompt: lixo-questao-de-cidadania-e-responsabilidade-social
+# score: 6,0
+# title: Lixo eletrônico
+Para um país que cresce a cada dia comomostraos indicadores econômicos, é de fundamental importância um
+         ataque frontal nos setores de infraestrutura, tal como a coleta seletiva e melhor gestão dos resíduos em nosso país . Aindadentro desse contextopodemos citar o lixo eletroeletrônico como sendo um dos principais
+         colaboradores para o aumento do lixo moderno na sociedade atual .Emmundo
+         globalizado e de grandes transformações em que vivemos, a abertura de mercados globais, o avanço tecnológico e a demanda cada vez maior por produtos de alta tecnologia quefacilitao dia-a-dia da humanidade são fatores determinantes para o aumento significativo da produção de lixo
+         na sociedade moderna . Outros fatores preponderantes quecontribuipara esse mal que a assola a população é a obsolescência programada,ou seja e adiminuição do tempo de vida útil desses equipamentos,
+         alterando a durabilidade dos mesmos, além do consumismo exagerado e desenfreado da população que é impulsionado e manipulado pela publicidade apelativa de grandes empresas expondo seus produtos e serviços em veículos de comunicaçãoemmassa, como internet, TV, revistas, rádio, jornais,
+         entre outros . Diante desse cenário insustentável, é imprescindível notar que a política de limpeza urbana tem que ser prioridade dos nossos governantes, dando incentivo esubsidioa empresas que tiverem um plano de reciclagem e gestão de resíduos em seu programa, além de
+         conscientizar a população através da coleta seletiva e programas de reciclagem adequados para cada tipo de produto. Portanto devemos criar pontes mais sólidas entre o poder público, privado e a sociedade em geral, pois aresponsabilidade é de todos nós de criar um ambiente sustentavél para futuras gerações. Só assimtrilhamosum caminho para um futuro melhor.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,5
+# C3: 1,5
+# C4: 1,0

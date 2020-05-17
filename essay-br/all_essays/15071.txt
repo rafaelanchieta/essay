@@ -1,0 +1,14 @@
+# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
+# score: 500
+# tittle: [Redação sem título]
+A importância da preservação florestal da Amazônia e as problemáticas envolvidas em sua falência é um dos assuntos mais debatidos recentemente, tendo em vista o aumento do desmatamento e queimadas nos últimos três anos  dada a análise do Instituto de Pesquisa Ambiental da Amazônia  . Acontece que no âmbito geopolítico do estado, preservar recursos e prolongar o bem-estar individual e coletivo,  não resulta em um rápido retorno econômico como usufruir, demasiadamente, deles. 
+
+O Brasil é um dos maiores exportadores de carnes do mundo, além do seu solo altamente fértil para a agricultura . Concomitantemente a isso surge o ciclo do desmatamento,  que procura trazer a devastação ambiental e as queimadas como método rápido, prático e econômico para a limpeza do meio ambiente e a passível introdução da agropecuária no país. É sob essa perspectiva que a esfera geopolítica existente busca o alimentar os interesses econômicos da atual sociedade capitalista que o estado e o mundo apresentam. 
+
+O filósofo e sociólogo polonês Zygmunt Bauman diz que: “Não são as crises que mudam o mundo, e sim nossa reação a elas”. Dizer isso é pensar que as respostas catastróficas e naturais da terra ao nosso   modo grotesco de tratá-la só irão ser contornados se mudarmos a nossa reação a tudo que causamos. Contudo, não é apenas o equilíbrio global que se encontra lesionado  mas também as riquezas ambientais, como fauna e flora, e a extinção da história nativa presente nos indígenas que serão disseminados. 
+Sob essa dissertação  faz-se necessário, portanto, que o Instituto Brasileiro do Meio Ambiente e Recursos Renováveis  atue no controle e fiscalização do desmatamento e queimadas na floresta amazônica. Em contrapartida, é solene a ação do Ministério do Meio Ambiente no quesito preservação e o reflorestamento deste bioma. Outrossim, é importante a presença e a promoção midiática para com as Organizações Não-Governamentais  para que esta luta alcance forças o suficiente, financeiro e populacional, no embate ao desmatamento. Faça do Meio ambiente o seu meio de vida. 
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

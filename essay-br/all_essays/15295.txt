@@ -1,0 +1,12 @@
+# prompt: Suicídio entre policiais: um problema que mata mais que confrontos na rua
+# score: 40
+# tittle: Suicídios e polícias
+A taxa de suicídio aumenta a cada dia que passa, e tentamos entender porquê alguém chegaria a um nível de não suportar a própria vida. A verdade é que antes de uma pessoa se suicidar houve uma história por trás disso e é nisso que devemos nos familiarizar. O trabalho de um policial é extremamente estressante, e muitas vezes não é valorizado como deveria ser e por isso muitas vezes acabam levando o profissional a tristeza, fazer algo e não ser reconhecido pelos seus próprios métodos dia após dia é estressante. A proposta seria um acompanhamento médico para todos os funcionários da polícia e tentarmos reduzir a taxa de suicídio entre polícias que estão crescendo.
+
+
+
+# C0: 20
+# C1: 20
+# C2: 0
+# C3: 0
+# C4: 0

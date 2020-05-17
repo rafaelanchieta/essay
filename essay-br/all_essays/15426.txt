@@ -1,0 +1,12 @@
+# prompt: Gravidez precoce: um problema?
+# score: 400
+# tittle: .
+Atualmente, há incentivos para o início da vida sexual bem cedo, seja nas músicas, vídeos e sites da internet, o que acaba por acarretar na gravidez precoce em adolescentes . Mas não é bem assim, a culpa não é completamente da época atual e nem da tecnologia,  vale ressaltar que há alguns anos atrás, os casamentos ocorriam desde os 12 anos da "jovem mulher"  e em alguns casos até quando possuíam idade ainda menor, muitas já engravidavam na adolescência, que de acordo com a OMS  dura dos 10 até os 19 anos de idade. 
+A gravidez precoce afeta diversos âmbitos da vida da adolescente, já que uma vez grávida, acaba por abandonar os estudos, muitas, não chegam nem a concluir o fundamental, o que alguns anos depois gera dificuldade em conseguir um emprego, principalmente na geração atual que exige um currículo excelente, possuir conhecimentos de mundo e da tecnologia. 
+A saúde da jovem também é prejudicada  visto que seu corpo não está totalmente desenvolvido e preparado para uma gestação , que muitas vezes vêm de uma parte da população que não tem acesso digno à saúde, ocupando a parte mais pobre e periférica da sociedade. 
+É papel da família e da escola esclarecer as dúvidas dos adolescentes no que diz respeito à sexualidade, sem preconceitos, tabus ou estigmas. É necessário expor situações reais, informar e orientar os adolescentes para que eles tenham consciência de suas escolhas e não caíam na "armadilha" de uma gravidez precoce. 
+# C0: 100
+# C1: 50
+# C2: 50
+# C3: 100
+# C4: 100

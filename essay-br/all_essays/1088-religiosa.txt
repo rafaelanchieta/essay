@@ -1,0 +1,16 @@
+# prompt: intolerancia-religiosa-regra-ou-excecao-no-brasil
+# score: 2,0
+# title: Intolerância Religiosa
+Ofensas,Atitudesagressivas,Tratamentodiferenciado em relaçãoasoutras pessoas. Todas essas são características do que vem ocorrendo no Brasil, devidoaintolerância religiosa.
+         Para isso, é preciso que o governo implante soluções para acabar com essas atitudes praticadas pela sociedade por não aceitar outros tipos de crenças. Essa intolerânciavêmsendo praticada desde de
+         muito antes , um exemplo disso está na peça de Flavio Rangel, o Pagador dePromessasque relata na sua obra o dogmatismo, aintolerância universalque vem ocorrendo desdedaquelaépoca
+         .Verifica-se, em decorrênciade tais fatos foi
+         implantado por meio de umalei, oDia Nacional do CombateaIntolerância Religiosa,
+         que proíbe qualquer tipo de intolerância , sendo apraticareligiosa livre em todo o país, assim diminuindo taisviolentações.
+         Portanto,o governo com essa leiimplantadanão deve deixar que ocorra mais nenhum tipo de preconceito, de agressão, e ofensasaspessoas de outras crenças ou que nãotenhareligião, e que
+         essa tal praticidade poderia assim deixar as pessoas com a liberdade de escolher sua própria religião .
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,0
+# C4: 0,5

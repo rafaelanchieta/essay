@@ -1,0 +1,12 @@
+# prompt: A terapia de reversão da orientação sexual
+# score: 500
+# title: A pseudocura para uma não doença
+Nos últimos meses uma discussão tem tomado conta da sociedade brasileira, a terapia para mudar a opção sexual ou  como alguns a chamam a cura gay  Esse tipo de assunto nos faz refletir em um aspecto, se  o significado da palavra terapia, é  o tratamento de doentes, como podemos tratar como doentes aqueles que não possuem nenhuma enfermidade.  
+Vivemos - não só no Brasil, mas nos quatro quantos do planeta - um processo de involução social, pessoas diferentes com pensamentos diferentes não conseguem respeitar o espaço alheio tão pouco  conviver em harmonia, seja  essas diferenças advindas da politica, seja  de ordem religiosa ou qualquer outro tipo de pensamento incomum  levam pessoas a se ofenderem verbal ou fisicamente. Por isso  esse tratamento tão controvertido que tem como objetivo supostamente mudar a opção sexual de uma pessoa é só mais um passo na direção da intolerância.
+Embora, esse  tratamento não seja uma medida compulsória, precisa ser levado  em consideração, quais  motivos levam uma pessoa que não está doente a buscar tratamento, talvez  este motivo possa estar relacionado ao fato  que outras pessoas afirmam isso a todo momento  sem nenhuma base científica que possa respaldar este tipo de afirmação  ou talvez a  violência e preconceito que esses seres humanos sofrem na rua e até mesmo dentro de suas casas. Além disso  essa suposta “cura gay” é uma verdadeira afronta a carta magma  Constituição Federal - pois colide diretamente com o princípio da dignidade da pessoa humana.
+Portanto  esta decisão do juiz federal é uma medida equivocada, e que  deve ser revista pelo tribunal  a fim de não causar sérios prejuízos a uma parcela da sociedade que já sofre tanto preconceito.
+# C0: 150
+# C1: 100
+# C2: 100
+# C3: 150
+# C4: 0

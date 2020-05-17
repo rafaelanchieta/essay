@@ -1,0 +1,17 @@
+# prompt: cotas-para-universidades-federais-solucao-ou-problema
+# score: 5,5
+# title: Lei para todos
+Aaprovação da lei paracotas, em universidades federais,denegros, pardose depessoas que estudaram em escolas públicas,
+         foi finalmente aprovada depois de anos de discussão no Supremo Tribunal Federal. Porém, esse é um tema bastante polêmico, pois o número de pessoas contraesses novos métodos,é grande.
+         Por ser um tema polêmico, as pessoas estão se revoltando contra essa nova lei, pois ela estáimplicitamenteou explicitamente causando discriminação racial e social,
+         querendo "dizer" com esse novo método que algumas raças são superiores ou inferiores a outras, sendo incapazes de passar nas universidades mais difíceis. Assim é também com as pessoas que estudaram em escolas públicas. Não é porque a pessoa estudou em escolas inferiores que outras, queelas são incapazesde passar nas universidades federais. Podemos dizer que
+         o ensino nas escolas públicas, na maioria, realmenteestão pioresdo queas derede privada,
+         mas isso não é motivo para privilégios por parte das pessoas que estudam nelas. Hoje em dia, a facilidade que nós temos de estudar é grande, mesmo pessoas de baixa renda conseguem estudar em escolas, cursinhos e faculdades boas e caras. Existem bolsas integrais emeias,existe o Pro-Uni e Fies para faculdades particulares, e qualquer cidadão que quiser ingressar numa instituiçãofederal,os cursinhosadotamesquemas de bolsascom descontos integrais. Ou seja, não existem pessoas incapazes,seja ela pobre, rica, negro ou branco; existem pessoas que querem se esforçar ou não.Por exemplo,BaracObama, por ser negro e se tornar presidente de um país que até hoje é considerado completamente racista.
+         A sociedade deveria se juntar para fazer protestos contra essa nova lei, pois ela não se tornou uma solução para a discriminação e o racismo, pelo contrário, só piorou. O que deveria acontecer é o melhoramento das bases escolares nas redes públicas, para que as pessoas de baixa renda tivessem mais qualidade de ensino sem precisarem de cursinhos pré-vestibulares. Mas, é mais fácil aderirascotas do que melhorar a base da educação.
+         Os políticos deveriam parar de se preocupar com cotas e colocar mais em prática a leiem que fala que somostodos iguais,independente da suacor, raça e religião. Ninguém é superior, melhor e mais inteligente do que o outro por questões físicas e sociais, todos nós possuímos
+         as mesmas capacidades intelectuais ou seja em outras áreas.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,0
+# C4: 1,5

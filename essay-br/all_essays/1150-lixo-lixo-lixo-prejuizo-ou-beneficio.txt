@@ -1,0 +1,14 @@
+# prompt: a-questao-do-lixo-nas-sociedades-de-consumo
+# score: 6,5
+# title: Lixo, lixo [Lixo: prejuízo] ou benefício?
+Atualmente, as pessoas estão inseridas emum planetana qual não se pode fugir da dependência dodinheiro. Afinal, essas pessoas estão em um mundo controlado pelo consumo.Dessa forma, até mesmo o
+        problema do lixo deve ser associado a este sistema, então, o problema passa a se visto pela sociedade não somente como um problema ambiental, mas também econômico e consequentemente um problema da educação. No Brasil, por exemplo, o problema das sacolas plásticas passou a ser visto além de um problema ambiental, mas também como uma oportunidade de arrecadação de impostos, pois segundo Miguel Bahiense, presidente da Plastivida, praticamente 100% das sacolas plásticas são recicladas , além do uso necessário dela para acúmulo de lixo nos aterros e também o não vazamento do lixo. Com a nova Lei imposta pelo governo, o uso de sacolas passou a ser vetado, porém se o consumidor deseja utilizá-la, terá que pagar um taxa. Sendo assim, ao invés de solucionar o problema do lixo, o governo o utiliza como meio de adquirir mais impostos. A questão dolixo,não é uma questão isolada, mas sim uma questão complexa que envolve diversos órgãos do país. Um destes é aeducação. Pois,o
+            problema do lixo deve ser visto também comocausa damá informação fornecida àpopulação. Jáque, sem bases necessárias, a população acaba agindo de forma incorreta em relação ao lixo.Porque, parasolucioná-lo as instituições de educação devem mostrar aos cidadãos com agir diante do mesmo.
+            O lixo deve ser visto pela sociedade não somente como um problema , mas também como um meio de avanço dopaís. Pois,diante desse problema o país pode retirar benefícios para a sociedade, como mais empregos através de indústrias de reciclagem. Além disso, esse
+              problema deve ser encarado por todos os cidadãos e, não somente por uma instituição. Enfim, a educação possui um papel fundamental para solucionar o problema do lixo, e o governoo deverpromover os meios necessários para solucioná-lo, e não procurar um meio de satisfazer-se através do
+              problema.
+# C0: 1,0
+# C1: 1,5
+# C2: 1,5
+# C3: 1,0
+# C4: 1,5

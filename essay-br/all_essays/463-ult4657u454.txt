@@ -1,0 +1,9 @@
+# prompt: amor-com-grande-diferenca-de-idade-sera-que-isso-funciona
+# score: 3,5
+# title: O amor é livre e imprevisível
+Quando o tema é relacionamento amoroso, várias questões são colocadas em discussão. Os questionamentos são incessantes entre o próprio casal, amigos, familiares e sociedade. O ponto mais discutido é quando existe uma grande diferença de idade entre o casal. É comum os detalhes girarem em torno de um único tema: a possibilidade do relacionamento ser movido pelo interesse financeiro ou até mesmo de status. Em se tratando de interesse, não há como negar a possibilidade de que possa acontecer. De um lado a opinião pública, de outro a visão das partes envolvidas. Pode-se considerar também um interesse mútuo. Um, em busca de status ou de estabilidade financeira. O outro, em busca de amor de companhia. Nessa relação, talvez possa não haver ganhadores ou perdedores. Uma questão interessante, poucas vezes debatida, é a de que todos envelhecem. Mas o avanço da idade não tem nenhuma relação direta com a capacidade de amar. O simples fato de duas pessoas terem a mesma idade não garante a felicidade e a união eterna. A sociedade tem evoluído em entender que a vontade das pessoas tem uma força surpreendente. É comum deparar-se com pessoas, extremamente saudáveis, em competições esportivas, superando oponentes que não chegam à metade de suas idades. O avanço da idade é inevitável e não há que se negar que o amor é livre e imprevisível. O interesse no relacionamento existe, mas independente da idade do casal. Se o relacionamento aconteceu, algo de interessante atraiu ambos, ou o amor não aconteceria.
+# C0: 2,0
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 600
+# tittle: Coronavírus: a importância da ciência para a sociedade
+“Se você acha que educação e ciência são caros, experimente o custo da ignorância” segundo Derek Bok , ex-presidente da Universidade de Harvard . Aplicando ao momento atual, vivido pela população brasileira, percebe-se a importância de valorizar a ciência para que a pandemia possa ser combatida de maneira efetiva. Desta forma é importante discutir sobre os efeitos negativos  provocados pela redução dos investimentos na área da ciência. 
+É notório o processo de declínio sucessivo, na área da ciência, que vem ocorrendo ,  desde o ano de 2014, decorrente do contingenciamento implementado por parte do governo acarretando  assim o sucateamento dos equipamentos e o abandono dos projetos de pesquisa científica. Instituições de ensino  como a Universidade de São Paulo  , Universidade de Campinas e outras Universidades Estaduais brasileiras têm encontrado dificuldade, pela falta de verba do descrédito por parte do governo federal, na concretização dos projetos já iniciados. 
+Como decorrência destes efeitos negativos é possível identificar a evasão dos jovens pesquisadores das Universidades brasileiras para Universidades estrangeiras  a exemplo de Harvad  nos Estados Unidos  e para a Universidade de Sorbonne na França . Identifica-se também uma dificuldade maior em solucionar questões de saúde pública, já que a ciência necessita de tempo para criar vacinas que sejam eficazes no combate aos efeitos provocados pelas doenças. 
+ Diante do exposto, faz-se necessário a atuação conjunta,  por parte do governo  representado pelo Ministério da Ciência, Tecnologia, Inovações e Comunicações, e do setor privado projetando  investimento financeiro e prestigiando  nossas  instituições e nossos  pesquisadores brasileiros. Vale ressaltar que o apoio e a conscientização da sociedade brasileira de que um país soberano precisa de instituições de pesquisa fortes e valorizadas impulsiona o meio ciêntifico e os governos a trabalhar e acreditar cada vez mais no sucesso do trabalho em conjunto. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

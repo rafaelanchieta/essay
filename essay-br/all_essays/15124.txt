@@ -1,0 +1,14 @@
+# prompt: A importância das vacinas para a sociedade
+# score: 600
+# tittle: Longe da ignorância, população protegida
+No Brasil, durante a Primeira República, houve a Revolta da Vacina,  na qual uma parcela de brasileiros, por falta de informação e de esclarecimentos, resistiu – com uso de violência e de agressão – à aplicação de vacinas,  por encará-las como prejudicial à saúde. Na atualidade, tal movimento violento não ocorre mais, contudo o país enfrenta sérias dificuldades em cumprir com a agenda de imunização,  devido, sobretudo, à existência de notícias falsas na internet  bem como à desatenção dos brasileiros. 
+
+Em primeira análise, embora a vacinação exerça uma importância fundamental na proteção do corpo contra agentes infecciosos e bacterianos, mobilizações antivacinais têm ganhado fôlego na sociedade, posto que notícias falsas pregam possíveis malefícios advindos das vacinas . Um exemplo disso,  são alguns vídeos, disponíveis na internet, produzidos por pessoas sem competência médica, os quais asseveram que o objetivo das vacinas é diminuir a população . De fato, o reflexo dessas ideias,  contribuem, em grande parte, para a redução do número de pessoas vacinadas,  que, segundo o Ministério da Saúde, em 2017, o índice de crescimento de crianças com menos de um ano que receberam vacinação foi o menor desde 2001. 
+
+Em segunda análise, por mais que o Programa Nacional de Imunização tenha alcançado um número expressivo de pessoas em décadas anteriores, entre os cidadãos existe a crença de que as doenças já erradicadas não têm possibilidade retorno, não sendo, dessa forma, necessária a vacinação . Entretanto, tal concepção não possui nenhum respaldo médico, já que a vacinação deve ocorrer de contínua . No último ano,  houve um surto de febre amarela, assustando os brasileiros, o que logo os levou aos postos de atendimento para recebem as vacinas . Isso mostra, por sua vez, o que a falta de acesso à informação pode gerar efeitos danosos à saúde dos cidadãos. 
+Portanto, a fim de cumprir a agenda vacinal e, com isso, garantir vacinação para os brasileiros, cabe às prefeituras municipais sensibilizar a população sobre a importância da vacinação nas erradicação de doenças. Para tanto, palestras seriam ministradas quinzenalmente por profissionais de saúde em espaços de eventos das cidades. Além disso, o governo deveria  promover campanhas de combate às notícias falsas sobre as vacinas  nos meios de comunicação e nas mídias socais, objetivando alertar os cidadãos sobre os riscos decorrentes da ausência de vacinação. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

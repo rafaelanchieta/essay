@@ -1,0 +1,12 @@
+# prompt:  Fome: um retrato da desigualdade social no Brasil
+# score: 400
+# tittle: FOME: falta de empregos e humildade humana
+Segundo o dicionário Aurélio, fome significa grande vontade ou necessidade de comer . De maneira análoga ao cenário de fome no Brasil, a desigualdade social é fator preponderante para a pobreza causada também pelo desemprego. Nesse sentido convém analisar as circunstâncias e possível solução para o fim da fome no país. 
+Em primeira análise, vê-se que o 3° artigo da República Federativa do Brasil ,  dispõe que um dos seus objetivos é irradicar a pobreza e a marginalização  e reduzir as desigualdades sociais e regionais. De forma oposta as leis existentes não vigoram , pois, existe uma realidade onde  grande parte da população tem pouco e outra parcela menor tem muito. É inadimissível que uma pessoa gaste milhões em um vinho importado e outras passem fome por não ter dinheiro. 
+Igualmente, destaca-se que segundo o Instituto Brasileiro de Geografia e Estatística  aproximadamente 13 milhões de pessoas estão desempregadas no país. Assim tem-se que,  quanto mais desempregados haver, o índice de pessoas passado fome só aumentará,  por não terem dinheiro para comprar o alimento. É intolerável que uma parte da sociedade  que tem maior nível de vida, aceite e veja essa situação de forma tão normal sem se incomodar com a realidade de miséria vivida por muitas pessoas. 
+Entretanto, o governo federal deve reunir-se com representantes de estados ou regiões,  para poder desenvolver soluções para probreza. Assim  por meio de políticas públicas criar projetos como: programas sociais eficazes e programas de empregos junto à grandes empresas. Espera-se  com isso, diminuir o índice de pessoas passando fome no país. 
+# C0: 100
+# C1: 100
+# C2: 50
+# C3: 100
+# C4: 50

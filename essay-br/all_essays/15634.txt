@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 700
+# tittle: A desvalorização da ciência
+A ciência é uma peça fundamental na luta contra as pandemias. No Brasil, há poucos investimentos na área de pesquisas científicas, essa falta de recursos é fruto da crise financeira atual e da negligência do Estado com ações políticas na área de pesquisas científicas . Apesar desses obstáculos, cientistas brasileiros estão realizando importantes feitos nas pesquisas sobre o coronavírus. 
+De acordo com Deisy Ventura, professora e pesquisadora da faculdade de Saúde Pública da USP , um país soberano precisa ter instituições de pesquisa fortes e valorizadas. Assim, se o Brasil parar de financiar pesquisas independentes, ele irá depender de investimentos de países desenvolvidos. Entre outras consequências da falta de financiamento científico está,  a fuga de cérebros e o desinteresse de jovens pela carreira científica. 
+Todavia , cientistas brasileiros estão bastante avançados em suas pesquisas sobre o Covid-19, juntamente com a Universidade Oxford , na Inglaterra, pesquisadores do Instituto Adolfo Lutz  da Universidade de São Paulo  conseguiram sequenciar o genoma do vírus em 48 horas. Outro exemplo são os cientistas da USP,  que estão fazendo o sequenciamento de genomas do coronavírus. 
+ Portanto, cabe ao Estado , por meio de políticas públicas , o investimento em pesquisas científicas, a fim de melhorar a saúde pública e evitar a “fuga de cérebros”. Além disso, é de suma importância que as instituições educacionais desenvolvam projetos que busquem incentivar os jovens a seguirem carreira científica, por meio de feiras científicas , aulas de laboratório, etc. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 150

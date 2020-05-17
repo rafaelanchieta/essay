@@ -1,0 +1,11 @@
+# prompt: Agrotóxicos ou defensivos agrícolas: dois nomes e uma polêmica
+# score: 520
+# title: Nomenclatura, propaganda e saúde
+No período da ditadura militar brasileira, os governantes utilizavam-se da ilusão utópica projetada na mente da população, por meio da propaganda. A partir deste fato, é possível traçar um paralelo com os dias atuais: mesmo 35 anos depois, as organizações governamentais, fazendo uso da publicidade, persuadem o povo a aceitar, sem objeções, as mudanças e normas impostas por ela.
+Fato semelhante acontece aos ditos "defensivos agrícolas", que pelo discurso do governo, caracterizam-se apenas por protegerem de pragas as propriedades reservadas para agricultura. Entretanto, de 2007 a 2014, segundo a revista Exame, foram notificados aproximadamente 34.000 casos de intoxicação alimentar decorrente da ingestão de verduras com exacerbados agrotóxicos. Tal dado demonstra que esses produtos estão também envolvidos numa problemática referente à saúde pública. Ademais, em 2019, foram liberados 328 novas substâncias do tipo para uso, o que explicita a falta de medidas que visem a apaziguar a adversidade.
+Por conseguinte, concluímos que a forma escolhida pelos governantes para definir esse produto é fator relevante na percepção popular sobre o mesmo. Logo, como uma grande variedade de problemas é gerada, o termo que transmite tal perigo deve ser escolhido, ou seja, "agrotóxico". Vale também salientar que as iniciativas referentes ao aumento da produção orgânica no setor agrícola mostram-se crescentes, uma vez que o mercado mundial nesse setor também o faz, portanto é imprescindível divulgar ao povo tais movimentações.
+# C0: 120
+# C1: 80
+# C2: 120
+# C3: 120
+# C4: 80

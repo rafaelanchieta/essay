@@ -1,0 +1,12 @@
+# prompt: O que é mais importante para vencer na vida?
+# score: 840
+# title: A fé ao encontro da ciência
+A população brasileira apontou a fé como fator importante para melhorar a vida deixando fatores como estudos, acesso à saúde, aposentadoria, trabalho, lazer e outros para trás. Essa foi a resposta de 28% dos entrevistados que caracteriza o Brasil como uma sociedade com moral enraizada em preceitos e mandamentos religiosos e que isso gera melhora de vida como consequência. Esse resultado é a coadunação do senso comum com a ciência, pois são numerosas as pesquisas médicas que incluem a fé como assunto a ser tratado em consultórios, hospitais e até grades acadêmicas.
+A fé colabora para a participação de um fenômeno chamado coping: a capacidade humana de superar adversidades e não é necessário crer em uma divindade, pois os estudos voltados para essa área encontram essa capacidade também em ateus que creem em máximas ou jaculatórias como "vai ficar tudo bem", "eu vou superar isso" e outras afirmações positivas, colhendo efeitos minorados de um diagnóstico de doença como menores níveis de estresse. Equivale dizer que os benefícios da fé à saúde encontram embasamento científico.
+A exemplo disso é a Santa Casa de Porto Alegre que em parceria com a Universidade Duke, dos Estados Unidos, tem desenvolvido estudos para mensurar os benefícios biológicos da fé. Mas há mais, as principais universidades norte americanas têm dedicado uma disciplina específica ao assunto. Significa que a fé influencia no trato que temos com as pessoas, nas reações diante das dificuldades do dia-a-dia e também na reação com os acontecimentos bons.
+A fé é ponto fundamental para melhorar a vida, seja a própria, seja a vida em sociedade, inclusive em tempos de crise, segregação e instabilidade político-econômica que o brasileiro vive e esse é o porquê a população apontou a fé antes dos demais itens da pesquisa, pois assim já dizia Gilberto Gil "andar com fé eu vou que a fé não costuma falhar".
+# C0: 160
+# C1: 200
+# C2: 160
+# C3: 160
+# C4: 160

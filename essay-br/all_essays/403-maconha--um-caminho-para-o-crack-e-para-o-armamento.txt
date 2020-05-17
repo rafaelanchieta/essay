@@ -1,0 +1,10 @@
+# prompt: maconha-manter-proibicao-legalizar-descriminalizar
+# score: 6,0
+# title: Maconha - um caminho para o crack e para o armamento
+A erva identificada como maconha possui importantes componentes terapêuticos usados em medicamentos. Esse é um fator usado por seus usuários como argumento para a legalização da planta. Mas seu consumo favorece o caminho para outras drogas e contribui para o crime organizado. A legalização da maconha é um caminho para o consumo de outras drogas. É costume de vendedores oferecerem não só o produto buscado pelos clientes, mas também outros dos quais dispõe. No caso de um traficante: o crack. Portanto, ao legalizar a venda e compra da maconha o governo estaria possibilitando a aquisição de uma outra substância nociva ao organismo. A descriminalização da droga fortaleceria o tráfico de armas. Nota-se, por exemplo, que em favelas do Rio de Janeiro os traficantes de facções rivais lutam pelo controle da venda de drogas e, para isso, necessitam de armamento. Essas armas são compradas com o dinheiro adquirido na venda de maconha, cocaína e outras. Assim, a descriminalização da maconha contribui para a compra de armas que muitas vezes são utilizadas não só para asdisputadasentre facções como também para oprimir cidadãos não envolvidos com o tráfico.
+         Diante desses problemas, a proibição da droga é justificável. Uma solução para resolver a entrada da erva no país é a fiscalização das fronteiras estaduais e federais. O uso de cães farejadores facilitaria o trabalho dos policiaisnestafiscalização. Outra medida a ser tomada é ocombate a origem da droga, não simplesmente apreender as ervas que estão sendocontrabandeadasmas sim descobrir de que local elas são provenientes e dar fim a sua plantação.
+# C0: 1,0
+# C1: 1,0
+# C2: 1,0
+# C3: 1,5
+# C4: 1,5

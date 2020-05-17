@@ -1,0 +1,12 @@
+# prompt: como-se-tornar-um-consumidor-consciente-isso-e-possivel
+# score: 3,5
+# title: Deixar-se notar
+A sociedade, conforme se passam os anos, vai determinando os valores necessários para que se possa viver de uma maneira digna dentro da mesma. Na Idade Média, o feudalismo utilizava-se das trocas feitas entre os moradores do feudo para que conseguissem ter acesso ao que precisavam. Passados alguns séculos, surgiu o capitalismo e com o aprimoramento do mesmo, a rotatividade da economiaéintensa.
+         E junto deles a humanidade ganhou a globalização, que aproxima os países e alguns hábitos como o consumismo, exacerbado ou não. Existiram diferentes fases do consumismo , a primeiraondeapenas os que realmente eram economicamente avantajados eram valorizados. A outraondeos que tinham os produtos que estavam na moda, sem se importar com a classe econômica, eram valorizados. E por último,ondeapenas os que aparentam ter, aparecendo aos olhos dos demais, é que são dignos de influenciar.
+         A primeira perguntaaoobservar um produto teria de ser: ''eu realmente precisoouquerocomprarpara que eu possa ser notado?''.
+         A satisfação ao realizar essa compra é algo que não pode ser comprado, ou melhor, o nosso dinheiro paga, mas o prazer sentido é absurdamente maior que isso. O consumismo consciente só surgirá no dia em que as pessoaspreferirão em nãopassar aperto no fim do mêspara aparecer os produtos comprados.
+# C0: 1,0
+# C1: 0,5
+# C2: 0,5
+# C3: 1,0
+# C4: 0,5

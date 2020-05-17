@@ -1,0 +1,10 @@
+# prompt: o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que
+# score: 2,0
+# title: Sem título
+O desinteresse político dos jovens é fato e sinônimo do "descrédito da sociedade na política nacional" . O tema é denso, mas eis algumas razões claras da decrépita crise: negação ética e moral, elitismo e morosidade, reflexos das remanescências do analfabetismo político, onde propina e benefícios de classes , expostos diariamente pela imprensa, estão se sobrepondo à emergencial faxina na política. Proficiência administrativasiginificaanálise, preparo e ação, necessidades incessantes para um
+          "país em desenvolvimento" tal como descrito em alguns textos de geopolítica. Já os termos anteriores fazem parte da rotina de engenheiros, administradores e da extensa massa que atua diariamente para estimular gerações a mentalizar novas dinâmicas em prol do país, trabalho árduo pela novela dramática que se acompanha no Palácio do Planalto, aqui um elemento figurativo . Há também a separação arcaica na mente de parcelas analfabetas eleitorais : "política é trabalho de prefeitos, vereadores, deputados, governadores, senadores, ministros, presidentes e a extensa massa da administração pública". Equívoco crônico e com tratamento à base de educação política imparcial a começar pela nova geração. Voto é, portanto, o exercício diário de escolhas que não devem ser restritos a este ou aquele diretório por se tratar da sociedade, onde a repetição dos vícios políticos depreciativos já passou do vencimento.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,0
+# C3: 0,0
+# C4: 0,0

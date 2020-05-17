@@ -1,0 +1,13 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 650
+# tittle: COMO O MENOSCABO COM A CIÊNCIA PREJUDICA A SAÚDE
+Uma pandemia como a da Covid-19 não é,  sobre quaisquer circunstâncias, uma ameaça nova para a humanidade . Desde os primórdios  de nossa  existência, fomos  sujeitados a infecções por bactérias e vírus. Por muito tempo, uma gripe era considerada uma sentença de morte. No entanto, com o desenvolvimento da ciência,  esse quadro mudou: atualmente, há remédios, vacinas, entre outros inúmeros métodos de prevenções e tratamentos a doenças. 
+ Logo, não só seria ignorância, mas também uma imensa afronta desprezar a ciência como o Brasil faz neste momento de crise . Vários políticos negligenciaram e banalizaram conselhos de médicos e epidemiólogos, tomando  ações descuidadas que, se não fossem desfeitas prestemente, resultariam no aumento de infectados pelo vírus e, consequentemente, no aumento de mortes, agravando  o estado no qual o país e o mundo se encontram. 
+De qualquer modo, a valorização da ciência de nada adiantaria se só atuante em situações de emergência . A ciência é uma prática que abre as portas para um futuro melhor, mas para isso é preciso apoiá-la no presente. Quantas universidades federais, as quais servem de centros de pesquisas, ficaram sem dinheiro, algumas ao ponto de sequer serem capazes de pagar contas de luz? 
+Quando a ciência é posta em questão,  o conhecimento básico da população também está incluído. De nada servem estudos científicos se o povo não tem a compreensão do que as informações dadas significam . Grande parte dos brasileiros não possui o menor entedimento sobre a produção de vacinas e da transmissão de viroses, como evidenciado nas diversas perguntas ignaras  feitas pelo povo em relação à Covid-19 aos jornais, que estão respondendo dúvidas a cerca acerca da doença e do vírus para esclarecer a população. O conhecimento não é algo que deve ser monopolizado pelos poucos que podem pagar para adquirí-lo; é o básico ao qual todos devem ter acesso. 
+Diante de tudo do exposto, é indubitável que o investimento público na educação, tanto fundamental quanto superior, melhorará demasiadamente a maneira como o país enfrenta ameaças tal qual a que é presenciada hoje . No momento em que o povo goza da cognição,  saberá como se comportar durante uma pandemia, diminuindo  a circulação do vírus e, assim, evitando  o contágio unânime. O investimento  também possibilitará na formação de mais profissionais adequados no ramo científico, assim como suas condições de traballho nos espaços de pesquisa. Quanto mais cedo o país perceber a importância da ciência, mais cedo este será capaz de prevenir e combater epidemias futuras. 
+# C0: 150
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

@@ -1,0 +1,12 @@
+# prompt: Estupro: como prevenir esse crime?
+# score: 500
+# title: Medo x Proteção
+Em pleno o século xxi  o estrupo  ainda acontece com frequência. Sabendo disso, muitas mulheres sofrem caladas e, consequentemente, não procuram denunciar o agressor. 
+Nesse sentido, cerca de 35% dos casos de estrupo  são notificados no brasil , mas 65% ficam em oculto  de acordo com a revista Época. Dessa forma, por  falta de proteção e medo, acaba que  prejudicando as investigações. 
+No entanto, sabe-se que esse tipo de agressão provoca danos físicos, psicológicos e problemas em algum outro relacionamento. Por isso, não se pode deixar que a sociedade conviva com esse tipo de violência, principalmente com crianças, adolescentes, jovens e mulheres.
+Contudo, faz-se  necessário que o governo aprove uma lei, afim  de punir aqueles que realizar realizarem o estrupo . Além disso, na tentativa de conscientizar, o MEC (ministério da educação ) deve organizar palestras nas escolas, com o objetivo de educar os alunos a não praticar esse mal. A final,  como afirmou Immanuel kant "o homem é aquilo que a educação faz dele".
+# C0: 100
+# C1: 100
+# C2: 100
+# C3: 100
+# C4: 100

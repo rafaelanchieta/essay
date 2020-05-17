@@ -1,0 +1,14 @@
+# prompt: o-voto-nulo-e-um-ato-politico-valido
+# score: 2,0
+# title: Eleger o candidato em branco
+Quando se fala emeleções,
+         o brasileiro já pensa em um candidato pelo qual tem uma simpatia, pensa na desculpa que irá dar para justificar sua ausência,apossibilidade do voto nulo oua indaçação de que não deveria ter a obriçação dos votos.
+         O que oscidadõesnão sabem é que todo o pensamento que vemnas épocas de eleçõessevãocom o passardele, mas a sua escolha não. Obrasileiroao invésde
+         focar , estudar o passado de um candidato, prefere votar nulo, devidoàoutros fatos antigos de que políticos que representavam o povo, passaram a ser políticos que roubaram o povo. Se não podemos confiar em quem nos representa, é melhor depositarmos nossa confiança em um simples botão branco ,ao invésde se arrepender de ter escolhido um “defensor popular”, que mais tarde venha nosdecepicionar, até porque
+         nunca candidato algum será o suficiente para nós . Aseleçõesestão chegando e cada um faz a sua escolha, mas
+         lembre-se “cada ação gera um reação”, pode ser ela boa ounao.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,0

@@ -1,0 +1,10 @@
+# prompt: deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool
+# score: 10,0
+# title: Álcool X Diversão
+O alcoolismo é, sem dúvida, um dos maiores problemas de saúde pública no Brasil, e as medidas do governo para controlar o excesso na bebedeira sempre foram alvo de muitas discussões. Neste momento, diante dos interesses econômicos de empresas ligadas ao patrocínio da Copa do Mundo da FIFA em 2014 no Brasil, fala-se em liberar o consumo de bebidas alcoólicas nos estádios de futebol durante os jogos, uma questão descabida e um desrespeito à saúde dos cidadãos. Todos os estudos dos órgãos ligados à segurança pública que foram feitos nos arredores das arenas de futebol, após a proibição da comercialização e consumo de álcool, apontam uma redução considerável da violência entre as torcidas. Por isso, não há nenhum motivo plausível que corrobore com a suspensão dessa medida proibitiva, considerada um avanço no sentido de preservar a segurança dos torcedores, bem com das famílias que frequentam os estádios. É consenso que os eventos esportivos a serem realizados aqui no Brasil nessa década são altamente lucrativos e conferem ao país uma visibilidade sempre desejada no cenário internacional. Porém, a legislação brasileira não deve estar ao dispor de interesses capitalistas de empresas parceiras da FIFA ou de qualquer outra instituição, sobretudo quando se trata da saúdeesegurançadosfilhos de sua soberaniae tambémdos visitantes de todo o mundo.
+         Em suma, o governo brasileiro deve manter-se firme na decisão de proibir tanto a venda como o consumo de bebidas alcoólicas nos estádios de futebol, independente das circunstâncias, a fim de proteger as pessoas e também reafirmar todas as outras medidas legais para controlar o alcoolismo. A nós outros, cabe a consciência de que a embriaguez é plenamente desnecessária à diversão.
+# C0: 2,0
+# C1: 2,0
+# C2: 2,0
+# C3: 2,0
+# C4: 2,0

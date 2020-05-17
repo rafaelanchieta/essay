@@ -1,0 +1,15 @@
+# prompt: a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel
+# score: 2,5
+# title: Excesso de Autoridade
+É de conhecimentopúblico, quea polícia tem se excedido
+         em suas durante manifestações .Dentre tantosmotivos relevantes, temos o uso da violênciao abuso de autoridade, assim como
+         lesar os direitos de uma democracia . É preciso frisarque, ouso exagerado da violência por policiais se faz presente em manifestações. Constata-se isso em manifestações,ondea polícia faz uso de força bruta sem controle e respeito.
+         Dessa forma, manifestantes pacíficos são tratados como "bandidos" por tal ato abusivo. Isto deve-seaautoridade concedida aestespoliciaisarotina exaustivaqueestesedepara,
+         além da falta de treinamento oferecida a eles. Observa-se tal abuso em condutaspolicias, nãosó em manifestações, que acabaram sendo recorridas ações violentas o que poderia ser de forma pacífica, torna-se um ato de agressividade.
+         Ainda convém lembrar que amaucondutadestes, lesadireitos de uma sociedade democrática, onde todostemo direito de se manifestarter suas opiniões. Sendo assim, a polícia faz um jogo
+         "sujo" para defender interesses depolítico"defensores da pobreza" . Dado o exposto, a polícia se excede sim contramanifestantes, pacíficos. Portanto se faz necessário uma análise crítica que possibilite a constatação da causa e as suas consequências. Buscar soluções eficazes e viáveis para a melhoria de vida é responsabilidades de todos.
+# C0: 0,5
+# C1: 0,5
+# C2: 0,5
+# C3: 0,5
+# C4: 0,5

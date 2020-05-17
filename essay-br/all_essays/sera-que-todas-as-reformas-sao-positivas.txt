@@ -1,0 +1,12 @@
+# prompt: Artes e educação física
+# score: 3,5
+# title: Será que todas as reformas são positivas?
+ Foi, recentemente,  anunciada a proposta de que as disciplinas de artes e educação física deixariam  de serem  obrigatórias, ou seja, a escola poderia decidir se continuaria ou simplesmente  deixaria as mesmas de lado.  Isso seria mesmo uma boa ideia?
+ Sabe-se que grande parte da população brasileira está acima do peso considerado ideal. Isso se dá devido à alimentação que não é saudável e por não praticar exercícios regularmente, conforme é recomendado. Muitos jovens praticam exercícios somente na escola, portanto, extinguir a mesma tornará a qualidade de vida dos mesmos ainda pior. Assim como, artes  é uma disciplina que é reconhecida por sua criatividade e expressividade, tanto que as atividades artísticas costumam expressar os sentimentos de cada um.
+ Vale ressaltar como tal opcionalidade  prejudicará quem pretende seguir alguma profissão relacionada a estas . Pois, para quem terá, por exemplo, desenhos ou atividades físicas como base de sua profissão, deixarão de adquirir os conhecimentos básicos que eram passados para os jovens no ensino médio. É negativo também ao auxiliar os estudantes na escolha de sua profissão e curso superior. Isso ocorre, pois, ao não praticarem estas atividades  deixarão de ter um conhecimento do que as mesmas exigem e proporcionam para saberem se pretendem tê-las em sua formação futura.
+ A educação no Brasil é muito precária, mas isso se deve a outros fatores como: falta  de investimento nos profissionais, escolas  em péssimas condições, entre outros. Já a opcionalidade de algumas matérias que são de extrema importância não fará com que os índices melhorem. Portanto, vale mais um investimento para a  melhoria do que já se tem.
+# C1: 0,5
+# C3: 1,0
+# C5: 1,0
+# C7: 0,5
+# C9: 0,5

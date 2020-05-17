@@ -1,0 +1,14 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 550
+# tittle: Ciência como Arma de Prevenção
+Recentemente o mundo foi surpreendido pela pandemia do novo coronavírus que teve início na cidade de Wuhan  na China. A rápida proliferação da doença mostrou que após alguns séculos que descobrirmos  a importância da higiene pessoal, muitos atos ainda precisam ser adotados pela população regularmente para inibir o crescimento de algumas pestes, é a importância imensurável da ciência como meio de prevenção do avanço da doença. 
+
+No século XIV cerca de um terço da população europeia morreu em decorrência da Peste Negra, que era contraída através do contato com pulgas infectadas por uma bactéria que estavam presente nos ratos, isso nos  mostra hoje que as condições higiênicas da época praticamente não existiam, pelo contrário, tinham a ideia que era necessário revestir o corpo de uma camada  para sua proteção . Lavar as mãos para prevenir doenças  e consequentemente a morte só foi descoberto em 1850 por um médico em Viena. 
+
+Hoje contamos com os mais variados métodos de higiene  inclusive o simples gesto de lavar as mãos, usar álcool em gel para desinfecção, entre outros, tudo comprovado e desenvolvido após muitos estudos feitos pelos cientistas . A ciência vem ao longo dos anos mostrando  sua importância, mesmo assim existem países que não dão a ela o devido valor em investimento e reconhecimento profissional dos médicos, técnicos, pesquisadores entre outros, que neste momento estão na linha de frente do combate a Covid-19. 
+Urge neste momento  assim como foi feito no “Projeto Genoma” que reuniu diversos países em prol da decodificação genética, a pandemia não é algo isolado daí  Problemas na construção de sentido a necessidade de uma união global para que seja possível o compartilhamento de informações preciosas neste momento que estamos lutando  contra algo que não podemos  ver a olho nu, apenas as olhos da ciência podem nos guiar.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 100
+# C4: 100

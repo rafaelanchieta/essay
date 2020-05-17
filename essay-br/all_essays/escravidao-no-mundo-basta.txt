@@ -1,0 +1,12 @@
+# prompt: Escravizar é humano?
+# score: 100
+# title: Escravidão no mundo, basta!
+Muitos povos já foram escravizados durante a história brasileira: os índios, os negros e seus decentes  e imigrantes de diversas nacionalidade. Após décadas da abolição, o trabalho escravo ainda acontece nos dias atuais, o qual abrange  pessoas em vulnerabilidade social. 
+É importante pontuar  de início como, a  escravidão moderna é um fato atual que afeta 45,8 milhões de pessoas em todo o mundo. As consequências desse tipo de prática são danosas para toda a população. Muitas crianças que poderiam estar estudando, jovens se profissionalizando e  consequentemente, contribuindo para a evolução do país  estão condenados a essa situação indígena.
+É fundamental pontuar ainda, as  situações hediondas que essas pessoas vem passando, como o tráfico de pessoas, a exploração sexual, o recrutamento de pessoas para conflitos armados entre outras. Práticas essas que ferem os direitos humanos, e consequentemente tirando o direito de muitos cidadãos. 
+Portanto  para acabar com a escravidão moderna, são necessários conjuntos de medidas, e  fiscalização precisa do governo, para confiscar produtos tenham  mão de obra escrava e aplicar multas para desencorajar a prática no mercado. Além disso criar ouvidoria simplificada e funcional, para que as pessoas denuncie  a prática.
+# C0: 50
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 50

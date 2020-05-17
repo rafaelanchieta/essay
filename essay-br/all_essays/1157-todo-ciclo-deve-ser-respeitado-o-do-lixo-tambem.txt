@@ -1,0 +1,10 @@
+# prompt: a-questao-do-lixo-nas-sociedades-de-consumo
+# score: 4,5
+# title: Todo Ciclo Deve Ser Respeitado, o do Lixo Também
+A produção capitalista do mundo contemporâneo, influenciando a sociedade ao consumismo, traz consequências que podem ser irreparáveis. Essa produção de mercadorias e os avanços tecnológicos geram também outra produção, a de lixo, que por sua vez não é descartado em lugar apropriado pela população que o consome e não é encaminhadoa reciclágempela empresa que o produz. Sem ações, o lixo passa a contaminar o ambiente,ameaçando algumas espécies de extinção.Se um local for contaminado, pode demorar anos para que volte ao normal. Constantementeencontrassepilhas, baterias, e outros produtos quecontemmaterial tóxico em lixo comum. Esse problema deve ser controlado com ações que devem partir de um todo, e não de uma parcela da sociedade. A população deve separar o lixo de forma correta, o Estado deve fazer a coleta seletiva, e as empresas que produziram na forma de produto para o consumidor, fazer areciclágem, ou pagar paraque se faça o mesmo. Dessa forma o lixo passaa obedecerum ciclo, podendo assim ser fonte de renda para famílias que trabalharem nareciclágem.
+         Uma vez desrespeitado esse ciclo, os efeitos serão refletidos principalmente na sociedade. É o que ocorre atualmente, os riosencomodampelo seu cheiro, enchentes sãocausadasdentre outras causas, pelo acúmulo de lixo nas ruas, o que leva aoentopimento de bueirrose os aterro sanitários e muitos riostemsuas áreas comprometidas por serem tóxicas, deteriorando a vida dos mesmos. A produção de bens de consumo e a de lixo andam lado a lado, e osenvestimentossão apenas na área produtiva, deixando assim comprometida a dareciclágem. Essa descontrolada produção de lixo,com o acúmulo cada vez maiorem locais inapropriados, pelo visto só tende a crescer, e afetará gerações futuras de forma cada vez mais drásticas se o ciclo do lixo não for respeitado.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,5

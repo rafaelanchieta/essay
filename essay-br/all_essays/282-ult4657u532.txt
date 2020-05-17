@@ -1,0 +1,16 @@
+# prompt: como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais
+# score: 4.0
+# title: [Sem título]
+A Educação à distancianasceu do avanço da tecnologia, sendo praticada principalmente
+        dainternet. Isso, porém, não é algo que seja100%positivo, pois existem os problemas
+        do acesso a todos os alunos,e também não há a garantia de que estes irão compreender o que é pedido ou ensinado.
+        Como no Brasil a maioria da população é pobre, boa parte,portanto,pode não ter acesso aos recursos telemáticos necessários para oEnsinoà distancia, a não serque a escola ofereça a eles. Outro ponto negativopossaser, talvez, a dificuldade de compreensão de alguns alunos, que poderia ser reparada com o
+          auxiliodo professor, que não estará presente, a não ser que o ensino seja por
+          chat, mas a compreensãoainda simé mais fácil com o professor fisicamente presente,podendo assimdar exemplos de maneira mais eficiente.
+          Esses cursos e faculdades virtuais dão credibilidade ao aluno apenas se este possuir, pelo menos, uma base de diversos assuntos escolares e o costume de ler, pois isso resultaraem umamelhor compreensão dos enunciados e temas, como, por exemplo
+            ,no caso do Banco de Redações, o aluno redigirá uma redação que não fuja da proposta e tenha um vocabulário mais culto.
+# C0: 1.0
+# C1: 0.5
+# C2: 1.0
+# C3: 0.5
+# C4: 1.0

@@ -1,0 +1,12 @@
+# prompt: Informação no rótulo de produtos transgênicos
+# score: 0
+# title: Transgênicos: T de temor 
+Desde o inicio  dos tempos a relação entre consumidor e comerciante sempre se mostrou ‘transparente’, ou seja, o cliente tinha conhecimento do produto a ser comprado. Por isso ‘esconder’ o símbolo  T  (transgênicos), seria  claramente uma quebra desta dessa transação de milênios.
+O uso excessivo destes ‘alimentos T ’, pode acarretar em  problemas de saúde, mas o individuo  consegue prevenir-se observando as informações contidas na embalagem, consequentemente. Porém como está sendo discutido (retirar o aviso), aonde é desprezível o uso desta ‘bandeira’, pois esta  mostrando a realidade e causando o ‘medo’ no comprador.
+Na obra literária  ‘Capitães de Areia’, os personagens lutam contra a doença comumente chamada  (bexiga) , a 1º  decisão deles é identificar os contaminados (esses tinham bolhas em sua face). Comparando este episódio com a questão dos transgênicos, conclui-se: é detectável o ‘vírus’, pois ele manifesta sintomas (temor). 
+Sendo assim  enquanto persistir a anulação da imagem ‘T’, o consumidor estará sendo enganado, por não saber o que tem no produto. Como diz ‘quanto maior o conhecimento, maior o livre arbítrio’, Carlos Bernado  poeta. 
+# C0: 0
+# C1: 0
+# C2: 0
+# C3: 0
+# C4: 0

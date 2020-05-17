@@ -1,0 +1,9 @@
+# prompt: como-se-tornar-um-consumidor-consciente-isso-e-possivel
+# score: 10,0
+# title: Consumismo: do social ao psicológico
+O modelo comportamental idolatrado pela sociedade contemporânea tem agravado cada vez mais o problema do consumismo exacerbado. Nesse ponto, a existência de consumidores conscientes é possível, mas depende, precipuamente, de uma preparação psicológica dos indivíduos, a fim de que possam lidar adequadamente com as pressões impostas pelo mundo externo. É notório que a sociedade preza pelo sucesso patrimonial e que a maior parte das pessoas, seja por ter sido iludida pelas armadilhas de consumo, seja por medo de rejeição dentro de seu próprio grupo, busca, a qualquer custo, transparecer um nível razoável de bonança financeira. Consumir muito se reverte, dessa forma, em um problema de ordem psicológica, já que os estímulos externos se desembocam em uma tensão interior: comprar é preciso para "sentir-se bem" e para "mostrar-se bem". Fica assim evidente que o primeiro passo para se ter compradores com autocontrole é exatamente prepará-los psicologicamente para enfrentar tais pressões externas, inerentes à vida em sociedade. Para tanto, é necessário, desde logo, que as crianças sejam educadas para se tornarem adultos autossuficientes e com pensamento crítico. Dessa forma, ao crescerem, estarão menos suscetíveis às constantes atratividades do mercado e aos modismos sociais. Portanto, a possibilidade de existirem cada vez mais consumidores conscientes depende da prévia e genérica preparação psicológica destes para superarem adequadamente as imposições estabelecidas pelo mercado e pelos meios sociais. Um indivíduo que não se submete passivamente a um modelo que lhe é sugerido, mas que o analisa e o critica, é certamente capaz de decidir o que é realmente necessário e o que não o é, podendo seguramente selecionar o que ele deve e o que pode comprar.
+# C0: 2,0
+# C1: 2,0
+# C2: 2,0
+# C3: 2,0
+# C4: 2,0

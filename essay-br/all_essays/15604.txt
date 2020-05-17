@@ -1,0 +1,12 @@
+# prompt: Coronavírus: a importância da ciência para a sociedade
+# score: 500
+# tittle: A superação clínica com inteligência no Brasil
+No século XX o desconhecimento científico da população sobre a varíola fez muitas pessoas morrerem por não acatarem as medidas do ministro da saúde Oswaldo Cruz  e até entrar em confronto com as autoridades. Portanto é saudável escutar as forças de saúde e ter segurança e harmonia de bem estar social. 
+A ciência é todo conhecimento sistemático, observável e que põe experimento para análise de fatos, por isso é confiável e seguro. Um profissional da área de saúde passa vários anos e estuda com profundidade sobre as doenças.  Um exemplo de outras doenças que foram combatidas graças a orientação dos profissionais com o conhecimento tecnológico  são: o câncer e a aids que não tem cura mas são superadas com tratamentos e coquetéis de vitaminas . Os países que não levam a ciência a sério sofrem os acentuados danos como foram os casos da Itália, Espanha e França em relação à pandemia atual. 
+Especificamente com respeito ao korona-vírus coronavírus, que surgiu na China, é graças a rápida adaptação à ciência que as autoridades de saúde chinesa declinam os gráficos de contágio . Entre as medidas orientadas pelos médicos está não sair de casa para não contagiar ou ser contagiado. Lavar sempre as mãos e usar máscara quando necessário. Unido a isso o aparato de infraestrutura do governo na demanda de profissionais e construção de novos hospitais segundo a demanda de seus ministros de saúde.   Graças a guerra dos médicos e enfermeiros  na consicentização  conscientização do povo  no Brasil são menos de 6.500 casos em comparação com o Estados Unidos que chegam a mais de 213.000 . É possível que houvesse menos caso todas as autoridades estivessem de acordo, mas em detrimento da economia há discordâncias. 
+Por tudo que foi exposto  não se pode negar que é preciso ouvir as orientações de saúde dos ministros e secretários responsáveis pelo bem estar do povo. O Governo Federal , estadual e as prefeituras devem apoiar os profissionais no combate a mais essa pandemia de gripe. Uma das formas é através dos meios de comunicação.  Tvs e rádio, mais ainda pelos cibernéticos como redes sociais. Já superou-se várias pandemias com a inteligência e está  essa será também superada. 
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 0

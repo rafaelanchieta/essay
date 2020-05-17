@@ -1,0 +1,14 @@
+# prompt: Democratização do acesso ao cinema no Brasil
+# score: 600
+# tittle: Cinema-atraso
+Em meados do século passado, o romancista austríaco Stefan Zweig refugiou-se no Brasil devido à expansão da barbárie nazista na Europa. Bem-recebido e impressionado com o potencial da nova pátria, Zweig escreveu um livro cujo título é até hoje repetido: "Brasil, país do futuro".  Entretanto, quando se observa a deficiência de medidas para a democratização do acesso à cultura e ao cinema no Brasil, percebe-se que a célebre frase  do escritor não saiu do papel. Dessa forma, cabe avaliar os fatores que favorecem tal quadro, além de analisar a consequência de tal atitude. 
+
+Em primeiro plano, cabe ressaltar que tais circunstâncias devem-se à expansão desordenada da globalização e da tecnologia no século XXI. Acerca desse tópico, o geógrafo brasileiro Milton Santos desenvolveu a ideia de que a globalização serviu para intensificar as relações de desigualdade no mundo moderno. Sob tal concepção, é indubitável que inúmeros avanços tecnológicos, dentre eles a criação de redes cinematográficas, como a Netflix,  contribuíram ainda mais para a exclusão dos mais pobres, pois como são plataformas pagas, retiram de qualquer modo,  o acesso ao cinema virtual. De outra forma, o elevado número de horas trabalhadas no Brasil,  inviabiliza qualquer tipo de contato com a cultura cinematográfica,  devido ao cansaço psicológico, incapacitando sua democratização. 
+Em segundo plano, vale mencionar que tais recorrências se devem à baixa atuação dos setores governamentais no tange  à a criação de mecanismos que facilitem o acesso ao cinema no Brasil. A título de ilustração, J.J. Rousseau, na obra "Contrato Social"  afirma que é dever do Estado garantir a população direitos fundamentais, como a cultura, contudo, isso não ocorre no Brasil. Devido à falta de atuação das autoridades, o sistema educativo do país não promove interações culturais com os alunos, como a ida a cinemas, o que prejudica sua formação moral, psicológica e cultural. Faz-se, imperativo, portanto, a dissolução dessas conjuntura. 
+
+Assim, medidas exequíveis são necessárias para democratizar o acesso ao cinema e a cultura no Brasil. Dessa forma, urge que o Tribunal de Contas da União dirija capital, que por intermédio do Ministério da Cultura e Educação,   seja revertido em projetos educacionais e campanhas publicitárias, que através de uma ampla divulgação midiática,  incluam excursões a cinemas populares e debates entre cinemalistas e alunos. Dessa maneira, atenuar-se-à o impacto excludente e nocivo da ausência do cinema na formação psicotécnica do indivíduo. Com essas medidas, a citação de Zweig deixará de ser utópica e representará um lema brasileiro conhecido mundialmente.
+# C0: 100
+# C1: 150
+# C2: 100
+# C3: 150
+# C4: 100

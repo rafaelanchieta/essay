@@ -1,0 +1,12 @@
+# prompt: como-resolver-o-problema-da-criminalidade-infantil-em-nossa-sociedade
+# score: 4,0
+# title: Drama Social
+O crime é um problema social que persegue a humanidade há bastante tempo. Ele é o principal responsável por destruir famílias e fazer vítimas. E o pior, envolve menores de idade, que, por habitarem locais suscetíveis a esse tipo de atividade ilícita, ingressam nesse meio. Entre os lugares mais propensosdestacam-se favelas e bairros pobres . Como, na maioria das vezes, não possuem condiçõesdignas de vivênciae muito menos deuma suposta melhora de vida, crianças e adolescentes são aliciados pormaginaisdevido à
+         falta de punição paraaqueles.
+         Vários filmes e séries de televisão já retrataram tais situações; “Cidade de Deus” é um exemplo. Nesses episódios, é levantado sobretudo o meio como o agente motivadoràcriminalidade,que geralmente é marcado pela presença de drogas,contato com armas eestruturas familiares abaladas.
+         Diante desse ambiente nada propício ao desenvolvimento social, os menores rendem-se ao crime, pois são imaturos ainda, no intuito de mudar de vida . Depreende-se, então, que a criminalidade toma níveis alarmantes que devem ser erradicados imediatamente. O ideal seria a assistência social a crianças e adolescentes desses meios, a fim de mostrar aos mesmos que o caminho não é o crime, e sim, a paz.
+# C0: 1,0
+# C1: 1,0
+# C2: 0,5
+# C3: 0,5
+# C4: 1,0
