@@ -1,9 +1,0 @@
-# prompt: a-necessidade-de-crer-em-herois
-# score: 4,5
-# title: O herói que há dentro de nós?
-A imagem do herói, para muitos, remete àquele ser benevolente que nos momentos mais difíceis, mais árduos da trajetória cotidiana pode resolver os problemas alheios sem exigir nada em troca, apenas o bem-estar dos outros.Entretanto, o herói não é só isso; ele é a religião do jovem que há dentro de cada um; é aquilo em que se precisa crer para continuar essa viagem pela criatividade infantil. A capacidade de imaginar e realizar todos os sonhos! Somos heróis de nós mesmos e não sabemos?Muito se diz sobre a mente humana, mas o certo é que é preciso ter objetivos para continuar vivendo, mesmo que não se saiba o porquê da existência. Justamente pelo pouco que se sabe sobre isso é necessário crer em muitas coisas e, para crer, não é necessário muito, apenas fé, ou seja, acreditar em princípios. Na verdade, os heróis não morrem, eles apenas ficam na espera de um momento oportuno para voltar e esse momento é justamente quando mais se precisa deles: para alterar a realidade em que se vive, ele é a esperança de muitos. No entanto, heróis são uma criação da mente, nós somos nossos heróis. Como diria Tina Turner, na renomada trilha sonora de Mad Max, "Nós não precisamos de outro herói (...) Tudo que fazemos com nossas vidas deixa marcas, nossas histórias brilharão?".  Nós somos responsáveis por nossos atos, vitórias e derrotas, entretanto nunca se deve deixar de crer em si mesmo!
-# C0: 1.0
-# C1: 1.0
-# C2: 1,0
-# C3: 1,0
-# C4: 0,5

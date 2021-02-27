@@ -1,9 +1,0 @@
-# prompt: O sucesso vem da escola ou do esforço individual?
-# score: 300
-# title: É impossível uma linha surgir sem que se tenha alguém para a desenhar
-A escola é o primeiro contato que uma criança tem com diversas culturas, pessoas de diferentes lugares, diferentes formas de ver a vida e de se relacionar...O sistema estudantil procura unir essas pessoas a partir do método de ensino e dos assuntos abordados.Isso faz com que os alunos tenham uma base comportamental a ser levada a diante, até se formar (maneira de se comportar em uma escola). O  que seriam os métodos de se obter uma disciplina dos alunos. O foco desse alunos em uma escola depende não só deles, mas da família e de como esse aluno é tratado no ambiente estudantil.Se o sistema é repressor, se não é. Como que  as crianças são educadas e as formas de fazer com que elas se interessem pelos assuntos. O estímulo da família é a base para tudo na vida, ao começarmos a engatinhar e fazer as coisas da forma que nos são ensinadas. Um bom relacionamento familiar, a vida que a criança leva fora da escola, é essencialmente um ponto motivacional importantíssimo para um desenvolvimento acadêmico exemplar.O conjunto de fatores é que leva uma pessoa a progredir na escola, as coisas todas estão interligadas. A  criança não pode estar sofrendo algum tipo de agressão em casa e ter a mesma postura que uma criança  que convive com uma família saudável, pois está tudo ligado.O afeto influencia bastante no interesse de cada um pelos assuntos abordados, se o aluno foi estimulado pelo pai, ou pela mãe, a gostar de determinado assunto, logo ele será mais interessado em trabalhar em cima disso
-# C0: 100
-# C1: 100
-# C2: 50
-# C3: 50
-# C4: 0

@@ -1,9 +1,0 @@
-# prompt: e-certo-ou-errado-leiloar-a-virgindade-por-que
-# score: 8,5
-# title: Muito dinheiro por comida estragada
-A Constituição Brasileira de 1988 é reconhecida por muitos como uma das melhores do mundo. Polêmicas à parte, uma coisa é difícil de negar: ela está correta ao preservar a liberdade de um indivíduo eventualmente se prostituir, ou seja, entregar o seu corpo com finalidade sexual em troca de dinheiro; mas não permitir que o sujeito venha a tirar vantagens disso, como obter preferências em contratos ou garantias de emprego, por exemplo. O caso, extensivamente divulgado na imprensa, de uma jovem que leiloou sua virgindade através de um website australiano, portanto, configura-se no Brasil como uma afronta à legislação. No entanto, a maneira como foi realizado o ato, a bordo de um avião, impede a lei de qualquer país de tomar as providências cabíveis. Esse fato é, sem dúvida, algo a ser discutido e solucionado no que se refere ao Direito Cibernético, bem como à análise da conduta dos cidadãos na sua tentativa de burlar as leis, apoiando-se no que existe de mais avançado em tecnologias e nos limites a que podem chegar os vícios humanos. Evidentemente, não é certo leiloar a virgindade, assim como também não é certo se prostituir. O ato sexual, se não tem somente e acima de tudo a finalidade reprodutiva, tem pelo menos indubitavelmente um caráter subjetivo (psicológico, emocional, afetivo) que já é bizarramente deturpado na prostituição. E quanto não o será por atitudes mórbidas, inconsequentes e oportunistas como a da senhora Ingrid Migliorini?
-# C0: 2,0
-# C1: 1,5
-# C2: 1,5
-# C3: 2,0
-# C4: 1,5

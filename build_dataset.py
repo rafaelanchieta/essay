@@ -1,10 +1,11 @@
 import logging
 import os
+from typing import Tuple
 
 import pandas as pd
+from pandas import DataFrame
 from sklearn.model_selection import train_test_split
 
-from essay import Essay
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('build_dataset')
@@ -12,47 +13,40 @@ logger = logging.getLogger('build_dataset')
 
 class Corpus:
     """
-    This class creates and reads the training, development, and test sets.
+    This class creates and reads the training, development, and testing sets.
     """
 
-    def __init__(self, corpus=None):
+    def build_corpus(self) -> None:
         """
-        Receive the essay as a data frame
-        :param corpus:
-        """
-        if corpus is not None:
-            self.corpus = corpus
-
-    def build_corpus(self):
-        """
-        Build splits for training, development, and testing fo the corpus
+        Build splits for training, development, and testing of the corpus
         :return:
         """
-        training, development, testing = split_stratified_into_train_val_test(self.corpus, stratify_colname='score',
+        training, development, testing = split_stratified_into_train_val_test(self.read_corpus(),
+                                                                              stratify_colname='score',
                                                                               random_state=230)
         self.save_split('train', training)
         self.save_split('dev', development)
         self.save_split('test', testing)
 
     @staticmethod
-    def read_corpus() -> (pd, pd, pd):
+    def read_splits() -> Tuple[DataFrame, DataFrame, DataFrame]:
         """
-        Read the splits of the corpus
+        Reads the splits of the corpus
         :return: training, development, and testing
         """
         path = 'essay-br/splits'
-        files = os.listdir(path)
-        for file in files:
-            if file == 'train.csv':
-                training = pd.read_csv(os.path.join(path, file), converters={'essay': eval, 'competence': eval})
-            elif file == 'dev.csv':
-                development = pd.read_csv(os.path.join(path, file), converters={'essay': eval, 'competence': eval})
-            else:
-                testing = pd.read_csv(os.path.join(path, file), converters={'essay': eval, 'competence': eval})
+        training = pd.read_csv(os.path.join(path, 'training.csv'), converters={'essay': eval, 'competence': eval})
+        development = pd.read_csv(os.path.join(path, 'development.csv'), converters={'essay': eval, 'competence': eval})
+        testing = pd.read_csv(os.path.join(path, 'testing.csv'), converters={'essay': eval, 'competence': eval})
         return training, development, testing
 
     @staticmethod
-    def save_split(name: str, df_input):
+    def read_corpus() -> DataFrame:
+        path = 'essay-br/'
+        return pd.read_csv(os.path.join(path, 'essay-br.csv'), converters={'essay': eval, 'competence': eval})
+
+    @staticmethod
+    def save_split(name: str, df_input: DataFrame) -> None:
         """
         Save the splits of the corpus as a csv file
         :param name: name of the split
@@ -60,11 +54,11 @@ class Corpus:
         :return:
         """
         df_input.to_csv('essay-br/splits/'+name+'.csv', index=False, header=True)
-        logger.info(name + '.cs saved in essays-br/splits/')
+        logger.info(name + '.csv saved in essays-br/splits/')
 
 
 def split_stratified_into_train_val_test(df_input, stratify_colname='y', frac_train=0.8, frac_val=0.1, frac_test=0.1,
-                                         random_state=None):
+                                         random_state=None) -> Tuple[DataFrame, DataFrame, DataFrame]:
     """
     Splits a Pandas dataframe into three subsets (train, val, and test)
     following fractional ratios provided by the user, where each subset is
@@ -117,10 +111,10 @@ def split_stratified_into_train_val_test(df_input, stratify_colname='y', frac_tr
 
 
 if __name__ == '__main__':
-    essay = Essay()
     c = Corpus()
     # c.build_corpus()
-    train, dev, test = c.read_corpus()
+    train, dev, test = c.read_splits()
     print(train.shape)
+    # print(os.path.join(os.getcwd(), 'essay-br\splits\training.csv'))
     # print(test.shape)
     # print(dev.shape)

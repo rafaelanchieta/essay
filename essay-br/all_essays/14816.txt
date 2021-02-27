@@ -1,9 +1,0 @@
-# prompt: Reforma da Previdência: uma solução ou um problema?
-# score: 120
-# tittle: REFORMA DA PREVIDÊNCIA NOS DIAS DE HOJE
-O que poderia ser uma resolução solução, hoje torna-se um problema para muitos brasileiros que sonham em adquirir a sua aposentadoria  Nos dias de hoje a exigência para se adquirir este beneficio esta cada vez mais dificil paga-se todas as contribuições necessarias e exigidas pelo orgão previdenciário  mas não adquiri-se a facilidade que se necessita,  O país está vivendo momentos difícies díficeis  que não e através de redução de valores que irá se resolver  mas só aumentarao os problemas, pois em momento algum o trabalhador e favorecido e sim so desvalorizado .Em vez de se diminuir o numero de anos de contribuição para se adquirir a tão sonhada aposentadoria faz-se aumentar tornando-se cada vez mais complicado para o trabalhador .Por isso pedimos aos nossos governantes que pense no povo brasileiro e tragam soluções para este problema que melhore as condições e tragam facilidades para o trabalhador garantir a mesma.optando por uma idade média para a concessão da mesma. 
-# C0: 100
-# C1: 20
-# C2: 0
-# C3: 0
-# C4: 0

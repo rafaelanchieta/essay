@@ -1,9 +1,0 @@
-# prompt: violencia-escolar-expor-o-problema-e-sugerir-solucoes
-# score: 7,0
-# title: Um faroeste tropical
-Qual é o maior problema da educação brasileira? Se fizéssemos essa pergunta a 100 pessoas, no mínimo 30 responderiam: "é a violência". De fato, o Brasil é um dos países mais perigosos do mundo para se viver. Morrem 50 em cada 100 mil jovens por ano. A maioria adolescentes do sexo masculino, pretos e pobres. Engana-se quem pensa que o problema é a “rebeldia” dos alunos. Engana-se quem pensa que uma boa bronca resolve. Ninguém fica violento a partir do nada. É algo que vem enraizado na nossa mente desde a infância até a idade adulta . Quando eles não aguentam mais, “explodem”. A melhor forma seria tratar a violência com amor e carinho, não mais raiva. Quem tem que dar o primeiro passo é a família, não o governo. Além disso, a raiz da violência é a desigualdade, não a pobreza. A Etiópia, por exemplo, um país onde todos estão no mesmo barco , quase não há casos de crime. Quem o pobre iria roubar? Para quem venderia maconha? Eis a questão . Se falarmos com um brasileiro que reside em um país desenvolvido, com certeza ele admiraria muito a segurança e a falta de medo ao andar na rua às duas da madrugada. Para chegar a esse nível de desenvolvimento, só precisamos de você, caro leitor, basta votar na pessoa certa.
-# C0: 1,5
-# C1: 1,5
-# C2: 1,5
-# C3: 1,5
-# C4: 1,0

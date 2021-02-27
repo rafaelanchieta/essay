@@ -1,9 +1,0 @@
-# prompt: Forma física, corpo perfeito e consumismo
-# score: 600
-# title: Violência Travestida
-É inegável a influência do capitalismo incentivando o consumismo na sociedade. O sistema espera retorno monetário, e assim  coloca em risco a saúde física e psicológica de milhares de pessoas que estão submetidas a  ditadura de  beleza.Os veículos midiáticos, tais como internet, rádio, televisão e jornais  apresentam os padrões de estética , que estão em constante mudança. Logo, a busca pelo corpo perfeito é interminável e acarretam  doenças como depressão, complexo de inferioridade e distúrbios alimentares (anorexia e bulimia).Atualmente, a forma física está ligada ao corpo perfeito  introduzindo o uso principalmente de anabolizantes e academia no dia-a-dia da sociedade. Entretanto, pouco é falado sobre a forma física precípua para o ser humano  respeitando a saúde e o metabolismo  destingindo corpo perfeito e corpo saudável. Assim sendo, há atitudes que são de suma importância para tratar tal assunto. O indivíduo tem que entender o papel da mídia na sociedade contemporânea e analisar os valores invertidos, de forma que possa buscar um  bem estar não com o corpo perfeito, mas com o caráter perfeito.
-# C0: 100
-# C1: 150
-# C2: 150
-# C3: 100
-# C4: 100

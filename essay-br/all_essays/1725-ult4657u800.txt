@@ -1,9 +1,0 @@
-# prompt: votar-em-palhaco-e-uma-forma-valida-de-protestar
-# score: 0,0
-# title: [Sem título]
-Não concordo, o protesto é válido, mas o que vejo hoje é muita gente sem interesse na política e principalmente pessoas sem condições devotar, muitosestãoenteresadosna propina de candidatos na campanha eleitoral. Estamos muito longe de eleger candidatossérios, e digo maisos que dizem ser honestos eles também sãocomplicedos ladrões.
-# C0: 0,0
-# C1: 0,0
-# C2: 0,0
-# C3: 0,0
-# C4: 0,0

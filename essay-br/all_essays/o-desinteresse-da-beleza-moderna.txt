@@ -1,9 +1,0 @@
-# prompt: Forma física, corpo perfeito e consumismo
-# score: 750
-# title: O desinteresse da beleza moderna
-É possível definir um padrão para a beleza? Seria um padrão universal? A diversidade é uma das principais características do mundo moderno, mas vem sendo ameaçada pela “ditadura da beleza”, onde  o belo é estipulado e deve ser seguido para se viver bem na sociedade.Kant diz que o belo é subjetivo, podendo ser mudado de acordo com cada perspectiva, ou seja, o que é considerado belo para um indivíduo poder não ser para outro. Levando em conta também Platão, outro grande filósofo, que acreditava que o belo, em sua plenitude, nunca poderia atingido em  plano físico. Porém, nada muda a situação atual, vive-se uma corrida sem fim para alcançar a beleza física.O Brasil é o segundo país onde mais são realizadas cirurgias plásticas no mundo, perdendo apenas para os Estados Unidos, mas nem sempre os resultados são como o esperado.  Além de poder afetar o físico do paciente, a cirurgia plástica ameaça, também, o psicológico em casos de resultados ruins. Nem sempre existiram cirurgias para que se pudesse mudar o que lhe é  insatisfatório, não seria possível continuar vivendo sem tais usos? O número de cirurgias realizadas por ano aumenta cada vez mais e, agora, atingindo ainda mais  número de jovens.Aceitar-se e amar-se são as maiores armas contra a “ditadura da beleza”, que domina a sociedade atual. “O belo, é  tudo quanto agrada desinteressadamente.” A saúde mental e física vem à frente de qualquer outra coisa, se cuidar é se amar.
-# C0: 100
-# C1: 200
-# C2: 150
-# C3: 150
-# C4: 150

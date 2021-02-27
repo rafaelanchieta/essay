@@ -1,9 +1,0 @@
-# prompt: Disciplina, ordem e autoridade favorecem a educação?
-# score: 500
-# title: Disciplina, ordem e autoridade favorecem a educação?
-É indiscutível que nos colégios militares os alunos tendem a ter uma melhor desenvoltura se comparado  aos das escolas convencionais, devido a uma maior  qualidade de ensino e mais disciplina em sala de aula.As instituições regidas pelas forças armadas, são  compostas por educadores bem formados e que possuem maior autoridade sobre seus estudantes. Buscando maior desempenho dos mesmo,   além de manter a ordem no ambiente escolar, o que é fundamental para um nível de ensino melhor.Outro fator indispensável é a disciplina em sala de aula. Tal comportamento dos alunos, acarreta  não só numa  melhor aprendizagem, mas também no  desempenho do professor  ao ver a turma interessada em absorver o conteúdo passado por ele. O  que gera ótimos resultados de  ambas as partes.Levando-se em consideração esses aspectos, é evidente que os valores passados para os educandos são de grande importância.  Refletindo  não somente na educação, como também na sua postura diante da sociedade. 
-# C0: 100
-# C1: 100
-# C2: 100
-# C3: 100
-# C4: 100

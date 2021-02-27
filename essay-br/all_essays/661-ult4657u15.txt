@@ -1,9 +1,0 @@
-# prompt: cientistas-preveem-futuro-sombrio-para-terra
-# score: 4,0
-# title: Sem título
-Preocupar-se com o presente é necessário e essencial para existir um bom futuro; um futuro com paisagens bonitas e animais selvagens, águas limpas e terras férteis evitando um fim desnecessário com furacões irreversíveis e enchentes. Hoje em dia, parte das pessoas se preocupa com o futuro do mundo, promove campanhas, anúncios e meios informativos com intenção de conscientizar uma grande maioria. Além disso, revistas, jornais e outros meios de comunicação mostram o tal chamado fim do mundo e apontam os erros do passado e do presente na tentativa de um futuro certo, apresentam também suas causas e consequências. No entanto as pessoas vivem como se o amanhã estivesse muito longe, longe demais para terem que se preocupar com esse tipo de conscientização agora. Até mesmo porque as causas das quais vivemos devido aos descuidos do homem no passado parecem ser pequenos perto de um todo tão grande. O futuro é se preocupar com o presente, e se dar conta de que nossas ações são as próximas reações do mundo.
-# C0: 1,5
-# C1: 1,0
-# C2: 0,5
-# C3: 0,5
-# C4: 0,5

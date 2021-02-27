@@ -4,7 +4,7 @@ These essays were graded by humans professionals following the criteria of the E
 
 ## Requirements
 
-- Python (version 3.6 or later
+- Python (version 3.6 or later)
 - `pip install -r requirements.txt`
 
 ## Usage

@@ -1,9 +1,0 @@
-# prompt: um-cachorro-vale-mais-do-que-um-ser-humano
-# score: 4,0
-# title: Desperdício
-Uma multimilionária faleceu e em vez de deixar um pouco de sua herança para seus netos Craig e Meegan, decidiu deixá-la para seu animal de estimação, um sortudo cachorro da raça maltês chamado Trouble.Não creio que um cão possa valer mais do que um ser humano. Os cães podem até ser carinhosos, mas eles são irracionais. O que um cachorro poderá fazer com 12 milhões de dólares? Ele não pensa! É apenas um animal que age por instinto. Ela deveria ter ajudado alguém com o dinheiro. Pelo menos, seus netos poderiam usufruir do dinheiro. É tamanha estupidez "desperdiçar" o dinheiro assim. Ou então, ela poderia doá-lo para alguma instituição de caridade, para que o dinheiro seja realmente aproveitado.A atitude da falecida levantou muitas polêmicas porque ela fez uma coisa que pode ser considerada um absurdo para muitas pessoas. Mas como o dinheiro não é nosso, nada podemos fazer. Cada um faz o que quer com suas coisas.Quem seria nós para julgá-la?Talvezela tenhabons motivos de ter deixado a maior parte da herança para seu animal de estimação, mas na minha opiniãoseriaum desperdício de dinheiro.
-# C0: 1,0
-# C1: 1,0
-# C2: 0,5
-# C3: 1,0
-# C4: 0,5

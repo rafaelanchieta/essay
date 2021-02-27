@@ -1,9 +1,0 @@
-# prompt: justica-x-vinganca-como-nao-confundir-as-duas-coisas
-# score: 5,0
-# title: O limiar entre justiça e vingança
-A morte do principal terrorista do mundo trouxe uma grande repercussão na mídia mundial e comemorações em alguns países, sobretudo nos Estados Unidos. Porém, ao mesmo tempo, surgiu um dilema: matar alguém e comemorar a sua morte é um ato de justiça? Ou de vingança? Para os norte-americanos - principalmente - a execução de Bin Laden propiciou paz e segurança, já que a maior rede terrorista do mundo foi desestruturada. Essa operação foi amparada pelas leis americanas por fazer, segundo as mesmas, justiça aos parentes das vítimas do 11 de setembro. Mas tal justiça é questionável. Conforme a Constituição Brasileira, a morte de Osama pelo governo americano poderia ser considerada vingativa; logo, sujeita à desaprovação, uma vez que valores como liberdade, solidariedade e democracia forma desrespeitados. Outro fator que desaprovaria a atitude dos EUA é que, normalmente, vingança gera vingança, e um exemplo foi o ataque feito pelo Talibã contra o Paquistão que levou à morte quase 100 pessoas. A milícia confirmou que o ataque foi o primeiro ato de vingança por Bin Laden. Para que a humanidade não se autodestrua é preciso que os seres humanos pratiquem a justiça e os outros valores universais e deixem a vingança apenas para o universo cinematográfico.
-# C0: 2,0
-# C1: 0,5
-# C2: 1,0
-# C3: 1,0
-# C4: 0,5

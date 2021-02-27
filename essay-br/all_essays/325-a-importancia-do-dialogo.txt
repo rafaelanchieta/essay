@@ -1,9 +1,0 @@
-# prompt: e-possivel-prevenir-massacres-como-o-da-escola-de-realengo
-# score: 9,5
-# title: A importância do diálogo
-No mês de abril de 2011, ocorreu um crime visto poucas vezes no Brasil: uma chacina escolar, na qual um criminoso, portado de arma e extensa munição, assassinou onze crianças e deixou tantas outras feridas. No entanto, como se pode antepor a tragédias de tal porte e preveni-las? Há várias vertentes alegando que o motivo foi a reprovação do desarmamento votado em plebiscito em 2007. Porém, mesmo que o porte de revólveres fosse ilegalizado para civis, seu preço seria valorizado por conta da lei da oferta e da procura, pela qual, no caso, haveria menos oferta, mas a procura seria a mesma ou aumentaria, apenas levando lucros para o mercado negro. À guisa de exemplos, a maconha é, atualmente, proibida em âmbito nacional, mas nem por isso deixa de ser consumida e é um canal de renda para traficantes. A questão comercial bélica é uma máscara para o real problema. Vêm crescendo no país os casos de "Bullying", a violência psicológica colegial. No caso de Realengo, pode-se afirmar que o isolamento do ex-aluno e possíveis brincadeiras de classe podem ter sido o que ocasionou tal ato, como foi relatado por testemunhas de suas atividades na época de aulas, nas quais era afastado e conversava muito pouco. A exclusão de determinado grupo social remete à prisão de ideias que, caso combatidas por debates, poderiam não culminar no que ocorreu no Rio de Janeiro. Por conclusão, se parte dos alunos se excluem da turma, deve-se estimular seu contato com os educadores por meio de visitas às casas dos estudantes e perguntas na sala de aula e no intervalo, para que haja o corte de ideais nocivos e agressivos à população.
-# C0: 2,0
-# C1: 2,0
-# C2: 2,0
-# C3: 2,0
-# C4: 1,5

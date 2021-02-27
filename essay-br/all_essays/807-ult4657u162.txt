@@ -1,9 +1,0 @@
-# prompt: leis-e-penas-mais-duras-sao-a-unica-solucao-para-o-transito-brasileiro
-# score: 3,5
-# title: Leis absolutistas, seria o Santo Graal do trânsito brasileiro?
-Relatos sobre feridos e mortos no trânsito nosso de cada dia já não são mais novidade entre nós, habitantes do Brasil. Mesmo assim, os números que vemos nos jornais todos os dias são assustadores até para nós, que já estamos acostumados, porém não conformados com este cenário trágico. Hoje em dia, a probabilidade de sair de casa e ser vítima de uma acidente de automóvel é imensa, chegando a superar as expectativas dos órgãos responsáveis pelo registro e acompanhamento do tráfego urbano. E infelizmente esses números progridem geometricamente nos fins de semana e feriados, quando a população decide viajar e o fluxo de veículos é bruscamente maior na rodovias do país. Então, o que fazer para que tudo issose transmute?Leis altamente rigorosas resolvem o problema de uma vez por todas ou será que se faz necessária a reeducação de motoristas infratores?Estas questões somente terão respostas depois que as leis começarem a vigorar em todo o território nacional e quem sabe, surtirem efeito sobre os infratores.
-# C0: 1,0
-# C1: 0,5
-# C2: 0,5
-# C3: 1,0
-# C4: 0,5

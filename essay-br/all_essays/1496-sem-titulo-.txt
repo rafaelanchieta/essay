@@ -1,9 +1,0 @@
-# prompt: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao
-# score: 10,0
-# title: (Sem título 043)
-Recentemente, a empresa holandesa Mars One divulgou um projeto de colonizaçãoaMarte prevista para 2023 e já reuniu mais de 100 mil candidatos à viagem sem volta. Apesar do significativo número de interessados, esse projeto parece mais um sonho. Com gasto de 15 milhões de reais, a empresa pretende tornar o Planeta Vermelho (que tem seu teor de oxigênio praticamente nulo e média térmica de -65oC ) habitável para a espécie humana com o uso de uma tecnologia que a NASA não terá conseguido reunir nem em 2050. Não é preciso dizer o quão arriscada será a viagem para os quatro candidatos que forem selecionados. Além da óbvia periculosidade inerente à parte física da jornada, como falhas tecnológicas e eventuais desvios do plano original, os "astronautas" jamais voltarão à Terra, tendo que abrir mão de suas famílias e amigos, e ainda se sujeitarão à convivência com três pessoas sobre cujo comportamento e temperamento nada sabem. Tirando os intermináveis problemas técnicos do projeto, háa falta de propósito da colonização marciana. Não há motivos reais para se ira Martee, mesmo que a Terra esteja sendo degradada por ações humanas, existem várias maneiras viáveis de seconteros estragos feitosao nosso planeta, de tal forma que a ida paramarteé absurda. A conclusão é simples: o projeto de colonização deMarteé perigoso,improvávele desnecessário. O dinheiro que será empregado nele seria melhor aproveitado se aplicado em áreas de investimento prioritárias.
-# C0: 2,0
-# C1: 2,0
-# C2: 2,0
-# C3: 2,0
-# C4: 2,0

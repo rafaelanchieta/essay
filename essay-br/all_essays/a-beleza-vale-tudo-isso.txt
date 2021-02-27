@@ -1,9 +1,0 @@
-# prompt: Forma física, corpo perfeito e consumismo
-# score: 550
-# title: A beleza vale tudo isso?
-Hoje em dia a busca pelo padrão de beleza perfeito vem levando muitos homens e mulheres para as mesas cirúrgicas ou até mesmo injetando e passando substancias  químicas no corpo.A ditadura da "beleza perfeita" esta dentro da  sociedade a  muitos anos, e  vem se consolidando ate hoje, essa  ditadura atinge principalmente as pessoas que acreditam que para serem aceitas na sociedade e serem felizes tem  que estar dentro dos padrões. A mídia é a principal fonte que se  propaga essa ditadura, pois a mesma criar a ilusão alienadora  que só homens e mulheres de corpos esculturais, cabelos lisos ou ondulados e de pele perfeita se enquadram no que chamamos de beleza.Essa busca inassinalável faz com ser o ser humano seja  capaz de passar por cima da sua saúde, só para ter o "corpo perfeito". Os procedimentos cirúrgicos como: lipoaspiração,   próteses de silicones; a injeção de substancias  químicas no músculo como o hidrogel; substancias química  para alisar os cabelos como o formol vem  sendo banalizado  cada dia que passa, as  pessoas vem esquecem o risco  que estão pondo sua saúde, pois a vontade de serem aceitas fala mais alto, mas as vez  acabam pagando um preço muito alto; pois em muitos casos  as pessoas que faziam  uso desses procedimentos adquiriram alguma doença, complicações e outras foram a óbito.Portanto, visando o bem estar da sociedade  a mídia deveria quebrar esses padrão, colocando modelos com beleza diferentes da atuais para fazer as propaganda  e o governa e população  dar atenção os  protesto contra o padrão atual, pois eles mostram a verdadeira realidade. 
-# C0: 100
-# C1: 100
-# C2: 150
-# C3: 150
-# C4: 50

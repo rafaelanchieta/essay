@@ -1,9 +1,0 @@
-# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
-# score: 2.0
-# title: [Sem título]
-O aborto deve ser livre. Todasáspessoas sabem que existem classes sociais, e que existem divisões no mundo em que vivemos. Como podemos iniciar esse tema sem primeiro se perguntar, e perguntar aosdemais adiferençana qualuma vida poderánascer.comouma pessoa que não tem muitas oportunidades na vida,emque nãoparticipamdo mundo social,podemdar luza uma vida, sem ter uma luz própria?ambas teruma vida sofrida sem saída?oaborto deveria e deve ser livre, muitas vezes não se espera uma criança, muitas crianças nascem sem o querer do casal, e muitas delas nãotemcomo nemsustenta-lasa si próprias, como uma criança poderá nascer assim?emoutros países existe uma auto-ajuda a pessoas que vão dar a luz a uma criança, eles recebem uma quantia em dinheiro do governo para poderem criar seu filho(a), e nos paísesquenão existe essa caridade?queacham um crime, o aborto?sempensar queexistediferença sóciasna vida, e que nem todostemcondições necessárias para isto, culpamos também afalta deirresponsabilidadedos criadores,maismuitas vezes nascem sem ''querer''.Se a pessoa não correr o risco de vida, e não achar que não está na hora, ela deveria e deve sim dizer que não quer ter um filho(a), é um direito seu.Essas coisas devem ser lembradas, a questão não é tirar uma vida, é como ela vai viver, e não é também que uma pessoa só deve ter um filho se estiver acima desuacondições, mas respeitar o voto da vítima e aceitar defato queela não está preparada, e que um dia ainda vaiestá, até porque quem vai criar o filho(a) é você, não os outros...
-# C0: 0.5
-# C1: 1.0
-# C2: 0.5
-# C3: 0.0
-# C4: 0.0

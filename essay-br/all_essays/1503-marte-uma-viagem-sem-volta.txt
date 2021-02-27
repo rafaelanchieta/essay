@@ -1,9 +1,0 @@
-# prompt: viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao
-# score: 9,5
-# title: Marte: Uma Viagem Sem Volta
-No mês passado, o projeto pioneiro da empresa (startup) Mars One abriu inscrições para candidatos a uma viagem sem volta a Marte com a finalidade de colonizar o planeta. A ousadia do alemão Bas Landsdorp e sua equipe abriu espaço para muitos questionamentos acerca da validade, utilidade e viabilidade dessa iniciativa. Sem dúvida, a ideia de colonizar Marte parece loucura, alucinação e idealismo exacerbado - e pode até ser. Mas o projeto já conta com mais de 150 mil inscritos, os quais, caso sejam um dos quatro primeiros selecionados para chegar a Marte em 2023, terão ainda que pagar uma taxa para ajudar a financiar o custo do projeto, orçado em 6 bilhões de dólares. Ou seja, esses tipos de empreendimentos aventureiros e visionários sempre atraem pessoas dispostas a deixar tudo para trás em prol de um ideal. E que ideal seria esse? Que tipos de consequências o sucesso de uma colonização como essa poderia ter no futuro da humanidade e da vida na Terra? A população mundial, que já se encontra na casa dos 7 bilhões, vem crescendo continuamente, consumindo recursos e agravando um problema ecológico que parece insustentável a longo prazo. É a primeira vez na história que o meio ambiente se tornou principal assunto de debates e preocupações a nível internacional. Colonizar Marte, por mais absurdo que pareça agora, pode ser uma maneira de viabilizar a continuidade da espécie humana e de outras espécies ameaçadas. É impossível arriscar previsões no entanto. Neste momento, esses possíveis viajantes fazem parte apenas do seleto grupo de visionários e "loucos" que existem pelo mundo afora. Mas no futuro - quem sabe - poderão vir a ser os "Adão e Eva" de uma nova civilização sideral.
-# C0: 1,5
-# C1: 2,0
-# C2: 2,0
-# C3: 2,0
-# C4: 2,0

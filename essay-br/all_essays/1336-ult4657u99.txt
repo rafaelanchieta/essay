@@ -1,9 +1,0 @@
-# prompt: por-que-as-pessoas-mentem-pela-internet
-# score: 6,5
-# title: Perigo Virtual
-As salas de bate-papo estão entre as páginas da internet mais acessadas no mundo inteiro. Desde profissionais que utilizam os 'chats' procurando contatos até crianças que procuram diversão no mundo virtual, todos estão conectados e podem se comunicar com qualquer pessoa em qualquer lugar.Porém, as pessoas acabam esquecendo de um dos maiores perigos a que estão sujeitas na internet: o contato com desconhecidos.Quando se conversa com alguém através de uma sala de bate-papo, é impossível saber se a pessoa está falando a verdade ou não, e, assim,muitos jovensacabam se deixando seduzir por seus "novos amigos" eacabam sofrendo graves conseqüências, como, em certos casos, a morte. É crescente o número de vítimas de assassinato e estupro entre crianças que utilizam erroneamente as salas de bate-papo.Entretanto, nem todas os usuários da internet são pessoas mal intencionadas: algumas pessoas mentem seu peso, idade, altura, a aparência no geral, com o único intuito de impressionar seus interlocutores, com a idéia pré-estabelecida de que não se encontrarão pessoalmente. Percebe-se, então, que nem todas os navegantes mentem ou ocultam informações pelo mesmo motivo. Há os mal intencionados, que utilizam um meio popular de comunicação como forma de encontrar vítimas para seus crimes, e pessoas inseguras com sua aparência física em busca de amigos. Com isso, conclui-se que, qualquer que seja o caso, é necessária muita atenção por parte dos pais de crianças que passam muito tempo em frente ao computador, e cautela por parte dos jovens antes de passarem informações pessoais a estranhos.
-# C0: 1,5
-# C1: 1,0
-# C2: 1,0
-# C3: 1,5
-# C4: 1,5

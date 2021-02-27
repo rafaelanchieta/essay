@@ -1,9 +1,0 @@
-# prompt: o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor
-# score: 5,5
-# title: Eles ganham a corrida antes mesmo da largada.
-Na corridaeleitoralo uso dos veículos demassa – televisão e rádio – é crucial para uma boa campanha, poisatingem várias camadas sociais.Mas há no Brasil o uso inadequado da propaganda eleitoral gratuita criando uma corrida desigual a antidemocrática.A mídia possui um papel no período eleitoral eficaz. Uma vez que 90% dos brasileiros possuem no mínimo uma televisão ou um rádio em suas casas, tendo esses veículos um alto poder de atrair e persuadir, o brasileiro acaba por ser manipulado por uma série de linguagens tanto verbais como não verbais dentro da propaganda eleitoral o que ajuda muito, e pode ser o componente decisivo, para determinar o futuro eleito.Uma vez que a mídia exerce esse poderdecisivoé necessário regulamentaras propagandas e os horários disponíveispara cadacandidato igualmente, a fim de promover uma corrida eleitoral justa e igualitária. Entretanto não é isso que acontece, noBrasilsão claros os privilégios dehorários amplosoferecidos mais para uns que para outros.privilégiosque são justificados, principalmente, peloNúmerode cadeiras que cada partidoexerce no congresso. Sendo assim, o partido que não possuir representantes nocongressoé desvalorizado, tendo um tempo mínimo para expor suas propostas. Esse fato tornaas propagandas eleitorais gratuitas antidemocráticas, uma vez que a democracia é uma forma de governo em que todos os cidadãos elegíveis participam igualmente.No Brasil há a eficácia dos veículos de massa na eleição eleitoral e a desigualdade na mesma.Deve-se criar uma regulamentação séria para igualar o horário disponível para cadacandidatosem levar em consideração privilégios, como o citadoa cima.sóassim pode-se exercer a democracia em sua plenitude.
-# C0: 1,0
-# C1: 1,5
-# C2: 1,0
-# C3: 1,0
-# C4: 1,0

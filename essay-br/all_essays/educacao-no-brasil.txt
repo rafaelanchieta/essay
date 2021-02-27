@@ -1,9 +1,0 @@
-# prompt: O sucesso vem da escola ou do esforço individual?
-# score: 400
-# title: Educação no Brasil
-A educação no brasil ha  muito tempo tem vivido  uma situação complicada. São  vários exemplos que mostram a baixa qualidade de ensino no pais . Diante desses fatos é preciso perguntar: o sucesso nos estudos depende mais do esforço individual ou de escolas eficientes para produzir os resultados que se esperam?Segundos dados da ANA (Avaliação Nacional de Alfabetização), muitos estudantes do ensino publico tem  tirado péssimas notas em leitura, matemática e escrita. Assim, não é de assustar que, vários  alunos tenham tirado notas tão baixas na redação do Enem. E também que o Brasil é  um dos países com um dos índices de alfabetização mais baixos do mundo.Mesmo assim, nota-se também que tem ocorrido um numero, ainda que pequeno de estudantes que conseguem  vencer as barreiras, sem nem mesmo ter frequentado uma escola particular e, por seus próprios esforços, conseguem  tirar notas boas tanto nos vestibulares quanto no Enem.Em relação a  qualidade de ensino no brasil , é necessário que o governo intervenha nesta  situação e crie alternativas para a melhora do ensino do pais, investindo em escolas e universidades.
-# C0: 100
-# C1: 100
-# C2: 50
-# C3: 100
-# C4: 50

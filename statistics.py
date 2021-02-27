@@ -1,26 +1,29 @@
 from collections import Counter
+from typing import Tuple, List
 
 import numpy as np
-import pandas as pd
 import seaborn as sns
+import spacy
 from matplotlib import pyplot as plt
 from nltk import tokenize
+from pandas import DataFrame
+from tqdm import tqdm
 
 from build_dataset import Corpus
-from essay import Essay
 
 
 class Statistic:
     """
-    Calculate some statistics about the corpus
+    Calculates some statistics about the corpus
     """
 
     def __init__(self, split):
         self.essay = split
+        self.nlp = spacy.load('pt_core_news_sm')
 
-    def statistics_essays(self) -> (float, float, float, float, float, float, float, float, float, float, float, float):
+    def statistics_essays(self) -> List[Tuple]:
         """
-        Compute some statistics about the corpus
+        Computes some statistics about the corpus
         :return: average of paragraphs per essay, average of sentences per paragraph, average of sentences per essay
         standard deviation of sentences by paragraph, standard deviation of sentences by essay,
         standard deviation of paragraphs by essay, average of tokens per sentences,
@@ -51,14 +54,36 @@ class Statistic:
                     std_tok_per_snt.append(len(tokens))
             std_snt_per_essay.append(aux_snt)
             std_tok_per_essay.append(aux_tok)
-        return (total_paragraphs / total_essays, total_sentences / total_paragraphs, total_sentences / total_essays,
-                np.std(std_snt_per_para), np.std(std_snt_per_essay), np.std(std_para_by_essay),
-                total_tok_snt / total_sentences, np.std(std_tok_per_snt), total_tok_par / total_paragraphs,
-                np.std(std_tok_per_para), total_tok_par / total_essays, np.std(std_tok_per_essay))
+        return [('para_per_essay', total_paragraphs / total_essays),
+                ('snt_per_para', total_sentences / total_paragraphs), ('snt_per_essay', total_sentences / total_essays),
+                ('std_snt_per_para', np.std(std_snt_per_para)), ('std_snt_per_essay', np.std(std_snt_per_essay)),
+                ('std_para_per_essay', np.std(std_para_by_essay)), ('tok_per_snt', total_tok_snt / total_sentences),
+                ('std_tok_per_snt', np.std(std_tok_per_snt)), ('tok_per_para', total_tok_par / total_paragraphs),
+                ('std_tok_per_para', np.std(std_tok_per_para)), ('tok_per_essay', total_tok_par / total_essays),
+                ('std_tok_per_essay',np.std(std_tok_per_essay))]
 
-    def competence_score(self) -> (Counter, Counter, Counter, Counter, Counter):
+    def forms_of_voice(self) -> Tuple[int, int]:
         """
-        Get score for each competence
+        Computes forms of voice
+        """
+        active_voice, passive_voice = 0, 0
+        for essay in tqdm(self.essay['essay']):
+            for paragraph in essay:
+                sentences = tokenize.sent_tokenize(paragraph, language='portuguese')
+                for sentence in sentences:
+                    doc = self.nlp(sentence)
+                    for snt in doc.sents:
+                        for child in snt.root.children:
+                            if child.dep_ != 'nsubj':
+                                passive_voice += 1
+                            else:
+                                active_voice += 1
+                            break
+        return active_voice, passive_voice
+
+    def competence_score(self) -> List[Counter]:
+        """
+        Gets score for each competence
         :return: Competencies scores
         """
         competencies = self.essay['competence']
@@ -69,18 +94,18 @@ class Statistic:
             c3.append(c[2])
             c4.append(c[3])
             c5.append(c[4])
-        return Counter(c1), Counter(c2), Counter(c3), Counter(c4), Counter(c5)
+        return [Counter(c1), Counter(c2), Counter(c3), Counter(c4), Counter(c5)]
 
-    def statistics_score(self) -> pd:
+    def statistics_score(self) -> DataFrame:
         """
-        Get total score of essays
+        Gets total score of essays
         :return: total scores ordered
         """
         return self.essay['score'].value_counts(sort=False)
 
-    def plot_score(self, top: int):
+    def plot_score(self, top: int) -> None:
         """
-        Plot the top X scores of the corpus
+        Plots the top X scores of the corpus
         :param top: number of scores to be ploted
         :return:
         """
@@ -94,10 +119,9 @@ class Statistic:
 
 
 if __name__ == '__main__':
-    essay = Essay().get_essay()
-    train, dev, test = Corpus().read_corpus()
+    train, dev, test = Corpus().read_splits
     statistic = Statistic(train)
     # print(statistic.statistics_score())
     # statistic.competence_score()
     # print(statistic.statistics_essays())
-    statistic.plot_score()
+    statistic.plot_score(10)

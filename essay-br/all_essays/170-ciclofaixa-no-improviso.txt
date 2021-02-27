@@ -1,9 +1,0 @@
-# prompt: bicicletas-e-ciclofaixas-estao-chegando-para-ficar
-# score: 2,5
-# title: Ciclofaixa no improviso
-Após o surgimento das ciclovias no Brasil, os ciclistas aindavemsendo vítimas de acidentespormotoristasimprudentesque desrespeitam a faixa devido ao congestionamento notrânsito, poréma ausência de sinalização eem locais não apropriados para o deslocamento debicicleta, sãofataispara gerações
-# C0: 0,5
-# C1: 1,0
-# C2: 0,5
-# C3: 0,5
-# C4: 0,0

@@ -1,9 +1,0 @@
-# prompt: favela-e-cidade-as-distancias-sociais-desapareceram
-# score: 2,5
-# title: Iguais em direitos e deveres
-O grande contraste entre as favelas e as cidades são muito grandespois existe uma grande discriminação com as pessoas que moram lá,achando que todas as pessoas que moram nas favelas são criminosos e também pobres.O preconceito que os habitantes dasfavelassofrem é muito grande. Só pelo fato dosdosgrandes conflitos que acontecem nos morros das favelas entre os criminosos,muitas pessoas acham que todos dasfavelassão bandidos. Vemos exemplo disso na televisão, nos jornais em que muitos policiais confundem pessoas "normais" com os bandidos, pelos simples fato de morarem lá.Outro problema que os moradores das favelas sofrem é pelo fato de serem considerados pobres.E por terem uma vida social baixa ajuda na discriminação. Percebemos que as favelas foram criadas por causa da grande reforma que ocorreu no Rio de Janeiro no passado e ela também começou a ser habitada pelos operários e trabalhadores que na época já sofriam discriminaçãopor serem pobres e não tinham valor algum.Percebe-se, ainda, que isto existe no Brasil apesar das grandes mudanças ocorridas nos dias de hoje.Portanto, para que as diferenças entre as favelas e as cidades venha a diminuir, as pessoas deveriam se concientizar que todos nós somos iguais, independente das classes sociais e do lugar onde se mora.
-# C0: 0,5
-# C1: 0,5
-# C2: 0,5
-# C3: 0,5
-# C4: 0,5

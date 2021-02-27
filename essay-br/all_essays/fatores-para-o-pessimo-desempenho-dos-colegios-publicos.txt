@@ -1,9 +1,0 @@
-# prompt: Disciplina, ordem e autoridade favorecem a educação?
-# score: 400
-# title: Fatores para o péssimo desempenho dos colégios públicos
-Apesar dos ótimos resultados dos colégios militares em todo o Brasil, no Enem, é um equivoco  acreditar que os valores militares favorecem a educação. Existe varios  fatores que somam  o ensino, e a ausência destes são às causas  do péssimo desempenho dos alunos dos demais colégios públicos.Os colégios militares vem  apresentando melhores resultados do que outras instituições de ensino público. O fato se faz afirmar que os diferentes valores empregados nessas repartições favorece  o ensino.Uma diferença importante dos colégios militares são  sua estrutura. A falta de estrutura nos demais colégios, causa  a pouca exigência do aluno, e  dificulta às  funções do professor e dos demais trabalhadores da instituição, subtraindo assim os bons resultados das escolas públicas.Toda instituição de ensino tem suas regras que exigem disciplina, ordem e senso de autoridade do aluno, e a base estrutural está totalmente ligada a esse exercício . O deficit  do ambiente escolar público compõe os fatores que causam o péssimo desempenho dessas repartições.Fica claro que a resposta para uma melhor educação de qualidade  não está só na maneira exclusiva de cada instituição de ensino, mas também está na estrutura dos colégios. Isso se constata tanto nos colégios militares, quanto nos colégios privados, detentores de boas estruturas.
-# C0: 100
-# C1: 100
-# C2: 50
-# C3: 100
-# C4: 50

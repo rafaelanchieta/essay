@@ -1,9 +1,0 @@
-# prompt: Forma física, corpo perfeito e consumismo
-# score: 600
-# title: (Sem título 079)
-Miscigenação, essa palavra define as características físicas e culturais das pessoas ao redor do mundo.  São inúmeras formas corporais, tons de pele, cores de olhos e atributos que se pode  encontrar, porém, toda essa variação vem sofrendo uma certa repressão dos novos padrões estéticos que surgem a cada momento.O desejo de ter corpos com determinadas medidas ou cabelos com formato específico, por exemplo, faz com que pessoas saiam em busca de formas cada vez mais rápidas para atingir seus objetivos. Essa rapidez, entretanto, acaba tornando atraentes métodos que trazem maior risco à saúde dos indivíduos.Injetar substâncias no corpo, passar por cirurgias e mudar a alimentação são alguns desses meios, e demonstram uma incessante busca dessas pessoas por autoestima e aceitação da sociedade.Tentando acabar com essa ideia de insatisfação com o próprio corpo, grupos como "Orgulho Crespo" e "Gordinhas Assumidas" promovem passeatas nas quais afirmam seu orgulho em fugir dos padrões e encorajam outros cidadãos a assumir suas próprias formas.Esse tipo de iniciativa é o que realmente faz a diferença, pois interage com a sociedade e mostra que a miscigenação não assume padrões.
-# C0: 100
-# C1: 100
-# C2: 150
-# C3: 100
-# C4: 150

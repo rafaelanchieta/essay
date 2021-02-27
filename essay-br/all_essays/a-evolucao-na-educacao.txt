@@ -1,9 +1,0 @@
-# prompt: Disciplina, ordem e autoridade favorecem a educação?
-# score: 600
-# title: A evolução na educação
-A educação no Brasil vem mudando ao longo dos anos. Dentre as diversas metodologias adotadas no pais , os colégios militares têm se destacado em seu nível de ensino e também na formação de seus alunos quanto  cidadãos. O segredo por traz  desses resultados é a soma de princípios fundamentais, que integram a policia  militar nas escolas e buscam a excelência na formação de seus alunos. Mas até que ponto essa metodologia, mais autoritária, pode beneficiar os alunos?O colégio possui uma administração mais rígida, onde  a disciplina, a ordem e o respeito à autoridade formam o tripé balizador do ensino  sem abandonar a pedagogia. Os colégios militares possuem uma facilidade maior em direcionar o aprendizado dos estudantes. Com regras bem definidas, o aluno absorve a responsabilidade de cumprir com as determinações de seus professores, que são vistos como uma autoridade educacional, com poder de cobrar um bom desempenho.Em contrapartida , alguns sociólogos questionam a capacidade de desenvolver o senso critico  e a criatividade do aluno devido ao excesso de rigidez que não da  margem para desenvolver a autonomia e identidade. Nesse ponto, os colégios militares estão longe de tirar esses atributos, que são primordiais para a formação do caráter e cidadania. Ao contrario , os princípios aplicados no ensino, constroem  um aluno com pleno senso critico,   do que é certo e errado, do respeito e da disciplina. O colégio militar, cumprem  com seu papel: formar alunos competentes, que superam os desafios do mundo la  fora, com a determinação de um soldado, seja vestibular ou universidade, o  diferencial esta  na forma com que esse trajeto é percorrido, e  nesse quesito, temos que admitir, os militares estão cumprindo o objetivo.
-# C0: 100
-# C1: 150
-# C2: 150
-# C3: 100
-# C4: 100

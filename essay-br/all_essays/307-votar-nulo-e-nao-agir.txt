@@ -1,9 +1,0 @@
-# prompt: o-voto-nulo-e-um-ato-politico-valido
-# score: 4,0
-# title: Votar nulo é não agir
-Há uma grande polêmica e insatisfação, por parte da população, sobre a política em nosso país. A cada quatro anos ocorre a eleição presidencial e finalmente o povo tem o poder de decidir que mãos irão governar a República do Brasil. Desde que a democracia é válida, um cidadão tem o direito de votar e escolher a melhor opção para o seu voto. Porém, votar nulo é uma boa opção? Muitas pessoas consideram o voto nulo como uma forma de protesto contra todas as irregularidades políticas, como corrupção, intransparência e má administração do dinheiro público. Entretanto, por mais que a nossa situação política não seja satisfatória e nenhum dos candidatos à presidência nos agrade, devemos levar em conta que votar nulo contribui para que a situação permaneça a mesma. Votar nulo é uma forma de protesto ineficaz e sem sentido. De todas as ideias para um “bom candidato”, é preciso filtrar as opções disponíveis, e chegar ao candidato que mais condiz com um presidente. Agir dentro dos conformes e tomar uma atitude é o verdadeiro poder de um eleitor, o que fará com que o país realmente mude.
-# C0: 1,0
-# C1: 1,0
-# C2: 0,5
-# C3: 0,5
-# C4: 1,0

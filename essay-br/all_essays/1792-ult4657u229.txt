@@ -1,9 +1,0 @@
-# prompt: favela-e-cidade-as-distancias-sociais-desapareceram
-# score: 3,5
-# title: A favela e o país
-Vivemos numa era, em que todas as camadas sociais têm influência na situação política e financeira do país, desde a favela até as grandes cidades.Todo cidadão tem direito e dever perante a sociedade, independentemente de sua classe social ou o lugar em que mora.No século 19, quando surgiram os cortiços, formado geralmente por imigrantes, pobres e negros. Apontado pela sociedade da época como cidadãos excluídos, pois não influenciavam de nenhuma maneira a situação do país. Apenas sobreviviam de uma miséria, a qual não possibilitava o progresso social dessas pessoas.Atualmente, a realidade é outra, a favela se encontra cada vez mais estruturada e seus moradores mais cientes de suas responsabilidades sociais. Com isso, ela passou a possuir uma grande influência na situação do país, tanto financeiramente quanto socialmente. Apesar de a favela conter grande parte da violência, não se pode generalizar e dizer quetodos marginaismoram em favelas. Devemos ter consciência de que muitos que moram nesses locais,não tiveram oportunidade de estudar e buscar uma vida melhor. Pelo contrário, enfrentaram muitos obstáculos como: a fome, miséria e violência, fatores que dificultam muito o desenvolvimento social.Enfim, para um país encontrar progresso, na política, na economia e socialmente. Não basta apenas contar com a ajuda das grandes cidades.É necessário ver a nação como um todo.Cabem as autoridades, olharem para as favelase verem que ali existem pessoas que primeiramente necessitam de ajuda, para depois ajudarem o país a encontrar o caminho da evolução.
-# C0: 0,5
-# C1: 1,0
-# C2: 1,0
-# C3: 0,5
-# C4: 0,5

@@ -1,9 +1,0 @@
-# prompt: Desmatamento e queimadas: a importância de preservar a floresta amazônica
-# score: 290
-# tittle: Preservar é preciso
-A Amazônia é a maior floresta tropical do mundo, tendo 60% de sua extensão em território brasileiro. Entretanto, tem perdido grande parte de sua área devido ao desmatamento e as queimadas, em grande parte causados pelo avanço da pecuária. Assim faz-se necessário preservá-la já que esta abriga uma grande quantidade de seres vivos, além de ser responsável pelas chuvas em algumas regiões do Brasil. Primeiramente cabe destacar que a Floresta Amazônica é berço de centenas de espécies que devem ser preservadas. Segundo o Inpa  a floresta abriga mais de 145 mil espécies. Assim assegurar a preservação desse bioma é fundamental para garantir a sobrevivência dos seres vivos que nele habitam. Ademais ela é responsável pelo fenômeno dos rios voadores . Durante o processo de evapotranspiração as árvores liberam grande quantidade de vapor de água na atmosfera. Esse líquido acaba formando massas de ar muito úmidas, que ao serem levadas para outras regiões do Brasil se precipitam. Logo a perda do bioma implicará na diminuição das chuvas em regiões como São Paulo, levando algumas cidades a crises hídricas e até mesmo a desertificação de solos. Em virtude do exposto, torna-se evidente a importância de preservar o bioma Amazônia. Para que se chegue a tal é preciso uma maior presença do poder público: regularizando a posse de terra, encontrando os culpados pelo desmatamento e punindo-os devidamente;  rastreando carnes produzidas em áreas desmatadas ilegalmente, e taxando altas multas;  Assim o Brasil poderá evitar futuras crises hídricas e desertificação de solos, além de preservar para as futuras gerações a enorme biodiversidade amazônica.
-# C0: 100
-# C1: 20
-# C2: 20
-# C3: 100
-# C4: 50

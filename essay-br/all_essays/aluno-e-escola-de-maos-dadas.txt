@@ -1,9 +1,0 @@
-# prompt: O sucesso vem da escola ou do esforço individual?
-# score: 700
-# title: Aluno e escola de mãos dadas
-O esforço individual pode determinar o sucesso, mas uma escola preparada potencializa as  chances. O conjunto  dos dois fatores permite o  bom desenvolvimento do aluno. E, assim, a trilha de sucesso alcançado  pelos estudos será possível.  Apesar de haver casos de estudantes que venceram por seus próprios esforços, eles ainda são exceções. Na verdade, exemplos como esses deveriam ser regra, mas nem todos possuem a mesma determinação. Uma escola que desestimula, torna  tudo ainda mais difícil.Antes das cotas, por exemplo, dificilmente um aluno de escola pública passava em cursos concorridos, como medicina. Isso não significa que ele não se esforçou, porém  as condições de sua escola  não permitia  superar os concorrentes de escolas privadas  mais preparadas .No Brasil, vários jovens precisam viajar horas, não possuem alimentação adequada e falta material didático na escola . Outros fatores  como professores insuficientes e desestimulados, infraestrutura precária e má gestão  contribuem para o fracasso desses estudantes. Logo, a própria força de vontade, muitas vezes  não é suficiente.Portanto, se deve promover  uma educação de qualidade aos estudantes. Para isso, são necessárias escolas eficientes, com professores motivados e um bom incentivo  ao aluno. E então, juntamente com seus esforços, o estudante terá um futuro brilhante.
-# C0: 100
-# C1: 200
-# C2: 200
-# C3: 150
-# C4: 50

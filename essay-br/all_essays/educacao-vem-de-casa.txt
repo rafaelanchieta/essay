@@ -1,9 +1,0 @@
-# prompt: Disciplina, ordem e autoridade favorecem a educação?
-# score: 0
-# title: Educação vem de casa
-Antigamente a disciplina era cobrada nas escolas para obter bons resultados dos alunos. Mas infelizmente os tempos mudaram e hoje os estudantes estão se rebelando e se destacando entre os piores. Mas a culpa não seria primeiramente de casa? Até que ponto essa indisciplina chegará?O início de tudo é com os pais, pois a educação vem do lar, então cabe a eles educar e ensinar seus filhos  respeitarem as autoridades. Se ali não são disciplinados  a escola não será totalmente responsável pelos maus atos desse aluno .Contudo, sabe-se que a responsabilidade de agir com ordem e autoridade está na direção das escolas, pois é lá que preparam os jovens para o mundo. Se não for ensinado o respeito no ambiente escolar, não é do lado de fora que vão exercê-lo  pelo contrário  serão desrespeitados e o colégio ficará de mau exemplo para os próximos a estudar. Portanto, pode-se concluir que a educação vem primeiramente dos pais, mas a ordem, a autoridade e a disciplina nas escolas favorecem completamente o  comportamento dos alunos. Se em casa não são ensinados  o mundo os ensinará da pior maneira. Como diz a frase de um filósofo  “Eduque as crianças e não será necessário punir os adultos”.
-# C0: 0
-# C1: 0
-# C2: 0
-# C3: 0
-# C4: 0

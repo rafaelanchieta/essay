@@ -1,9 +1,0 @@
-# prompt: qual-e-o-limite-entre-o-trote-e-o-crime
-# score: 7,0
-# title: Uma fronteira cultural
-Violência. Humilhação. Morte . Muitas são as consequências dos trotes universitários de que se ouve falar por meio da mídia. Nesse contexto, uma pergunta deve ser feita: qual é o limite entre o trote e o crime? De um lado, nota-se que o trote é uma boa oportunidade de os calouros conhecerem os veteranos e a universidade em que vão estudar. Nesse sentido, trata-se de um verdadeiro ritual, que marca o início de uma nova etapa da vida, mais séria e responsável. De outro lado, vê-se que o trote é desviado de sua finalidade por muitos dos seus aplicadores, convertendo-se em atos de violência - tanto física, quanto moral. Essa prática repugnante se deve, em grande parte, ao sentimento de impunidade dos seus autores. Tal sentimento, por sua vez, é baseado no fato de que muitos dos seus veteranos agiram do mesmo modo e não foram reprimidos. A fim de que o problema seja mitigado, órgãos estatais de fiscalização da lei, como o Ministério Público e as Polícias, devem estar presentes nesses eventos. Destarte, aqueles que ainda assim cometerem crimes durante os trotes serão mais facilmente investigados e punidos pelo Estado.
-# C0: 2,0
-# C1: 2,0
-# C2: 1,0
-# C3: 1,0
-# C4: 1,0

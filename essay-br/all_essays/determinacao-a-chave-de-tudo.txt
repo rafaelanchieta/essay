@@ -1,9 +1,0 @@
-# prompt: O sucesso vem da escola ou do esforço individual?
-# score: 400
-# title: Determinação: A chave de tudo
-No Brasil, vários estudantes questionam ou até mesmo reclamam da educação em escolas públicas. Uma dessas insatisfações é pelo  fato de não conseguir ingressar no ensino superior.Não devemos deixar de ressaltar que realmente  nosso país apresenta imensa dificuldade quando  se refere a  educação. Dados estatísticos demonstram que ao menos um a cada cinco estudantes do terceiro ano do fundamental não apresentam  requisitos mínimos de alfabetização  em leitura, escrita e matemática.Diante desse panorama  ainda encontramos casos de sucesso e superação, como por exemplo, o estudante Ismael do Nascimento Silva  que é filho de um pedreiro e de uma catadora de castanhas, e apesar desses obstáculos conseguiu se formar em direito no Piauí. Outro caso ocorreu com o detento Venilton Leonardo Vinci que se formou em pedagogia e já pensa em realizar uma pós graduação .Verificamos que independente  de circunstâncias e obstáculos que a vida nos proporciona , seja ele se o indivíduo estuda numa escola privada ou pública, ou se o mesmo é pobre ou rico , se tivermos determinação e esforço independente  do que tivermos que enfrentar, sem dúvidas alcançaremos um grande êxito educacional como ocorreu com Ismael e Venilton.
-# C0: 100
-# C1: 100
-# C2: 100
-# C3: 50
-# C4: 50

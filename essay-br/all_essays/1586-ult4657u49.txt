@@ -1,9 +1,0 @@
-# prompt: nacional-ou-importada-qual-a-cara-do-brasil
-# score: 3,0
-# title: Patriotismo relativo
-Fica relativo ter patriotismo nos dias de hoje, pois a globalização cada vez faz mais parte do cotidiano de todos.Principalmente na vida dos jovens de classe média.O desinteresse pela parte delespode ser alegado ao fato da internet.Cada vez mais sites jovens vem ultilizando outras culturas,linguagens e idiomas, eem fatordisso, as nossas raízes acabam ficando em segundo plano, ou até mesmo sendo esquecidas.Ás vezes somente lembradas se impostas para trabalhos escolares, ou datas comemorativas. Os costumes também vêm mudando de uma forma jamais vista, por exemplo na culinária, ao invés de reunir os amigos para uma comida típica nacional como por exemplo uma feijoada, acaba ficando de lado para comer comida japonesa que está sendo a mais cotada ultimamente.Ou mesmoo fast-food que a qualquer hora ou lugar encontra-se um. O Brasil é um país com grande concentração de diversificação de raças,não se pode dizer que só porque o cidadão não come feijoada não pode ser considerado um patriota, ou porque usa roupas importadas e ouve hits internacionais.Nos dias de hoje, é impossível nos excluir do mundo e das tendências que nos causam, moramos em um país sub-capitalista, estamos em meio a uma globalização.Não existe absolutamente nada totalmente brasileiro,em nosso país há milhares de culturas e costumes diferentes.Sem dizer o fatode ser gigante pela própria natureza, não há como existir uma concentração de costumes totalmente iguais e considerados brasileiros.O Brasil, é o mundo todo, com muitas caras, costumes e raças.Enfim,temos muitos patriotas, porém cada um de seu costume.
-# C0: 1,0
-# C1: 1,0
-# C2: 0,5
-# C3: 0,5
-# C4: 0,0

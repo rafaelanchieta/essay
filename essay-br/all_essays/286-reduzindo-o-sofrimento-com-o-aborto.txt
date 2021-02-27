@@ -1,9 +1,0 @@
-# prompt: o-supremo-tribunal-federal-fez-bem-em-legalizar-o-aborto-de-anencefalos
-# score: 4,0
-# title: Reduzindo o sofrimento com o aborto
-Na Antiguidade, ao saber do nascimento de um bebê com algum tipo de deficiência, a família era obrigada a livrar-se dele, pois sendo um sujeito dependente, não teria a menor chance de sobreviver sozinho. Desde o início da descoberta da gestação de um bebê encefálico, os pais têm duas escolhas, que é optar pela dor no início, abortando o filho, ou carregar essa dor até o ponto em que o coração do bebê pare de bater. Com a liberação do Supremo Tribunal Federal, a decisão fica de acordo com a visão e o sofrimento do casal. Essa escolha vai muito além da religião, pois a família passa a viver dedicada ao filho e talvez a melhor escolha seja acabar com o sofrimento da criança nos primeiros meses de gestação. Tendo em vista a dor e a tristeza, a legalização do aborto de bebês encefálicos deve ser vista como um grande passo para os direitos do casal, pois a decisão desse assunto fica inteiramenteaospais.
-# C0: 1,5
-# C1: 0,5
-# C2: 0,5
-# C3: 0,5
-# C4: 1,0

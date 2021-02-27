@@ -1,9 +1,0 @@
-# prompt: selinho-e-inocente-ou-tem-significado-sexual
-# score: 1.0
-# title: A Caça as às Bruxas
-A expressão do afeto é múltipla e derivada da cultura e tradição de cada grupo de indivíduos e não pode ser simplificada por uma lista universal de ações e gestos permitidos e proibidos, sob a pena de uma normalização alienada e não natural das relações humanas, que apenas levaria à perda da liberdade. Bento de Espinoza, em seu Tratado Teológico-Político, observou que toda tirania se sustenta no medo e na superstição e, quando o perigo ameaça criança, a ação torna-se a catártica "caçaasbruxas" e a delação, sem resultado positivo - violência/abuso sexual contra crianças e adolescentes estão distanteda extinção -, apenas o estreitamento da vida e assepsia da sociedade.
-# C0: 1.0
-# C1: 0.0
-# C2: 0.0
-# C3: 0.0
-# C4: 0.0

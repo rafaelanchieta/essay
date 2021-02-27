@@ -1,9 +1,0 @@
-# prompt: cientistas-preveem-futuro-sombrio-para-terra
-# score: 4,5
-# title: Em nossas mãos
-O futuro da Terra é um tema muito discutido hoje, as transformações e agressões que ela tem sofrido pelo homem, vêm a cada dia à tona com uma nova consequência. O derretimento das calotas polares, o aquecimento global, o buraco na camada de ozônio estão cada vez mais presentes em nossas vidas, mostrando o que nós, homens, causamos para o planeta.  A questão é: por que o homem destrói sabendo do mau que causa à Terra?  Há uma descrença do homem em relação a esses maus, pelo pelos mesmos serem muito distantes do visível, ou seja, do futuro próximo.  A conseqüência desse descaso humano para com os fatos agrava os efeitos ambientais que o planeta vem sofrendo. Pois nenhuma atitude é tomada e continua-se em um ritmo de vida normal até que não dê mais para ignorar os fatos dados pela Terra de que ela não está suportando mais.  Mas há uma minoria que se preocupa com o futuro, preservando a natureza no presente. Por respeito à Terra e aos seres que viverão nela futuramente.  Preservar é preciso, pois estaremos preservando, ou seja, cuidando do que é nosso, a nossa casa, a Terra.  Só saberemos do destino do nosso planeta a partir das decisões de hoje, se ainda sairá no jornal sobre o agravamento do aquecimento global ou não. O futuro está em nossas mãos, na nossa decisão.
-# C0: 1,0
-# C1: 1,0
-# C2: 1,0
-# C3: 1,0
-# C4: 0,5

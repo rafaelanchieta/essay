@@ -4,3 +4,6 @@ numpy
 scikit-learn
 seaborn
 matplotlib
+tqdm
+spacy
+nlpnet

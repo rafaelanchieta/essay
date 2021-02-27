@@ -1,9 +1,0 @@
-# prompt: cientistas-preveem-futuro-sombrio-para-terra
-# score: 5,5
-# title: Escassez: problema distante?
-Dentre os problemas da sociedade atual, um dos piores é a possível escassez dos recursos naturais, que poderiam causar a extinção humana em algumas décadas ou séculos. Outro problema que merece ser destacado é o aquecimento global, que há anos vem aumentando a temperatura média terrestre. A escassez de recursos naturais, como a água, já é um problema em vários países europeus, asiáticos, e que, por outro lado, está longe de acontecer em algumas regiões brasileiras, o que é bom, pois essas regiões teriam maiores condições de sobrevivência e que, por outro lado, pode ocasionar invasões de outros países, ou até mesmo motivo para o desperdício pela população. Já o aquecimento global, é um problema de todos os países, pois compromete a biodiversidade, pois além de derreter as geleiras, altera o clima de várias regiões. O principal contribuidor seriam os gases emitidos pela combustão de combustíveis fósseis, o que está causando uma lenta substituição por hidrogênio. Portanto, podemos concluir que a escassez de recursos e o aquecimento globa tornar-se-ão as causas da extinção humana e de outros seres vivos, se as coisas continuarem como estão, pois as pessoas de hoje afirmam que não estarão vivas quando isso acontecer, e por isso, eles abusam do planeta, mas os efeitos podem ser acelerados e as pessoas que se acham isentas, podem não estar.
-# C0: 1,0
-# C1: 1,5
-# C2: 1,5
-# C3: 1,0
-# C4: 0,5

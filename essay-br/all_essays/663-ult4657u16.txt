@@ -1,9 +1,0 @@
-# prompt: cientistas-preveem-futuro-sombrio-para-terra
-# score: 7,0
-# title: Conscientização falha
-Pelo mundo inteiro, os mais diversos meios de comunicação transmitem informações a respeito de futuras catástrofes da natureza no mundo; catástrofes essas põem em risco o futuro da humanidade no planeta. Cientistas alertam e escolas tentam conscientizar a todos sobre a preservação da natureza para a sobrevivência dos seres vivos, mas tal conscientização não tem sido suficiente para evitar mudanças climáticas e catástrofes acontecem por todo o mundo nos últimos anos. Essa falta de consciência existe pelo fato de o homem não ser capaz de enxergar o mundo sendo destruído num futuro próximo em consequência de seus próprios atos, e por isso não adquire a responsabilidade necessária para evitar a poluição e desmatamento que ocorre em grande escala. Belas paisagens, matéria-prima necessária para se sustentar, água abundante e clima agradável são sempre muito desfrutados pelo homem hoje, mas falta consciência de preservação desses recursos para que as próximas gerações também os aproveitem, sem que precisem passar por mudanças climáticas, aumento do nível do mar ou qualquer outra catástrofe, talvez até mais trágica, em consequência das atitudes do homem atual. A humanidade sem essa visão de futuro compromete seu próprio bem-estar, esgotando o meio ambiente, e impede ainda o desenvolvimento de gerações futuras, que nada têm a ver com a falta de responsabilidade do homem atual.
-# C0: 1,5
-# C1: 1,5
-# C2: 1,5
-# C3: 1,5
-# C4: 1,0

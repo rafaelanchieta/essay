@@ -1,9 +1,0 @@
-# prompt: o-aborto-deve-ou-nao-deve-ser-legalizado-por-que
-# score: 3.0
-# title: Aborto: caso sério
-O aborto não deve ser legalizado no caso de a relação sexual ter sido por boa e espontania vontade,poque seria como matar uma vida, mesma coisa que um crime que nesse caso deve haver a prisão da pessoa que pediu e a pessoa que abortou o feto. Mas já no caso de ter sido um abuso,o(a) adolescente/criança pode abortar,porque ai o crime foi o abuso,então o aborto nesse caso poderia ser legalizado.Uma coisa que me deixouindginadofoi um bispo terdescomungadoos médicos que abortaram um casal de gêmeos de uma menina de nove anos (segundadepoimento damãe abusadadesde os6anos de vida) que foi abusada por seupadastro, obispo nesse caso estava errado, porque acrinça segundoosmédicos teriauma gravidez de risco e o bispo falou que não deveria ter tirado a vida de duas crianças para ter salvo a de uma,sendo,pelo bispo a criança de nove anos não importava, podia até ter o risco de no partoa crinçae os bebês morrerem. Sou cristão e sou contra o aborto, mas no caso de abuso, o aborto deve serconsedido.
-# C0: 0.5
-# C1: 1.0
-# C2: 0.5
-# C3: 0.5
-# C4: 0.5

@@ -1,9 +1,0 @@
-# prompt: quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional
-# score: 3,0
-# title: Desafio Profissional
-Para se atingir o sucesso profissional, tem que estar bem preparado, ter uma boa formação escolar, ter talento e coragem para superar os obstáculos que vem pela frente e se dedicar ao máximo na profissão.A felicidade na vida profissional ocorre quando o talento nela empregado é harmônico com a vocação. O mercado de trabalho assimila o profissional não por causa de sua vocação, mas sim por causa de seu talento.A vocação é algo potencial no sujeito, tanto que ele pode negá-la; o talento por outro lado, é algo atual, é o "produto final" do exercício que impôs e definiu a forma de atuação de sua inteligência.Com o aumento das cidades, fez com que o setor imobiliário crescesse, tanto que alguns anos átras, os engenheiros civis e arquitetos não era tão valorizados como hoje, isso acontece por causa do desenvolvimento econômico e principalmente com a aplicação do crédito imobiliário. O setor é um dos que mais impulsiona a economia do país, pela capacidade de gerar empregos.A má qualidade da educação vem afetando o desenvolvimento dos estudantes. Entre as causas do problema estão a falta de qualidade das escolas, professores mal preparados e mal remunerados. A alternativa para reverter a situação é investir na qualificação dos professores.Assim,para sentir-se realizado na profissão, tem que buscar conhecimento e estudar,sendo assimescolha a vocação que mais se relaciona e se entregue de corpo e alma.
-# C0: 1,0
-# C1: 0,5
-# C2: 0,5
-# C3: 0,5
-# C4: 0,5
