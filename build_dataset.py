@@ -108,13 +108,3 @@ def split_stratified_into_train_val_test(df_input, stratify_colname='y', frac_tr
     assert len(df_input) == len(df_train) + len(df_val) + len(df_test)
 
     return df_train, df_val, df_test
-
-
-if __name__ == '__main__':
-    c = Corpus()
-    # c.build_corpus()
-    train, dev, test = c.read_splits()
-    print(train.shape)
-    # print(os.path.join(os.getcwd(), 'essay-br\splits\training.csv'))
-    # print(test.shape)
-    # print(dev.shape)

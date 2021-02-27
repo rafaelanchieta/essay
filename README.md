@@ -8,7 +8,21 @@ These essays were graded by humans professionals following the criteria of the E
 - `pip install -r requirements.txt`
 
 ## Usage
+To read the corpus, simply following these steps:
 
-- To get your started, we provide interactive Jupyter notebooks in the `demo` folder, or directly in this 
-[link](https://github.com/rafaelanchieta/essay/blob/master/demo/read_corpus.ipynb).
-- We also provide some statistics about the corpus in the same folder `demo`. 
+````python
+>>> from build_dataset import Corpus
+
+>>> c = Corpus()
+>>> c.read_corpus().shape
+>>> (4570, 5)
+
+>>> train, valid, test = c.read_splits()
+>>> train.shape
+>>> (3198, 5)
+
+>>> valid.shape
+>>> (686, 5)
+
+>>> test.shape
+>>> (686, 5)
