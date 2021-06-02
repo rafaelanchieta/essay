@@ -2,6 +2,17 @@
 This repository contains essays written by high school Brazilian students.
 These essays were graded by humans professionals following the criteria of the ENEM exam.
 
+## Reference
+
+```
+@article{marinho2021essay,
+  title={Essay-BR: a Brazilian Corpus of Essays},
+  author={Marinho, Jeziel C and Anchieta, Rafael T and Moura, Raimundo S},
+  journal={arXiv preprint arXiv:2105.09081},
+  year={2021}
+}
+```
+
 ## Requirements
 
 - Python (version 3.6 or later)
@@ -50,3 +61,4 @@ To read the corpus, simply following these steps:
 >>> 3  [O movimento antivacina vem acontecendo no mun...    480     [80, 120, 80, 120, 80]
 >>> 4  [Vários momentos da História destacam situaçõe...    640     [120, 160, 120, 120, 120]
 >>> 5  [No contexto atual, com o avanço tecnológico ...     600     [120, 120, 120, 120, 120]
+
