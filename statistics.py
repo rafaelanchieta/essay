@@ -119,7 +119,7 @@ class Statistic:
 
 
 if __name__ == '__main__':
-    train, dev, test = Corpus().read_splits
+    train, dev, test = Corpus().read_splits()
     statistic = Statistic(train)
     # print(statistic.statistics_score())
     # statistic.competence_score()
