@@ -1,15 +1,21 @@
 # Essay-BR
 This repository contains essays written by high school Brazilian students.
 These essays were graded by humans professionals following the criteria of the ENEM exam.
+For more details about the resource, we suggest consulting the [paper](https://sol.sbc.org.br/index.php/dsw/article/view/17414).
 
 ## Reference
 
 ```
-@article{marinho2021essay,
-  title={Essay-BR: a Brazilian Corpus of Essays},
-  author={Marinho, Jeziel C and Anchieta, Rafael T and Moura, Raimundo S},
-  journal={arXiv preprint arXiv:2105.09081},
-  year={2021}
+@inproceedings{marinho-et-al-21,
+  author = {Jeziel Marinho and Rafael Anchiêta and Raimundo Moura},
+  title = {Essay-BR: a Brazilian Corpus of Essays},
+  booktitle = {Anais do III Dataset Showcase Workshop},
+  year = {2021},
+  pages = {53--64},
+  publisher = {Sociedade Brasileira de Computação},
+  address = {Online},
+  doi = {10.5753/dsw.2021.17414},
+  url = {https://sol.sbc.org.br/index.php/dsw/article/view/17414}
 }
 ```
 
