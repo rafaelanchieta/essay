@@ -3,6 +3,8 @@ This repository contains essays written by high school Brazilian students.
 These essays were graded by humans professionals following the criteria of the ENEM exam.
 For more details about the resource, we suggest consulting the [paper](https://sol.sbc.org.br/index.php/dsw/article/view/17414).
 
+🔥 An extended version of the corpus is available at: [here](https://github.com/lplnufpi/essay-br).
+
 ## Reference
 
 ```
